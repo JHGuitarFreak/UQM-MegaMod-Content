@@ -1,3 +1,4 @@
 addons/[^.]*
-!mm-hd/[^.]*
+!addons/mm-hd/
+addons/mm-hd/.*
 *.uqm
