@@ -1,4 +1,6 @@
 addons/[^.]*
 !addons/mm-hd/
 addons/mm-hd/.*
+!addons/3dovoice/
+addons/3dovoice/.*
 *.uqm

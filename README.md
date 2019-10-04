@@ -3,7 +3,7 @@ Contains content files for the UQM-MegaMod
 
 ## Current Status
 
-Currently only the base and HD content files.
+Currently only the base, HD, and 3dovoice content files.
 
 ## License
 
