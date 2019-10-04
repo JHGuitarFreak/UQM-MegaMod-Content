@@ -6,12 +6,8 @@
 #(OK_VICE) 3365,3244,5839
 #(we_are_the_one_for_you_baby) 
 #(MAYBE_CAPTAIN) 7190,4136
-#(we_are_vindicator0) 
-#(we_are_vindicator1) 
-#(we_are_vindicator2) 
-#(WELCOME_VINDICATOR0) 
-#(WELCOME_VINDICATOR1) 
-#(WELCOME_VINDICATOR2) 
+#(we_are_vindicator) 
+#(WELCOME_VINDICATOR) 
 #(we_are_impressed) 
 #(SO_AM_I_CAPTAIN) 4075
 #(HOW_CAN_YOU_BE_HERE) 2914,3696,3094,2604
