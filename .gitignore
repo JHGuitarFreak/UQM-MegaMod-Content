@@ -1,6 +1,8 @@
 addons/[^.]*
-!addons/mm-hd/
-addons/mm-hd/.*
 !addons/3dovoice/
 addons/3dovoice/.*
+!addons/mm-hd/
+addons/mm-hd/.*
+!addons/SpaceMusic/
+addons/SpaceMusic/.*
 *.uqm
