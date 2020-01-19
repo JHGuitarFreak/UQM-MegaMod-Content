@@ -175,6 +175,7 @@ font.plyrfallbacktoorig = FONTRES:base/fonts/plyrfallbacktoorig.fon
 font.plyrfallbacktohd = FONTRES:base/fonts/plyrfallbacktohd.fon
 font.sconfallbacktoorig = FONTRES:base/fonts/sconfallbacktoorig.fon
 font.sconfallbacktohd = FONTRES:base/fonts/sconfallbacktohd.fon
+font.sconlgfallbacktohd = FONTRES:base/fonts/sconlgfallbacktohd.fon
 graphics.activity = GFXRES:base/ui/activity.ani
 graphics.ambient = GFXRES:base/nav/ambient.ani
 graphics.aquahelix = GFXRES:base/lander/energy/aquahelix.ani
