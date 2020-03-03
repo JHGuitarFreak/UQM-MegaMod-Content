@@ -71,6 +71,7 @@ IP Transitions
 Difficulty
 Extended Lore
 Nomad Mode
+Game Over Cutscenes
 
 #(CAT_0_OPTS)
 Original
@@ -896,6 +897,16 @@ Starbase is unlocked and can be used.
 FOR VETERANS ONLY!
 A forced "No Starbase" mode for expert players 
 who want the most extreme of challenges.
+
+#(CAT_55_OPTS)
+Disabled
+Enabled
+
+#(CAT_55_OPT_0_DESC)
+Game Over cutscenes are disabled
+
+#(CAT_55_OPT_1_DESC)
+Game Over cutscenes enabled
 
 #(SLIDERS)
 Music Volume
