@@ -72,6 +72,7 @@ Difficulty
 Extended Lore
 Nomad Mode
 Game Over Cutscenes
+NPC Ship Facing
 
 #(CAT_0_OPTS)
 Original
@@ -898,15 +899,27 @@ FOR VETERANS ONLY!
 A forced "No Starbase" mode for expert players 
 who want the most extreme of challenges.
 
-#(CAT_55_OPTS)
+#(CAT_56_OPTS)
 Disabled
 Enabled
 
-#(CAT_55_OPT_0_DESC)
+#(CAT_56_OPT_0_DESC)
 Game Over cutscenes are disabled
 
-#(CAT_55_OPT_1_DESC)
+#(CAT_56_OPT_1_DESC)
 Game Over cutscenes enabled
+
+#(CAT_57_OPTS)
+Disabled
+Enabled
+
+#(CAT_57_OPT_0_DESC)
+NPC ship icons are stationary in Interplanetary view.
+
+#(CAT_57_OPT_1_DESC)
+NPC ship icons face the direction they're
+accelerating in Interplanetary view.
+Also the mysterious Probes you may encounter will "tumble"
 
 #(SLIDERS)
 Music Volume
