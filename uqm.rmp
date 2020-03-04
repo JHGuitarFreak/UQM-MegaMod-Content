@@ -246,7 +246,6 @@ graphics.newgame = GFXRES:base/ui/newgame.ani
 graphics.newgamehd = GFXRES:base/ui/hd/newgame.ani
 graphics.orbitbackground = GFXRES:base/nav/orbitbackground.ani
 graphics.orbitenter = GFXRES:base/nav/orbitenter.ani
-graphics.orbview = GFXRES:base/nav/orbview.ani
 graphics.outfit = GFXRES:base/ui/outfit.ani
 graphics.outfitmodules = GFXRES:base/ui/outfitmodules.ani
 graphics.pickship = GFXRES:base/ui/pickship.ani

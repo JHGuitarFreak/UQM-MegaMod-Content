@@ -138,7 +138,6 @@ graphics.moonbase = GFXRES:addons/mm-hd/lander/energy/moonbase.ani
 graphics.motherark = GFXRES:addons/mm-hd/lander/energy/motherark.ani
 graphics.orbitbackground = GFXRES:addons/mm-hd/nav/orbitbackground/orbitbackground.ani
 graphics.orbitenter = GFXRES:addons/mm-hd/nav/orbitenter.ani
-graphics.orbview = GFXRES:addons/mm-hd/nav/orbview.ani
 graphics.outfit = GFXRES:addons/mm-hd/ui/outfit/outfit.ani
 graphics.outfitmodules = GFXRES:addons/mm-hd/ui/outfit/outfitmodules.ani
 graphics.pickship = GFXRES:addons/mm-hd/ui/pickship.ani
