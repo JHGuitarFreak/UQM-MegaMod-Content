@@ -10,8 +10,8 @@ Cheat Options
 Controls Setup
 Advanced Options
 Edit Controls
-Music Configuration
-Visual Configuration
+Music Options
+Visual Options
 Gameplay Options
 
 #(CHOICES)
@@ -938,8 +938,8 @@ Configure Controls
 Advanced Options
 Edit Controls
 Back to Control Select
-Music Configuration
-Visual Configuration
+Music Options
+Visual Options
 Gameplay Options
 Back to Sound Options
 Back to Advanced Options
