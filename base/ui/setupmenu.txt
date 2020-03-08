@@ -59,7 +59,7 @@ Partial Mineral Pickup
 Submenu
 Resolution
 Add All Devices
-Scale Planets
+Hazard Colors
 Custom Border
 SOI Space Music
 Volasaurus' Remixes
@@ -741,12 +741,11 @@ Disabled
 Enabled
 
 #(CAT_44_OPT_0_DESC)
-What is this? A solar system for ants?!
-
-Textured planets stay at non-HD scale.
+Hazard colors based on severity turned off.
 
 #(CAT_44_OPT_1_DESC)
-Textured Planets are scaled up in HD.
+Enable colored text based on hazard severity 
+when viewing planetary scans.
 
 #(CAT_45_OPTS)
 Disabled
@@ -767,8 +766,6 @@ Default space music for interplanetary
 
 #(CAT_46_OPT_1_DESC)
 Race specific space music for interplanetary.
-
-Music included with the MegaMod composed by Volasaurus.
 
 #(CAT_47_OPTS)
 Disabled
