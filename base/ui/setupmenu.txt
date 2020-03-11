@@ -937,33 +937,35 @@ Sets the gamma correction.
 May not work on all hardware.
 
 #(BUTTONS)
-Quit Setup Menu
-Return to Main Menu
-Graphics Options
-PC/3DO Options
-Sound Options
-Cheat Options
-Control Options
-Advanced Options
+Quit Setup
+Return to Setup
+Graphics
+PC / 3DO
+Sound
+Cheats
+Controls
+Advanced
 Edit Controls
-Back to Control Options
-Music Options
-Visual Options
+Back to Controls
+Music
+Visuals
 
 #(BUTTON_0_DESC)
-Return to the main menu.
+
+
+Save changes and return to main menu.
 
 #(BUTTON_1_DESC)
-Save changes and return to main menu.
-Changes will not be applied until
-you quit setup entirely.
+
+
+Return to the Setup menu.
 
 #(BUTTON_2_DESC)
 Configure display options for UQM.
 Graphics drivers, resolution, and scalers.
 
 #(BUTTON_3_DESC)
-Configure behavior of UQM
+Configure the behavior of UQM
 to more closely match the PC or 3DO behavior.
 
 #(BUTTON_4_DESC)
