@@ -80,9 +80,8 @@ FTC 3000
 #(Synchronize)
 SYNC 5000
 #(Text fade-in)
-TFI Originally Created by
-Fred Ford and Paul Reiche III
-in 1992
+TFI Based on the source code of STAR CONTROL II
+(All trademarks belong to their respective owners)
 #(Synchronize)
 SYNC 8000
 #(Text fade-out)
@@ -90,8 +89,9 @@ TFO
 #(Wait)
 WAIT 200
 #(Text fade-in)
-TFI Set free into the Open Source community
-in 2002...
+TFI Originally Created by
+Fred Ford and Paul Reiche III
+in 1992
 #(Synchronize)
 SYNC 12000
 #(Text fade-out)
@@ -99,7 +99,8 @@ TFO
 #(Wait)
 WAIT 200
 #(Text fade-in)
-TFI And continuously improved ever since.
+TFI Set free into the Open Source community
+in 2002
 
 #(Synchronize)
 SYNC 16000
