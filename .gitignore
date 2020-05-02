@@ -3,6 +3,6 @@ addons/[^.]*
 addons/3dovoice/.*
 !addons/mm-hd/
 addons/mm-hd/.*
-!addons/SpaceMusic/
-addons/SpaceMusic/.*
+!addons/volasaurus-remix-pack/
+addons/volasaurus-remix-pack/.*
 *.uqm
