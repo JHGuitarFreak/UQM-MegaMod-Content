@@ -29,25 +29,18 @@ CREW
 ................................................... 
  
 
-#(2D Art caption)
-17 C 2D ART
+#(Art caption)
+17 C ART
 
-#(2D Art crew)
+#(Art crew)
 13 C
 Clay
 Damon Czanik
+haomaicl (Jordan Lo)
 Kwayne
+Mike Ling (Zenzmurfy)
 Nackles42
 Serosis
- 
-
-#(3D Art caption)
-17 C 3D ART
-
-#(3D Art crew)
-13 C
-Damon Czanik
-Mike Ling (aka Zenzmurfy)
 Volasaurus
  
 
@@ -87,7 +80,7 @@ Slightly Intelligent Monkey
  
 
 #(Port caption)
-17 C The Ur-Quan Masters port
+13 C The Ur-Quan Masters port
 CREW
 ...................................................
  
