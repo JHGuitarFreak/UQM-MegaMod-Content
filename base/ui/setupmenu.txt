@@ -55,7 +55,7 @@ Textured Planets
 Date Format
 Infinite Fuel
 Partial Mineral Pickup
-Submenu
+Tutorial Graphics
 Resolution
 Add All Devices
 Hazard Colors
@@ -685,7 +685,7 @@ Disabled
 Enabled
 
 #(CAT_41_OPT_0_DESC)
-Submenu isn't displayed.
+Tutorial Graphics are not displayed.
 
 #(CAT_41_OPT_1_DESC)
 Shows mineral info while traversing planets
