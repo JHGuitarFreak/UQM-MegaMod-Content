@@ -72,6 +72,7 @@ Extended Lore
 Nomad Mode
 Game Over Cutscenes
 NPC Ship Facing
+Alternate Orz Font
 
 #(CAT_0_OPTS)
 Original
@@ -916,6 +917,17 @@ NPC ship icons are stationary in Interplanetary view.
 NPC ship icons face the direction they're
 accelerating in Interplanetary view.
 Also the mysterious Probes you may encounter will "tumble"
+
+#(CAT_58_OPTS)
+Disabled
+Enabled
+
+#(CAT_58_OPT_0_DESC)
+The Orz font will be unchanged.
+
+#(CAT_58_OPT_1_DESC)
+The Orz will have an alternate font for the 
+*untranslatable* portion of their speech
 
 #(SLIDERS)
 Music Volume
