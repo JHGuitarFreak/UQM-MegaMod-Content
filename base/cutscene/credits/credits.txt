@@ -35,10 +35,7 @@ CREW
 #(Art crew)
 13 C
 Clay
-Damon Czanik
 haomaicl (Jordan Lo)
-Kwayne
-Mike Ling (Zenzmurfy)
 Nackles42
 Serosis
 Volasaurus
@@ -68,15 +65,116 @@ Volasaurus
 #(Programming crew)
 13 C
 Ala-lala
-Benjamin Wack
 Cheating Zelnick
-Damon Czanik
-Edmund Horner
-Jaakko Markus Seppälä
+Matt Bentley
 Nic
-Oldlaptop
 Serosis
 Slightly Intelligent Monkey
+ 
+ 
+
+#(HD-Mod caption)
+13 C
+The Ur-Quan Masters HD-Mod
+CREW
+...................................................
+ 
+
+#(Project coordination caption)
+17 C PROJECT COORDINATION
+
+#(Project coordinator)
+13 C Damon Czanik
+ 
+
+#(Art caption)
+17 C ART
+
+#(Art crew)
+13 C
+Damon Czanik
+Kwayne
+Mike Ling (aka Zenzmurfy)
+ 
+
+#(Music teamers caption)
+17 C TRAILER MUSIC
+
+#(Music teamers)
+13 C
+Mark McGill-Smith (The Mister Cat)
+Jouni Airaksinen
+ 
+
+#(Voice actors caption)
+17 C NEW VOICE ACTING
+
+#(Voice actors)
+13 C
+Lance Meibos (Utwig)
+Andy Krieg (Mycon additions)
+ 
+
+#(Programming guys caption)
+17 C PROGRAMMING
+
+#(Programming guys)
+13 C
+Jaakko Markus Seppälä
+Edmund Horner
+Benjamin Wack
+Damon Czanik
+Oldlaptop
+Matt Bentley
+ 
+
+#(Quality master caption)
+17 C QUALITY ASSURANCE
+
+#(Quality master)
+13 C Nicolas Abesdris
+ 
+
+#(Touch-ups caption)
+17 C TOUCH-UPS - CORRECTIONS
+
+#(Touch-ups crew)
+13 C Matt Bentley
+ 
+
+
+#(Goodies caption)
+13 C
+GOODIES BY PROJECT 6014 CREW
+...................................................
+ 
+
+#(6014 slave drivers caption)
+17 C PROJECT COORDINATORS
+
+#(6014 slave drivers)
+13 C
+Jaakko Markus Seppälä
+Cedric Horner
+ 
+
+#(AP crew caption)
+17 C ADDITIONAL PROGRAMMING
+
+#(AP crew)
+13 C Tristan Glaeser
+ 
+
+#(AA team members caption)
+17 C ADDITIONAL ARTWORK
+
+#(AA team members)
+13 C
+Amir Keren
+Aki Rissanen
+Gergely Sinkó
+& Kevin Page
+ 
  
 
 #(Port caption)
