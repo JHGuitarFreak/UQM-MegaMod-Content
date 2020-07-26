@@ -66,7 +66,7 @@ Whole Fuel Value
 Directional Joystick
 Melee Zoom
 Lander Hold Size
-IP Transitions
+Screen Transitions
 Difficulty
 Extended Lore
 Nomad Mode
@@ -847,12 +847,12 @@ Step
 Crossfade
 
 #(CAT_52_OPT_0_DESC)
-Interplanetary transitions will be instantaneous,
-as per the original PC version
+Screen transitions will be instantaneous,
+resembling the PC version
 
 #(CAT_52_OPT_1_DESC)
-Interplanetary transitions will crossfade,
-as per the 3DO version
+Screen transitions will crossfade,
+resembling the 3DO version
 
 #(CAT_53_OPTS)
 Normal
