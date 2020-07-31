@@ -170,6 +170,7 @@ font.starconlg = FONTRES:base/fonts/starcon.fon
 font.tiny = FONTRES:base/fonts/tiny.fon
 font.tiny.fb = FONTRES:base/fonts/tiny.fon
 font.tiny.hd = FONTRES:base/fonts/tiny.hd.fon
+font.tiny.ss = FONTRES:base/fonts/tiny.fon
 font.player.fb = FONTRES:base/fonts/player.fon
 font.player.hd = FONTRES:base/fonts/player.hd.fon
 font.starcon.fb = FONTRES:base/fonts/starcon.fon
