@@ -77,7 +77,6 @@ graphics.boom.medium = GFXRES:addons/mm-hd/battle/boom-med.ani
 graphics.boom.small = GFXRES:addons/mm-hd/battle/boom-sml.ani
 graphics.border = GFXRES:addons/mm-hd/ui/border/border.ani
 graphics.burvixcaster = GFXRES:addons/mm-hd/lander/energy/burvixcaster.ani
-graphics.constellations = GFXRES:addons/mm-hd/ui/constellations.ani
 graphics.crew.large = GFXRES:addons/mm-hd/battle/crew-big.ani
 graphics.crew.medium = GFXRES:addons/mm-hd/battle/crew-med.ani
 graphics.crew.small = GFXRES:addons/mm-hd/battle/crew-sml.ani

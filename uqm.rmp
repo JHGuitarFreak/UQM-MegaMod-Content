@@ -192,7 +192,6 @@ graphics.boom.medium = GFXRES:base/battle/boom-med.ani
 graphics.boom.small = GFXRES:base/battle/boom-sml.ani
 graphics.border = GFXRES:base/ui/border/border.ani
 graphics.burvixcaster = GFXRES:base/lander/energy/burvixcaster.ani
-graphics.constellations = GFXRES:base/ui/constellations.ani
 graphics.earthmask = GFXRES:base/planets/earthmask.ani
 graphics.eggcase = GFXRES:base/lander/energy/eggcase.ani
 graphics.flagship = GFXRES:base/nav/flagship.ani
