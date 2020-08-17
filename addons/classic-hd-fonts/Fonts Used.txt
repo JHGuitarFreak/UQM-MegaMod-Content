@@ -1,0 +1,30 @@
+Use Case           = Font Name           - License               -> Website
+
+Arilou             = Final Frontier      - Freeware (No License) -> https://www.dafont.com/final-frontier.font
+Commander          = ?                   - ?                     -> ?
+Computer           = Digital 7           - Free for personal use -> http://www.styleseven.com/php/get_product.php?product=Digital-7
+Druuge             = Bitsumishi          - Free for personal use -> https://www.dafont.com/bitsumishi.font
+Ilwrath            = Burning Wrath       - Free for personal use -> https://www.dafont.com/burning-wrath.font
+Kohr-Ah            = Quadrangle          - Freeware (No License) -> https://typodermicfonts.com/quadrangle/
+Melnorme           = Babylon5            - Free for personal use -> https://fonts2u.com/babylon5.font
+Mycon              = Obloquy Solid [BRK] - Freeware (No License) -> https://www.ffonts.net/Obloquy-Solid-BRK.font
+Orz                = Croissant           - Free for personal use -> https://www.ffonts.net/Croissant.font
+Pkunk Main         = Rebucked            - Free for personal use -> https://www.dafont.com/rebucked.font
+Pkunk Punctuation  = Shagadellic         - Freeware (No License) -> https://www.fontspace.com/shagadelic-font-f5100
+Shofixti           = Karate              - Freeware (No License) -> https://www.dafont.com/karate.font
+Slylandro          = Camberic            - Freeware (No License) -> https://www.ffonts.net/Camberic.font
+Sly-Probe          = ComputerFont        - Freeware (No License) -> https://www.dafont.com/computerfont.font
+Supox              = Leaf 1              - Freeware (No License) -> https://www.dafont.com/leaf1.font
+Syreen             = Storybook           - Freeware (No License) -> https://www.cufonfonts.com/font/storybook
+Thraddash          = Uranium             - Free for personal use -> https://www.dafont.com/uranium.font
+Umgah              = Obloquy Solid [BRK] - Freeware (No License) -> https://www.ffonts.net/Obloquy-Solid-BRK.font
+Ur-Quan            = Falcons             - Freeware (No License) -> https://www.dafont.com/falcons-font.font
+Utwig              = Biting My Nails     - Freeware (No License) -> https://typodermicfonts.com/biting-my-nails/
+Vux                = Black Chancery      - Public Domain         -> https://www.dafont.com/black-chancery.font
+Yehat              = Klingon Dagger      - Freeware (No License) -> https://www.ffonts.net/KlingonDagger.font
+
+Removed fonts:
+
+Chmmr              = Vador               - Commercial            -> https://www.youworkforthem.com/font/T1398/vador
+Spathi             = Hobo                - Commercial            -> https://fonts.adobe.com/fonts/hobo
+Zot-For-Pik        = Hobo                - Commercial            -> https://fonts.adobe.com/fonts/hobo
