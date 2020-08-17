@@ -27,4 +27,4 @@ Removed fonts:
 
 Chmmr              = Vador               - Commercial            -> https://www.youworkforthem.com/font/T1398/vador
 Spathi             = Hobo                - Commercial            -> https://fonts.adobe.com/fonts/hobo
-Zot-For-Pik        = Hobo                - Commercial            -> https://fonts.adobe.com/fonts/hobo
+Zot-Fot-Pik        = Hobo                - Commercial            -> https://fonts.adobe.com/fonts/hobo
