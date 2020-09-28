@@ -11,7 +11,6 @@ comm.pkunk.font = FONTRES:addons/classic-hd-fonts/fonts/pkunk.fon
 comm.probe.font = FONTRES:addons/classic-hd-fonts/fonts/probe.fon
 comm.shofixti.font = FONTRES:addons/classic-hd-fonts/fonts/shofixti.fon
 comm.slylandro.font = FONTRES:addons/classic-hd-fonts/fonts/slylandro.fon
-comm.spathi.font = FONTRES:addons/classic-hd-fonts/fonts/spathi.fon
 comm.supox.font = FONTRES:addons/classic-hd-fonts/fonts/supox.fon
 comm.syreen.font = FONTRES:addons/classic-hd-fonts/fonts/syreen.fon
 comm.talkingpet.font = FONTRES:addons/classic-hd-fonts/fonts/talkingpet.fon
