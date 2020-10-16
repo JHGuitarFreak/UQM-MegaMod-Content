@@ -1047,6 +1047,8 @@ Placeholder
 16807
 
 #(TEXT_ENTRY_0_DESC)
+
+
 Change the name of this control scheme.
 
 #(TEXT_ENTRY_1_DESC)
@@ -1062,3 +1064,4 @@ Right
 Weapon
 Special
 Escape
+Thrust
