@@ -73,6 +73,7 @@ Nomad Mode
 Game Over Cutscenes
 NPC Ship Facing
 Alternate Orz Font
+Control Type
 
 #(CAT_0_OPTS)
 Original
@@ -928,6 +929,20 @@ The Orz font will be unchanged.
 #(CAT_58_OPT_1_DESC)
 The Orz will have an alternate font for the 
 *untranslatable* portion of their speech
+
+#(CAT_59_OPTS)
+Keyboard
+Xbox
+PlayStation 4
+
+#(CAT_59_OPT_0_DESC)
+Show keyboard controls in the menu and UI.
+
+#(CAT_59_OPT_1_DESC)
+Show Xbox controls in the menu and UI.
+
+#(CAT_59_OPT_2_DESC)
+Show PlayStation 4 controls in the menu and UI
 
 #(SLIDERS)
 Music Volume
