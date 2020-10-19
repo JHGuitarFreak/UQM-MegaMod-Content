@@ -73,7 +73,7 @@ Nomad Mode
 Game Over Cutscenes
 NPC Ship Facing
 Alternate Orz Font
-Control Type
+Control Display
 
 #(CAT_0_OPTS)
 Original
