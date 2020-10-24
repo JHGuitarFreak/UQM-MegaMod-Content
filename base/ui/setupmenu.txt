@@ -938,11 +938,17 @@ PlayStation 4
 #(CAT_59_OPT_0_DESC)
 Show keyboard controls in the menu and UI.
 
+Requires game restart when changed.
+
 #(CAT_59_OPT_1_DESC)
 Show Xbox controls in the menu and UI.
 
+Requires game restart when changed.
+
 #(CAT_59_OPT_2_DESC)
 Show PlayStation 4 controls in the menu and UI
+
+Requires game restart when changed.
 
 #(SLIDERS)
 Music Volume
