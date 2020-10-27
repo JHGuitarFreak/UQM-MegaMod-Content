@@ -370,7 +370,7 @@ STARRING THE VOICES OF:
 #(Voice actors, batch 1)
 13 R/146,L/165
 Richard Antaki	Thraddash
-Alex Bennett	 Starbase
+Alex Bennett	Starbase
 	Commander
 Rich Betz	Ariloulaleelay
 	Druuge
