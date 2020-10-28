@@ -39,7 +39,7 @@ Precursor's Remixes
 Speech
 Aspect Ratio
 Kohr-Stahp
-God Mode
+Precursor Mode
 Time Dilation
 Bubble Warp
 Unlock Ships
@@ -481,16 +481,26 @@ When enabled the Kohr-Ah SOI does not move.
 Even when the time limit is reached.
 
 #(CAT_25_OPTS)
-Disabled
-Enabled
+Only Human
+Anhur
+Horus
+Sekhmet
 
 #(CAT_25_OPT_0_DESC)
-You are mortal and can come to harm.
+You are a mere mortal and can easily come to harm.
 
 #(CAT_25_OPT_1_DESC)
-Nothing in the game can harm you.
-In Super Melee energy is replenished every time you fire.
-Only works against computer controlled opponents
+You are the Precursor war general Anhur and are blessed
+with infinite ship batteries against non-human opponents.
+
+#(CAT_25_OPT_2_DESC)
+You are the Precursor healer Horus and you can not come to 
+harm when facing non-human opponents
+
+#(CAT_25_OPT_2_DESC)
+You are the Precursor Sekhmet and you can not come to 
+harm and are blessed with infinite ship batteries
+when facing non-human opponents.
 
 #(CAT_26_OPTS)
 Normal
