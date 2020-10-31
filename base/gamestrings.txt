@@ -1807,7 +1807,7 @@ Shipyard
 
 
 #(Depart StarBase)
-Depart Starbase
+Depart StarBase
 
 
 #(ENCOUNTER IN) -- ENCOUNTER_STRING_BASE
