@@ -58,7 +58,6 @@ font.lander = FONTRES:addons/mm-hd/fonts/lander.fon
 font.micro = FONTRES:addons/mm-hd/fonts/micro.fon
 font.player = FONTRES:addons/mm-hd/fonts/player.fon
 font.starcon = FONTRES:addons/mm-hd/fonts/starcon.fon
-font.starconlg = FONTRES:addons/mm-hd/fonts/starconlg.fon
 font.tiny = FONTRES:addons/mm-hd/fonts/tiny.fon
 font.tiny.ss = FONTRES:addons/mm-hd/fonts/tiny.ss.fon
 graphics.activity = GFXRES:addons/mm-hd/ui/activity.ani
