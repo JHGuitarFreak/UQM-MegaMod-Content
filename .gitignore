@@ -5,6 +5,6 @@ addons/3dovoice/.*
 addons/mm-hd/.*
 !addons/volasaurus-remix-pack/
 addons/volasaurus-remix-pack/.*
-!addons/classic-hd-fonts/
-addons/classic-hd-fonts/.*
+!addons/sol-textures-hd/
+addons/sol-textures-hd/.*
 *.uqm
