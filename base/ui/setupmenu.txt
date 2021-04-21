@@ -74,6 +74,8 @@ Game Over Cutscenes
 NPC Ship Facing
 Alternate Orz Font
 Control Display
+SIS HyperSpace Direction
+Discord Rich Presence
 
 #(CAT_0_OPTS)
 Original
@@ -959,6 +961,29 @@ Requires game restart when changed.
 Show PlayStation 4 controls in the menu and UI
 
 Requires game restart when changed.
+
+#(CAT_60_OPTS)
+Disabled
+Enabled
+
+#(CAT_60_OPT_0_DESC)
+The flagship will redirect itself when entering
+HyperSpace to the direction Auto-Pilot is set to.
+
+#(CAT_60_OPT_1_DESC)
+The flagship will already be facing the direction
+Auto-Pilot is set to when entering HyperSpace.
+
+
+#(CAT_61_OPTS)
+Disabled
+Enabled
+
+#(CAT_61_OPT_0_DESC)
+Discord Rich Presence is disabled.
+
+#(CAT_61_OPT_1_DESC)
+Discord Rich Presence is enabled.
 
 #(SLIDERS)
 Music Volume
