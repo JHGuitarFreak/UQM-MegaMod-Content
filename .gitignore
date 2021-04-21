@@ -7,4 +7,6 @@ addons/mm-hd/.*
 addons/volasaurus-remix-pack/.*
 !addons/sol-textures-hd/
 addons/sol-textures-hd/.*
+!addons/classic-hd-fonts/
+addons/classic-hd-fonts/.*
 *.uqm
