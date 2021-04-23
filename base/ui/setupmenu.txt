@@ -55,7 +55,7 @@ Textured Planets
 Date Format
 Infinite Fuel
 Partial Mineral Pickup
-Tutorial Graphics
+In-Game Help Menus
 Resolution
 Add All Devices
 Hazard Colors
@@ -648,29 +648,29 @@ Display beautiful textured planets in solar systems.
 
 #(CAT_38_OPTS)
 Original
-MM.DD.YYYY
-DD MMM.YYYY
-DD.MM.YYYY
+MM·DD·YYYY
+DD MMM·YYYY
+DD·MM·YYYY
 
 #(CAT_38_OPT_0_DESC)
 Shows the date as follows: 
 
-FEB 17.2155
+FEB 17·2155
 
 #(CAT_38_OPT_1_DESC)
 Shows the date as follows: 
 
-02.17.2155
+02·17·2155
 
 #(CAT_38_OPT_2_DESC)
 Shows the date as follows: 
 
-17 FEB.2155
+17 FEB·2155
 
 #(CAT_38_OPT_3_DESC)
 Shows the date as follows: 
 
-17.02.2155
+17·02·2155
 
 #(CAT_39_OPTS)
 Disabled
@@ -699,11 +699,11 @@ Disabled
 Enabled
 
 #(CAT_41_OPT_0_DESC)
-Tutorial Graphics are not displayed.
+Mineral values and StarMap keys/buttons will not be displayed
 
 #(CAT_41_OPT_1_DESC)
-Shows mineral info while traversing planets
-and star map keys while on the star map.
+Displays mineral values while scanning/traversing planets
+and displays StarMap keys/buttons while on the StarMap.
 
 #(CAT_42_OPTS)
 Default
