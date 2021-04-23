@@ -1867,7 +1867,7 @@ Fuel Use:
 
 
 #(Enter name) -- NAMING_STRING_BASE
-Enter name
+Enter a name
 
 
 #(FLAGSHIP)
@@ -1882,12 +1882,16 @@ Vindicator
 Zelnick
 
 
-#(Captain, what is your name?)
-Captain, what is your name?
+#(ISAMU)
+ISAMU
 
 
-#(What is the name of your flagship?)
-What is the name of your flagship?
+#(KAMUI)
+KAMUI
+
+
+#(UNNAMED)
+UNNAMED
 
 
 #(Empty) -- MELEE_STRING_BASE
