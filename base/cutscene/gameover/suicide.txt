@@ -26,7 +26,7 @@ DIMS 320 200
 #(Set text fore color; 0xRRGGBB)
 TC FFFFFF
 #(Set text back color; 0xRRGGBB)
-TBC FFFFFF
+TBC 000000
 #(Set text effect; Traced, None, others when added)
 TE TRACED
 
