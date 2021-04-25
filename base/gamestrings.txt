@@ -1505,6 +1505,35 @@ World
 #(Gas Giant)
 Gas Giant
 
+#(Blue Gas Giant)
+Blue Gas Giant
+
+#(Cyan Gas Giant)
+Cyan Gas Giant
+
+#(Green Gas Giant)
+Green Gas Giant
+
+#(Grey Gas Giant)
+Grey Gas Giant
+
+#(Orange Gas Giant)
+Orange Gas Giant
+
+#(Purple Gas Giant)
+Purple Gas Giant
+
+#(Red Gas Giant)
+Red Gas Giant
+
+#(Violet Gas Giant)
+Violet Gas Giant
+
+#(Yellow Gas Giant)
+Yellow Gas Giant
+
+#(The Sa-Matra)
+The Sa-Matra
 
 #(Alpha) -- STAR_NUMBER_BASE
 Alpha
