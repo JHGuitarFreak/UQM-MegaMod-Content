@@ -11,4 +11,6 @@ addons/sol-textures-hd/.*
 addons/sol-textures-sd/.*
 !addons/classic-hd-fonts/
 addons/classic-hd-fonts/.*
+!addons/dos-planets/
+addons/dos-planets/.*
 *.uqm
