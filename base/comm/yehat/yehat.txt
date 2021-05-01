@@ -88,7 +88,7 @@ But old ally, are ye not knowing that we, the Yehat are allied with the Ur-Quan 
 and yer presence outside the slave shield, and in an armed starship
 are clear violations of yer Oath of Fealty?!
 Whatever shall we do? It just isn't a right thing to kill you, human,
-but as a loyal member of my Clan, I must obey the wishes of our Queen!
+...but as a loyal member of my Clan, I must obey the wishes of our Queen!
 
 #(SPACE_HELLO_2)	yehat-011.ogg
 Human, what are you doing back here!? Are you totally off yer perch!?
