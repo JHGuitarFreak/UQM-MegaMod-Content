@@ -76,6 +76,9 @@ NPC Ship Facing
 Alternate Orz Font
 Control Display
 SIS HyperSpace Direction
+Colored Planets
+Planet Style
+Star Background
 
 #(CAT_0_OPTS)
 Original
@@ -973,6 +976,47 @@ HyperSpace to the direction Auto-Pilot is set to.
 #(CAT_60_OPT_1_DESC)
 The flagship will already be facing the direction
 Auto-Pilot is set to when entering HyperSpace.
+
+#(CAT_61_OPTS)
+Shaded
+Plain
+
+#(CAT_61_OPT_0_DESC)
+Planets will be shaded with the color of the
+current scan, as per the original PC version.
+
+#(CAT_61_OPT_1_DESC)
+Planets will not be shaded with the color of the
+current scan, as per the 3DO version.
+
+#(CAT_62_OPTS)
+PC
+3DO
+
+#(CAT_62_OPT_0_DESC)
+Planets in interplanetary will resemble the 
+PC-DOS planet coloring and shading
+
+#(CAT_62_OPT_1_DESC)
+Planets in interplanetary will resemble the 
+3DO planet coloring and shading
+
+#(CAT_63_OPTS)
+PC
+3DO
+UQM
+
+#(CAT_63_OPT_0_DESC)
+Generated star background in interplanetary
+will resemble the PC-DOS style arrangement
+
+#(CAT_63_OPT_1_DESC)
+Generated star background in interplanetary
+will resemble the 3DO style arrangement
+
+#(CAT_63_OPT_1_DESC)
+Generated star background in interplanetary
+will resemble the default UQM style arrangement
 
 #(SLIDERS)
 Music Volume
