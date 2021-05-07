@@ -79,6 +79,7 @@ SIS HyperSpace Direction
 Colored Planets
 Planet Style
 Star Background
+Scan Style
 
 #(CAT_0_OPTS)
 Original
@@ -1014,9 +1015,21 @@ will resemble the PC-DOS style arrangement
 Generated star background in interplanetary
 will resemble the 3DO style arrangement
 
-#(CAT_63_OPT_1_DESC)
+#(CAT_63_OPT_2_DESC)
 Generated star background in interplanetary
 will resemble the default UQM style arrangement
+
+#(CAT_64_OPTS)
+PC
+3DO
+
+#(CAT_64_OPT_0_DESC)
+Scan is static and objects pop-up in random order
+resembling the PC version.
+
+#(CAT_64_OPT_1_DESC)
+Scan sweeps down the map revealing objects in order
+resembling the 3DO version.
 
 #(SLIDERS)
 Music Volume
