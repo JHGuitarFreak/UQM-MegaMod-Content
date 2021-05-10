@@ -557,8 +557,7 @@ I'm afraid our duties will keep us apart, Captain
 But for now, at least, there's this...
 
 #(MORE_COMFORTABLE)	syreen-058.ogg
-That's more like it... now 
-let me help you off with this
+That's more like it... now <% state.sis.getCaptainName() %>, let me help you off with this
 yes... now aren't you a lot more comfortable?
 
 #(in_the_spirit)
@@ -622,11 +621,8 @@ Just relax, my silly human Captain. Let me take care of everything.
 Hmmm... what happens if I do this?
 
 #(THIS_HAPPENS)	syreen-065.ogg
-...mmm
-MMMm!...
-Ohh!...
-...MMMMMmmmmmm!!!...
-does that answer your question?
+Oh, <% state.sis.getCaptainName() %>! MMMmm!!...
+Mmmmm...
 
 #(are_you_sure_this_is_ok)
 Are you sure this is okay? I'm nervous.
