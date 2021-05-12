@@ -80,6 +80,8 @@ Colored Planets
 Planet Style
 Star Background
 Scan Style
+Non-Stop Oscilloscope
+Oscilloscope Style
 
 #(CAT_0_OPTS)
 Original
@@ -1030,6 +1032,27 @@ resembling the PC version.
 #(CAT_64_OPT_1_DESC)
 Scan sweeps down the map revealing objects in order
 resembling the 3DO version.
+
+#(CAT_65_OPTS)
+Disabled
+Enabled
+
+#(CAT_65_OPT_0_DESC)
+Oscilloscope display shows either only the current alien speech or music
+Depending on if Speech is enabled or not.
+
+#(CAT_65_OPT_1_DESC)
+Oscilloscope display switches over to music when alien stops talking
+
+#(CAT_66_OPTS)
+PC
+3DO
+
+#(CAT_66_OPT_0_DESC)
+Oscilloscope display resembles the PC version
+
+#(CAT_66_OPT_1_DESC)
+Oscilloscope display resembles the 3DO version
 
 #(SLIDERS)
 Music Volume
