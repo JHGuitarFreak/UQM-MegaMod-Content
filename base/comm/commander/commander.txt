@@ -258,7 +258,7 @@ Ha-ha.. yes, Captain, we'll do just that!
 If you feel it's necessary Captain, I understand.
 
 #(KILL_MONSTERS) commander-045.ogg
-A sensible plan, Captain.  Let's get to work.
+A sensible plan, Captain.  Let's get to work. Good luck...
 
 #(GOOD_LUCK_AGAIN) commander-046.ogg
 Hurry back, Captain.
