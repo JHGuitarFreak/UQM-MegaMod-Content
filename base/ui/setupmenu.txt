@@ -13,6 +13,7 @@ Edit Controls
 Music Options
 Visual Options
 More PC/3DO Options
+More Visual Options
 
 #(CHOICES)
 Graphics
@@ -82,6 +83,7 @@ Star Background
 Scan Style
 Non-Stop Oscilloscope
 Oscilloscope Style
+Animated HyperSpace Stars
 
 #(CAT_0_OPTS)
 Original
@@ -1054,6 +1056,19 @@ Oscilloscope display resembles the PC version
 #(CAT_66_OPT_1_DESC)
 Oscilloscope display resembles the 3DO version
 
+#(CAT_67_OPTS)
+Static
+Animated
+
+#(CAT_67_OPT_0_DESC)
+HD HyperSpace stars faithfully resemble their Vanilla 
+counterparts but are not animated.
+(Everything else is animated)
+
+#(CAT_67_OPT_1_DESC)
+HD HyperSpace stars are animated but do not resemble
+their Vanilla counterparts at all.
+
 #(SLIDERS)
 Music Volume
 SFX Volume
@@ -1086,6 +1101,8 @@ Edit Controls
 Back to Controls
 Music
 Visuals
+Next Page
+Prev. Page
 Next Page
 Prev. Page
 
@@ -1142,6 +1159,12 @@ Next page full of PC / 3DO options
 
 #(BUTTON_13_DESC)
 Previous page full of PC / 3DO options
+
+#(BUTTON_12_DESC)
+Next page full of Visual options
+
+#(BUTTON_13_DESC)
+Previous page full of Visual options
 
 #(LABELS)
 Incomplete
