@@ -77,8 +77,8 @@ NPC Ship Facing
 Alternate Orz Font
 Control Display
 SIS HyperSpace Direction
-Colored Planets
-Planet Style
+Scanned Sphere Tint
+Interplanetary Style
 Star Background
 Scan Style
 Non-Stop Oscilloscope
@@ -1001,10 +1001,12 @@ PC
 #(CAT_62_OPT_0_DESC)
 Planets in interplanetary will resemble the 
 PC-DOS planet coloring and shading
+(Only applicable if Textured Planets is disabled)
 
 #(CAT_62_OPT_1_DESC)
 Planets in interplanetary will resemble the 
 3DO planet coloring and shading
+(Only applicable if Textured Planets is disabled)
 
 #(CAT_63_OPTS)
 PC
