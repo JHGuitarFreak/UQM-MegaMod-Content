@@ -84,7 +84,7 @@ Scan Style
 Non-Stop Oscilloscope
 Oscilloscope Style
 Animated HyperSpace Stars
-Flagship Style
+Lander Style
 
 #(CAT_0_OPTS)
 Original
@@ -1073,14 +1073,18 @@ HD HyperSpace stars are animated but do not resemble
 their Vanilla counterparts at all.
 
 #(CAT_68_OPTS)
-Green Engine
-Red Engine
+PC
+3DO
 
 #(CAT_68_OPT_0_DESC)
-Flagship will have a green engine resembling the PC version
+Lander view will show at the bottom-right portion of the screen
+with lander details to the left of the planet map.
+Mimicking the PC version.
 
 #(CAT_68_OPT_1_DESC)
-Flagship will have a red engine resembling the PC version
+Lander view will show in the area above the planet map
+with lander details at the bottom-right of the screen.
+Mimicking the 3DO version.
 
 #(SLIDERS)
 Music Volume
