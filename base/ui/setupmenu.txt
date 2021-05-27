@@ -84,6 +84,7 @@ Scan Style
 Non-Stop Oscilloscope
 Oscilloscope Style
 Animated HyperSpace Stars
+Flagship Style
 
 #(CAT_0_OPTS)
 Original
@@ -1070,6 +1071,16 @@ counterparts but are not animated.
 #(CAT_67_OPT_1_DESC)
 HD HyperSpace stars are animated but do not resemble
 their Vanilla counterparts at all.
+
+#(CAT_68_OPTS)
+Green Engine
+Red Engine
+
+#(CAT_68_OPT_0_DESC)
+Flagship will have a green engine resembling the PC version
+
+#(CAT_68_OPT_1_DESC)
+Flagship will have a red engine resembling the PC version
 
 #(SLIDERS)
 Music Volume
