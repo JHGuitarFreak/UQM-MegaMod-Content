@@ -94,6 +94,7 @@ graphics.ions.large = GFXRES:addons/mm-hd/battle/ions-big.ani
 graphics.ions.medium = GFXRES:addons/mm-hd/battle/ions-med.ani
 graphics.ions.small = GFXRES:addons/mm-hd/battle/ions-sml.ani
 graphics.lander = GFXRES:addons/mm-hd/lander/lander.ani
+graphics.lander.pc = GFXRES:addons/mm-hd/lander/lander-pc.ani
 graphics.landerfonteffect = GFXRES:addons/mm-hd/lander/fonteffect.ani
 graphics.landerlaunch = GFXRES:addons/mm-hd/lander/launch.ani
 graphics.landerreturn = GFXRES:addons/mm-hd/lander/return.ani
