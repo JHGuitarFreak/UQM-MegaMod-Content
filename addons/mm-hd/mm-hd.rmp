@@ -159,6 +159,7 @@ graphics.spathimonument = GFXRES:addons/mm-hd/lander/energy/spathimonument.ani
 graphics.starbase = GFXRES:addons/mm-hd/ui/starbase.ani
 graphics.starpoints = GFXRES:addons/mm-hd/nav/starpoints.ani
 graphics.stars = GFXRES:addons/mm-hd/battle/stars.ani
+graphics.stars.misc = GFXRES:addons/mm-hd/planets/star-misc.ani
 graphics.status = GFXRES:addons/mm-hd/ui/status.ani
 graphics.submenu = GFXRES:addons/mm-hd/ui/submenu.ani
 graphics.sundevice = GFXRES:addons/mm-hd/lander/energy/sundevice.ani

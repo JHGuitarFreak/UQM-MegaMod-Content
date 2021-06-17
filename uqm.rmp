@@ -261,6 +261,7 @@ graphics.shipyard = GFXRES:base/ui/shipyard.ani
 graphics.spathimonument = GFXRES:base/lander/energy/spathimonument.ani
 graphics.starbase = GFXRES:base/ui/starbase.ani
 graphics.stars = GFXRES:base/battle/stars.ani
+graphics.stars.misc = GFXRES:base/planets/star-misc.ani
 graphics.status = GFXRES:base/ui/status.ani
 graphics.submenu = GFXRES:base/ui/submenu.ani
 graphics.sundevice = GFXRES:base/lander/energy/sundevice.ani
