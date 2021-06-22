@@ -1812,8 +1812,8 @@ MORE
 (Star Search: F6 | Toggle Maps: F7)
 
 
-#(- Old map from 2135 -)
-- Old map from 2135 -
+#(- War Era map from 2133 -)
+- War Era map from 2133 -
 
 #(- Known constellations -)
 - Known constellations -
