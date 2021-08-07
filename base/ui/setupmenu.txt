@@ -85,6 +85,7 @@ Non-Stop Oscilloscope
 Oscilloscope Style
 Animated HyperSpace Stars
 Lander Style
+Planet Texture
 
 #(CAT_0_OPTS)
 Original
@@ -1085,6 +1086,20 @@ Mimicking the PC version.
 Lander view will show in the area above the planet map
 with lander details at the bottom-right of the screen.
 Mimicking the 3DO version.
+
+#(CAT_69_OPTS)
+3DO
+UQM
+
+#(CAT_69_OPT_0_DESC)
+Planet textures in orbit will resemble the 3DO version.
+
+This option is superceded by Custom Seed
+
+#(CAT_69_OPT_1_DESC)
+Planet textures in orbit will resemble the vanilla UQM version.
+
+This option is superceded by Custom Seed
 
 #(SLIDERS)
 Music Volume
