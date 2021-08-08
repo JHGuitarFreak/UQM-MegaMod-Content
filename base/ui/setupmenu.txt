@@ -86,6 +86,7 @@ Oscilloscope Style
 Animated HyperSpace Stars
 Lander Style
 Planet Texture
+Flagship Style
 
 #(CAT_0_OPTS)
 Original
@@ -1100,6 +1101,16 @@ This option is superceded by Custom Seed
 Planet textures in orbit will resemble the vanilla UQM version.
 
 This option is superceded by Custom Seed
+
+#(CAT_70_OPTS)
+Green Engine
+Red Engine
+
+#(CAT_70_OPT_0_DESC)
+The Flagship's engine will be green as per the PC version.
+
+#(CAT_70_OPT_1_DESC)
+The Flagship's engine will be red as per the 3DO version.
 
 #(SLIDERS)
 Music Volume
