@@ -1,0 +1,28 @@
+Some of the assets used in the making of the HD graphics for the MegaMod are pulled from the internet and modified.
+This is the list of the those assets along with their authors, licenses (when applicable), and the websites in which I obtained them
+
+Use Case                            - Author         - License          -> Website
+
+Androsynth Blazer fireball          - Viktor Zahn    - CC BY 4.0        -> https://opengameart.org/content/spell-animation-spritesheets
+Androsynth bubble weapon            - Robert Brooks  - Custom           -> https://www.gamedeveloperstudio.com/graphics/viewgraphic.php?page-name=Bubble-popping-animation&item=1u5l0o9z5m3s6b612j
+BIO. SCAN DNA double-helix          - kumar35885     - Public Domain    -> https://openclipart.org/detail/58543/dna
+ENERGY SCAN tesla tower             - Ashley Aslett  - CC BY 4.0        -> https://sketchfab.com/3d-models/red-alert-tesla-coil-4bd324a642184dbe8741acd34c8854d2
+MIN. SCAN crystals                  - 588ku          - Custom           -> https://pngtree.com/freepng/red-diamond-ring-gems-illustration_4624669.html
+CARGO crystals                      - Freepik        - Custom           -> https://www.flaticon.com/free-icon/crystal_815883
+CONVERSE microphone                 - oksmith        - Public Domain    -> https://openclipart.org/detail/313772/music-microphone-logo
+COMBAT/CYBORG pilot wings           - Lazar Nikolic  - CC BY 3.0        -> https://thenounproject.com/term/pilot-wings/557165/
+COMBAT/HUMAN fist                   - Freepik        - Custom           -> https://www.freepik.com/free-vector/multiracial-raised-fists_8702826.htm
+DEVICES fist                        - Freepik        - Custom           -> https://www.freepik.com/free-vector/multiracial-raised-fists_8702826.htm
+DEVICES trident                     - upklyak        - Custom           -> https://www.freepik.com/free-vector/gold-silver-bronze-trident-devil-pitchfork-with-emeralds-isolated-white_15342111.htm
+FIGHT! fist                         - Freepik        - Custom           -> https://www.freepik.com/free-vector/multiracial-raised-fists_8702826.htm
+FIGHT! "pow"                        - Viscious-Speed - Public Domain    -> https://openclipart.org/detail/122959/pow
+ROSTER clipboard                    - Freepik        - Custom           -> https://www.freepik.com/free-vector/giant-check-list_4019709.htm
+SAVE/LOAD/GAME SuperSOT-6 (chip)    - Alex Fedorov   - None             -> https://grabcad.com/library/ic-smd-1
+Yehat main weapon projectiles       - Cethiel        - Public Domain    -> https://opengameart.org/content/fireball-effect
+Game controller buttons             - Xelu           - CC0              -> https://thoseawesomeguys.com/prompts/
+Various "ball shading" texture      - annamae22      - Personal Use     -> https://www.deviantart.com/annamae22/art/Shiny-Bubble-PNG-Stock-0129-SINGLE-702352394
+Setup Menu and Solar System nebulae - wwwtyro        - Public Domain    -> https://serosis.net/forks/space2d/
+Lander Shield lightning bolt        - GDJ            - Custom           -> https://pixabay.com/vectors/lightning-bolt-electricity-power-2747390/
+Lander Shield flame                 - valessiobrito  - Public Domain    -> https://openclipart.org/detail/876/fire-june-holidays
+Lander Shield "shield shape"        - rhysfaber      - Public Domain    -> https://openclipart.org/detail/2550/basic-shield
+Lava Hazard flame animation         - BryanDerksen   - None?            -> http://www.datoolset.net/wiki/File:Fx_flamefb01_rescaled.png
