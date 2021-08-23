@@ -22,7 +22,7 @@ Yehat main weapon projectiles       - Cethiel        - Public Domain    -> https
 Game controller buttons             - Xelu           - CC0              -> https://thoseawesomeguys.com/prompts/
 Various "ball shading" texture      - bravebug       - Public Domain    -> https://openclipart.org/detail/161287/metal-sphere
 Setup Menu and Solar System nebulae - wwwtyro        - Public Domain    -> https://serosis.net/forks/space2d/
-Lander Shield lightning bolt        - GDJ            - Custom           -> https://pixabay.com/vectors/lightning-bolt-electricity-power-2747390/
+Lander Shield lightning bolt        - GDJ            - Public Domain    -> https://openclipart.org/detail/280505/stylized-lightning-bolt
 Lander Shield flame                 - valessiobrito  - Public Domain    -> https://openclipart.org/detail/876/fire-june-holidays
 Lander Shield "shield shape"        - rhysfaber      - Public Domain    -> https://openclipart.org/detail/2550/basic-shield
 Lava Hazard flame animation         - BryanDerksen   - None?            -> http://www.datoolset.net/wiki/File:Fx_flamefb01_rescaled.png
