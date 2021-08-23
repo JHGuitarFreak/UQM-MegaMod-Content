@@ -20,7 +20,7 @@ ROSTER clipboard                    - Freepik        - Custom           -> https
 SAVE/LOAD/GAME SuperSOT-6 (chip)    - Alex Fedorov   - None             -> https://grabcad.com/library/ic-smd-1
 Yehat main weapon projectiles       - Cethiel        - Public Domain    -> https://opengameart.org/content/fireball-effect
 Game controller buttons             - Xelu           - CC0              -> https://thoseawesomeguys.com/prompts/
-Various "ball shading" texture      - annamae22      - Personal Use     -> https://www.deviantart.com/annamae22/art/Shiny-Bubble-PNG-Stock-0129-SINGLE-702352394
+Various "ball shading" texture      - bravebug       - Public Domain    -> https://openclipart.org/detail/161287/metal-sphere
 Setup Menu and Solar System nebulae - wwwtyro        - Public Domain    -> https://serosis.net/forks/space2d/
 Lander Shield lightning bolt        - GDJ            - Custom           -> https://pixabay.com/vectors/lightning-bolt-electricity-power-2747390/
 Lander Shield flame                 - valessiobrito  - Public Domain    -> https://openclipart.org/detail/876/fire-june-holidays
