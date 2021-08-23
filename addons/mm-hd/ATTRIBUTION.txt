@@ -6,6 +6,7 @@ Use Case                            - Author         - License          -> Websi
 Androsynth Blazer fireball          - Viktor Zahn    - CC BY 4.0        -> https://opengameart.org/content/spell-animation-spritesheets
 Androsynth bubble weapon            - Robert Brooks  - Custom           -> https://www.gamedeveloperstudio.com/graphics/viewgraphic.php?page-name=Bubble-popping-animation&item=1u5l0o9z5m3s6b612j
 BIO. SCAN DNA strands               - John           - Custom           -> https://grabcad.com/library/twisted-wire
+BIO. SCAN fleshy bits               - itchylot       - Unknown          -> https://imgur.com/jhW2kKA
 ENERGY SCAN tesla tower             - Ashley Aslett  - CC BY 4.0        -> https://sketchfab.com/3d-models/red-alert-tesla-coil-4bd324a642184dbe8741acd34c8854d2
 MIN. SCAN crystals                  - 588ku          - Custom           -> https://pngtree.com/freepng/red-diamond-ring-gems-illustration_4624669.html
 CARGO crystals                      - Freepik        - Custom           -> https://www.flaticon.com/free-icon/crystal_815883
