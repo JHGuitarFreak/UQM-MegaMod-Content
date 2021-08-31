@@ -1,23 +1,23 @@
-#(HOMEWORLD_HELLO_1)	yehat000.ogg
+#(HOMEWORLD_HELLO_1)	yehat-000.ogg
 BRAAK! It is sure and a true thing that the alien interloper has now been warned
 not to approach Caer Zeep-Reep, the Queen's High Perch
 lest it be blasted without further warning!
 
-#(HOMEWORLD_HELLO_2)	yehat001.ogg
+#(HOMEWORLD_HELLO_2)	yehat-001.ogg
 BRAAK! It is a shocking thing to see the return of the human renegade!
 One knows this will not be boding well with her Majesty today.
 
 #(whats_up_homeworld)
 What has happened in the twenty years since our species last met?
 
-#(GENERAL_INFO_HOMEWORLD_1)	yehat002.ogg
+#(GENERAL_INFO_HOMEWORLD_1)	yehat-002.ogg
 HEEP! It is a wondering thought that crosses my mind human starship Captain.
 Are ye not knowing that the cause of our Queen and empire
 is now allied with the fortunes of the mighty Ur-Quan?...
 ...and that yer presence here is being only the end of yer life?
 Haven't ye got the sense, human, to know this simple thing?
 
-#(GENERAL_INFO_HOMEWORLD_2)	yehat003.ogg
+#(GENERAL_INFO_HOMEWORLD_2)	yehat-003.ogg
 BRAAK! Ye are asking the words of a mindless child, human!
 Here, in the Hall of the Queen's High Perch
 ye shall not be finding the sympathies ye so vainly seek.
