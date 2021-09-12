@@ -87,6 +87,7 @@ Animated HyperSpace Stars
 Lander Style
 Planet Texture
 Flagship Style
+No HyperSpace Encounters
 
 #(CAT_0_OPTS)
 Original
@@ -1111,6 +1112,16 @@ The Flagship's engine will be green as per the PC version.
 
 #(CAT_70_OPT_1_DESC)
 The Flagship's engine will be red as per the 3DO version.
+
+#(CAT_71_OPTS)
+Disabled
+Enabled
+
+#(CAT_71_OPT_0_DESC)
+You can and will encounters aliens in HyperSpace.
+
+#(CAT_71_OPT_1_DESC)
+All HyperSpace interactions with aliens is disabled.
 
 #(SLIDERS)
 Music Volume
