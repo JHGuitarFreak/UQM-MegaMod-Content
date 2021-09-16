@@ -1809,7 +1809,7 @@ MORE
 
 
 #((Star search:F6 Toggle maps:F7))
-(Star Search: F6 | Toggle Maps: F7)
+(Star Search: F6 or / | Toggle Maps: F7)
 
 
 #(- War Era map from 2133 -)
