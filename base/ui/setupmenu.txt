@@ -566,9 +566,9 @@ Enabled
 Start the game normally.
 
 #(CAT_29_OPT_1_DESC)
-Start with Fwiffo in your fleet, all of Sol's resources, 
-an extra Storage Bay, and in near Earth Orbit having 
-already visited the Hierarchy base on Luna.
+Start with Fwiffo in your fleet, a single radioactive
+in your Storage Bay, and the Moon Base already explored.
+Allowing the StarBase to be unlocked quicker than usual.
 
 #(CAT_30_OPTS)
 Disabled
