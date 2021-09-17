@@ -83,6 +83,7 @@ graphics.crew.medium = GFXRES:addons/mm-hd/battle/crew-med.ani
 graphics.crew.small = GFXRES:addons/mm-hd/battle/crew-sml.ani
 graphics.earthmask = GFXRES:addons/mm-hd/planets/earthmask.ani
 graphics.eggcase = GFXRES:addons/mm-hd/lander/energy/eggcase.ani
+graphics.excavationsite = GFXRES:addons/mm-hd/lander/energy/excavationsite.ani
 graphics.flagship = GFXRES:addons/mm-hd/nav/flagship.ani
 graphics.flagshipskeleton = GFXRES:addons/mm-hd/cutscene/ending/fs_skeleton.ani
 graphics.flagship.red = GFXRES:addons/mm-hd/nav/flagship-red/flagship.ani
