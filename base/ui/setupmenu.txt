@@ -100,7 +100,7 @@ Requires a game restart if changed
 
 #(CAT_0_OPT_1_DESC)
 Hi-res 1280x960 resolution.
-Requires 'Hires' package installed.
+Requires `Hires' package installed.
 Requires a game restart if changed
 
 #(CAT_1_OPTS)
@@ -184,7 +184,7 @@ as per the original PC version.
 Looks nicer.
 
 #(CAT_5_OPT_1_DESC)
-All text and menus use a "flat" colour scheme,
+All text and menus use a `flat' colour scheme,
 as per the 3DO version.
 Easier to read.
 
@@ -918,7 +918,7 @@ Starbase is unlocked and can be used.
 
 #(CAT_55_OPT_1_DESC)
 FOR VETERANS ONLY!
-A forced "No Starbase" mode for expert players 
+A forced `No Starbase' mode for expert players 
 who want the most extreme of challenges.
 
 #(CAT_56_OPTS)
@@ -941,7 +941,7 @@ NPC ship icons are stationary in Interplanetary view.
 #(CAT_57_OPT_1_DESC)
 NPC ship icons face the direction they're
 accelerating in Interplanetary view.
-Also the mysterious Probes you may encounter will "tumble"
+Also the mysterious Probes you may encounter will `tumble'
 
 #(CAT_58_OPTS)
 Disabled
@@ -1250,7 +1250,7 @@ to assign to this action.
   
 
 #(TEXT_ENTRIES)
-Name
+Current Layout Name
 Custom Seed
 
 #(TEXT_ENTRIES_INITIAL)
