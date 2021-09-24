@@ -578,9 +578,6 @@ Fuel transferred to your vessel.
 #(buy_25_fuel)
 25 units of fuel.
 
-#(sell_remaining_credits_for_fuel)
-Sell my remaining credits for fuel.
-
 #(done_buying_fuel)
 I am done buying fuel.
 
