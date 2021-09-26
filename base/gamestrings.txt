@@ -1895,6 +1895,14 @@ Fuel:
 Fuel Use:
 
 
+#(OUT OF FUEL)
+OUT·OF·FUEL
+
+
+#(Fuel Use:)
+Fuel·Use:
+
+
 #(Enter name) -- NAMING_STRING_BASE
 Enter a name
 
@@ -1921,6 +1929,10 @@ KAMUI
 
 #(UNNAMED)
 UNNAMED
+
+
+#(Edit·name)
+Edit·name
 
 
 #(Empty) -- MELEE_STRING_BASE
