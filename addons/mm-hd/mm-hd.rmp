@@ -149,7 +149,6 @@ graphics.pickship = GFXRES:addons/mm-hd/ui/pickship.ani
 graphics.planets = GFXRES:addons/mm-hd/nav/planets.ani
 graphics.dos.planets = GFXRES:addons/mm-hd/nav/dos-planets/planets.ani
 graphics.planets.unscaled = GFXRES:addons/mm-hd/nav/unscaled/planets.ani
-graphics.planets.intersect = GFXRES:addons/mm-hd/nav/intersect/intersect.ani
 graphics.playmenu = GFXRES:addons/mm-hd/ui/playmenu/playmenu.ani
 graphics.quake = GFXRES:addons/mm-hd/lander/hazard/quake.ani
 graphics.quasiholes = GFXRES:addons/mm-hd/nav/quasispace-004/quasispace.ani
