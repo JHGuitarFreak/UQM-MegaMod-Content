@@ -1808,15 +1808,19 @@ DEC
 MORE
 
 
-#((Star search:F6 Toggle maps:F7))
-(Star Search: F6 or / | Toggle Maps: F7)
+#(( Star Search: F6 | Toggle Maps: F7))
+(Star Search: F6 | Toggle Maps: F7)
 
 
 #(- War Era map from 2133 -)
 - War Era map from 2133 -
 
-#(- Known constellations -)
-- Known constellations -
+#(- Known Constellations -)
+- Known Constellations -
+
+
+#((Search: F6  |  Maps: F7))
+( Search: F6  |  Maps: F7 )
 
 
 #(Starbase) -- STARBASE_STRING_BASE
