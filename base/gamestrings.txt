@@ -1923,8 +1923,8 @@ KAMUI
 UNNAMED
 
 
-#(Edit·name)
-Edit·name
+#(Edit name)
+Edit name
 
 
 #(Empty) -- MELEE_STRING_BASE
