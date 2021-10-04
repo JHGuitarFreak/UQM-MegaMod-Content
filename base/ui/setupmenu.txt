@@ -88,6 +88,7 @@ Lander Style
 Planet Texture
 Flagship Style
 No HyperSpace Encounters
+Kohr-Ah DeCleansing
 
 #(CAT_0_OPTS)
 Original
@@ -1123,6 +1124,18 @@ You can and will encounters aliens in HyperSpace.
 
 #(CAT_71_OPT_1_DESC)
 All HyperSpace interactions with aliens is disabled.
+
+#(CAT_72_OPTS)
+Disabled
+Enabled
+
+#(CAT_72_OPT_0_DESC)
+Kohr-Ah Death March starts at normal time and date
+
+#(CAT_72_OPT_1_DESC)
+Kohr-Ah Death March starts 100 years from 2155.
+Does not work after the Death March has started.
+Use Kohr-Stahp instead for the scenario.
 
 #(SLIDERS)
 Music Volume
