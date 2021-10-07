@@ -1812,15 +1812,24 @@ MORE
 (Star Search: F6 | Toggle Maps: F7)
 
 
+#((Search: F6  |  Maps: F7))
+( Search: F6  |  Maps: F7 )
+
+
 #(- War Era map from 2133 -)
 - War Era map from 2133 -
+
 
 #(- Known Constellations -)
 - Known Constellations -
 
 
-#((Search: F6  |  Maps: F7))
-( Search: F6  |  Maps: F7 )
+#(- Known Homeworlds -)
+- Known Homeworlds -
+
+
+#(- Rainbow Worlds -)
+- Rainbow Worlds -
 
 
 #(Starbase) -- STARBASE_STRING_BASE
@@ -1841,6 +1850,18 @@ Shipyard
 
 #(Depart StarBase)
 Depart StarBase
+
+
+#(SCRAP)
+SCRAP
+
+
+#(Remaining Crew:)
+Remaining Crew:
+
+
+#(Cdr. Hayes)
+Cdr. Hayes
 
 
 #(ENCOUNTER IN) -- ENCOUNTER_STRING_BASE
@@ -2319,22 +2340,10 @@ you must restart the game.
 
 The game will shut down now -
 we apologise for the inconvenience!
- 
 
 
-#(hires2x_pack_not_found)
+#(Hmm...)
 Hmm...
-You were trying to run the game in hi-res
-640x480 mode, but the game couldn't find
-the 'hires2x' addon .uqm package.
-
-Are you sure you have downloaded it and
-installed it into the correct folder?
-
-Solutions:
--Either install the 'hires2x' package and play,
--or select the 320x240 resolution and play.
- 
 
 
 #(hd_pack_not_found))
@@ -2349,7 +2358,6 @@ installed it into the correct folder?
 Solutions:
 Either install the 'HD' package and play, or
 select the Original Graphics option and play.
- 
 
 
 #()
@@ -2415,11 +2423,57 @@ dispatch
 #(exit menu)
 exit menu
 
+
 #(mouse_err)
 Mouse input is not supported in UQM.
 Use the keyboard or joystick instead.
 
 Please press ENTER or SPACE to return.
+
+
+#(Difficulty - 55)
+Difficulty:
+
+
+#(Original)
+Original
+
+
+#(Easy)
+Easy
+
+
+#(Hard)
+Hard
+
+
+#(Extended)
+ | Extended
+
+
+#(Nomad)
+ | Nomad
+
+
+#(Main Menu Music by)
+Main Menu Music by
+
+
+#(Saibuster)
+Saibuster
+
+
+#(Rush AX)
+Rush AX
+
+
+#(Mark Vera)
+Mark Vera
+
+
+#(Error 404: Universe Not Found - 65)
+Error 404: Universe Not Found
+
 
 #(Unconnected. Press LEFT to connect.) -- NETMELEE_STRING_BASE
 Unconnected. Press LEFT to connect.

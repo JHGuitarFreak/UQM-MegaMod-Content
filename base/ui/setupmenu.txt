@@ -881,7 +881,7 @@ Screen transitions will crossfade,
 resembling the 3DO version
 
 #(CAT_53_OPTS)
-Normal
+Original
 Easy
 Hard
 
