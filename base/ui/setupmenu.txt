@@ -89,6 +89,7 @@ Planet Texture
 Flagship Style
 No HyperSpace Encounters
 Kohr-Ah DeCleansing
+No Melee Obstacles
 
 #(CAT_0_OPTS)
 Original
@@ -1136,6 +1137,19 @@ Kohr-Ah Death March starts at normal time and date
 Kohr-Ah Death March starts 100 years from 2155.
 Does not work after the Death March has started.
 Use Kohr-Stahp instead for the scenario.
+
+#(CAT_73_OPTS)
+Disabled
+Enabled
+
+#(CAT_73_OPT_0_DESC)
+Single planet and at least five asteroids
+on-screen at a time.
+
+#(CAT_73_OPT_1_DESC)
+No planets or asteroids in Super Melee.
+
+Local play only.
 
 #(SLIDERS)
 Music Volume
