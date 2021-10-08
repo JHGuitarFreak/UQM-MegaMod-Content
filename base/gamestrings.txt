@@ -2431,7 +2431,7 @@ Use the keyboard or joystick instead.
 Please press ENTER or SPACE to return.
 
 
-#(Difficulty - 55)
+#(Difficulty)
 Difficulty:
 
 
@@ -2471,8 +2471,22 @@ Rush AX
 Mark Vera
 
 
-#(Error 404: Universe Not Found - 65)
+#(Error 404: Universe Not Found)
 Error 404: Universe Not Found
+
+
+#(Easy)
+Various changes to make UQM gameplay easier.
+
+
+#(Original)
+Vanilla difficulty as it was originally intended.
+
+
+#(Hard)
+NOT FOR BEGINNERS!
+A multitude of changes to make gameplay much
+harder for the veteran UQM player.
 
 
 #(Unconnected. Press LEFT to connect.) -- NETMELEE_STRING_BASE
