@@ -750,6 +750,22 @@ Radioactive
 Exotic
 
 
+#(datalog)
+datalog
+
+
+#(Complete!)
+Complete!
+
+
+#(Uploading)
+Uploading
+
+
+#(data...)
+data...
+
+
 #(Hydrogen) -- ELEMENTS_STRING_BASE
 Hydrogen
 
