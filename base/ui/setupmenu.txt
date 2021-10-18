@@ -12,8 +12,6 @@ Advanced Options
 Edit Controls
 Music Options
 Visual Options
-More PC/3DO Options
-More Visual Options
 
 #(CHOICES)
 Graphics
@@ -1203,10 +1201,6 @@ Edit Controls
 Back to Controls
 Music
 Visuals
-Next Page
-Prev. Page
-Next Page
-Prev. Page
 
 #(BUTTON_0_DESC)
 
@@ -1255,18 +1249,6 @@ Configure music options for UQM.
 
 #(BUTTON_11_DESC)
 Configure the look and feel of the MegaMod.
-
-#(BUTTON_12_DESC)
-Next page full of PC / 3DO options
-
-#(BUTTON_13_DESC)
-Previous page full of PC / 3DO options
-
-#(BUTTON_12_DESC)
-Next page full of Visual options
-
-#(BUTTON_13_DESC)
-Previous page full of Visual options
 
 #(LABELS)
 Incomplete
