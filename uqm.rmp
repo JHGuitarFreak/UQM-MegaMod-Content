@@ -280,6 +280,7 @@ graphics.truespacesun = GFXRES:base/nav/truespacesun.ani
 graphics.umgahcaster = GFXRES:base/lander/energy/umgahcaster.ani
 graphics.urquanwreck = GFXRES:base/lander/energy/urquanwreck.ani
 graphics.utwigbomb = GFXRES:base/lander/energy/utwigbomb.ani
+graphics.visitedstars = GFXRES:base/ui/visited-stars/visited.ani
 music.battle = MUSICRES:base/battle/battle.mod
 music.battle.samatra = MUSICRES:base/battle/battle.mod
 music.hyperspace = MUSICRES:base/nav/hyper.mod

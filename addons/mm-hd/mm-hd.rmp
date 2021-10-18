@@ -178,6 +178,7 @@ graphics.truespacesunyellow = GFXRES:addons/mm-hd/nav/yellow/truespacesunyellow.
 graphics.umgahcaster = GFXRES:addons/mm-hd/lander/energy/umgahcaster.ani
 graphics.urquanwreck = GFXRES:addons/mm-hd/lander/energy/urquanwreck.ani
 graphics.utwigbomb = GFXRES:addons/mm-hd/lander/energy/utwigbomb.ani
+graphics.visitedstars = GFXRES:addons/mm-hd/ui/visited-stars/visited.ani
 planet.acid.large = GFXRES:addons/mm-hd/planets/acid-big.ani
 planet.acid.medium = GFXRES:addons/mm-hd/planets/acid-med.ani
 planet.acid.small = GFXRES:addons/mm-hd/planets/acid-sml.ani
