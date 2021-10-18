@@ -90,6 +90,7 @@ Flagship Style
 No HyperSpace Encounters
 Kohr-Ah DeCleansing
 No Melee Obstacles
+Show Visited Stars
 
 #(CAT_0_OPTS)
 Original
@@ -1153,6 +1154,20 @@ on-screen at a time.
 
 #(CAT_73_OPT_1_DESC)
 No planets or asteroids in Super Melee.
+
+Local play only.
+
+#(CAT_74_OPTS)
+Disabled
+Enabled
+
+#(CAT_74_OPT_0_DESC)
+Do not show visited stars on the StarMap
+
+#(CAT_74_OPT_1_DESC)
+Visited stars will be dimmed on the StarMap
+and their names will be inside parenthesis
+when you hover over them with the StarMap cursor.
 
 Local play only.
 
