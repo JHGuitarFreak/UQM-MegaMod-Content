@@ -4,6 +4,7 @@ Hurry back, Captain.
 #(GIVE_FUEL) commander-001.ogg
 We do have a small amount of Starship fuel which is of no use to our power systems.
 We will now transport 5 units to your vessel.
+This should be sufficient for a trip to the surface of Mercury.
 
 #(GIVE_FUEL_AGAIN) commander-002.ogg
 We are almost out of fuel now, but we do have a BIT more.
@@ -13,7 +14,7 @@ Transporting fuel now.
 #(ARE_YOU_SUPPLY_SHIP) commander-003.ogg
 Attention unidentified space vessel!
 I am Starbase Commander Hayes of the slave planet Earth.
-our HyperWave broadcasts -- extremely weak
+our hyperwave broadcasts -- extremely weak
 situation critical -- energy cores exhausted
 scanners and deep radar are non-functional
 we cannot identify your vessel
@@ -26,7 +27,7 @@ Did you find any radioactive elements for our power cores?
 #(HERE_IS_ANOTHER_LANDER) commander-005.ogg
 What!!!
 You lost another lander!?
-We'll build another, but DON'T LOSE THIS ONE, OKAY!
+We shall build another, but DON'T LOSE THIS ONE, OKAY!
 
 #(THE_WHAT_FROM_WHERE) commander-006.ogg
 The starship what?
@@ -36,17 +37,17 @@ but, we have no space vessels of our own
 and the shield prevents us from contacting Earth
 so we are totally dependent on the Ur-Quan supply vessels for everything we need up here.
 We know there is a Hierarchy base on the surface of the moon, but we can't contact them.
-The Ur-Quan were supposed to resupply the base at regular, five year intervals
+The Ur-Quan were supposed to resupply this base at regular, five year intervals
 but we haven't received anything in almost eight years!
 What we don't recycle we can usually synthesize
-but to do so, we need replacement radioactives for our generator energy cores.
+but to do so, we need replacement radioactives for our generators' energy cores.
 If you could bring us some radioactive elements, we can fabricate the cores ourselves.
-Are you willing to help us!?
+Are you willing to help us!??
 
 #(ABOUT_TIME) commander-007.ogg
 Well, it's about damn time!
 In the Fealty agreement the Ur-Quan promised that this station would be resupplied
-at least every five years, and its been over eight since we saw you!
+at least every five years, and its been over eight since we last saw you!
 If you had arrived a few weeks later, there wouldn't have been anyone alive on this station
 never mind...just begin your transfer of materials immediately, starting with the radioactives.
 
@@ -57,13 +58,11 @@ I'm sorry, Captain, your message was garbled. Our receivers have very little pow
 I couldn't quite make it out, Captain. Could you please repeat?
 
 #(HERE_IS_A_NEW_LANDER) commander-010.ogg
-Manufacturing a new lander for you will use most of what little resources we have left
-but I suppose we have no choice.
 We will transport the new lander vehicle immediately.
 
 #(THIS_MAY_SEEM_SILLY) commander-011.ogg
 By the way Captain, I think we need a name for this new alliance we're going to forge.
-And since it was your idea, it's only fair that you get the honor of naming it.
+Since this was your idea, it's only fair that you have the honor of naming it.
 So, what will it be?
 
 #(OK_THE_NAFS) commander-012.ogg
@@ -81,7 +80,7 @@ So be it - The Empire of <% state.sis.getCaptainName() %>!
 
 #(FUEL_UP0) commander-016.ogg
 We are initiating transfer of radioactives, Captain.
-Now, as soon as our engineers can refit the energy cores...
+Now, as soon as our engineers can refit the energy cores..
 
 #(FUEL_UP1) commander-017.ogg
 ...there, that's much better. Power ratings are climbing, life support is coming back into the green.
@@ -94,7 +93,7 @@ WHAT!
 What kind of idiot sent you out here without replacements for our energy cores!?
 It's amazing that we've kept the generators online for as long as we have!
 Look, you had better get those radioactives right away
-or all the other supplies are pretty damn pointless, since we'll all be too dead to use them!
+or all the other supplies are pretty damn pointless, since we'll be too dead to use them!
 
 #(DONT_KNOW_WHO_YOU_ARE) commander-019.ogg
 Look, I don't know who you are or why you're here
@@ -107,8 +106,8 @@ please get some and bring them back here before it's too late.
 
 #(THATS_IMPOSSIBLE) commander-020.ogg
 Star Control science mission, eh?
-Captain, I served as a Star Control officer during the war, aboard several cruisers in the Coreward Front
-and if there had been any `scientific mission' to Vela
+Captain, I served as a Star Control officer during the war, aboard several cruisers on the Coreward Front
+and if there had been any 'scientific mission' to Vela
 I would have heard about it.
 
 #(ASK_AWAY) commander-021.ogg
@@ -118,7 +117,7 @@ Okay, what do you want to know?
 The fastest way to get radioactives in this system would be to land on Mercury
 and scour the surface for deposits of radioactive elements.
 But be careful. Mercury is a pretty inhospitable place!
-Watch out for earthquakes and those high-temperature areas!
+Watch out for earthquakes and hotspots.
 
 #(THANKS_FOR_HELPING) commander-023.ogg
 Thanks! I'll make sure to mention this the next time I talk with our masters
@@ -127,7 +126,7 @@ I'm sure they will reward you.
 #(STARBASE_IS) commander-024.ogg
 Ur-Quan slave law requires that we maintain an orbital space platform
 to assist Hierarchy vessels which are in need of repairs or fuel.
-Since the shield around the Earth cuts us off completely from the planet
+Since the shield around Earth cuts us off completely from the planet
 we are dependent on Ur-Quan resupply ships for our non-renewable resources.
 The resupply vessels are supposed to arrive every five years
 at which time the Ur-Quan somehow penetrate the shield and exchange those of us up here
@@ -138,7 +137,7 @@ When the Alliance lost the war, the Ur-Quan gave Earth a single choice
 join the Hierarchy as Battle Thralls and fight for the Ur-Quan to enslave other sentient species
 or become `fallow' slaves, and be forever imprisoned on a single world
 encased in an impenetrable energy shield here on Earth.
-We choose not to fight for the Ur-Quan.
+We chose not to fight for the Ur-Quan.
 
 #(URQUAN_LEFT) commander-026.ogg
 Soon after Earth accepted the Ur-Quan's Oath of Fealty, they departed,
@@ -149,23 +148,24 @@ Ahh...fight the Ur-Quan! Win back our freedom!
 I remember having such thoughts myself...once, a long time ago.
 But that was in the first years after the defeat, when it was still terrifying to look up
 and see the bloody glow of the pulsating slave shield overhead.
-Through day and night we gazed up at the impenetrable wall
+Through day and night we gazed up at that impenetrable wall
 as though the sheer power of our hatred would pull it down.
-But over the years, I spent so much of my time struggling
-down on the surface under the shield and then later up here, trying to keep this station alive
-that I'd forgotten what it means to be free... to hate our Ur-Quan Masters! 
+But over the years, I spent so much of my time struggling --
+-- down on the surface under the shield and then later up here, trying to keep this station alive --
+-- that I'd forgotten what it means to be free... to hate our Ur-Quan Masters!
 And now, here you are, in an alien ship of unknown power,
 offering me your assistance to fight against the Hierarchy again, after all these years.
-Captain, your offer is intriguing.
+Captain
+your offer is intriguing.
 It's tempting to think that with your advanced Precursor technology
 we can somehow crack Earth's slave shield
 and reassemble the Alliance to attack the Hierarchy, and THIS time win the damn war!
 But... consider the consequences if we should fail.
-The Ur-Quan won't just punish us here on the station.
+The Ur-Quan won't just punish us here at this station.
 They will exact a gruesome retribution on the surface below as well.
 Before I commit this station to helping you attack the Ur-Quan
 and accepting the risk of annihilation if we are defeated
-I have to make sure that you and your ship have what it takes to oppose the Hierarchy.
+I have to be sure that you and your ship have what it takes to oppose the Hierarchy.
 I'll make you a deal.
 If you can eliminate the alien base on the moon, and get rid of that threat, at least
 I will seriously consider your offer.
@@ -173,15 +173,15 @@ I will seriously consider your offer.
 #(ACKNOWLEDGE_SECRET) commander-028.ogg
 Hmmm... you know, come to think of it
 there were some rumors that Corridor Nine, the special operations division of Star Control
-was directing some hush-hush operation near Androsynth space.
-The Vela star system... yes, that would be the right direction
-So, Captain... if you say it's true
+was directing some hush-hush operation out near Androsynth space.
+The Vela star system... yes, that would be in the right direction
+So, Captain... if what you say is true
 how do you explain that huge, alien starship you're flying
-and why are you here? What do you want from us?
+and why you are here? What do you want from us?
 
 #(ABOUT_BASE) commander-029.ogg
 After the Ur-Quan erected the slave shield around Earth, and established this space station
-they decided to leave a contingent of combat ships close to the Earth
+they decided to leave a contingent of combat ships close to Earth
 to keep watch on our planet and confirm that we were obeying the Ur-Quan slave laws.
 I'm certain they're still out there on the surface of the moon
 because we can pick up a constant stream of alien broadcasts.
@@ -200,18 +200,19 @@ Captain, listen closely!
 Long range sensors show a ship closing on this station, fast!
 Our computer identifies it as Ilwrath, Avenger-class.
 I think you've got a fight on your hands, Captain.
-Your best bet is to wait until you have point bl-nk r-nge
+Your best bet is to wait until it's at point bl-nk r-nge
 C-pt-in! It's ja-min- ou- s-gn-l!...
 
 #(VERY_IMPRESSIVE) commander-033.ogg
 What a beautiful sight, Captain!
 I haven't seen an Avenger blown away like that since the Battle in Draco.
-I guess you've shown that you can handle yourself in battle, Captain
+I guess you've shown that you can handle yourself in a battle, Captain
 so my last reservation about helping you has been dissolved.
-I will commit this station to helping free Earth and defeat the Ur-Quan.
+I will commit this station to helping you free Earth and defeat the Ur-Quan.
 We may get our atoms rearranged in the process, but by God, Captain, we're going to try!
-So, the obvious first step is to get your Precursor equipment and software over here
-so that we can make it work with our ship repair fabricators.
+So
+the obvious first step is to get your Precursor equipment and software over here
+where we can make it work with our ship repair fabricators.
 But then what, Captain?
 
 #(IT_WAS_ABANDONED) commander-034.ogg
@@ -237,7 +238,7 @@ heading right towards the closest Hierarchy outpost.
 When the Ur-Quan find out that you are here, they will send a combat fleet instantly!
 
 #(GOOD_NEWS) commander-040.ogg
-Whew!  That was a close one.  If that probe had gotten away -- up into HyperSpace
+Whew! That was a close one. If that probe had gotten away -- up into HyperSpace
 we'd be up to our ears in Dreadnoughts in no time.
 What a relief!
 
@@ -245,20 +246,20 @@ What a relief!
 If that probe gets back to the Ur-Quan, Captain, we are BOTH in deep trouble!
 
 #(ABOUT_BASE_AGAIN) commander-042.ogg
-As I said before, after the Ur-Quan erected the slave shield around the Earth and assembled this space station
+As I said before, after the Ur-Quan erected the slave shield around Earth and assembled this space station
 they decided to leave a contingent of Spathi and Ilwrath ships stationed on the moon.
 We have looked at the moonbase through our telescopes and can confirm that there is still substantial activity down there
-but we have never been able to make contact with the base using either HyperWave 'Caster
+but we have never been able to make contact with the base using either the HyperWave `Caster
 or traditional radio signals.
 
 #(COOK_BUTTS) commander-043.ogg
-Ha-ha.. yes, Captain, we'll do just that!
+Ha-ha..yes, Captain, we'll do just that!
 
 #(OVERTHROW_ALIENS) commander-044.ogg
 If you feel it's necessary Captain, I understand.
 
 #(KILL_MONSTERS) commander-045.ogg
-A sensible plan, Captain.  Let's get to work. Good luck...
+A sensible plan, Captain.  Let's get to work.
 
 #(GOOD_LUCK_AGAIN) commander-046.ogg
 Hurry back, Captain.
@@ -268,7 +269,7 @@ Now Captain, I expect the configuration process for the starbase
 to take at least 2 weeks, so let's get to work...
 
 #(overthrow_evil_aliens) 
-Er... trust me Commander, I have a plan... a really good plan!  But for now it must remain a secret.
+Er... trust me Commander, I have a plan... a really good plan! But for now it must remain a secret.
 
 #(annihilate_those_monsters)
 We will slowly build our strength, unify an allied starfleet, and bring the Ur-Quan to their knee-equivalents.
@@ -298,13 +299,13 @@ No, this is the starship <% state.sis.getShipName() %>, but we stand ready to as
 Uh.. yes, this IS the resupply vessel. What do you need resupplied?
 
 #(what_slave_planet)
-`Slave planet!' `Hierarchy resupply vessel!'  What is going on here?
+`Slave planet!' `Hierarchy resupply vessel!' What is going on here?
 
 #(i_lied)
 Actually I lied, this isn't the resupply vessel. Sorry.
 
 #(plumb_out)
-Er..., oh dang!  Wouldn't you know it; we're plumb out of those.
+Er..., oh dang! Wouldn't you know it; we're plumb out of those.
 
 #(we_are_vindicator)
 I am Captain <% state.sis.getCaptainName() %> of the starship <% state.sis.getShipName() %>. We are the survivors of a Star Control science research team to the Vela star system.
@@ -373,16 +374,16 @@ The United Federation of Worlds!
 The Empire of <% state.sis.getCaptainName() %>!
 
 #(i_lost_my_lander)
-Due to circumstances beyond our control, our only landing vehicle was destroyed.  Can you replace it?
+Due to circumstances beyond our control, our only landing vehicle was destroyed. Can you replace it?
 
 #(i_lost_another_lander)
 Um... er... well... We lost another lander.
 
 #(need_fuel_mercury)
-We are unable to land on Mercury and retrieve radioactives due to an unforeseen fuel shortage.
+Due to an unforeseen fuel shortage, we are unable to complete our mission.
 
 #(need_fuel_luna)
-We are unable to land on the moon and neutralize the base due to an unforeseen fuel shortage.
+Due to an unforeseen fuel shortage, we are unable to complete our mission.
 
 #(need_fuel_again)
 Boy, mileage sure does vary. Could you spare us some more fuel?

@@ -1,17 +1,17 @@
 #(BEFORE_WE_GO_ON_1) starbase-000.ogg
- Before we go on, I have something important to tell you.
+Before we go on, I have something important to tell you.
 #(BEFORE_WE_GO_ON_2) starbase-001.ogg
- There is something I think you should know.
+There is something I think you should know about
 #(BEFORE_WE_GO_ON_3) starbase-002.ogg
- By the way, I thought you should know.
+By the way, I thought you should know.
 #(BEFORE_WE_GO_ON_4) starbase-003.ogg
- Before we proceed, I wanted you to know.
+Before we proceed, I wanted you to know.
 #(BEFORE_WE_GO_ON_5) starbase-004.ogg
- I have some information I think you should hear.
+I have some information I think you should hear.
 #(BEFORE_WE_GO_ON_6) starbase-005.ogg
- I've been waiting to inform you of a new situation.
+I've been waiting to inform you of a new situation.
 #(BEFORE_WE_GO_ON_7) starbase-006.ogg
- I know you're busy, but I've got some news.
+I know you're busy, but I have some news
 
 #(NORMAL_HELLO_A) starbase-007.ogg
 Welcome back, Captain <% state.sis.getCaptainName() %>.
@@ -65,25 +65,25 @@ Blow up an Ur-Quan for me, Captain <% state.sis.getCaptainName() %>.
 Be careful out there, Captain <% state.sis.getCaptainName() %>.
 
 #(LIGHT_LOAD_A) starbase-024.ogg
-The more minerals you bring us, Captain <% state.sis.getCaptainName() %>, the faster we'll be able to tackle the Ur-Quan.
+The more minerals you bring us, Captain <% state.sis.getCaptainName() %>, the faster you will be able to tackle the Ur-Quan.
 
 #(LIGHT_LOAD_B) starbase-025.ogg
-Light load this time, Captain <% state.sis.getCaptainName() %>.
+Light load this time, Captain <% state.sis.getCaptainName() %>?
 
 #(LIGHT_LOAD_C0) starbase-026.ogg
-Another small load, Captain <% state.sis.getCaptainName() %>.
+Another small load, Captain <% state.sis.getCaptainName() %>?
 
 #(LIGHT_LOAD_C1) starbase-027.ogg
 Well, I suppose something is better than nothing.
 
 #(LIGHT_LOAD_D) starbase-028.ogg
-I don't mean to criticize, Captain <% state.sis.getCaptainName() %>, but, uh, wouldn't it be more efficient if you could return with larger loads?
+I don't mean to criticize, Captain <% state.sis.getCaptainName() %>, but it would be more efficient if you could return with larger loads.
 
 #(LIGHT_LOAD_E) starbase-029.ogg
-Pretty small amounts, Captain <% state.sis.getCaptainName() %>. Bringing those small amounts of minerals is not cost-effective. Try getting larger loads.
+Pretty small amounts, Captain <% state.sis.getCaptainName() %>.
 
 #(LIGHT_LOAD_F) starbase-030.ogg
-Not too much today, Captain <% state.sis.getCaptainName() %>. I hope you have better luck next time.
+Captain. Bringing these small amounts of minerals is not cost-effective. Try getting larger loads.
 
 #(LIGHT_LOAD_G) starbase-030.ogg
 Not too much today, Captain <% state.sis.getCaptainName() %>. I hope you have better luck next time.
@@ -133,15 +133,15 @@ More fuel for the fire, eh, Captain <% state.sis.getCaptainName() %>? That last 
 #(STARBASE_IS_READY) starbase-045.ogg
 I have good news to report, Captain.
 We have successfully integrated the Precursor technology from your ship into our fabricator system
-and as you can see, we have already begun minor repairs on the <% state.sis.getShipName() %>, patching up some of the micro-meteorite holes.
+and as you can see, we have already begun minor repairs on the ship, patching up some micro-meteorite holes.
 We noticed that your ship does not have an emergency warp escape unit
-So our engineers rigged up some for you and each of your escorts.
+so our engineers rigged some up for you and each of your escorts.
 Now you should be able to escape from a bad situation
-with the touch of a button.  But there is a cost, however
-The unit gulps up five fuel units each time your Precursor ship uses it.
-Also, we now have a limited capacity to make modifications to your ship
+with the touch of a button. There is a cost, however
+the unit gulps 5 fuel units each time your Precursor ship uses it.
+Also, we now have a limited capacity to make modifications to your ship,
 to refine starship fuel, to build additional combat ships
-and to train new members of your crew for the <% state.sis.getShipName() %> and any ships you acquire for your fleet.
+and to train new crew members for the ship and any ships you acquire for your fleet.
 Captain, I know you're eager to get to work, so I'll be brief.
 If you have any questions -- how this Starbase works, what resources we need
 or just some background information on the galaxy -- don't hesitate to ask.
@@ -150,7 +150,7 @@ or just some background information on the galaxy -- don't hesitate to ask.
 Certainly, Captain. What do you need to know?
 
 #(WHICH_FUNCTION) starbase-047.ogg
-We can modify your Precursor ship, build additional combat vessels
+We can modify your Precursor starship, build additional combat vessels
 and supply you with fuel and crew.
 
 #(WHICH_HISTORY) starbase-048.ogg
@@ -163,10 +163,10 @@ Can you be more specific?
 Fine. Is there anything else you need?
 
 #(ABOUT_FUEL) starbase-051.ogg
-This base is designed to service Hierarchy ships.
+This base was designed to service Hierarchy ships.
 Fortunately, your flagship uses the same stabilized antimatter technology as Hierarchy vessels
-and we'll be able to synthesize what you need.
-However, due to the size of your ship, we'll have to produce vast quantities of fuel
+and we will be able to synthesize what you need.
+However, due to the size of your ship, we will have to produce vast quantities of fuel
 which will be a substantial drain on our resources.
 
 #(ABOUT_MODULES) starbase-052.ogg
@@ -175,22 +175,23 @@ that your starship was designed to be a `workhorse' vehicle
 which can be easily reconfigured for different missions
 by adding or swapping self-contained equipment packs which we call `modules'.
 The modules we can build right now are:
-Thruster units which make your ship move faster
-Attitude Jets which allow you to rotate the ship more quickly
-Crew Pods which provide life-support facilities for up to 50 additional crew members
-Storage Bays which increase your ship's cargo capacity for mineral resources
+Thruster units which make your ship move faster.
+Attitude Jets which allow you to rotate your ship more quickly.
+Crew Pods which provide life-support facilities for up to 50 additional crew members.
+Storage Bays which increase your ship's cargo capacity for mineral resources.
 Fuel Tanks which hold an additional 50 units of fuel
 Dynamos which feed energy into your combat energy batteries, improving your weapons' rate of fire.
 And last but not least
-Ion-Bolt Guns - combat weaponry, the exact function of which depends on its location aboard the ship
-when put in the first, or front module slot, it fires a single shot forward
+Ion-Bolt Guns - combat weaponry, the exact function of which depends on its location aboard ship
+when put in the first, or front, module slot, it fires a single shot forward
 when put in the second slot, it fires two shots spread to the left and right of center
 when put in the third slot, it fires two shots directly left and right
-and when put in the last or rear slot, it fires a single shot straight backwards.
+and when put in the last, or rear, slot, it fires a single shot straight backwards.
 
 #(ABOUT_CREW) starbase-053.ogg
-We have almost 2000 highly-motivated, skilled professionals aboard this starbase
-and every single one of them wants a berth aboard the <% state.sis.getShipName() %>. However, each hand we lose to your ship means less manpower here at the starbase
+We have almost 2000 highly-motivated, skilled professionals aboard this starbas
+and every single one of them wants a berth aboard the <% state.sis.getShipName() %>.
+However, each hand we lose to your ship means less manpower here at the starbase
 and this is reflected in the Crew RU cost.
 As long as you don't lose too many crew members to combat or planet exploration
 the RU cost will remain static; but we have only so many warm bodies on this starbase
@@ -200,23 +201,23 @@ the cost could increase dramatically.
 #(ABOUT_SHIPS) starbase-054.ogg
 Our shipyard facilities are sophisticated and fully automated,
 permitting a handful of starbase personnel to do the same job
-as five-hundred, vac-suited construction workers.
-However, the only designs that we had in our computers were incomplete, Hierarchy ship designs.
-Things looked grim until one of the officers came forward with an amazing story.
+as five-hundred, vac-suited construction workers. However,
+the only designs we had in our computers were incomplete, Hierarchy ship designs.
+Things looked grim until one of my officers came forward with an amazing story.
 Even though the Ur-Quan destroyed every Earthling Cruiser in the fleet nearly 20 years ago
 one of my maintenance engineers was a starship production assistant at the Detroit shipyards.
-When Earth was conquered, she was ordered to destroy all ship-construction databases;
-but she secretly made copies of the blueprint disks, and then kept them with her ever since.
+When Earth was conquered, she was ordered to destroy all ship-construction databases.
+But she secretly made copies of the blueprint disks, and has kept them with her ever since.
 These disks contain all the data we need to build as many Earthling Cruisers as you want
-provided you, Captain, can supply the large amounts of mineral resources required to build those vessels.
-In theory, Captain, we could build alien starships here if we had designs for them; however,
-it's a well known fact that alien vessels just can't be flown in combat
+provided you, Captain, can supply the large amounts of mineral resources required to build the vessels.
+In theory, Captain, we could build alien starships here if we had designs for them
+however, it is a well known fact that alien vessels just can't be flown in combat
 without native starship captains at the helm.
 
 #(ABOUT_RU) starbase-055.ogg
-As you know, Captain, we've committed the entire output of this station
-to building your flagship and your battle fleet into the strongest force possible.
-However, our resources are very limited, and we feel YOU must decide
+As you know, Captain, we have committed the entire output of this station
+to building your flagship and your battle fleet into the stongest force possible; however
+our resources are very limited, and we feel YOU must decide
 how we are to spend our effort and materials.
 To aid you in making these decisions, we have implemented a resource allocation scheme.
 We provide you with a numerical assessment of the station's resources
@@ -227,7 +228,7 @@ These resources can be either in the form of mineral ores gathered from planet s
 or already-refined metals and other valuable materials from the wreckage of enemy starships.
 
 #(ABOUT_MINERALS) starbase-056.ogg
-The most straightforward way you can accumulate Resource Units
+The most straight-forward way to accumulate Resource Units
 is to bring mineral ores back to this starbase.
 There are probably enough resources in just the nearby dozen stars
 to build your ship into a powerful battleship, or
@@ -237,9 +238,9 @@ When gathering minerals, focus on `cleaning-out' one star system at a time.
 This way, you minimize the cost of travel through HyperSpace.
 
 #(ABOUT_LIFE) starbase-057.ogg
-While I respect your search for abstract knowledge
+While I respect the search for abstract knowledge
 frankly, Captain, in our present circumstances I see little use for such data here.
-Perhaps you can make use of biological information elsewhere.
+Perhaps you can make use of biological information elsewhere..
 
 #(OK_ENOUGH_STARBASE) starbase-058.ogg
 What else can I tell you?
@@ -248,42 +249,39 @@ What else can I tell you?
 What else can I tell you?
 
 #(GET_MINERALS) starbase-060.ogg
-If you have the patience, I would recommend you spend several months
-or even a year gathering mineral resources.
+If you have the patience, I would recommend you spend several months or even a year gathering mineral resources.
 You can find such minerals on almost any planet surface,
 but the quality and density will vary depending on the type of planet you're on.
-Base metals are probably the most common materials you'll find, but they aren't particularly valuable.
+Base metals are probably the most common minerals you'll find, but they aren't particularly valuable.
 You can find rarer precious and radioactive elements on metal-rich worlds such as Mercury.
-An old miner once told me that you could tell the relative quality of a planet's minerals
-based on the planet's color as seen from space.
-To remember the color sequence from good to bad
-The miner had a mnemonic which went something like
-`Very Young Orangutans Could Grow Bananas, Perhaps Rather Well'.
+An old miner once told me you could tell the relative quality of a planet's minerals
+based on the planet's color as seen from space. To remember the color sequence from good to bad
+the miner had a mnemonic that went something like
+Very Young Orangutans Could Grow Bananas, Perhaps Rather Well.
 It is also the case that mineral yields will be better at hotter stars.
-Temperature is related to the size and color of a star
-Red stars are the coolest, then orange, yellow, green, blue
-And the hottest stars are white.
+Temperature is related to the size and color of a star.
+Red stars are coolest, then orange, yellow, green, blue, and the hottest stars are white.
 
 #(ABOUT_ALIENS) starbase-061.ogg
 That all depends on whom you meet, doesn't it, Captain?
-Well, in all seriousness, if you encounter the Ilwrath, VUX, Androsynth, or other Hierarchy battle thralls
-I wouldn't hold out much hope for a peaceful encounter.
-So if you feel you have the advantage, attack!
+In all seriousness, if you encounter the Ilwrath, VUX, Androsynth, or other Hierarchy battle thralls
+I wouldn't hold out much hope for a peaceful encounter
+so if you feel you have the advantage, attack!
 The resources you will scavenge from the enemies' wreckage are well worth the effort.
 If you can find Alliance races who are in a position to help us
-then you MUST convince them to join with us!
+you MUST convince them to join with us!
 Their assistance may be crucial to our success.
 
 #(MUST_DEFEAT) starbase-062.ogg
 Captain, I wish I had an easy answer, but I don't.
-The only way I can see of liberating Earth, as well as the Alliance allies
+The only way I can see of liberating Earth, as well as our Alliance allies
 is to destroy the Ur-Quan and their armada of battle thralls entirely.
 
 #(DEFEAT_LIKE_SO) starbase-063.ogg
-To defeat our enemies, we will need awesome strength, both in your flagship and the fleet
+To defeat our enemies, we will need awesome strength, both in your flagship and fleet
 as well as the assistance of powerful new allies.
 Though combat will be unavoidable, and sometimes necessary to achieve our goals
-I am certain your wits will be at least as important as your weapons.
+I am certain that your wits will be at least as important as your weapons.
 You will need to explore this region of space, gathering resources and information wherever you go.
 
 #(FIND_URQUAN) starbase-064.ogg
@@ -294,26 +292,27 @@ so I suggest you try to gather information from them, perhaps by force.
 #(FIGHT_URQUAN) starbase-065.ogg
 At first, your ship will be far too vulnerable to permit frontal assaults on the Ur-Quan.
 Even when your ship is at full power, we are faced with the reality
-that the Hierarchy has THOUSANDS of ships
-You cannot win the fight alone, Captain. You need allies.
-Also, towards the end of the War, when the Hierarchy broke through the coreward front,
+that the Hierarchy has THOUSANDS of ships.
+You cannot win the fight alone, Captain. You will need allies.
+Also
+towards the end of the War, when the Hierarchy broke through the coreward front,
 we heard rumors that the Ur-Quan had unleashed some kind of super-weapon
 which was unstoppable by normal means.
 You need to find out if that rumor was true, Captain
-because if the Ur-Quan do have such a weapon, we'll have to find some way to stop it
+because if the Ur-Quan do have such a weapon, we will have to find some way to stop it
 or all our efforts are for naught.
 
 #(ALLY_LIKE_SO) starbase-066.ogg
 If you encounter an unknown alien race, proceed carefully and diplomatically --
--- we need all the friends we can get, and we certainly can't afford any more enemies. 
-Remember, Captain, with your Precursor starship, you hold awesome power
+-- we need all the friends we can get, and we certainly can't afford any more enemies.
+Remember, Captain, with your Precursor starship, you hold a `stick' of awesome power
 but there will be situations when dealing with an alien race
-where a `carrot' will serve better than a `stick'.
+where a `carrot' will serve far better than a `stick'.
 But first you must determine what `carrot' the alien wants.
 
 #(STRONG_LIKE_SO) starbase-067.ogg
 You need to accumulate enough resources so that we can build up your flagship
-and assemble a strong fleet. I'd also recommend
+and assemble a strong fleet. I would also recommend
 that you acquire blueprints for other, more powerful ships than our trusty Cruiser.
 I suspect that aliens will not give you such `prints unless you form an alliance with them.
 
@@ -327,7 +326,7 @@ Which group of aliens?
 What about the War?
 
 #(WHICH_ANCIENT) starbase-071.ogg
-We have some data on this subject.  What do you want to know about?
+We have some data on this subject. What do you want to know about?
 
 #(OK_ENOUGH_HISTORY) starbase-072.ogg
 Sure. Anything else?
@@ -340,12 +339,12 @@ Which species?
 
 #(ABOUT_OTHER) starbase-075.ogg
 None that we had made formal contact with.
-The Chenjesu implied that they had met 2 other starfaring species
+The Chenjesu implied that they had met at least 2 other starfaring species
 one near the Giclas constellation, and the other directly coreward from Procyon.
 The Ariloulaleelay once mentioned having `some fun' with an alien race in Draconis
 but like so much else with the Arilou, they never revealed the whole story.
 I am sure there are hundreds more alien races in our galaxy,
-but beyond what I've told you, your guess is as good as mine.
+but beyond what I have just told you, your guess is as good as mine.
 
 #(OK_ENOUGH_ALIENS) starbase-076.ogg
 Would you like information on any other aspect of history?
@@ -356,46 +355,45 @@ They were discovered in the Delta Gorno star system by the Yehat
 who adopted and then `uplifted' the Shofixti, giving them advanced technology and cultural definition.
 Shofixti are noble and fearless Warriors, Captain. In addition, their incredible fecundity and rapid maturation rate
 kept Alliance ranks solid even at the worst part of the War.
-You know, I once flew as a observer aboard one of their ships
-on routine patrol, we never saw the enemy
+You know, I once flew as an observer aboard one of their ships
+on routine patrol; we never even saw the enemy
 but I could never stop thinking about the `Glory Device' it had strapped to the bottom of its hull.
 
 #(ABOUT_YEHAT) starbase-078.ogg
-The Yehat are a race of ancient warrior clans that have been traveling the stars for many centuries.
+The Yehat are a race of ancient warrior clans who have been travelling the stars for many centuries.
 The clans are highly competitive and sometimes even wage war on each other;
 but the clans are all loyal to the Queen and her royal family, known as the Veep-Zeeps.
 The Veep-Zeeps have been in power for over 2,000 years, and it is said that during their rule
-the Yehat never lost a battle.
+the Yehat have never lost a battle.
 
 #(ABOUT_ARILOU) starbase-079.ogg
-I'd like to think I'm not a bigoted person, Captain, especially when it comes to allies
+I like to think I'm not a bigoted person, Captain, especially when it comes to allies
 but there is just something about those Arilou that gives me the creeps.
-One thing I'll say for them, though
-they possess some technique for moving REALLY fast through HyperSpace.
-They never let us know what it was, but it sure beats the pants off our fastest ships.
+One thing I'll say for them, though. They possess some technique for moving REALLY fast through HyperSpace.
+They never let us know what it was, but it sure beat the pants off our fastest ships.
 
 #(ABOUT_CHENJESU) starbase-080.ogg
-The Chenjesu were leaders of the Alliance, even though they refused to accept formally the title.
+The Chenjesu were the leaders of the Alliance, even though they refused to accept formally the title.
 I don't know if their silicon-based biology is just plain superior to our old carbon models
 or if their fantastic intellects were the product of an ancient, peaceful culture.
 Whatever the reason, I'd rather be taking orders from a Chenjesu than any other lifeform, absolutely.
 One of the more amazing things about them was that they never used HyperWave communicators.
-They could send messages naturally
-And their natural HyperWave receptors were much more sensitive than even our best units.
+They could send such messages naturally
+and their natural HyperWave receptors were much more sensitive than even our best units.
 
 #(ABOUT_MMRNMHRM) starbase-081.ogg
 We didn't really get much of a chance to learn about those mechanical beings,
 but I'll tell you what I know.
 They are the product of a distant, unknown culture
 who sent a giant Factory-Ark into our region of space many centuries ago.
-The Mother-Ark (that's what the Earth press called it) churned out millions of robots and finally broke down.
+The Mother-Ark (that's what Earth Press called it) churned out millions of the robots and then finally broke down.
 I don't know why the Mmrnmhrm didn't repair the Mother-Ark, maybe they can't.
-My personal guess as to why they were sent here is that they're on the leading edge of a colonization project
+My personal guess as to why they were sent here is that they are the leading edge of a colonization project
 and once the Mmrnmhrm have tamed enough new worlds, the genuine colonists -- whoever they are
-will arrive and claim their due.
+will arrive to claim their due.
 
 #(ABOUT_SYREEN) starbase-082.ogg
-Most raw recruits saw the Syreen as nothing more than warm, breathing pin-ups.
+Most raw recruits see the Syreen as nothing more than warm, breathing pin-ups.
 Warm they are, and yes, they do breathe most magnificently
 but Captain, they are far more than simple joy units.
 Their history shows that the Syreen established and maintained a peaceful culture
@@ -411,28 +409,28 @@ that found aboard your starship.
 The Ur-Quan are born, live and die for one purpose only:
 the subjugation of all other intelligent life in the galaxy.
 Why? I don't know.
-They'd probably have an easier time just destroying intelligence
+They would probably have an easier time just destroying intelligence
 but they are very careful not to use more force than is necessary to achieve their victim's submission.
 I'd sure like to know what made those wormy bastards as twisted as they are
 and I'd like to know why they keep on the move, never stopping longer than it takes
 to enslave whomever they find.
 
 #(ABOUT_MYCON) starbase-085.ogg
-The Mycons are hard to get a handle on.
+The Mycon are hard to get a handle on.
 In fact, I'm not sure any human has ever had a real conversation with a Mycon.
 What we know of them we have learned from their corpses, which, I may add
 have a nasty habit of coming back to life when thawed out from a decompression quick-freeze.
 Mycon ships seem to expend a significant amount of energy on life support.
 This is probably because the Mycon only thrive in temperatures close to the melting point of lead.
-As far as we know, the Mycon are the only race to actively seek out the Ur-Quan
+As far as we know, the Mycon are the only race to seek out actively the Ur-Quan
 in order to become combat slaves.
 
 #(ABOUT_SPATHI) starbase-086.ogg
 Imagine facing a cowardly, mobile clam armed with a howitzer
-and you've got good idea of what it's like dealing with a Spathi.
+and you've got a good idea of what it's like dealing with a Spathi.
 Although they tend to avoid battles as much as their masters will allow
-Once in battle, a Spathi Eluder is one tough cookie.
-I once heard a rumor, though I don't like to believe in it myself,
+once in battle, a Spathi Eluder is one tough cookie.
+I once heard a rumor, though I don't believe it myself,
 that a rogue band of courageous Spathi broke away from the main starfleet,
 painted their ships black with bright red stripes
 and formed the `Black Spathi Squadron', dedicated to performing brave and hostile deeds.
@@ -449,25 +447,29 @@ but I don't know any details.
 
 #(ABOUT_ANDROSYNTH) starbase-088.ogg
 When I was flying combat missions along the Coreward Front
-there was nothing we feared more than the Androsynth Hit-And-Run Squadron.
-Their Blazer ships were more than a match for our Cruisers
+there was nothing we feared more than an Androsynth Hit-And-Run Squadron.
+Their Blazer starships were more than a match for our cruisers
 so we stayed clear of Eta Vulpeculae, their home star.
-In addition, I think each of us aboard the ship knew deep down in our hearts
-that the Androsynth had a damn good reason for hating us.
+In addition, I think each of us aboard ship knew deep down in our hearts
+that the Androsynth had damn good reasons for hating us.
 Our grandparents had kept them as slaves for nearly 50 years.
 
 #(ABOUT_VUX) starbase-089.ogg
 The starship Far Voyager, under the command of Captain Jeffry L. Rand, encountered the VUX near Beta Mira.
 Although the details are hazy, it is generally accepted that Rand offended the VUX starship Commander
 with an inadvertent insult.
+The resulting tension delayed the VUX entry into the Alliance long enough
+for the Ur-Quan to enter the region in force and subjugate the VUX.
+With the VUX on their side, the Hierarchy grew strong enough to attack the Alliance
+the rest, as they say, is history.
 
 #(ABOUT_ILWRATH) starbase-090.ogg
-I still have nightmares about those spiders
-taking me prisoner -- using me as one of their sick sacrifices to Dogar and Kazon
+I still have nightmares about one of the Spiders -- an Ilwrath --
+taking me prisoner -- using me in one of their sick sacrifices to Dogar and Kazon
 their twin gods of destruction and torment.
-Those guys were almost as scary as the Androsynth to those of us in deep-space patrol.
-Their Avenger ships could appear out of nowhere and melt a Cruiser down to slag in seconds.
-Luckily for us, the bulk of the Ilwrath fleet was thrown against the Chenjesu and the Mmrnmhrm.
+Those guys were almost as scary as the Androsynth to those of us on deep-space patrol.
+Their Avenger starships could appear out of nowhere and melt a Cruiser down to slag in seconds.
+Luckily for us, the bulk of the Ilwrath fleet was thrown against the Chenjesu and Mmrnmhrm.
 
 #(OK_ENOUGH_HIERARCHY) starbase-091.ogg
 What other group of aliens are you interested in?
@@ -480,19 +482,19 @@ We've found evidence of their presence just about everywhere
 from an orbital platform in Alpha Centauri, to a stack of DataPlates in a cave on Pluto
 to some nameless widget found in a voodoo shop in New Orleans.
 Though we've never found a Precursor body, or even a picture of one
-we can conjecture what they looked like by examining the scale and layout of their equipment.
-Such an analysis indicates they were giants, say 5 to 8 meters tall, and twice as wide.
+we can conjecture what they looked like by examining the scale and layout of their equipment
+Such an analysis indicates that they were giants, say 5 to 8 meters tall and twice as wide.
 I don't know if they looked more like a brontosaur or an elephant.
 Anyway, about three thousand years after the Precursors made their dramatic appearance
 they vanished, poof! As far as we can tell, it took less than a decade to happen.
 
 #(ABOUT_OLD_RACES) starbase-093.ogg
-You mean besides the Precursors? Well, the only information we have is second-hand
+You mean besides the Precursors? Well, the only information I have is second-hand
 based on some research by a Chenjesu historian that I read at the Academy.
 Tzzz-Tzer-Tzak, the historian, found some evidence that there was a group of alien races
 who formed an interstellar empire not too far from here about 22,000 years ago.
-The only species in this empire actually lived in our region of space
-was a race of rocklike creatures who lived in the Vulpeculae constellation.
+The only species in this empire who actually lived in our region of space
+was a race of rock-like creatures who lived in the Vulpeculae constellation.
 The presence of the hostile Androsynth in that part of space
 severely limited Tzzz-Tzer-Tzak's research.
 He never even found out the race's name.
@@ -500,21 +502,22 @@ He never even found out the race's name.
 #(ABOUT_ALIENS_ON_EARTH) starbase-094.ogg
 Yes, there is.
 Aside from the Precursor relics we have found on Earth --
--- often in museums, mislabeled as `modern art' --
+-- often in museums, mislabelled as `modern art' --
 -- we have discovered disturbing evidence of much more recent visitations.
 Perhaps you are already aware that during the mid-to-late 20th century
 there were uncountable UFO sightings, as well as dozens of reported `encounters' with alien life forms.
-Although we can discount many of the reports as wishful fabrication or traumatic-translation
+Although we can discount many of the reports as wishful fabrication or trauma-translation
 the military authorities of that time kept a secret record of the `incidents' which were legitimate.
 In each such case, the aliens are almost identical in appearance.
-They have white skin and minimal facial features, except for huge, almond-shaped eyes
+They have white skin and minimal facial features except for huge, almond-shaped eyes
 which are often described as `glowing' or `luminescent'.
 This description fits, almost perfectly, the Ariloulaleelay.
-In most of the legitimate encounters
+In most all of the legitimate encounters
 the people involved described being physically examined or modified by the aliens.
-In some cases, unusual pregnancies occurred, and in almost every instance, there were repeat visitations
+In some cases, unusual pregnancies occurred, and in almost every instance
+there were repeat visitations
 as though the Ariloulaleelay were doing `check-ups' on their subjects.
-We never got the chance to confront the Ariloulaleelay about what they did to us and why.
+We never got a chance to confront the Ariloulaleelay about what they did to us and why.
 I wonder if we ever will?
 
 #(OK_ENOUGH_ANCIENT) starbase-095.ogg
@@ -524,8 +527,8 @@ Would you like information on any other aspect of history?
 Earth got involved late in the game, in 2112, when the Chenjesu arrived in our solar system for the first time
 so let's back up a few years to 2098
 when the Chenjesu's super-sensitive receivers detected a strange signal from the Ophiuchi constellation.
-Though even the Chenjesu didn't know it, it was the first sign of the Ur-Quan's arrival.
-The Ur-Quan, having detected the presence of many sentient species, were beaming out an exulting hunting cry.
+Though even the Chenjesu didn't know it, this was the first sign of the Ur-Quan's arrival.
+The Ur-Quan, having detected the presence of many sentient species, were beaming out an exultant hunting cry.
 The first direct evidence of the Ur-Quan's intent
 was the sudden conquest of the Umgah, a solitary, though not unfriendly, species in the Orionis constellation.
 The Chenjesu, distraught by the invasion, were further angered when the Ur-Quan
@@ -538,46 +541,47 @@ the Androsynth stars fell to the Ur-Quan armada.
 Before the ink was dry on our agreement with the Chenjesu in 2116
 a new race appeared in orbit around the moon and asked for admittance to the Alliance
 it was the Ariloulaleelay.
-The timing seemed unusual and the Arilou were definitely weird, looking like Saucer Men from Mars
-but we were too busy cranking up our moth-balled heavy industry
+The timing seemed unusual and the Arilou were definitely weird, looking like the Saucer Men from Mars
+but we were so busy cranking up our moth-balled heavy industry
 that we didn't really pay it much attention at the time.
 
 #(WAR_WAS_LIKE_SO) starbase-097.ogg
 At the start of the war, here on Earth we were working like crazy
 churning out hundreds of heavy Cruisers and smaller support vehicles.
-The Ur-Quan were busy too.  Unbeknownst to us, they had moved down toward the Luyten star group
-and were attacking the VUX, who only the Yehat knew existed.
-Our botched first contact with the VUX took place in 2119, and it was the biggest single mistake we made during the War.
+The Ur-Quan were busy too. Unbeknownst to us, they had moved down toward the Luyten star group
+and were attacking the VUX, who only the Yehat knew even existed.
+Our botched first contact with the VUX took place in 2119
+and it was the biggest single mistake we made during the War.
 After defeating the VUX, the Ur-Quan fleets ran smack into the combined might of the Yehat and Shofixti
 supported by the first wave of our cruisers.
 Again the Ur-Quan turned away from the hard spot to attack the weak, though we just thought they were running away.
 In fact, the Ur-Quan had found another independent alien race, the Mycon, in the Brahe constellation.
-The Mycon's voluntary submission to the Ur-Quan
-brought the return of the Ur-Quan fleets, now swollen with a hundred devastating Mycon Podships.
+The Mycon's voluntary submission to the Ur-Quan brought the return of the Ur-Quan fleets
+now swollen with a hundred devastating Mycon Podships.
 The last entrants to the conflict were the Syreen, a race of space gypsies
 who had escaped the Hierarchy by moving their vast fleet of slow-moving habitats into human space.
 With the sides set, the last Ur-Quan offensive began.
 
 #(LOST_WAR_BECAUSE) starbase-098.ogg
 The Ur-Quan came roaring through VUX space, and tried to push past the Indi and Mira star systems.
-Their onslaught was barely repulsed and our counter-attack made hardly a dent in the Hierarchy forces
+Their onslaught was barely repulsed and our counter-attack made hardly a dent in Hierarchy forces
 but we held the line -- The Coreward front remained intact.
 Over the following ten years, there were many great battles between the combined Alliance starfleet
 and the Ur-Quan and their Hierarchy of Battle Thralls.
-Then, in 2134, a dramatic shift in the balance of power took place --
--- this must have been about the time the science research mission was sent to the planet at Vela --
--- our fleets were pushed back from the Indi-Mira line to beyond Raynet.
+Then, in 2134, a dramatic shift in the balance of power took place
+this must have been just about the time the science research mission was sent to your planet at Vela
+our fleets were pushed back from the Indi-Mira line to beyond Raynet.
 Holding Rigel cost grievously in Chenjesu forces and the Ur-Quan, recognizing this weakness
 shifted to focus the brunt of their forces on Procyon.
-That was the last we heard from the Chenjesu and the Mmrnmhrm.
+That was the last we heard from the Chenjesu and Mmrnmhrm.
 A few weeks later, waves of ships hit us from all directions.
 When Ceres Station, our outpost in the Asteroid belt, fell to the Hierarchy, we knew we were beaten
 but we fought on anyway.
 Three days later the Ur-Quan vaporized our last remaining laser-forts on the moon
-and the Dreadnoughts took up geo-synchronous position above Rome
+and Dreadnoughts took up geo-synchronous position above Rome
 Moscow, Beijing, Tokyo, London, Buenos Aires, and Washington.
-We'd lost the War and we knew it, but the Ur-Quan decided to make it real clear --
--- and that's why if you check any of our most recent maps, you won't find Buenos Aires.
+We'd lost the War and we knew it, but the Ur-Quan decided to make it real clear
+and that's why if you check our most recent maps, you won't find Buenos Aires.
 
 #(AFTER_WAR) starbase-099.ogg
 After the UN submitted their formal surrender
@@ -585,26 +589,26 @@ we were given a week to decide the nature of our servitude.
 The Ur-Quan demanded that the decision be made through popular vote.
 When all the votes were tallied, Earth had chosen not to fight for the Ur-Quan
 we had become a fallow slave world.
-We were given a month to withdraw all of our people and equipment to Earth.
+We were given a month to withdraw all our people and equipment to Earth.
 Anyone or anything we left off-planet would be destroyed after the shield went up.
-Then the Ur-Quan broadcast an odd message
-all objects of human construction more than 500 years old were `to be abandoned'.
+Then the Ur-Quan broadcast an odd message:
+All objects of human construction more than 500 years old were `to be abandoned'.
 We didn't know what the Ur-Quan meant until they moved their Dreadnoughts to new orbital positions
 and opened fire on the surface with their fusion weapons.
 In seconds, large sections of London, Paris, and other European cities were incinerated.
 At first we thought they were going to annihilate us after all
 and we noticed that they were also striking such targets as the Giza Pyramids
 the Parthenon in Athens, and Stonehenge. Curiously, The United States was almost untouched.
-The flaming rain lasted 40 hellish hours.
-It took days after we crawled from our smoldering shelters to realize what the Ur-Quan had done.
-Our new masters had targeted every building, monument or other manmade construction older than 500 years
+The flaming rain lasted for 40 hellish hours.
+It took days after we crawled from our smouldering shelters to realize what the Ur-Quan had done.
+Our new masters had targeted every building, monument or other man-made construction older than 500 years
 and destroyed it.
-In those two days, we lost most of the history of Mankind.
+In those two days, we lost most of the history of mankind.
 In some cases, the Ur-Quan destroyed places
-we did not even suspect were significant.
+which we did not even suspect were significant.
 From their positions in orbit, the Dreadnoughts blew away a kilometer of land in central Iraq
 vaporized several targets in the Amazon rain forest
-punched a big hole through the Antarctic icecap to destroy something deep under the surface
+punched a big hole through the antarctic icecap to destroy something deep under the surface
 and melted a broad swath of the ocean floor in the south-eastern Atlantic.
 Then, just a couple of days later, the shield went up
 and our contact with the outside world stopped.
@@ -612,7 +616,7 @@ The next time I saw the stars was 8 years ago,
 when I was transferred up here to be the new commander of this starbase.
 
 #(OK_ENOUGH_WAR) starbase-100.ogg
-Would you like any information on any other aspect of history?
+Would you like information on any other aspect of history?
 
 #(STARBASE_BULLETIN_TAIL) starbase-101.ogg
 That's all for now, Captain.
@@ -622,14 +626,14 @@ also
 
 #(STARBASE_BULLETIN_1) starbase-103.ogg
 Captain, a delegation of Spathi has just arrived here under orders from their High Council
-to form an alliance and assist you against the Hierarchy!
+to form an alliance and assist us against the Hierarchy!
 They have provided fabricator blueprint data for their `Eluder' spacecraft
 and promise a steady supply of captains for as many ships as we build.
 Excellent work, Captain!
 
 #(STARBASE_BULLETIN_2) starbase-104.ogg
 It would appear that your diplomatic efforts have struck gold, Captain.
-We have been contacted by a race called the Zoq-Fot-Pik,
+We have been contacted by a race called the Zoq-Fot-Pik
 who wish to fulfill their part of `the Unification' --
 -- something you have arranged with them, I gather.
 They have sent us specifications for their Stinger-class attack vessels
@@ -638,13 +642,13 @@ You're doing a fine job, Captain.
 
 #(STARBASE_BULLETIN_3) starbase-105.ogg
 A race of plant creatures called the Supox have arrived in your absence, Captain.
-They offered use of their ship designs and will supply you as many starship captains as we require.
+They offered use of their ship designs and will supply as many starship captains as we require.
 I, of course, accepted their offer immediately.
 
 #(STARBASE_BULLETIN_4) starbase-106.ogg
 A small contingent of Utwig has visited.
 After spending a few days setting up our fabricators to build their Jugger starships
-and providing us with a few capable commanders, they departed.
+and providing us with a few capable commanders they departed.
 Captain, if you continue to build such strong alliances
 we will surely win our battle against the Ur-Quan!
 
@@ -659,13 +663,13 @@ I'd say we have quite a nasty little surprise in store for the Ur-Quan the next 
 #(STARBASE_BULLETIN_6) starbase-108.ogg
 Good news, Captain!
 With no announcement, a small fleet of Ariloulaleelay popped into space adjacent to our starbase
-scaring the hell out of the Deep-Radar operator
-but right now I could kiss every one of those pale little weirdoes
+scaring the hell out of the Deep-Radar operator, I might add.
+But right now I could kiss every one of those pale little weirdos
 because they gave us three Skiff vessels!
 
 #(STARBASE_BULLETIN_7) starbase-109.ogg
 We are receiving a priority distress call from the Zoq-Fot Homeworld at Alpha Tucanae.
-The signal was urgent but extremely weak. The only portions of the transmission that we can be sure of are:
+The signal was urgent but extremely weak. The only portions of the transmission we can be sure of are:
 `HELP!'
 `BLACK DESTROYER!'
 `PLANET UNDER ATTACK!'
@@ -676,13 +680,13 @@ and finally
 
 #(STARBASE_BULLETIN_8) starbase-110.ogg
 A previously unknown alien race has recently made contact with our base.
-They call themselves the Melnorme, and they are anxious to initiate trading relations with us.
+They call themselves the Melnorme, and are anxious to initiate trading relations with us.
 If we are interested, they suggest making a rendezvous at Alpha Centauri.
 
 #(STARBASE_BULLETIN_9) starbase-111.ogg
-The Melnorme have returned, wondering when you want to meet them.
-They seemed friendly but are unwilling to deal with us,
-claiming that we have no data they consider valuable.
+The Melnorme have returned, wondering when you will meet them.
+They seemed friendly but were unwilling to deal with us,
+claiming that we had no data they consider valuable.
 They said to make contact with them in any supergiant star system.
 
 #(STARBASE_BULLETIN_10) starbase-112.ogg
@@ -695,7 +699,7 @@ and could represent the presence of a Hierarchy spy.
 #(STARBASE_BULLETIN_11) starbase-113.ogg
 We have a major situation Captain!
 As of a few days ago, all Spathi starship captains have vanished from our starbase.
-We don't know how or why, but until we receive replacements from Spathiwa
+We do not know how or why, but until we receive replacements from Spathiwa
 you will be unable to commission any additional Spathi Eluder vessels for your fleet.
 
 #(STARBASE_BULLETIN_12) starbase-114.ogg
@@ -711,7 +715,7 @@ The Shofixti have returned!
 Their ships can now be built in our shipyards.
 With their vast numbers swelling our ranks
 we won't have to worry about running out of able-bodied crew
-and I'm sure their volunteers will reduce the cost for new crew.
+and I am sure their volunteers will reduce the cost for new crew.
 
 #(STARBASE_BULLETIN_15) starbase-117.ogg
 We have detected a minute but measurable disturbance in the InterSpace fabric
@@ -720,46 +724,46 @@ Our scientists speculate that this disturbance may be caused by many thousands o
 all in phase -- as though a huge fleet of ships were on the move.
 
 #(STARBASE_BULLETIN_16) starbase-118.ogg
-In the log of your voyage from Unzervalt, I read that you encountered a tumbling,
-red probe that attacked the Tobermoon, killing Captain Burton.
-Over the past few months we have monitored an increasing number of these probes entering the system,
-and I'm afraid their population seems to be growing geometrically.
-If this continues, in a year space will be crawling with these things!
+In the log of your voyage from Unzervalt, I read that you encountered
+a tumbling, red probe that attacked the Tobermoon, killing Captain Burton.
+Over the past few months, we have monitored an increasing number of these probes entering the system
+and I am afraid their population seems to be growing geometrically.
+If this continues, in a year, space will be crawling with these things.
 I recommend you treat this as a serious problem now, before it becomes a disaster.
-Discover who is producing these probes and stop them from creating any more.
+Discover who is producing those probes and stop them from creating any more.
 
 #(STARBASE_BULLETIN_18) starbase-119.ogg
-This seems strange to me, and I considered not bringing it up
+This seems strange to me, and I considered not even bringing it up
 but not long ago, six of my people fell unconscious simultaneously for no apparent reason.
-When they awoke hours later, they reported being overwhelmed by a feeling
-of something VERY wrong that had taken place.
+When they awoke hours later, they reported being overwhelmed
+by a feeling that something VERY wrong had taken place.
 The Med Techs couldn't find anything wrong with these crew members, but they discovered one correlation.
 All six of them have exceptionally high esper ratings.
 
 #(STARBASE_BULLETIN_19) starbase-120.ogg
-In the two weeks that have passed since the Chmmr began to work on your vessel
-they attached the Utwig bomb to your ship, and have also put in place
+In the two weeks which have passed since the Chmmr began work on your vessel
+they have attached the Utwig bomb to your ship, and have also put in place
 their own crystalline amplification devices to boost dramatically the power of the weapon.
 This work is now complete, and your flagship is ready for whatever final modifications you desire.
 The Chmmr technicians wanted me to explain to you that the bomb and its crystal power boosters
 are fragile and cannot be moved from their positions at the back of your vehicle.
-Now I have some bad news, and some good news.
-The Chmmr had to remove all your main modules, weapons, crew pods, and the whole lot
+Now I have some bad news and some good news.
+The Chmmr had to remove all your main modules, weapons, crew pods, the whole lot
 including your emergency warp escape unit
 so pick your engagements carefully, Captain.
 In addition, their equipment now fills the rear ten slots leaving you only six for your own modules.
 But here's the good news
-The Chmmr have provided us with an unbelievable wealth of minerals and other resources.
+The Chmmr have provided us with an unbelieveable wealth of minerals and other resources.
 We no longer have limits on what we can build for your flagship, or your fleet.
 
 #(STARBASE_BULLETIN_22) starbase-121.ogg
-I have some somber news.
+I have somber news.
 For weeks now we have been scanning space in the direction of the Tucanae stars
-hoping to hear some word from our Zoq-Fot-Pik allies,
+hoping to hear some word from our Zoq-Fot-Pik allies
 with no success. We must assume that something grave has happened to them.
 We did receive an alien broadcast however -- it rang through space like an electronic howl.
 I think the best way to describe it would be
-`exultant'.
+exultant.
 
 #(STARBASE_BULLETIN_27) starbase-122.ogg
 Captain, I have an unpleasant topic to discuss with you, but this needs to be resolved right away.
@@ -784,20 +788,21 @@ I expect the RU cost for crew will sky-rocket.
 
 #(STARBASE_BULLETIN_29) starbase-124.ogg
 Well Captain, we have another problem.
-Your efforts on our behalf have been amazing, I truly believe we may win this struggle
+Your efforts on our behalf have been amazing, I truly believe that we may win this struggle
 but these achievements have not been gained without a price.
 Over a thousand of my people have gone away with you on your ship
 and not returned.
 A THOUSAND, Captain!
-Crew are quickly becoming a valuable commodity
+Crew are quickly becoming a valuable commodity, Captain
 and I expect their RU cost will reflect this.
 
 #(STARBASE_BULLETIN_30) starbase-125.ogg
-I can't believe what I've just heard!
-Captain, you're a heinous slave-trader!
-Your exchanges with the Druuge have become a horror story throughout the entire starbase.
-If anyone here is stupid enough to join your crew, I expect the RU cost will be sky high.
-If you weren't our only hope for freedom, Captain, I'd kill you where you stand.
+I cannot believe what I have just heard.
+Captain, you are a heinous SLAVE-TRADER!
+Your exchanges with the Druuge have become a horror story throughout the starbase!
+If anyone here is stupid enough to join your crew, I expect the RU cost will be skyhigh.
+If you weren't our only hope for freedom, Captain
+I'd kill you where you stand.
 As it is, expect me to bring charges against you when this is all over.
 
 #(DEVICE_HEAD) starbase-126.ogg
@@ -820,32 +825,31 @@ The hazards and benefits of this process are impossible to gauge without field s
 
 #(ABOUT_TALKPET) starbase-130.ogg
 SUBJECT: Talking Pet Lifeform.
-DATA: This creature is physiologically identical to the so-called Ur-Quan `Talking Pet', with one notable exception:
+DATA: This creature is physiologically identical to the so-called Ur-Quan `Talking Pet' with one notable exception.
 It is highly intelligent, and evidences strong psychic capabilities.
 Initial AIQR tests rated it well above human super-genius
 though immediately after we made this shocking assessment
-its scores dropped to the normal-sub-normal range.
+its scores dropped into the normal/sub-normal range.
 Interviews with the subject have shown it to be cooperative
-though a class-IV pan-species psychological profile places the creature far into the `Furtive-Hateful' domain.
+though a class-IV pan-species psychological profile places the creature far into the Furtive-Hateful domain.
 There were also some disturbing incidents where
 we talked about roses, daisies, and other pretty flowers!
-SUMMARY: Everything's okay! Nothing to worry about with this cuddly little guy.
+SUMMARY: Everything's okay! We have nothing to worry about with this cuddly little guy.
 Not one thing!
 
 #(ABOUT_BOMB) starbase-131.ogg
 SUBJECT: Utwig Bomb Device.
 DATA: Analysis has yielded little information about this device
 largely because of our technicians' unwillingness to open it, or even remove the bomb from your ship.
-That aside, here's what we know so far:
+That aside, here's what we know so far
 The device is correctly defined as a Bomb... one of enormous destructive potential
 but it is not of Utwig origin -- nothing about it relates to the technology we see in the Jugger ship.
-We believe it to be of late Precursor origin
-though it somewhat resembles certain Chenjesu technology.
+We believe it to be of late Precursor origin, though it somewhat resembles certain Chenjesu technology.
 Its original function? -- Probably a planeteering tool for dispersing unwanted moons.
 SUMMARY: Unless there is a strong reason to do otherwise
 DO NOT ACTIVATE THIS DEVICE! LEAVE IT ALONE!
 Any experimentation should be conducted AT LEAST 12 AU from this starbase
-and preferably a bit further.
+preferably a bit further.
 
 #(ABOUT_SUN) starbase-132.ogg
 SUBJECT: Sun Device.
@@ -876,7 +880,7 @@ SUBJECT: Aqua Helix Device.
 DATA: This device is composed of a light blue, super-hard substance which rates Mohs-13.
 The object is composed of a flat ribbon of homogenous material approximately 1 meter in length
 and it is twisted in a perfect helix.
-Focused ion and nucleo-magnetic scans reveal little about its interior.
+Focused-ion and nucleo-magnetic scans reveal little about its interior.
 SUMMARY: Unknown design. Unknown origin. Unknown function.
 
 #(ABOUT_SPINDLE) starbase-136.ogg
@@ -891,7 +895,7 @@ SUBJECT: Ultron Device.
 We put this thing through every test we've got, and came up with the same results as if we'd used a fork
 nothing, zero, zip.
 If this thing ever functioned -- which we doubt -- it certainly won't now.
-Age and physical stress have long since robbed it of whatever `mystical powers' it might have once had.
+Age and physical stress have long since robbed it of whatever `mystical powers' it might once have had.
 SUMMARY: In the future, please don't waste our valuable time on junk like this so-called `Ultron.'
 
 #(ABOUT_ULTRON_1) starbase-138.ogg
@@ -900,14 +904,14 @@ DATA: At first we thought this was a piece of junk -- in fact it may still be ju
 but when you submitted it to us, we infused it with gamma radiation
 and found that the scatter signature was identical to the patterns
 recorded from the `Empties', the `Singing Hoops', and `the Big Dud'
-which were all found in Precursor burrows on Procyon.
+which were all found in the Precursor burrows on Procyon.
 SUMMARY: We are now convinced that this is a Precursor tool, but it remains dysfunctional.
 
 #(ABOUT_ULTRON_2) starbase-139.ogg
 SUBJECT: Ultron Device.
 DATA: The Ultron is partially functional, and we can detect energy emission from the device.
 We suspect that the unit requires additional minor repairs before achieving full functionality
-and at this time, we cannot make an assessment of its capabilities.
+and until that time, we cannot make an assessment of its capabilities.
 SUMMARY: A single additional replacement part should bring the Ultron to life.
 
 #(ABOUT_ULTRON_3) starbase-140.ogg
@@ -915,35 +919,35 @@ SUBJECT: Ultron.
 DATA: We have determined that the so-called `Ultron' is in fact the `Appendages of Dawn'
 described in the Precursor fragment found on Rigel in 2123.
 In the partially translated Precursor text, the device is described as a `Mental Amplifier'
-which focuses mental energies of the holder `for the purpose of discreet change'.
+which focuses the mental energies of the holder `for the purpose of discrete change'.
 Unfortunately, human brain emanations do not seem compatible with the Ultron
 nor do those of the allied species we have tested.
 SUMMARY: Perhaps the Utwig, who claim to understand this device, can shed some light
 on its true function and power.
 
 #(ABOUT_UCASTER) starbase-141.ogg
-SUBJECT: HyperWave Broadcaster - Umgah Design.
+SUBJECT: HyperWave Broad`Caster - Umgah Design.
 DATA: This unit is capable of generating extremely intense HyperWave transmissions
-though it is otherwise similar to our own 'Casters.
-SUMMARY: This thing would be great for practical jokes. You could scream `Boo!' from an Oort Cloud
+though it is otherwise similar to our own `Casters.
+SUMMARY: This thing would be great for practical jokes. You could scream `Boo!' from the Oort Cloud
 and scare the pants, or whatever, off everyone in the system.
 If you used it in HyperSpace, there's no telling who might hear you and come running.
 
 #(ABOUT_BCASTER) starbase-142.ogg
-SUBJECT: HyperWave Broadcaster - Unknown Design.
-DATA: This technology is new to us, but though a bit primitive by Alliance standards
-is capable of generating a VERY strong signal.
+SUBJECT: HyperWave Broad`Caster - Unknown Design.
+DATA: This technology is new to us, and though a bit primitive by Alliance standards
+it is capable of generating a VERY strong signal.
 SUMMARY: Should you wish to call someone in HyperSpace, or send a message through a mile of steel
-this baby will do just fine.
+this baby would do just fine.
 
 #(ABOUT_SHIELD) starbase-143.ogg
 SUBJECT: Taalo Device.
-DATA: Whoever the Taalo were, they were clever -- way past us, probably even beyond the Chenjesu.
-As far as I can tell, with all our equipment, this thing is a rock.
-Just a rock; nothing but a rock. However,
-if you feed a current into it, anywhere along its surface
+DATA: Whoever the Taalo were, they were clever -- way past us. Probably even beyond the Chenjesu.
+As far as I can tell, with all our equipment, this thing is
+a rock. Just a rock, and nothing but a rock. However
+If you feed a current into it, anywhere along its surface
 everyone on board this starbase who has esper potential gets a bad headache.
-Well we checked a bit more into that, and when the Taalo thing is active
+Well, we checked a bit more into that, and when the Taalo thing is active
 all evidence of psychon interaction is flatlined -- nothing gets through.
 SUMMARY: If you keep this Taalo rock device thing on board your vessel
 I'll bet you are immune to any form of psychic attack
@@ -951,40 +955,40 @@ or at least mostly immune.
 
 #(ABOUT_EGGCASE_0) starbase-144.ogg
 SUBJECT: Mycon Egg Case.
-DATA: We really didn't know Mycon came from eggs, but our analysis of this sheath
-shows that it has been subjected to phenomenal temperatures and pressures.
+DATA: We didn't really know Mycon came from eggs, but our analysis of this sheath
+Further study shows that it has been subjected to phenomenal temperatures and pressures.
 The most unusual aspect of the egg case is its size
 we know Mycons range in height from .5 to 3.5 meters
 but our reconstruction of the whole egg case shows it to be over 25 meters high!
-SUMMARY: If a Mycon came out of this, it's gotta be really big.
+SUMMARY: If a Mycon came out of this, it is probably really big.ig.
 
 #(ABOUT_SHUTTLE) starbase-145.ogg
 SUBJECT: Syreen Pilot Shuttle.
 DATA: As yet, the field research team has failed to report back to their group leaders.
 When we called them, they described being deep in study
 and wished to attend to a few important details before returning to the base.
-SUMMARY: Several group leaders have volunteered to assist the team to `help them where they can.'
+SUMMARY: Several group leaders have volunteered to assist the field team to `help them where they can.'
 
 #(ABOUT_VUXBEAST0) starbase-146.ogg
 SUBJECT: Hostile Alien Creature.
 
 #(ABOUT_VUXBEAST1) starbase-191.ogg
 DATA: This is newly-promoted, junior scientist Hawkins reporting.
-Dr. Chu -- y'know, he's the leader of this section -- he's still in sick bay.
-He's been there ever since that thing took a swipe at him and he got too close to the cage.
-I guess it's got like, triple-jointed arms or something... with spikes and razor-plates all over.
-Uh... data? Oh yeah, right, right
+Dr. Chu -- he's the leader of this section -- is still in the sick bay.
+He's been there ever since that thing took a swipe at him when he got too close to the cage.
+I guess it's got, like, triple-jointed arms or something... with spikes and razor-plates all over.
+Uh... data? Oh yeah, right
 Subject is a Xenoteratomorph -- a big honkin' one, I might add.
-It eats everything -- plants, animal tissue, wood
+Well, it eats everything -- plant and animal tissue, wood
 ceramics, plastics, asbestos fibers
 several types of metal
 chairs, a desk and about half of everything a security officer wears.
-What is doesn't eat, it chews, and what it doesn't chew
-well, it breaks up into tiny little pieces.
-What... summary? Oh, oh yeah
+What it doesn't eat, it chews, and what it doesn't chew
+well, it just breaks up into tiny little pieces.
+What... summary? Oh, yeah
 SUMMARY: The sooner you get that thing off this starbase
-the less likely it is that that thing will get loose and kill us all.
-Uh... I, uh, I guess that's it.
+the less likely it is that the thing will get loose and kill us all.
+Uh... guess that's it.
 
 #(ABOUT_DESTRUCT) starbase-147.ogg
 SUBJECT: Slylandro Probe Destruct Code Sequence.
@@ -997,7 +1001,7 @@ and then transmit the code.
 SUBJECT: Ur-Quan Warp Pod.
 DATA: This unit appears to be the core for the starboard warp pod of an Ur-Quan Dreadnought.
 It is surprisingly similar to our own warp cores
-but it generates a much stronger, tighter field than the equipment we have on our Cruisers.
+but it generates a much stronger, tighter field than the equipment we have on our cruisers.
 SUMMARY: For us, the Warp Pod is little more than a curiosity
 though you may find some useful application for it in the future.
 
@@ -1010,9 +1014,9 @@ SUMMARY: To be honest, Captain, I believe that the Druuge robbed you blind.
 #(ABOUT_ARTIFACT_3) starbase-150.ogg
 SUBJECT: Glowing Rod Device.
 DATA: We had high hopes for this device, Captain, because of the constant, pulsing aura it generated.
-However, I am afraid after investigating the object, and locating its concealed batteries slot
+However, I am afraid after investigating the object, and locating its concealed batteries' slot
 we had to conclude that this was nothing more than a well-crafted toy.
-SUMMARY: In the future, Captain, I would be very careful of what I bought from the Druuge.
+SUMMARY: In the future, Captain, I would be very careful what I bought from the Druuge.
 
 #(LETS_SEE) starbase-151.ogg
 Hmm... let's see...
@@ -1067,60 +1071,61 @@ You've got the bomb from the Utwig.
 You must find some way to destroy the Ur-Quan supership, the Sa-Matra.
 
 #(MUST_INCREASE_BOMB_STRENGTH) starbase-166.ogg
-Although the bomb you got from the Utwig is horrendously powerful,
+Although the bomb you got from the Utwig is horrendously powerful
 I'm afraid our computer projections show that the explosion will not be sufficient
 to break through the Sa-Matra's defenses.
 You must find some way to increase the energy output of the weapon.
-Perhaps the Chenjesu and their superior scientific knowledge could have done this,
+Perhaps the Chenjesu, with their superior scientific knowledge, could have done this
 but unfortunately, we do not currently possess the technology to achieve this modification.
 
 #(MUST_ACQUIRE_AWESOME_FLEET) starbase-167.ogg
-I'm certain we need to assemble a more powerful fleet of combat ships before you face the Sa-Matra.
+I'm certain you need to assemble a more powerful fleet of combat ships before you face the Sa-Matra.
 
 #(MUST_ELIMINATE_URQUAN_GUARDS) starbase-168.ogg
 You must figure out how to eliminate or destroy the Ur-Quan and Kohr-Ah ships guarding the Sa-Matra.
 
 #(CHMMR_IMPROVED_BOMB) starbase-169.ogg
-The Chmmr have modified your ship to route its weapon power through the Utwig bomb.
+The Chmmr have modified your ship to route its weapon power through the Utwig bomb
 
 #(GOT_AWESOME_FLEET) starbase-170.ogg
 You have amassed a powerful fleet of combat ships.
 
 #(GO_DESTROY_SAMATRA) starbase-171.ogg
 Go attack the Ur-Quan Sa-Matra vessel!
-Although I'm sure it will be a difficult battle,
+Although I'm sure it will be a difficult battle
 you have everything you need to achieve victory.
+GOOD LUCK AGAIN
 
 #(GOOD_LUCK_AGAIN) starbase-172.ogg
 We're all depending on you.  Goodbye, and good luck.
 
 #(IMPROVE_1) starbase-173.ogg
-You need to build up and balance the strength of your flagship.
+You need to build up and balance the strength of your flagship; specifically, I would
 
 #(IMPROVE_2) starbase-174.ogg
 My guess is you need to upgrade your flagship
 to make it more than a match for any enemy ship you might encounter.
 
 #(NEED_THRUSTERS_1) starbase-175.ogg
-I would add thrusters up to say, 5 or 6.
-Speed is essential in combat, but it would also pay off over the long haul in HyperSpace
+Add thrusters up to say, 5 or 6.
+Speed is essential in combat, but it will also pay off over the long haul in HyperSpace
 and if you prefer to avoid confrontation, nothing beats a great pair of legs.
 
 #(NEED_THRUSTERS_2) starbase-176.ogg
-I would maximize your ship's thrusters. You will need speed when you confront the Ur-Quan.
+Maximize your ship's thrusters. You will need the speed when you finally confront the Ur-Quan.
 
 #(NEED_TURN_1) starbase-177.ogg
-I would add turning jets for increased maneuverability.
+Add turning jets for increased maneuverability
 
 #(NEED_TURN_2) starbase-178.ogg
-I would maximize rotation speed by filling your turning jet slots.
+Maximize rotation speed by filling your turning jet slots
 
 #(NEED_GUNS_1) starbase-179.ogg
-I would add enough weapons to defend yourself if you are caught without escort ships.
+Add enough weapons to defend yourself if you are caught without escort ships
 
 #(NEED_GUNS_2) starbase-180.ogg
-I would take advantage of your ship's capacity for combat by increasing its firepower.
-Add more weaponry.
+Take advantage of your ship's capacity for combat by increasing its firepower.
+Add more weaponry
 
 #(NEED_CREW_1) starbase-181.ogg
 You need more crew, at least 50, to make productive voyages into space.
@@ -1151,7 +1156,7 @@ You need more dynamo power;
 otherwise your weapon re-energizing delays will be your undoing in combat.
 
 #(NEED_POINT) starbase-190.ogg
-I suggest you invest in one or more point-defense laser systems.
+I suggest you invest in one or more point-defense laser batteries.
 
 #(have_minerals)
 Commander, I have minerals to offload.
@@ -1160,13 +1165,13 @@ Commander, I have minerals to offload.
 Goodbye, Commander.
 
 #(repeat_bulletins)
-Commander, would you repeat what you told me when we began this conversation?
+Would you repeat your most recent bulletins?
 
 #(need_info)
-Before proceeding I need some additional background information.
+I need some additional background information..
 
 #(starbase_functions)
-Would you elaborate on your facilities here at the starbase?
+Would you elaborate on the starbase's facilities?
 
 #(history)
 I would like some historical data.
@@ -1202,19 +1207,19 @@ Would you please explain your resource allocation system?
 What kind of resources are most useful to our mission?
 
 #(tell_me_about_life)
-What use are our planet landers' sophisticated lifeform analysis features?
+What use are our planet landers' lifeform analysis features?
 
 #(where_get_minerals)
 Where can I find the most useful, plentiful mineral resources?
 
 #(what_about_aliens)
-How should I deal with aliens I meet in space?
+How should I deal with aliens I meet?
 
 #(what_about_urquan)
 How can we deal with the Ur-Quan?
 
 #(how_defeat)
-Commander, do you have any long range plans to defeat the Ur-Quan Hierarchy?
+Commander, how can we engineer the fall of the Ur-Quan Hierarchy?
 
 #(how_find_urquan)
 How can I find the Ur-Quan?
@@ -1244,7 +1249,7 @@ No more history, thank you.
 The members of the old Alliance.
 
 #(what_about_hierarchy)
-The Hierarchy and their battle thralls.
+The battle thralls in the Hierarchy.
 
 #(what_about_other)
 Were there any alien races who weren't in the War?
@@ -1325,7 +1330,7 @@ What happened after the War?
 Thanks, Commander, for the briefing.
 
 #(new_devices)
-Can your scientists analyze what I have acquired since my last visit?
+What is the analysis of my recent acquisitions?
 
 #(how_get_strong)
 What is the fastest way for us to build up our strength?
