@@ -1337,3 +1337,45 @@ What is the fastest way for us to build up our strength?
 
 #(what_do_now)
 If you were in my shoes, what would you do now?
+
+#(CARGO_LIST) null.ogg
+The <% state.sis.getShipName() %>'s cargo manifest lists:
+
+#(ELLIPSES) null.ogg
+...
+
+#(BLANK) null.ogg
+ 
+
+#(KILOTONS_OF) null.ogg
+ Kilotons of
+
+#(COMMONR) null.ogg
+ common elements
+
+#(CORROSR) null.ogg
+ corrosives
+
+#(BASEMER) null.ogg
+ base metals
+
+#(NOBLESR) null.ogg
+ noble elements
+
+#(RAREEAR) null.ogg
+ rare earths
+
+#(PRECIOR) null.ogg
+ precious elements
+
+#(RADIOAR) null.ogg
+ radioactives
+
+#(EXOTICR) null.ogg
+ exotic substances
+
+#(FOR) null.ogg
+ for 
+
+#(RESUNITS) null.ogg
+ ResUnits...
