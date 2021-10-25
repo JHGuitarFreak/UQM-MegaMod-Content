@@ -1,6 +1,6 @@
 comm.arilou.dialogue = CONVERSATION:addons/3dovoice/arilou/arilou.txt:addons/3dovoice/arilou/:addons/3dovoice/arilou/arilou.ts
 comm.chmmr.dialogue = CONVERSATION:base/comm/chmmr/chmmr.txt:addons/3dovoice/chmmr/:addons/3dovoice/chmmr/chmmr.ts
-comm.commander.dialogue = CONVERSATION:base/comm/commander/commander.txt:addons/3dovoice/commander/:addons/3dovoice/commander/commander.ts
+comm.commander.dialogue = CONVERSATION:addons/3dovoice/commander/commander.txt:addons/3dovoice/commander/:addons/3dovoice/commander/commander.ts
 comm.druuge.dialogue = CONVERSATION:base/comm/druuge/druuge.txt:addons/3dovoice/druuge/:addons/3dovoice/druuge/druuge.ts
 comm.ilwrath.dialogue = CONVERSATION:base/comm/ilwrath/ilwrath.txt:addons/3dovoice/ilwrath/:addons/3dovoice/ilwrath/ilwrath.ts
 comm.kohrah.dialogue = CONVERSATION:base/comm/kohrah/kohrah.txt:addons/3dovoice/kohrah/:addons/3dovoice/kohrah/kohrah.ts
