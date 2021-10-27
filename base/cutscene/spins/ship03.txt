@@ -16,6 +16,9 @@ DIMS 320 240
 #(Fade out)
 FTB 250
 
+#(Ditty)
+DITTY 3
+
 #(Draw first frame)
 DRAW 0
 
