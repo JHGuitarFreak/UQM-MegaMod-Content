@@ -17,7 +17,7 @@ DIMS 320 240
 FTB 250
 
 #(Ditty)
-DITTY 10
+DITTY mycon
 
 #(Draw first frame)
 DRAW 0

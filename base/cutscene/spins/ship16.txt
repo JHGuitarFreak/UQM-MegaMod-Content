@@ -17,7 +17,7 @@ DIMS 320 240
 FTB 250
 
 #(Ditty)
-DITTY 16
+DITTY supox
 
 #(Draw first frame)
 DRAW 0

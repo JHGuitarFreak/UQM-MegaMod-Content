@@ -17,7 +17,7 @@ DIMS 320 240
 FTB 250
 
 #(Ditty)
-DITTY 14
+DITTY slylandro
 
 #(Draw first frame)
 DRAW 0
