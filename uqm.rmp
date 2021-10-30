@@ -252,6 +252,7 @@ graphics.outfit = GFXRES:base/ui/outfit.ani
 graphics.outfitmodules = GFXRES:base/ui/outfitmodules.ani
 graphics.pickship = GFXRES:base/ui/pickship.ani
 graphics.planets = GFXRES:base/nav/planets.ani
+graphics.planets.slaveshield = GFXRES:base/nav/slaveshield.ani
 graphics.dos.planets = GFXRES:base/nav/dos-planets/planets.ani
 graphics.playmenu = GFXRES:base/ui/playmenu.ani
 graphics.quake = GFXRES:base/lander/hazard/quake.ani

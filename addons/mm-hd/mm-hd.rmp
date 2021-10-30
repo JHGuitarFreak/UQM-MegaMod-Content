@@ -147,6 +147,7 @@ graphics.outfit = GFXRES:addons/mm-hd/ui/outfit/outfit.ani
 graphics.outfitmodules = GFXRES:addons/mm-hd/ui/outfit/outfitmodules.ani
 graphics.pickship = GFXRES:addons/mm-hd/ui/pickship.ani
 graphics.planets = GFXRES:addons/mm-hd/nav/planets.ani
+graphics.planets.slaveshield = GFXRES:addons/mm-hd/nav/slaveshield.ani
 graphics.dos.planets = GFXRES:addons/mm-hd/nav/dos-planets/planets.ani
 graphics.playmenu = GFXRES:addons/mm-hd/ui/playmenu/playmenu.ani
 graphics.quake = GFXRES:addons/mm-hd/lander/hazard/quake.ani
