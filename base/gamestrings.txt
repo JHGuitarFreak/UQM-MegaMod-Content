@@ -2044,6 +2044,26 @@ OFF
 ON
 
 
+#(Very slow)
+Very slow
+
+
+#(Slow)
+Slow
+
+
+#(Moderate)
+Moderate
+
+
+#(Fast)
+Fast
+
+
+#(Very fast)
+Very fast
+
+
 #(Really Quit) -- QUITMENU_STRING_BASE
 Really Quit?
 
@@ -2335,6 +2355,10 @@ music
 cyborg
 
 
+#(reading)
+reading
+
+
 #(captain)
 captain
 
@@ -2345,9 +2369,6 @@ flagship
 
 #(exit menu)
 exit menu
-
-
-#()
 
 
 #(must restart)
