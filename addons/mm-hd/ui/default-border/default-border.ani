@@ -2,7 +2,7 @@ border-000.png -2 1 0 0
 border-001.png -2 1 0 0
 border-002.png -2 1 -24 0
 border-003.png -2 1 -768 0
-border-004.png -2 1 -1024 0
+border-004.png -2 1 -1024 -4
 border-001.png -2 1 -1024 0
 border-001.png -2 1 -1024 0
 border-001.png -2 1 -1024 0
@@ -32,3 +32,4 @@ border-029.png -2 1 0 -260
 border-029.png -2 1 0 -740
 border-030.png -2 1 -1024 -692
 border-031.png -2 1 0 -622
+border-004.png -2 1 -372 -40
