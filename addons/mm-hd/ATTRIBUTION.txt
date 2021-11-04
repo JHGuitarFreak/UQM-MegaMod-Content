@@ -17,6 +17,8 @@ DEVICES fist                        - Freepik        - Custom           -> https
 DEVICES trident                     - upklyak        - Custom           -> https://www.freepik.com/free-vector/gold-silver-bronze-trident-devil-pitchfork-with-emeralds-isolated-white_15342111.htm
 FIGHT! fist                         - Freepik        - Custom           -> https://www.freepik.com/free-vector/multiracial-raised-fists_8702826.htm
 FIGHT! "pow"                        - Viscious-Speed - Public Domain    -> https://openclipart.org/detail/122959/pow
+READING eye balls                   - OgreofWart     - CC0              -> https://opengameart.org/content/eyballs
+READING open book                   - Quuraca        - Custom           -> https://www.cleanpng.com/png-open-book-png-image-31227/
 ROSTER clipboard                    - Freepik        - Custom           -> https://www.freepik.com/free-vector/giant-check-list_4019709.htm
 SAVE/LOAD/GAME SuperSOT-6 (chip)    - Alex Fedorov   - Custom           -> https://grabcad.com/library/ic-smd-1
 Yehat main weapon projectiles       - Cethiel        - Public Domain    -> https://opengameart.org/content/fireball-effect
