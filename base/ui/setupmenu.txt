@@ -20,7 +20,7 @@ Scaler
 Scanlines
 Menu Style
 Font Style
-Scan Style
+Scan Stats Style
 Scroll Style
 Subtitles
 3DO Remixes
@@ -60,9 +60,9 @@ Resolution
 Add All Devices
 Hazard Colors
 Custom Border
-SOI Space Music
+Interplanetary Alien Ambience
 Volasaurus' Remixes
-Whole Fuel Value
+Show Whole Fuel Value
 Directional Joystick
 Melee Zoom
 Lander Hold Size
@@ -75,15 +75,15 @@ NPC Ship Facing
 Alternate Orz Font
 Control Display
 SIS HyperSpace Direction
-Scanned Sphere Tint
-Interplanetary Style
-Star Background
-Scan Style
+Planet Scan Sphere Overlay
+Solar System Planet Style
+Solar System Star Background
+Planet Scan Progress Style
 Non-Stop Oscilloscope
 Oscilloscope Style
 Animated HyperSpace Stars
 Lander Style
-Planet Texture
+Planet Textures
 Flagship Style
 No HyperSpace Encounters
 Kohr-Ah DeCleansing
@@ -767,54 +767,58 @@ Disabled
 Enabled
 
 #(CAT_44_OPT_0_DESC)
-Hazard colors based on severity turned off.
+Colored text for temperature, weather, and tectonic hazards 
+when viewing planetary scans based on severity.
 
 #(CAT_44_OPT_1_DESC)
-Enable colored text based on hazard severity 
-when viewing planetary scans.
+Colored text for temperature, weather, and tectonic hazards 
+when viewing planetary scans based on severity.
 
 #(CAT_45_OPTS)
 Disabled
 Enabled
 
 #(CAT_45_OPT_0_DESC)
-Classic border UI
+An alternative UI inspired by Clay's "SC2 Redo" concept art
 
 #(CAT_45_OPT_1_DESC)
-Enhanced border UI
+An alternative UI inspired by Clay's "SC2 Redo" concept art
 
 #(CAT_46_OPTS)
 Disabled
 Enabled
 
 #(CAT_46_OPT_0_DESC)
-Default space music for interplanetary
+Music that plays when you are in the the orbit of a star
+within an alien race's Sphere of Influence
 
 #(CAT_46_OPT_1_DESC)
-Race specific space music for interplanetary.
+Music that plays when you are in the the orbit of a star
+within an alien race's Sphere of Influence
 
 #(CAT_47_OPTS)
 Disabled
 Enabled
 
 #(CAT_47_OPT_0_DESC)
-Do not load Volasaurus' Remix Pack.
-Requires Restart.
+A complete set of remixes made by Volasaurus.
+Overrides the PC, 3DO, or Precursors soundtrack
+Requires Restart when changed.
 
 #(CAT_47_OPT_1_DESC)
-Overrides PC, 3DO, or Precursors soundtrack with a
-soundtrack composed by Volasaurus.
-Requires Restart.
+A complete set of remixes made by Volasaurus.
+Overrides the PC, 3DO, or Precursors soundtrack
+Requires Restart when changed.
 
 #(CAT_48_OPTS)
 Disabled
 Enabled
 
 #(CAT_48_OPT_0_DESC)
-Normal fuel value is displayed
+Displays the entire FUEL value as a decimal.
 
 #(CAT_48_OPT_1_DESC)
-Whole fuel value is displayed in decimal.
+Displays the entire FUEL value as a decimal.
 
 #(CAT_49_OPTS)
 Disabled
@@ -857,16 +861,16 @@ Continuously scale the combat view using Trilinear scaler.
 Resembles 3DO combat | Android Only
 
 #(CAT_51_OPTS)
-Moderate
-Conservative
+PC Cargo Size
+3DO Cargo Size
 
 #(CAT_51_OPT_0_DESC)
 Max amount of minerals the Lander can pick up
-as per the PC version: 64 units
+as per the PC version: 64 units before upgrade
 
 #(CAT_51_OPT_1_DESC)
 Max amount of minerals the Lander can pick up
-as per the 3DO version: 50 units
+as per the 3DO version: 50 units before upgrade
 
 #(CAT_52_OPTS)
 Step
@@ -932,21 +936,23 @@ Disabled
 Enabled
 
 #(CAT_56_OPT_0_DESC)
-Game Over cutscenes are disabled
+A set of cinematic slides for various game over sequences.
 
 #(CAT_56_OPT_1_DESC)
-Game Over cutscenes enabled
+A set of cinematic slides for various game over sequences.
 
 #(CAT_57_OPTS)
 Disabled
 Enabled
 
 #(CAT_57_OPT_0_DESC)
-NPC ship icons are stationary in Interplanetary view.
+NPC ship icons will face the direction they're
+traveling while in Interplanetary view.
+Also the mysterious Probes you may encounter will `tumble'
 
 #(CAT_57_OPT_1_DESC)
-NPC ship icons face the direction they're
-accelerating in Interplanetary view.
+NPC ship icons will face the direction they're
+traveling while in Interplanetary view.
 Also the mysterious Probes you may encounter will `tumble'
 
 #(CAT_58_OPTS)
@@ -954,11 +960,12 @@ Disabled
 Enabled
 
 #(CAT_58_OPT_0_DESC)
-The Orz font will be unchanged.
+Enables an alternative font for the 
+*untranslatable* portion of The Orz speech
 
 #(CAT_58_OPT_1_DESC)
-The Orz will have an alternate font for the 
-*untranslatable* portion of their speech
+Enables an alternative font for the 
+*untranslatable* portion of The Orz speech
 
 #(CAT_59_OPTS)
 Keyboard
@@ -967,17 +974,18 @@ PlayStation 4
 
 #(CAT_59_OPT_0_DESC)
 Show keyboard controls in the menu and UI.
-Choose your own control scheme.
+
+Remember to change the Bottom Player control layout accordingly.
 
 #(CAT_59_OPT_1_DESC)
 Show Xbox controls in the menu and UI.
-Automatically chooses the Xbox/Xinput control
-scheme for the Bottom Player.
+
+Remember to change the Bottom Player control layout accordingly.
 
 #(CAT_59_OPT_2_DESC)
 Show PlayStation 4 controls in the menu and UI.
-Automatically chooses the DualShock 4 control
-scheme for the Bottom Player.
+
+Remember to change the Bottom Player control layout accordingly.
 
 
 #(CAT_60_OPTS)
