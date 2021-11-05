@@ -966,10 +966,10 @@ and wished to attend to a few important details before returning to the base.
 SUMMARY: Several group leaders have volunteered to assist the team to `help them where they can.'
 
 #(ABOUT_VUXBEAST0) starbase-146.ogg
-SUBJECT: Hostile Alien Creature.
+SUBJECT: Hostile Alien Creature. DATA:...
 
 #(ABOUT_VUXBEAST1) starbase-191.ogg
-DATA: This is newly-promoted, junior scientist Hawkins reporting.
+This is newly-promoted, junior scientist Hawkins reporting.
 Dr. Chu -- y'know, he's the leader of this section -- he's still in sick bay.
 He's been there ever since that thing took a swipe at him and he got too close to the cage.
 I guess it's got like, triple-jointed arms or something... with spikes and razor-plates all over.
