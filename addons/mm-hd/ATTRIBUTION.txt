@@ -21,6 +21,7 @@ READING eye balls                   - OgreofWart     - CC0              -> https
 READING open book                   - Quuraca        - Custom           -> https://www.cleanpng.com/png-open-book-png-image-31227/
 ROSTER clipboard                    - Freepik        - Custom           -> https://www.freepik.com/free-vector/giant-check-list_4019709.htm
 SAVE/LOAD/GAME SuperSOT-6 (chip)    - Alex Fedorov   - Custom           -> https://grabcad.com/library/ic-smd-1
+Mmrnmhrm torpedoes                  - Juhele         - Public Domain    -> https://openclipart.org/detail/312920/artillery-projectile-grenade
 Yehat main weapon projectiles       - Cethiel        - Public Domain    -> https://opengameart.org/content/fireball-effect
 Game controller buttons             - Xelu           - CC0              -> https://thoseawesomeguys.com/prompts/
 Various "ball shading" texture      - bravebug       - Public Domain    -> https://openclipart.org/detail/161287/metal-sphere
