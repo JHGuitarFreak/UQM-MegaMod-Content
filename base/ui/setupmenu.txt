@@ -71,10 +71,10 @@ Difficulty
 Extended Lore
 Nomad Mode
 Game Over Cutscenes
-NPC Ship Facing
+NPC Ship Orientation
 Alternate Orz Font
 Control Display
-SIS HyperSpace Direction
+Smart Auto-Pilot
 Planet Scan Sphere Overlay
 Solar System Planet Style
 Solar System Star Background
@@ -82,9 +82,9 @@ Planet Scan Progress Style
 Non-Stop Oscilloscope
 Oscilloscope Style
 Animated HyperSpace Stars
-Lander Style
-Planet Textures
-Flagship Style
+Lander View Style
+Planet Map Textures
+Flagship Engine Color
 No HyperSpace Encounters
 Kohr-Ah DeCleansing
 No Melee Obstacles
@@ -987,18 +987,18 @@ Show PlayStation 4 controls in the menu and UI.
 
 Remember to change the Bottom Player control layout accordingly.
 
-
 #(CAT_60_OPTS)
 Disabled
 Enabled
 
 #(CAT_60_OPT_0_DESC)
 The flagship will redirect itself when entering
-HyperSpace to the direction Auto-Pilot is set to.
+HyperSpace to the direction of the set coordinates.
 
 #(CAT_60_OPT_1_DESC)
-The flagship will already be facing the direction
-Auto-Pilot is set to when entering HyperSpace.
+Auto-pilot will find the quickest way out of the current solar
+system and will already be facing the direction of the set
+coordinates when it enters HyperSpace.
 
 #(CAT_61_OPTS)
 Shaded
@@ -1064,7 +1064,7 @@ Oscilloscope display shows either the current alien speech or music
 Depending on if Speech is enabled or not.
 
 #(CAT_65_OPT_1_DESC)
-Oscilloscope display switches over to music when alien stops talking
+Oscilloscope display switches over to music when alien stops talking.
 When Speech is enabled.
 
 #(CAT_66_OPTS)
@@ -1174,8 +1174,6 @@ Do not show visited stars on the StarMap
 Visited stars will be dimmed on the StarMap
 and their names will be inside parenthesis
 when you hover over them with the StarMap cursor.
-
-Local play only.
 
 #(SLIDERS)
 Music Volume
