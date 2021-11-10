@@ -47,7 +47,7 @@ Head Start
 Unlock Upgrades
 Infinite R.U.
 Skip Intro
-Fuel Range
+Show Sol Fuel Range
 Menu Music
 Show Nebulae
 Orbiting Planets
@@ -613,11 +613,12 @@ Disabled
 Enabled
 
 #(CAT_33_OPT_0_DESC)
-Default fuel range on the Starmap.
+Shows an extra fuel circle that depicts the point of
+no return for traveling back to Sol.
 
 #(CAT_33_OPT_1_DESC)
-Fuel range on the Starmap will show 
-the point of no return to the Starbase.
+Shows an extra fuel circle that depicts the point of
+no return for traveling back to Sol.
 
 #(CAT_34_OPTS)
 Disabled
