@@ -282,7 +282,6 @@ graphics.urquanwreck = GFXRES:base/lander/energy/urquanwreck.ani
 graphics.utwigbomb = GFXRES:base/lander/energy/utwigbomb.ani
 graphics.visitedstars = GFXRES:base/ui/visited-stars/visited.ani
 music.battle = MUSICRES:base/battle/battle.mod
-music.battle.samatra = MUSICRES:base/battle/battle.mod
 music.hyperspace = MUSICRES:base/nav/hyper.mod
 music.mainmenu1 = MUSICRES:base/ui/mainmenu1.ogg
 music.mainmenu2 = MUSICRES:base/ui/mainmenu2.ogg
