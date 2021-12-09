@@ -1263,6 +1263,10 @@ Keyconfig header
 Editkey header
 Editkey dialog
 Spacer
+UI
+Melee
+IP
+Scanning
 
 #(LABEL_0)
 This part of the configuration
@@ -1284,6 +1288,18 @@ to assign to this action.
 
 #(LABEL_4)
   
+
+#(LABEL_5)
+User Interface Options
+
+#(LABEL_5)
+Conversation Screen Options
+
+#(LABEL_5)
+Solar System View Options
+
+#(LABEL_5)
+Scanning Screen Options
 
 #(TEXT_ENTRIES)
 Current Layout Name
