@@ -31,10 +31,10 @@ lander-029.png -2 105 3 3
 lander-030.png -2 105 3 3
 lander-031.png -2 105 3 3
 lander-pc.png -2 105 0 0
-lander-033.png -2 105 -47 -15
-lander-034.png -2 105 -48 0
-lander-035.png -2 105 -24 -65
-lander-036.png -2 105 -41 -57
+lander-033.png -2 105 -45 -14
+lander-034.png -2 105 -52 -5
+lander-035.png -2 105 -20 -65
+lander-036.png -2 105 -44 -70
 lander-037.png 0 105 -16 -180
 lander-038.png 0 105 -56 -180
 lander-039.png 0 105 -16 -224
@@ -55,6 +55,6 @@ lander-053.png -2 105 75 75
 lander-054.png -2 105 75 75
 lander-055.png -2 105 4 0
 lander-056.png -2 105 4 0
-lander-057.png 0 105 -24 -61
-lander-058.png 0 105 -49 -3
-lander-059.png 0 105 -42 -38
+lander-057.png 0 105 -20 -49
+lander-058.png 0 105 -43 0
+lander-059.png 0 105 -40 -33
