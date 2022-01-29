@@ -9,8 +9,6 @@ addons/volasaurus-remix-pack/.*
 addons/sol-textures-hd/.*
 !addons/sol-textures-sd/
 addons/sol-textures-sd/.*
-!addons/classic-hd-fonts/
-addons/classic-hd-fonts/.*
-!addons/dos-planets/
-addons/dos-planets/.*
+!addons/automods-hd/
+addons/automods-hd/.*
 *.uqm

@@ -1,0 +1,9 @@
+Some of the assets used in the making of the HD graphics for the MegaMod are pulled from the internet and modified.
+This is the list of the those assets along with their authors, licenses (when applicable), and the websites in which I obtained them
+
+Use Case                            - Author         - License                 -> Website
+
+Play Icon / Activity Bar            - Icons Land     - Free for personal use   -> http://icongal.com/gallery/icon/32123/256/right_start_player_play
+Rewind Icon / Activity Bar          - nEden          - Free for commercial use -> https://www.shareicon.net/rewind-48457
+FastForward Icon / Activity Bar     - nEden          - Free for commercial use -> https://www.shareicon.net/forward-fast-48385
+Stop Icon / Activity Bar            - nEden          - Free for commercial use -> https://www.shareicon.net/stop-48470

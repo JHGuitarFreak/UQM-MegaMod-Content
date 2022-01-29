@@ -1,0 +1,5 @@
+graphics.shipyard = GFXRES:addons/automods-hd/ui/shipyard/shipyard.ani
+
+graphics.activity = GFXRES:addons/automods-hd/ui/activity.ani
+
+graphics.meleemenu = GFXRES:addons/automods-hd/ui/meleemenu/meleemenu.ani
