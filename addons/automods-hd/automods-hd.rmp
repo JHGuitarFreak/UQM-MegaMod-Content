@@ -1,3 +1,5 @@
+comm.melnorme.graphics = GFXRES:addons/automods-hd/comm/melnorme/melnorme.ani
+
 graphics.shipyard = GFXRES:addons/automods-hd/ui/shipyard/shipyard.ani
 
 graphics.activity = GFXRES:addons/automods-hd/ui/activity.ani
