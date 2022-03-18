@@ -1,0 +1,235 @@
+#(NO_JOURNAL_ENTRY)
+
+
+#(OBJECTIVES_JOURNAL_HEADER)
+Objectives
+
+#(ALIENS_JOURNAL_HEADER)
+Alien Races
+
+#(ARTIFACTS_JOURNAL_HEADER)
+Artifacts & Points of Interest
+
+
+#(VISIT_EARTH)
+Return to Earth
+
+#(CONTACT_EARTH)
+Contact Earth Starbase
+
+#(GET_RADIOACTIVES)
+Acquire radioactives for Earth Starbase
+
+#(GIVE_RADIOACTIVES)
+Give radioactives to Earth Starbase
+
+#(NEED_LANDER)
+Request replacement planet lander from Earth Starbase
+
+#(NEED_LANDER_AGAIN)
+Request another replacement planet lander from Earth Starbase
+
+#(NEED_FUEL)
+Request fuel from Earth Starbase
+
+#(NEED_FUEL_AGAIN)
+Request fuel again from Earth Starbase
+
+#(DESTROY_MOONBASE)
+Neutralize Hierarchy base on Luna
+
+#(REPORT_MOONBASE)
+Inform Earth Starbase about Hierarchy base on Luna
+
+#(RECRUIT_EARTH)
+Convince Earth Starbase to join the fight against the Ur-Quan
+
+
+#(CONTACT_ARILOU)
+Re-establish contact with the Arilou
+
+#(CONTACT_CHENJESU)
+Re-establish contact with the Chenjesu
+
+#(CONTACT_MELNORME)
+Make contact with the Melnorme
+
+#(CONTACT_MMRNMHRM)
+Re-establish contact with the Mmrnmhrm
+
+#(CONTACT_ORZ)
+Make contact with the Orz
+
+#(VISIT_ORZ_HOMEWORLD)
+Visit the Orz homeworld in Gamma Vulpeculae
+
+#(ALLY_ORZ)
+Form alliance with the Orz
+
+#(CONTACT_PKUNK)
+Make contact with the Pkunk
+
+#(CONTACT_SHOFIXTI)
+Re-establish contact with the Shofixti
+
+#(CONTACT_SPATHI)
+Make contact with the Spathi
+
+#(CONTACT_SUPOX)
+Make contact with the Supox
+
+#(CONTACT_SYREEN)
+Re-establish contact with the Syreen
+
+#(CONTACT_THRADDASH)
+Make contact with the Thraddash
+
+#(CONTACT_UTWIG)
+Make contact with the Utwig
+
+#(CONTACT_UMGAH)
+Make contact with the Umgah
+
+#(CONTACT_YEHAT)
+Re-establish contact with the Yehat
+
+#(CONTACT_ZOQFOTPIK)
+Make contact with the Zoq-Fot-Pik
+
+#(FIND_PORTAL_TIME)
+Search for a 'doorway' in HyperSpace from the 17th to the 20th
+
+#(FIND_PORTAL)
+Find the naturally occuring QuasiSpace portal
+
+#(ASK_UMGAH_TPET)
+Ask the Umgah about the Arilou's injured Talking Pet
+
+#(REPORT_UMGAH_WEIRD)
+Tell the Arilou about the Umgah's behavior
+
+#(FOLLOWUP_UMGAH_WEIRD)
+Check back with the Arilou about the Umgah's behavior
+
+#(CHECK_UMGAH_HOME)
+Investigate psionic compulsion at the Umgah homeworld in Beta Orionis
+
+#(FIND_SHIELD)
+Find a way to neutralize psionic compulsion
+
+#(FACE_DNYARRI)
+Confront the Dnyarri in Beta Orionis
+
+#(GET_DNYARRI)
+Acquire the Dnyarri to use against the Ur-Quan
+
+
+#(GET_AQUAHELIX)
+Acquire the Aqua Helix from the Thraddash
+
+#(LEARN_AQUAHELIX)
+Find a use for the Aqua Helix
+
+#(USE_AQUAHELIX)
+Use the Aqua Helix to repair the Ultron
+
+#(SELL_BURVCASTER)
+Sell the Burvixese 'Caster to the Druuge
+
+#(GET_CLEARSPINDLE)
+Acquire the Clear Spindle from the Pkunk
+
+#(LEARN_CLEARSPINDLE)
+Find a use for the Clear Spindle
+
+#(USE_CLEARSPINDLE)
+Use the Clear Spindle to repair the Ultron
+
+#(GET_GLOWINGROD)
+Purchase the Glowing Rod from the Druuge
+
+#(LEARN_GLOWINGROD)
+Find a use for the Glowing Rod
+
+#(GET_EGGCASE)
+Acquire Mycon Egg Case fragments
+
+#(SELL_EGGCASE)
+Sell Mycon Egg Case fragments to the Druuge
+
+#(GET_ROSYSPHERE)
+Purchase the Rosy Sphere from the Druuge
+
+#(LEARN_ROSYSPHERE)
+Find a use for the Rosy Sphere
+
+#(USE_ROSYSPHERE)
+Use the Rosy Sphere to repair the Ultron
+
+#(GET_MAIDENS)
+Acquire the Shofixti Maidens from VUX Admiral ZEX in Alpha Cerenkov
+
+#(SELL_MAIDENS)
+Sell the Shofixti Maidens to the Druuge
+
+#(CHECK_PLAYGROUND)
+Investigate the Orz's 'Taalo Playground' on Delta Vulpeculae II-C
+
+#(GET_MINDSHIELD)
+Acquire the Taalo Mind Shield from Delta Vulpeculae II-C
+
+#(CHECK_CRASH_SITE)
+Investigate a possible Ur-Quan Dreadnought crash site in Alpha Pavonis
+
+#(GET_WARPPOD)
+Acquire the Ur-Quan Warp Pod from Alpha Pavonis VII
+
+#(LEARN_WARPPOD)
+Find a use for the Ur-Quan Warp Pod
+
+#(GIVE_WARPPOD)
+Give the Warp Pod to the Arilou on Falayalaralfali
+
+#(GET_SPAWNER)
+Acquire the Portal Spawner from the Arilou
+
+#(SELL_SPAWNER)
+Sell the Portal Spawner to the Druuge
+
+#(GET_WIMBLISTRIDENT)
+Purchase Wimbli's Trident from the Druuge
+
+#(LEARN_WIMBLISTRIDENT)
+Find a use for Wimbli's Trident
+
+
+#(FIND_RAINBOW)
+Locate 'Rainbow Worlds'
+
+#(FIND_RAINBOW_SEXTANTIS)
+Investigate 'very strange planet' at Zeta Sextantis I
+
+#(FIND_RAINBOW_DRACONIS)
+Investigate 'strange planet' in Epsilon Draconis
+
+#(FIND_RAINBOW_LEPORIS)
+Investigate strange radioactive planet in Beta Leporis
+
+
+#(FIND_DEFEAT_URQUAN)
+Find a way to defeat the Ur-Quan
+
+#(FIND_DESTROY_SAMATRA)
+Find a way to destroy the Sa-Matra
+
+#(GET_BOMB)
+Acquire the Utwig bomb
+
+#(IMPROVE_BOMB)
+Improve the Utwig bomb
+
+#(FIND_ACCESS_SAMATRA)
+Find a way to reach the Sa-Matra
+
+#(DESTROY_SAMATRA)
+Destroy the Sa-Matra

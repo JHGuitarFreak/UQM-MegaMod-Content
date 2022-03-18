@@ -1047,6 +1047,7 @@ text.excavationsite = STRTAB:base/lander/energy/excavationsite.txt
 text.fwiffo = STRTAB:base/lander/energy/fwiffo.txt
 text.earthbase = STRTAB:base/lander/energy/earthbase.txt
 text.joyalpha = STRTAB:base/ui/joyalpha.txt
+text.journal = STRTAB:base/ui/journal.txt
 text.maidens = STRTAB:base/lander/energy/maidens.txt
 text.moonbase = STRTAB:base/lander/energy/moonbase.txt
 text.motherark = STRTAB:base/lander/energy/motherark.txt
