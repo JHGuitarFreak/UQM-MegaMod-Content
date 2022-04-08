@@ -1,0 +1,43 @@
+comm.arilou.font = FONTRES:addons/classic-pack/fonts/arilou.fon
+comm.commander.font = FONTRES:addons/classic-pack/fonts/player.fon
+comm.computer.font = FONTRES:addons/classic-pack/fonts/computer.fon
+comm.druuge.font = FONTRES:addons/classic-pack/fonts/druuge.fon
+comm.ilwrath.font = FONTRES:addons/classic-pack/fonts/ilwrath.fon
+comm.kohrah.font = FONTRES:addons/classic-pack/fonts/kohrah.fon
+comm.melnorme.font = FONTRES:addons/classic-pack/fonts/melnorme.fon
+comm.mycon.font = FONTRES:addons/classic-pack/fonts/mycon.fon
+comm.orz.font = FONTRES:addons/classic-pack/fonts/orz.fon
+comm.pkunk.font = FONTRES:addons/classic-pack/fonts/pkunk.fon
+comm.probe.font = FONTRES:addons/classic-pack/fonts/probe.fon
+comm.shofixti.font = FONTRES:addons/classic-pack/fonts/shofixti.fon
+comm.slylandro.font = FONTRES:addons/classic-pack/fonts/slylandro.fon
+comm.supox.font = FONTRES:addons/classic-pack/fonts/supox.fon
+comm.syreen.font = FONTRES:addons/classic-pack/fonts/syreen.fon
+comm.talkingpet.font = FONTRES:addons/classic-pack/fonts/talkingpet.fon
+comm.thraddash.font = FONTRES:addons/classic-pack/fonts/thraddash.fon
+comm.umgah.font = FONTRES:addons/classic-pack/fonts/umgah.fon
+comm.urquan.font = FONTRES:addons/classic-pack/fonts/urquan.fon
+comm.utwig.font = FONTRES:addons/classic-pack/fonts/utwig.fon
+comm.vux.font = FONTRES:addons/classic-pack/fonts/vux.fon
+comm.yehat.font = FONTRES:addons/classic-pack/fonts/yehat.fon
+
+comm.melnorme.graphics = GFXRES:addons/classic-pack/comm/melnorme/melnorme.ani
+
+graphics.shipyard = GFXRES:addons/classic-pack/ui/shipyard/shipyard.ani
+
+graphics.activity = GFXRES:addons/classic-pack/ui/activity.ani
+
+graphics.meleemenu = GFXRES:addons/classic-pack/ui/melee_menu/meleemenu.ani
+#graphics.miscdata = GFXRES:addons/classic-pack/ui/misc_data/miscdata.ani
+graphics.nebulae = GFXRES:addons/classic-pack/nav/nebulae/nebulae.ani
+graphics.orbitbackground = GFXRES:addons/classic-pack/nav/orbit_background/orbitbackground.ani
+graphics.orbitenter = GFXRES:addons/classic-pack/nav/orbitenter.ani
+graphics.outfitmodules = GFXRES:addons/classic-pack/ui/outfit_modules/outfitmodules.ani
+graphics.pickship = GFXRES:addons/classic-pack/ui/pickship.ani
+graphics.playmenu = GFXRES:addons/classic-pack/ui/play_menu/playmenu.ani
+
+ship.kohrah.graphics.marauder.large = GFXRES:addons/classic-pack/ships/kohrah/marauder-big.ani
+ship.kohrah.graphics.marauder.medium = GFXRES:addons/classic-pack/ships/kohrah/marauder-med.ani
+ship.kohrah.graphics.marauder.small = GFXRES:addons/classic-pack/ships/kohrah/marauder-sml.ani
+ship.kohrah.icons = GFXRES:addons/classic-pack/ships/kohrah/marauder-icons.ani
+ship.kohrah.meleeicons = GFXRES:addons/classic-pack/ships/kohrah/marauder-meleeicons.ani
