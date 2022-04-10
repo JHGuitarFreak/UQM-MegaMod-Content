@@ -81,7 +81,7 @@ Star System Star Background
 Planet Scan Progress Style
 Non-Stop Oscilloscope
 Oscilloscope Style
-Animated HyperSpace Stars
+Animated HyperSpace Stars (HD)
 Lander View Style
 Planet Map Textures
 Flagship Engine Color
@@ -89,6 +89,7 @@ No HyperSpace Encounters
 Kohr-Ah DeCleansing
 No Melee Obstacles
 Show Visited Stars
+Unscaled Star System View (HD)
 
 #(CAT_0_OPTS)
 Original
@@ -1180,6 +1181,20 @@ Do not show visited stars on the StarMap
 Visited stars will be dimmed on the StarMap
 and their names will be inside parenthesis
 when you hover over them with the StarMap cursor.
+
+#(CAT_75_OPTS)
+Disabled
+Enabled
+
+#(CAT_75_OPT_0_DESC)
+Star System view will have orbit dots and stars
+to proper 4x scale of the original.
+Mimicking the original look, but in HD.
+
+#(CAT_75_OPT_1_DESC)
+Star System view will have unscaled orbit dots
+and stars, mimicking the look of Team 6014's
+HD-mod Beta released in 2012.
 
 #(SLIDERS)
 Music Volume
