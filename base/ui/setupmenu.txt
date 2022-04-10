@@ -1031,6 +1031,7 @@ Planets in interplanetary will resemble the
 PC
 3DO
 UQM
+HD-mod
 
 #(CAT_63_OPT_0_DESC)
 Generated star background in interplanetary
@@ -1043,6 +1044,10 @@ will resemble the 3DO style arrangement
 #(CAT_63_OPT_2_DESC)
 Generated star background in interplanetary
 will resemble the default UQM style arrangement
+
+#(CAT_63_OPT_3_DESC)
+Generated star background in interplanetary
+will resemble the default HD-mod style arrangement
 
 #(CAT_64_OPTS)
 PC
