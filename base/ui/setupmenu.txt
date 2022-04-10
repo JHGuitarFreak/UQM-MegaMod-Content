@@ -76,8 +76,8 @@ Alternate Orz Font
 Control Display
 Smart Auto-Pilot
 Planet Scan Sphere Overlay
-Solar System Planet Style
-Solar System Star Background
+Star System Planet Style
+Star System Star Background
 Planet Scan Progress Style
 Non-Stop Oscilloscope
 Oscilloscope Style
@@ -635,30 +635,30 @@ Disabled
 Enabled
 
 #(CAT_35_OPT_0_DESC)
-Do not display nebulae in solar systems.
+Do not display nebulae in star systems.
 
 #(CAT_35_OPT_1_DESC)
-Display beautiful nebulae in solar systems.
+Display beautiful nebulae in star systems.
 
 #(CAT_36_OPTS)
 Disabled
 Enabled
 
 #(CAT_36_OPT_0_DESC)
-Planets do not orbit in solar systems.
+Planets do not orbit in star systems.
 
 #(CAT_36_OPT_1_DESC)
-Planets orbit in solar systems.
+Planets orbit in star systems.
 
 #(CAT_37_OPTS)
 Disabled
 Enabled
 
 #(CAT_37_OPT_0_DESC)
-Display plain planets in solar systems.
+Display plain planets in star systems.
 
 #(CAT_37_OPT_1_DESC)
-Display beautiful textured planets in solar systems.
+Display beautiful textured planets in star systems.
 
 #(CAT_38_OPTS)
 Original
@@ -997,7 +997,7 @@ The flagship will redirect itself when entering
 HyperSpace to the direction of the set coordinates.
 
 #(CAT_60_OPT_1_DESC)
-Auto-pilot will find the quickest way out of the current solar
+Auto-pilot will find the quickest way out of the current star
 system and will already be facing the direction of the set
 coordinates when it enters HyperSpace.
 
@@ -1296,7 +1296,7 @@ User Interface Options
 Conversation Screen Options
 
 #(LABEL_5)
-Solar System View Options
+Star System View Options
 
 #(LABEL_5)
 Scanning Screen Options
