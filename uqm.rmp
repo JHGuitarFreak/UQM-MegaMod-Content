@@ -175,6 +175,7 @@ font.player.hd = FONTRES:base/fonts/player.hd.fon
 font.starcon.fb = FONTRES:base/fonts/starcon.fon
 font.starcon.hd = FONTRES:base/fonts/starcon.hd.fon
 comm.computer.font = FONTRES:base/fonts/computer.fon
+font.config.name = STRING:data.cfg
 graphics.activity = GFXRES:base/ui/activity.ani
 graphics.ambient = GFXRES:base/nav/ambient.ani
 graphics.aquahelix = GFXRES:base/lander/energy/aquahelix.ani
