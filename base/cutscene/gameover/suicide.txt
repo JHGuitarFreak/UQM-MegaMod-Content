@@ -31,14 +31,10 @@ TBC 000000
 TE TRACED
 
 #(Load font to use later)
-FONT1X 0 base/fonts/starcon.fon
-#(Load font to use later)
-FONT1X 1 base/fonts/slides.fon
+FONT1X 0 base/fonts/shofixti.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/player.fon
-#(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/slides.fon
+FONT4X 0 addons/mm-hd/fonts/shofixti.fon
 
 #(************ Title Screen ******************************************)
 
@@ -60,7 +56,7 @@ TFC 880000
 TVA B
 
 #(Play music)
-MUSIC base/ships/shofixti/scout.mod
+DITTY shofixti
 
 #(Draw slide; param1=ANI index)
 DRAW 0
