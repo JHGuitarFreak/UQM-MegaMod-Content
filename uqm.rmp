@@ -527,6 +527,7 @@ planet.sapphire.large = GFXRES:base/planets/sapphire-big.ani
 planet.sapphire.medium = GFXRES:base/planets/sapphire-med.ani
 planet.sapphire.small = GFXRES:base/planets/sapphire-sml.ani
 planet.sapphire.translatetable = BINTAB:base/planets/crystal.xlt
+planet.scans.colortable = BINTAB:base/planets/scans.ct
 planet.selenic.colortable = BINTAB:base/planets/selenic.ct
 planet.selenic.large = GFXRES:base/planets/selenic-big.ani
 planet.selenic.medium = GFXRES:base/planets/selenic-med.ani
