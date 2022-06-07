@@ -16,7 +16,7 @@ graphics.iptritonmask = GFXRES:addons/sol-textures-sd/planets/interplanetary/tri
 graphics.ipuranusmask = GFXRES:addons/sol-textures-sd/planets/interplanetary/uranusmask.ani
 graphics.ipvenusmask = GFXRES:addons/sol-textures-sd/planets/interplanetary/venusmask.ani
 
-graphics.earthmask = GFXRES:addons/sol-textures-sd/planets/orbit/earthmask.ani
+#graphics.earthmask = GFXRES:addons/sol-textures-sd/planets/orbit/earthmask.ani
 graphics.marsmask = GFXRES:addons/sol-textures-sd/planets/orbit/marsmask.ani
 graphics.callistomask = GFXRES:addons/sol-textures-sd/planets/orbit/callistomask.ani
 graphics.charonmask = GFXRES:addons/sol-textures-sd/planets/orbit/charonmask.ani
