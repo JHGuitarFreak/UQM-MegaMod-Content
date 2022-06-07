@@ -90,6 +90,7 @@ Kohr-Ah DeCleansing
 No Melee Obstacles
 Show Visited Stars
 Unscaled Star System View (HD)
+Planet Scan Sphere Style (SD)
 
 #(CAT_0_OPTS)
 Original
@@ -1195,6 +1196,16 @@ Mimicking the original look, but in HD.
 Star System view will have unscaled orbit dots
 and stars, mimicking the look of Team 6014's
 HD-mod Beta released in 2012.
+
+#(CAT_76_OPTS)
+PC
+3DO
+
+#(CAT_76_OPT_0_DESC)
+Scan Sphere resembles the PC-DOS style
+
+#(CAT_76_OPT_1_DESC)
+Scan Sphere resembles the 3DO style
 
 #(SLIDERS)
 Music Volume
