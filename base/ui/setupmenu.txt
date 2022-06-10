@@ -90,7 +90,7 @@ Kohr-Ah DeCleansing
 No Melee Obstacles
 Show Visited Stars
 Unscaled Star System View (HD)
-Planet Scan Sphere Style (SD)
+Planet Scan Sphere Style
 
 #(CAT_0_OPTS)
 Original
@@ -1212,6 +1212,7 @@ Music Volume
 SFX Volume
 Speech Volume
 Gamma Correction
+Nebulae Brightness
 
 #(SLIDER_0_DESC)
 Sets the music volume.
@@ -1225,6 +1226,10 @@ Sets the speech volume.
 #(SLIDER_3_DESC)
 Sets the gamma correction.
 May not work on all hardware.
+
+#(SLIDER_4_DESC)
+Sets the nebulae brightness when nebulae are enabled.
+Default value is: 24
 
 #(BUTTONS)
 Quit Setup
