@@ -27,6 +27,7 @@ graphics.shipyard = GFXRES:addons/classic-pack/ui/shipyard/shipyard.ani
 
 graphics.activity = GFXRES:addons/classic-pack/ui/activity.ani
 
+graphics.hdborder = GFXRES:addons/classic-pack/ui/default-border/default-border.ani
 graphics.meleemenu = GFXRES:addons/classic-pack/ui/melee_menu/meleemenu.ani
 #graphics.miscdata = GFXRES:addons/classic-pack/ui/misc_data/miscdata.ani
 graphics.nebulae = GFXRES:addons/classic-pack/nav/nebulae/nebulae.ani
