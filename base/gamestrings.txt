@@ -2251,6 +2251,10 @@ cargo
 roster
 
 
+#(journal)
+journal
+
+
 #(game)
 game
 
@@ -2371,30 +2375,16 @@ flagship
 exit menu
 
 
-#(must restart)
-In order for your changes to take effect, 
-you must restart the game.
-
-The game will shut down now -
-we apologise for the inconvenience!
+#()
 
 
-#(Hmm...)
-Hmm...
+
+#()
 
 
-#(hd_pack_not_found))
-Hmm...
-You were trying to run the game in HD mode, 
-but the game couldn't find the 'HD' addon 
-.uqm package.
 
-Are you sure you have downloaded it and
-installed it into the correct folder?
+#()
 
-Solutions:
-Either install the 'HD' package and play, or
-select the Original Graphics option and play.
 
 
 #()
@@ -2411,6 +2401,10 @@ starmap
 
 #(manifest)
 manifest
+
+
+#(journal)
+journal
 
 
 #(game)
@@ -2460,71 +2454,11 @@ dispatch
 #(exit menu)
 exit menu
 
-
 #(mouse_err)
 Mouse input is not supported in UQM.
 Use the keyboard or joystick instead.
 
 Please press ENTER or SPACE to return.
-
-
-#(Difficulty)
-Difficulty:
-
-
-#(Original)
-Original
-
-
-#(Easy)
-Easy
-
-
-#(Hard)
-Hard
-
-
-#(Extended)
- | Extended
-
-
-#(Nomad)
- | Nomad
-
-
-#(Main Menu Music by)
-Main Menu Music by
-
-
-#(Saibuster)
-Saibuster
-
-
-#(Rush AX)
-Rush AX
-
-
-#(Mark Vera)
-Mark Vera
-
-
-#(Error 404: Universe Not Found)
-Error 404: Universe Not Found
-
-
-#(Easy)
-Various changes to make UQM gameplay easier.
-
-
-#(Original)
-Vanilla difficulty as it was originally intended.
-
-
-#(Hard)
-NOT FOR BEGINNERS!
-A multitude of changes to make gameplay much
-harder for the veteran UQM player.
-
 
 #(Unconnected. Press LEFT to connect.) -- NETMELEE_STRING_BASE
 Unconnected. Press LEFT to connect.
@@ -2660,7 +2594,7 @@ Only one side at a time can be network controlled.
 Netplay with a computer-controlled side is currently not possible.
 
 
-#(Roto-Dendron)
+#(Roto-Dendron) -- BIOLOGICAL_STRING_BASE
 Roto-Dendron
 
 
@@ -2762,3 +2696,80 @@ Brainbox Bulldozers
 
 #(Zex's Beauty)
 Zex's Beauty
+
+
+#(must restart) -- MEGAMOD_STRING_BASE
+In order for your changes to take effect, 
+you must restart the game.
+
+The game will shut down now -
+we apologise for the inconvenience!
+
+
+#(Hmm...)
+Hmm...
+
+
+#(hd_pack_not_found))
+Hmm...
+You were trying to run the game in HD mode, 
+but the game couldn't find the 'HD' addon 
+.uqm package.
+
+
+#(Difficulty)
+Difficulty:
+
+
+#(Original)
+Original
+
+
+#(Easy)
+Easy
+
+
+#(Hard)
+Hard
+
+
+#(Extended)
+ | Extended
+
+
+#(Nomad)
+ | Nomad
+
+
+#(Main Menu Music by)
+Main Menu Music by
+
+
+#(Saibuster)
+Saibuster
+
+
+#(Rush AX)
+Rush AX
+
+
+#(Mark Vera)
+Mark Vera
+
+
+#(Error 404: Universe Not Found)
+Error 404: Universe Not Found
+
+
+#(EasyDesc)
+Various changes to make UQM gameplay easier.
+
+
+#(OriginalDesc)
+Vanilla difficulty as it was originally intended.
+
+
+#(HardDesc)
+NOT FOR BEGINNERS!
+A multitude of changes to make gameplay much
+harder for the veteran UQM player.
