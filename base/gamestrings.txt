@@ -2526,6 +2526,190 @@ A multitude of changes to make gameplay much
 harder for the veteran UQM player.
 
 
+#(scan) -- DOSMENU_STRING_BASE
+scan
+
+
+#(starmap)
+starmap
+
+
+#(manifest)
+manifest
+
+
+#(game)
+game
+
+
+#(navigate)
+navigate
+
+
+#(mineral)
+mineral
+
+
+#(energy)
+energy
+
+
+#(biological)
+biological
+
+
+#(autoscan)
+autoscan
+
+
+#(dispatch)
+dispatch
+
+
+#(exit menu)
+exit menu
+
+
+#(cargo)
+cargo
+
+
+#(device)
+device
+
+
+#(roster)
+roster
+
+
+#(exit menu)
+exit menu
+
+
+#(save game)
+save game
+
+
+#(load game)
+load game
+
+
+#(settings)
+settings
+
+
+#(quit game)
+quit game
+
+
+#(exit menu)
+exit menu
+
+
+#(converse)
+converse
+
+
+#(attack!)
+attack!
+
+
+#(game)
+game
+
+
+#(fuel)
+fuel
+
+
+#(module)
+module
+
+
+#(game)
+game
+
+
+#(exit menu)
+exit menu
+
+
+#(crew)
+crew
+
+
+#(game)
+game
+
+
+#(exit menu)
+exit menu
+
+
+#(music)
+music
+
+
+#(sound)
+sound
+
+
+#(combat)
+combat
+
+
+#(reading)
+reading
+
+
+#(names)
+names
+
+
+#(exit menu)
+exit menu
+
+
+#(plus resolve)
++resolve
+
+
+#(minus resolve)
+-resolve
+
+
+#(cyborg)
+cyborg
+
+
+#(exit menu)
+exit menu
+
+
+#(plus speed)
++speed
+
+
+#(minus speed)
+-speed
+
+
+#(exit menu)
+exit menu
+
+
+#(captain)
+captain
+
+
+#(flagship)
+flagship
+
+
+#(exit menu)
+exit menu
+
+
 #(Unconnected. Press LEFT to connect.) -- NETMELEE_STRING_BASE
 Unconnected. Press LEFT to connect.
 
