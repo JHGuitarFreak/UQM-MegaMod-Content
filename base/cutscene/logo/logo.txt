@@ -16,11 +16,227 @@ DIMS 320 240
 #(Fade out)
 FTB 250
 
-#(Draw first frame)
+#(Background)
 DRAW 0
-
-#(Draw first frame)
-DRAW 1
 
 #(Fade in)
 FTC 250
+
+#(Logo 1)
+DRAW 1
+
+#(Wait)
+WAIT 40
+
+#(Logo 2)
+DRAW 2
+
+#(Wait)
+WAIT 40
+
+#(Logo 3)
+DRAW 3
+
+#(Wait)
+WAIT 40
+
+#(Logo 4)
+DRAW 4
+
+#(Wait)
+WAIT 40
+
+#(Logo 5)
+DRAW 5
+
+#(Wait)
+WAIT 40
+
+#(Logo 6)
+DRAW 6
+
+#(Wait)
+WAIT 40
+
+#(Logo 7)
+DRAW 7
+
+#(Wait)
+WAIT 40
+
+#(Logo 8 Completely fade in)
+DRAW 8
+
+#(Wait)
+WAIT 70
+
+#(Light beam 1)
+DRAW 9
+
+#(Wait)
+WAIT 70
+
+#(Light beam 2)
+DRAW 10
+
+#(Wait)
+WAIT 70
+
+#(Light beam 3)
+DRAW 11
+
+#(Wait)
+WAIT 70
+
+#(Light beam 4)
+DRAW 12
+
+#(Presents fade in 1)
+DRAW 13
+
+#(Wait)
+WAIT 40
+
+#(Presents fade in 2)
+DRAW 14
+
+#(Wait)
+WAIT 30
+
+#(Light beam 5)
+DRAW 15
+
+#(Wait)
+WAIT 10
+
+#(Presents fade in 3)
+DRAW 16
+
+#(Wait)
+WAIT 40
+
+#(Presents fade in 4)
+DRAW 17
+
+#(Wait)
+WAIT 20
+
+#(Light beam 6)
+DRAW 18
+
+#(Wait)
+WAIT 20
+
+#(Presents fade in 5)
+DRAW 19
+
+#(Wait)
+WAIT 40
+
+#(Presents fade in 6 - final)
+DRAW 20
+
+#(Wait)
+WAIT 10
+
+#(Light beam 7)
+DRAW 21
+
+#(Wait)
+WAIT 70
+
+#(Light beam 8)
+DRAW 22
+
+#(Wait)
+WAIT 70
+
+#(Light beam 9)
+DRAW 23
+
+#(Wait)
+WAIT 70
+
+#(Light beam 10 - final)
+DRAW 24
+
+#(Wait)
+WAIT 90
+
+#(Light beam II 1)
+DRAW 25
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 2)
+DRAW 26
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 3)
+DRAW 27
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 4)
+DRAW 28
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 5)
+DRAW 29
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 6)
+DRAW 30
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 7)
+DRAW 31
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 8)
+DRAW 32
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 9)
+DRAW 33
+
+#(Wait)
+WAIT 55
+
+#(Light beam II 10)
+DRAW 34
+
+#(Spark 1)
+DRAW 35
+
+#(Wait)
+WAIT 80
+
+#(Spark 2)
+DRAW 36
+
+#(Wait)
+WAIT 80
+
+#(Spark 3)
+DRAW 37
+
+#(Wait)
+WAIT 80
+
+#(Spark 3 - final)
+DRAW 38
