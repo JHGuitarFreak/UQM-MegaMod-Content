@@ -47,7 +47,7 @@ Head Start
 Unlock Upgrades
 Infinite R.U.
 Skip Intro
-Show Sol Fuel Range
+Fuel Range Indicators
 Menu Music
 Show Nebulae
 Orbiting Planets
@@ -611,16 +611,27 @@ Skips the game intro. Also skips the opening
 Crystal Dynamics FMV if the 3DO videos are enabled.
 
 #(CAT_33_OPTS)
-Disabled
-Enabled
+No Extra Indicators
+Fuel Range at Destination
+Fuel Range to Sol
+All Range Indicators Enabled
 
 #(CAT_33_OPT_0_DESC)
-Shows an extra fuel circle that depicts the point of
-no return for traveling back to Sol.
+Just the Vanilla amount of fuel indicators on the StarMap
 
 #(CAT_33_OPT_1_DESC)
-Shows an extra fuel circle that depicts the point of
+Shows an extra fuel circle that depicts the remaining amount
+of fuel you'll have at your destination
+(Indicated by a dotted light gray circle)
+
+#(CAT_33_OPT_2_DESC)
+Shows an extra fuel ellipse that depicts the point of
 no return for traveling back to Sol.
+(Indicated by a filled in, lighter grey ellipse)
+
+#(CAT_33_OPT_3_DESC)
+Shows both the fuel range at the intended destination
+and the point of no return ellipse for Sol
 
 #(CAT_34_OPTS)
 Disabled
