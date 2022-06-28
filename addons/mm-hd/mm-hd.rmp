@@ -1,3 +1,4 @@
+colortable.hangar = BINTAB:addons/mm-hd/ui/shipyard/hangar.ct
 comm.arilou.font = FONTRES:addons/mm-hd/fonts/arilou.fon
 comm.arilou.graphics = GFXRES:addons/mm-hd/comm/arilou/arilou.ani
 comm.chmmr.font = FONTRES:addons/mm-hd/fonts/chmmr.fon
