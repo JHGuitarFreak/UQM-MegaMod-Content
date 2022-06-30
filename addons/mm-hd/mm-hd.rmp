@@ -84,6 +84,7 @@ graphics.crew.large = GFXRES:addons/mm-hd/battle/crew-big.ani
 graphics.crew.medium = GFXRES:addons/mm-hd/battle/crew-med.ani
 graphics.crew.small = GFXRES:addons/mm-hd/battle/crew-sml.ani
 graphics.earthmask = GFXRES:addons/mm-hd/planets/earthmask.ani
+graphics.fuel = GFXRES:addons/mm-hd/ui/fuel.ani
 graphics.dossphere = GFXRES:addons/mm-hd/planets/dosstuff/planet_sphere.ani
 graphics.dos.shield = GFXRES:addons/mm-hd/planets/dosstuff/shield.ani
 graphics.eggcase = GFXRES:addons/mm-hd/lander/energy/eggcase.ani
