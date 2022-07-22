@@ -1,5 +1,5 @@
 comm.arilou.font = FONTRES:addons/classic-pack/fonts/arilou.fon
-comm.commander.font = FONTRES:addons/classic-pack/fonts/player.fon
+#comm.commander.font = FONTRES:addons/classic-pack/fonts/player.fon
 comm.computer.font = FONTRES:addons/classic-pack/fonts/computer.fon
 comm.druuge.font = FONTRES:addons/classic-pack/fonts/druuge.fon
 comm.ilwrath.font = FONTRES:addons/classic-pack/fonts/ilwrath.fon
