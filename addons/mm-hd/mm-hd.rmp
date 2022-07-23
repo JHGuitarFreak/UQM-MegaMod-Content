@@ -5,6 +5,7 @@ comm.chmmr.font = FONTRES:addons/mm-hd/fonts/chmmr.fon
 comm.chmmr.graphics = GFXRES:addons/mm-hd/comm/chmmr/chmmr.ani
 comm.chmmr.red.graphics = GFXRES:addons/mm-hd/comm/chmmr/chmmr-red.ani
 comm.commander.font = FONTRES:addons/mm-hd/fonts/commander.fon
+comm.starbas.graphics = GFXRES:addons/mm-hd/comm/commander/starbas.ani
 comm.commander.graphics = GFXRES:addons/mm-hd/comm/commander/commander.ani
 comm.commander.red.graphics = GFXRES:addons/mm-hd/comm/commander/commander-red.ani
 comm.computer.font = FONTRES:addons/mm-hd/fonts/computer.fon

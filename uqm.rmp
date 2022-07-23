@@ -20,6 +20,7 @@ comm.chmmr.script = SCRIPT:base/comm/chmmr/chmmr.lua
 comm.commander.colortable = BINTAB:base/comm/commander/commander.ct
 comm.commander.dialogue = CONVERSATION:base/comm/commander/commander.txt
 comm.commander.font = FONTRES:base/fonts/commander.fon
+comm.starbas.graphics = GFXRES:base/comm/commander/commander.ani
 comm.commander.graphics = GFXRES:base/comm/commander/commander.ani
 comm.commander.red.graphics = GFXRES:base/comm/commander/commander-red.ani
 comm.commander.music = MUSICRES:base/comm/commander/commander.mod
