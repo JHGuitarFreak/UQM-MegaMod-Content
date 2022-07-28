@@ -17,6 +17,7 @@ comm.kohrah.font = FONTRES:addons/mm-hd/fonts/kohrah.fon
 comm.kohrah.graphics = GFXRES:addons/mm-hd/comm/kohrah/kohrah.ani
 comm.melnorme.font = FONTRES:addons/mm-hd/fonts/micro.fon
 comm.melnorme.graphics = GFXRES:addons/mm-hd/comm/melnorme/melnorme.ani
+comm.melnorme.colortable = BINTAB:addons/mm-hd/comm/melnorme/melnorme-hd.ct
 comm.mycon.font = FONTRES:addons/mm-hd/fonts/mycon.fon
 comm.mycon.graphics = GFXRES:addons/mm-hd/comm/mycon/mycon.ani
 comm.orz.font = FONTRES:addons/mm-hd/fonts/orz.fon

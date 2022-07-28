@@ -22,6 +22,7 @@ comm.vux.font = FONTRES:addons/classic-pack/fonts/vux.fon
 comm.yehat.font = FONTRES:addons/classic-pack/fonts/yehat.fon
 
 comm.melnorme.graphics = GFXRES:addons/classic-pack/comm/melnorme/melnorme.ani
+comm.melnorme.colortable = BINTAB:addons/classic-pack/comm/melnorme/melnorme-hd.ct
 
 graphics.shipyard = GFXRES:addons/classic-pack/ui/shipyard/shipyard.ani
 
