@@ -57,6 +57,7 @@ comm.utwig.graphics = GFXRES:addons/mm-hd/comm/utwig/utwig.ani
 comm.vux.colortable = BINTAB:addons/mm-hd/comm/vux/vux.ct
 comm.vux.font = FONTRES:addons/mm-hd/fonts/vux.fon
 comm.vux.graphics = GFXRES:addons/mm-hd/comm/vux/vux.ani
+comm.vux.zex.graphics = GFXRES:addons/mm-hd/comm/vux/zex.ani
 comm.yehat.font = FONTRES:addons/mm-hd/fonts/yehat.fon
 comm.yehat.graphics = GFXRES:addons/mm-hd/comm/yehat/yehat.ani
 comm.zoqfotpik.font = FONTRES:addons/mm-hd/fonts/zoqfotpik.fon
