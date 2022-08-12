@@ -44,6 +44,7 @@ comm.supox.graphics = GFXRES:addons/mm-hd/comm/supox/supox.ani
 comm.syreen.colortable = BINTAB:addons/mm-hd/comm/syreen/syreen.ct
 comm.syreen.font = FONTRES:addons/mm-hd/fonts/syreen.fon
 comm.syreen.graphics = GFXRES:addons/mm-hd/comm/syreen/syreen.ani
+comm.talkingpet.colortable = BINTAB:addons/mm-hd/comm/talkingpet/talkingpet.ct
 comm.talkingpet.font = FONTRES:addons/mm-hd/fonts/talkingpet.fon
 comm.talkingpet.graphics = GFXRES:addons/mm-hd/comm/talkingpet/talkingpet.ani
 comm.thraddash.font = FONTRES:addons/mm-hd/fonts/thraddash.fon
