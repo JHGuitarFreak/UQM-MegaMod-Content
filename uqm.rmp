@@ -79,6 +79,7 @@ comm.shofixti.colortable = BINTAB:base/comm/shofixti/shofixti.ct
 comm.shofixti.dialogue = CONVERSATION:base/comm/shofixti/shofixti.txt
 comm.shofixti.font = FONTRES:base/fonts/shofixti.fon
 comm.shofixti.graphics = GFXRES:base/comm/shofixti/shofixti.ani
+comm.shofixti.alt.graphics = GFXRES:base/comm/shofixti/shofixti-alt.ani
 comm.shofixti.music = MUSICRES:base/comm/shofixti/shofixti.mod
 comm.shofixti.script = SCRIPT:base/comm/shofixti/shofixti.lua
 comm.slylandro.colortable = BINTAB:base/comm/slylandro/slylandro.ct
