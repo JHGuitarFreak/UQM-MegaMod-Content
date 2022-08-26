@@ -34,6 +34,7 @@ comm.safeones.colortable = BINTAB:addons/mm-hd/comm/safeones/safeones.ct
 comm.safeones.graphics = GFXRES:addons/mm-hd/comm/safeones/safeones.ani
 comm.shofixti.font = FONTRES:addons/mm-hd/fonts/shofixti.fon
 comm.shofixti.graphics = GFXRES:addons/mm-hd/comm/shofixti/shofixti.ani
+comm.shofixti.alt.graphics = GFXRES:addons/mm-hd/comm/shofixti/shofixti-alt.ani
 comm.slylandro.colortable = BINTAB:addons/mm-hd/comm/slylandro/slylandro.ct
 comm.slylandro.font = FONTRES:addons/mm-hd/fonts/slylandro.fon
 comm.slylandro.graphics = GFXRES:addons/mm-hd/comm/slylandro/slylandro.ani
