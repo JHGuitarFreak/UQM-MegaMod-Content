@@ -282,6 +282,7 @@ graphics.taalodevice = GFXRES:base/lander/energy/taalodevice.ani
 graphics.title = GFXRES:base/ui/title.ani
 graphics.titlehd = GFXRES:base/ui/hd/title.ani
 graphics.truespacesun = GFXRES:base/nav/truespacesun.ani
+graphics.rgb.truespacesun = GFXRES:base/nav/truespacesun-rgb.ani
 graphics.umgahcaster = GFXRES:base/lander/energy/umgahcaster.ani
 graphics.urquanwreck = GFXRES:base/lander/energy/urquanwreck.ani
 graphics.utwigbomb = GFXRES:base/lander/energy/utwigbomb.ani
