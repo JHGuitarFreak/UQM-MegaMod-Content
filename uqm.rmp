@@ -196,6 +196,7 @@ graphics.burvixcaster = GFXRES:base/lander/energy/burvixcaster.ani
 graphics.dossphere = GFXRES:base/planets/dosstuff/planet_sphere.ani
 graphics.dos.shield = GFXRES:base/planets/dosstuff/shield.ani
 graphics.earthmask = GFXRES:base/planets/earthmask.ani
+graphics.3do.shade = GFXRES:base/planets/3dostuff/shades.ani
 graphics.eggcase = GFXRES:base/lander/energy/eggcase.ani
 graphics.excavationsite = GFXRES:base/lander/energy/excavationsite.ani
 graphics.flagship = GFXRES:base/nav/flagship.ani
