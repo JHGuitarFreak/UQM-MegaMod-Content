@@ -100,12 +100,12 @@ HD
 #(CAT_0_OPT_0_DESC)
 Lo-res 320x240 resolution.
 Available with SDL framebuffer or OpenGL.
-Requires a game restart if changed
+&!Requires Restart when changed.
 
 #(CAT_0_OPT_1_DESC)
 Hi-res 1280x960 resolution.
 Requires `Hires' package installed.
-Requires a game restart if changed
+&!Requires Restart when changed.
 
 #(CAT_1_OPTS)
 SDL Framebuffer
@@ -235,10 +235,12 @@ Enabled
 #(CAT_9_OPT_0_DESC)
 Uses the music from the Original PC version.
 Can still be overriden by addon packs.
+&!Requires Restart when changed.
 
 #(CAT_9_OPT_1_DESC)
 Overrides PC soundtrack with 3DO music.
 Can be further overridden by addon packs.
+&!Requires Restart when changed.
 
 #(CAT_10_OPTS)
 Disabled
@@ -292,12 +294,12 @@ Enabled
 
 #(CAT_14_OPT_0_DESC)
 Sound effects are center-channel.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_14_OPT_1_DESC)
 Uses positional SFX if possible.
 Currently only supported on OpenAL.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_15_OPTS)
 None
@@ -306,15 +308,15 @@ OpenAL
 
 #(CAT_15_OPT_0_DESC)
 Play silently.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_15_OPT_1_DESC)
 Use the default audio mixer.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_15_OPT_2_DESC)
 Use the Creative Labs OpenAL driver.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_16_OPTS)
 Low
@@ -323,15 +325,15 @@ High
 
 #(CAT_16_OPT_0_DESC)
 Low audio quality.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_16_OPT_1_DESC)
 Medium audio quality.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_16_OPT_2_DESC)
 Highest audio quality.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_17_OPTS)
 Static
@@ -453,12 +455,13 @@ Enabled
 
 #(CAT_21_OPT_0_DESC)
 Do not load the Precursors Remix Pack.
-Requires Restart.
+
+&!Requires Restart when changed.
 
 #(CAT_21_OPT_1_DESC)
 Overrides PC or 3DO soundtrack with the
 modern soundtrack written by The Precursors.
-Requires Restart.
+&!Requires Restart when changed.
 
 #(CAT_22_OPTS)
 Disabled
@@ -479,12 +482,12 @@ Force 4:3
 #(CAT_23_OPT_0_DESC)
 Allow any aspect ratio. The game may be
 stretched in windows that are not 4:3.
-Currently only meaningful in OpenGL mode.
+&!Currently only meaningful in OpenGL mode.
 
 #(CAT_23_OPT_1_DESC)
 Display the game with 4:3 aspect even when
 the window is not.
-Currently only meaningful in OpenGL mode.
+&!Currently only meaningful in OpenGL mode.
 
 #(CAT_24_OPTS)
 Disabled
@@ -510,17 +513,17 @@ No version of god mode is applied and you can come to harm
 #(CAT_25_OPT_1_DESC)
 The player-piloted ship in Melee refills its energy when the
 Weapon and/or Special buttons are pressed.
-(Only functional against AI opponents and during the Story)
+&!(Only functional against AI opponents and during the Story)
 
 #(CAT_25_OPT_2_DESC)
 The player-piloted ship and lander can not come to any harm.
 
-(Only functional against AI opponents and during the Story)
+&!(Only functional against AI opponents and during the Story)
 
 #(CAT_25_OPT_2_DESC)
 Combination of Infinite Health and Infinite Energy giving you
 full God Mode in and out of Melee.
-(Only functional against AI opponents and during the Story)
+&!(Only functional against AI opponents and during the Story)
 
 #(CAT_26_OPTS)
 Normal
@@ -549,6 +552,7 @@ Normal Hyperspace travel.
 
 #(CAT_27_OPT_1_DESC)
 Instantaneously warp to any spot on the Starmap.
+Fuel will still be consumed as usual.
 
 #(CAT_28_OPTS)
 Disabled
@@ -556,13 +560,11 @@ Enabled
 
 #(CAT_28_OPT_0_DESC)
 Only allied ships can be built in the Shipyard.
-If you've saved with this option enabled then all ships
-will still be available for you.
 
 #(CAT_28_OPT_1_DESC)
-Unlock ships not normally available to you in the story.
+Unlock ships all ships not normally available to you in the story.
 
-This option persists through saves.
+This option only works while enabled.
 
 #(CAT_29_OPTS)
 Disabled
@@ -588,7 +590,7 @@ technology will still be available for you.
 #(CAT_30_OPT_1_DESC)
 Unlock all Melnorme tech including ship modules and lander upgrades.
 
-This option persists through saves.
+&!This option persists through saves.
 
 #(CAT_31_OPTS)
 Disabled
@@ -610,8 +612,8 @@ Enabled
 Play intro every new game.
 
 #(CAT_32_OPT_1_DESC)
-Skips the game intro. Also skips the opening 
-Crystal Dynamics FMV if the 3DO videos are enabled.
+Skips the game intro. Also skips the splash screen
+and the Crystal Dynamics FMV if the 3DO videos are enabled.
 
 #(CAT_33_OPTS)
 No Extra Indicators
@@ -777,7 +779,7 @@ devices will still be available for you.
 #(CAT_43_OPT_1_DESC)
 Add all devices.
 
-Persists through saves.
+&!Persists through saves.
 
 #(CAT_44_OPTS)
 Disabled
@@ -820,12 +822,12 @@ Enabled
 #(CAT_47_OPT_0_DESC)
 A complete set of remixes made by Volasaurus.
 Overrides the PC, 3DO, or Precursors soundtrack
-Requires Restart when changed.
+&!Requires Restart when changed.
 
 #(CAT_47_OPT_1_DESC)
 A complete set of remixes made by Volasaurus.
 Overrides the PC, 3DO, or Precursors soundtrack
-Requires Restart when changed.
+&!Requires Restart when changed.
 
 #(CAT_48_OPTS)
 Disabled
@@ -914,7 +916,7 @@ Vanilla difficulty as it was originally intended.
 Various changes to make UQM gameplay easier.
 
 #(CAT_53_OPT_2_DESC)
-NOT FOR BEGINNERS!
+&!FOR VETERANS ONLY! NOT FOR BEGINNERS!
 A multitude of changes to make gameplay much
 harder for the veteran UQM player.
 
@@ -929,12 +931,12 @@ Enabled
 #(CAT_54_OPT_0_DESC)
 Extended Lore is disabled
 Option overridden by saved games.
-See the readme for a full list of additions.
+&!See the readme for a full list of additions.
 
 #(CAT_54_OPT_1_DESC)
 Extended Lore that expands upon the game's events.
 Option overridden by saved games.
-See the readme for a full list of additions.
+&!See the readme for a full list of additions.
 
 #(CAT_55_OPTS)
 Disabled
@@ -944,7 +946,7 @@ Enabled
 Starbase is unlocked and can be used.
 
 #(CAT_55_OPT_1_DESC)
-FOR VETERANS ONLY!
+&!FOR VETERANS ONLY! NOT FOR BEGINNERS!
 A forced `No Starbase' mode for expert players 
 who want the most extreme of challenges.
 
@@ -992,17 +994,17 @@ PlayStation 4
 #(CAT_59_OPT_0_DESC)
 Show keyboard controls in the menu and UI.
 
-Remember to change the Bottom Player control layout accordingly.
+&!Remember to change the Bottom Player control layout accordingly.
 
 #(CAT_59_OPT_1_DESC)
 Show Xbox controls in the menu and UI.
 
-Remember to change the Bottom Player control layout accordingly.
+&!Remember to change the Bottom Player control layout accordingly.
 
 #(CAT_59_OPT_2_DESC)
 Show PlayStation 4 controls in the menu and UI.
 
-Remember to change the Bottom Player control layout accordingly.
+&!Remember to change the Bottom Player control layout accordingly.
 
 #(CAT_60_OPTS)
 Disabled
@@ -1036,12 +1038,12 @@ PC
 #(CAT_62_OPT_0_DESC)
 Planets in interplanetary will resemble the 
 PC-DOS planet coloring and shading
-(Only applicable if Textured Planets is disabled)
+&!(Only applicable if Textured Planets is disabled)
 
 #(CAT_62_OPT_1_DESC)
 Planets in interplanetary will resemble the 
 3DO planet coloring and shading
-(Only applicable if Textured Planets is disabled)
+&!(Only applicable if Textured Planets is disabled)
 
 #(CAT_63_OPTS)
 PC
@@ -1133,12 +1135,12 @@ UQM
 #(CAT_69_OPT_0_DESC)
 Planet textures in orbit will resemble the 3DO version.
 
-This option is superceded by Custom Seed
+&!This option is superceded by Custom Seed
 
 #(CAT_69_OPT_1_DESC)
 Planet textures in orbit will resemble the vanilla UQM version.
 
-This option is superceded by Custom Seed
+&!This option is superceded by Custom Seed
 
 #(CAT_70_OPTS)
 Green Engine
@@ -1231,7 +1233,7 @@ Slaughter Mode is disabled
 #(CAT_77_OPT_1_DESC)
 Enables the ability to affect select alien race's Sphere of Influence
 by destroying their ships in battle.
-WARNING: Affected SOI persists in saved games even when disabled
+&!WARNING: Affected SOI persists in saved games even when disabled
 
 #(SLIDERS)
 Music Volume
