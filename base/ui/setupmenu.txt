@@ -91,6 +91,7 @@ No Melee Obstacles
 Show Visited Stars
 Unscaled Star System View (HD)
 Planet Scan Sphere Style
+Slaughter Mode
 
 #(CAT_0_OPTS)
 Original
@@ -1219,6 +1220,18 @@ Scan Sphere resembles the PC-DOS style
 
 #(CAT_76_OPT_1_DESC)
 Scan Sphere resembles the 3DO style
+
+#(CAT_77_OPTS)
+Disabled
+Enabled
+
+#(CAT_77_OPT_0_DESC)
+Slaughter Mode is disabled
+
+#(CAT_77_OPT_1_DESC)
+Enables the ability to affect select alien race's Sphere of Influence
+by destroying their ships in battle.
+WARNING: Affected SOI persists in saved games even when disabled
 
 #(SLIDERS)
 Music Volume
