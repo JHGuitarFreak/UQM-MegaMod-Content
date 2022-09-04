@@ -494,7 +494,9 @@ Disabled
 Enabled
 
 #(CAT_24_OPT_0_DESC)
-The game plays and ends normally.
+Stops the Kohr-Ah in their tracks, literally.
+When enabled the Kohr-Ah SOI does not move.
+Even when the time limit is reached.
 
 #(CAT_24_OPT_1_DESC)
 Stops the Kohr-Ah in their tracks, literally.
@@ -548,7 +550,8 @@ Disabled
 Enabled
 
 #(CAT_27_OPT_0_DESC)
-Normal Hyperspace travel.
+Instantaneously warp to any spot on the Starmap.
+Fuel will still be consumed as usual.
 
 #(CAT_27_OPT_1_DESC)
 Instantaneously warp to any spot on the Starmap.
@@ -559,19 +562,19 @@ Disabled
 Enabled
 
 #(CAT_28_OPT_0_DESC)
-Only allied ships can be built in the Shipyard.
+Unlock ships all ships not normally available to you in the story.
 
 #(CAT_28_OPT_1_DESC)
 Unlock ships all ships not normally available to you in the story.
-
-This option only works while enabled.
 
 #(CAT_29_OPTS)
 Disabled
 Enabled
 
 #(CAT_29_OPT_0_DESC)
-Start the game normally.
+Start with Fwiffo in your fleet, a single radioactive
+in your Storage Bay, and the Moon Base already explored.
+Allowing the StarBase to be unlocked quicker than usual.
 
 #(CAT_29_OPT_1_DESC)
 Start with Fwiffo in your fleet, a single radioactive
@@ -597,10 +600,12 @@ Disabled
 Enabled
 
 #(CAT_31_OPT_0_DESC)
-Disable Infinite R.U.
+Gives you virtually infinite R.U. in the story mode.
+
+Does not persist through game saves.
 
 #(CAT_31_OPT_1_DESC)
-Have virtually infinite R.U.
+Gives you virtually infinite R.U. in the story mode.
 
 Does not persist through game saves.
 
@@ -609,11 +614,10 @@ Disabled
 Enabled
 
 #(CAT_32_OPT_0_DESC)
-Play intro every new game.
+Skips the logo, splash screen, and intro cutscene.
 
 #(CAT_32_OPT_1_DESC)
-Skips the game intro. Also skips the splash screen
-and the Crystal Dynamics FMV if the 3DO videos are enabled.
+Skips the logo, splash screen, and intro cutscene.
 
 #(CAT_33_OPTS)
 No Extra Indicators
@@ -622,7 +626,7 @@ Fuel Range to Sol
 All Range Indicators Enabled
 
 #(CAT_33_OPT_0_DESC)
-Just the Vanilla amount of fuel indicators on the StarMap
+Just the single basic fuel range indicator.
 
 #(CAT_33_OPT_1_DESC)
 Shows an extra fuel circle that depicts the remaining amount
@@ -673,7 +677,7 @@ Disabled
 Enabled
 
 #(CAT_37_OPT_0_DESC)
-Display plain planets in star systems.
+Display beautiful textured planets in star systems.
 
 #(CAT_37_OPT_1_DESC)
 Display beautiful textured planets in star systems.
@@ -709,17 +713,19 @@ Disabled
 Enabled
 
 #(CAT_39_OPT_0_DESC)
-Fuel flows normally.
+Gives you virtually infinite fuel in the story mode.
 
 #(CAT_39_OPT_1_DESC)
-Have infinite fuel.
+Gives you virtually infinite fuel in the story mode.
 
 #(CAT_40_OPTS)
 Disabled
 Enabled
 
 #(CAT_40_OPT_0_DESC)
-Normal mineral collection mechanics.
+Minerals that are bigger than the remaining limit of 
+your Lander hold will be partially picked up.
+Leaving a smaller amount left on the planet surface.
 
 #(CAT_40_OPT_1_DESC)
 Minerals that are bigger than the remaining limit of 
@@ -731,7 +737,8 @@ Disabled
 Enabled
 
 #(CAT_41_OPT_0_DESC)
-Mineral values and StarMap keys/buttons will not be displayed
+Displays mineral values while scanning/traversing planets
+and displays StarMap keys/buttons while on the StarMap.
 
 #(CAT_41_OPT_1_DESC)
 Displays mineral values while scanning/traversing planets
@@ -752,7 +759,6 @@ Default resolution for Vanilla and HD graphics.
 
 #(CAT_42_OPT_1_DESC)
 Scale graphics to 640x480 resolution.
-Available with SDL framebuffer or OpenGL for Vanilla.
 
 #(CAT_42_OPT_2_DESC)
 Scale graphics to 960x720 resolution.
@@ -772,14 +778,14 @@ Disabled
 Enabled
 
 #(CAT_43_OPT_0_DESC)
-Do not add all devices.
-If you've saved with this option enabled then all
-devices will still be available for you.
+Adds every single device needed to complete the game.
+
+&!Persists through saves even if disabled later.
 
 #(CAT_43_OPT_1_DESC)
-Add all devices.
+Adds every single device needed to complete the game.
 
-&!Persists through saves.
+&!Persists through saves even if disabled later.
 
 #(CAT_44_OPTS)
 Disabled
@@ -808,11 +814,11 @@ Disabled
 Enabled
 
 #(CAT_46_OPT_0_DESC)
-Music that plays when you are in the the orbit of a star
+Music that plays when you are in a star system
 within an alien race's Sphere of Influence
 
 #(CAT_46_OPT_1_DESC)
-Music that plays when you are in the the orbit of a star
+Music that plays when you are in a star system
 within an alien race's Sphere of Influence
 
 #(CAT_47_OPTS)
@@ -929,13 +935,13 @@ Disabled
 Enabled
 
 #(CAT_54_OPT_0_DESC)
-Extended Lore is disabled
-Option overridden by saved games.
+Extended Lore that expands upon the game's events.
+Based upon Extended Mod made by 0xDEC0DE.
 &!See the readme for a full list of additions.
 
 #(CAT_54_OPT_1_DESC)
 Extended Lore that expands upon the game's events.
-Option overridden by saved games.
+Based upon Extended Mod made by 0xDEC0DE.
 &!See the readme for a full list of additions.
 
 #(CAT_55_OPTS)
@@ -943,7 +949,9 @@ Disabled
 Enabled
 
 #(CAT_55_OPT_0_DESC)
-Starbase is unlocked and can be used.
+&!FOR VETERANS ONLY! NOT FOR BEGINNERS!
+A forced `No Starbase' mode for expert players 
+who want the most extreme of challenges.
 
 #(CAT_55_OPT_1_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
@@ -1011,11 +1019,12 @@ Disabled
 Enabled
 
 #(CAT_60_OPT_0_DESC)
-The flagship will redirect itself when entering
-HyperSpace to the direction of the set coordinates.
+Smart Auto-Pilot will find the quickest way out of the current star
+system and will already be facing the direction of the set
+coordinates when it enters HyperSpace.
 
 #(CAT_60_OPT_1_DESC)
-Auto-pilot will find the quickest way out of the current star
+Smart Auto-Pilot will find the quickest way out of the current star
 system and will already be facing the direction of the set
 coordinates when it enters HyperSpace.
 
@@ -1133,13 +1142,13 @@ Mimicking the 3DO version.
 UQM
 
 #(CAT_69_OPT_0_DESC)
-Planet textures in orbit will resemble the 3DO version.
-
+Planet textures, mineral, and energy placements on the scan screen
+will resemble the 3DO version.
 &!This option is superceded by Custom Seed
 
 #(CAT_69_OPT_1_DESC)
-Planet textures in orbit will resemble the vanilla UQM version.
-
+Planet textures, mineral, and energy placements on the scan screen
+will resemble the UQM version.
 &!This option is superceded by Custom Seed
 
 #(CAT_70_OPTS)
@@ -1157,17 +1166,19 @@ Disabled
 Enabled
 
 #(CAT_71_OPT_0_DESC)
-You can and will encounters aliens in HyperSpace.
+You will not encounter any alien races in HyperSpace.
 
 #(CAT_71_OPT_1_DESC)
-All HyperSpace interactions with aliens is disabled.
+You will not encounter any alien races in HyperSpace.
 
 #(CAT_72_OPTS)
 Disabled
 Enabled
 
 #(CAT_72_OPT_0_DESC)
-Kohr-Ah Death March starts at normal time and date
+Kohr-Ah Death March starts 100 years from 2155.
+Does not work after the Death March has started.
+Use Kohr-Stahp instead for the scenario.
 
 #(CAT_72_OPT_1_DESC)
 Kohr-Ah Death March starts 100 years from 2155.
@@ -1179,20 +1190,23 @@ Disabled
 Enabled
 
 #(CAT_73_OPT_0_DESC)
-Single planet and at least five asteroids
-on-screen at a time.
+No planets or asteroids in Super Melee.
+
+&!Local play only.
 
 #(CAT_73_OPT_1_DESC)
 No planets or asteroids in Super Melee.
 
-Local play only.
+&!Local play only.
 
 #(CAT_74_OPTS)
 Disabled
 Enabled
 
 #(CAT_74_OPT_0_DESC)
-Do not show visited stars on the StarMap
+Visited stars will be dimmed on the StarMap
+and their names will be inside parenthesis
+when you hover over them with the StarMap cursor.
 
 #(CAT_74_OPT_1_DESC)
 Visited stars will be dimmed on the StarMap
@@ -1228,7 +1242,9 @@ Disabled
 Enabled
 
 #(CAT_77_OPT_0_DESC)
-Slaughter Mode is disabled
+Enables the ability to affect select alien race's Sphere of Influence
+by destroying their ships in battle.
+&!WARNING: Affected SOI persists in saved games even when disabled
 
 #(CAT_77_OPT_1_DESC)
 Enables the ability to affect select alien race's Sphere of Influence
