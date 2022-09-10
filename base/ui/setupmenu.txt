@@ -1230,12 +1230,16 @@ HD-mod Beta released in 2012.
 #(CAT_76_OPTS)
 PC
 3DO
+UQM
 
 #(CAT_76_OPT_0_DESC)
 Scan Sphere resembles the PC-DOS style
 
 #(CAT_76_OPT_1_DESC)
 Scan Sphere resembles the 3DO style
+
+#(CAT_76_OPT_2_DESC)
+Scan Sphere resembles the UQM style
 
 #(CAT_77_OPTS)
 Disabled
