@@ -75,10 +75,10 @@ NPC Ship Orientation
 Alternate Orz Font
 Control Display
 Smart Auto-Pilot
-Planet Scan Sphere Overlay
-Star System Planet Style
-Star System Star Background
-Planet Scan Progress Style
+Sphere Scan Overlay
+Planet Style
+Star Background
+Scanning Style
 Non-Stop Oscilloscope
 Oscilloscope Style
 Animated HyperSpace Stars (HD)
@@ -90,7 +90,7 @@ Kohr-Ah DeCleansing
 No Melee Obstacles
 Show Visited Stars
 Unscaled Star System View (HD)
-Planet Scan Sphere Style
+Sphere Style
 Slaughter Mode
 
 #(CAT_0_OPTS)
@@ -188,8 +188,8 @@ as per the original PC version.
 Looks nicer.
 
 #(CAT_5_OPT_1_DESC)
-All text and menus use a `flat' colour scheme,
-as per the 3DO version.
+All text and menus use a `flat' colour scheme as well as
+the larger 3DO font, as per the 3DO version.
 Easier to read.
 
 #(CAT_6_OPTS)
@@ -647,43 +647,49 @@ Disabled
 Enabled
 
 #(CAT_34_OPT_0_DESC)
-Disable Menu Music for the Main Menu & Melee Menu.
+Plays music in the Main Menu, Setup Menu, and the
+Super Melee menu.
 
 #(CAT_34_OPT_1_DESC)
-Enable Menu Music for the Main Menu & Melee Menu.
+Plays music in the Main Menu, Setup Menu, and the
+Super Melee menu.
 
 #(CAT_35_OPTS)
 Disabled
 Enabled
 
 #(CAT_35_OPT_0_DESC)
-Do not display nebulae in star systems.
+When enabled this option shows nebulous clouds
+in the background of star systems.
 
 #(CAT_35_OPT_1_DESC)
-Display beautiful nebulae in star systems.
+When enabled this option shows nebulous clouds
+in the background of star systems.
 
 #(CAT_36_OPTS)
 Disabled
 Enabled
 
 #(CAT_36_OPT_0_DESC)
-Planets do not orbit in star systems.
+When enabled the planets and moons will move about
+their respective orbits over time.
 
 #(CAT_36_OPT_1_DESC)
-Planets orbit in star systems.
+When enabled the planets and moons will move about
+their respective orbits over time.
 
 #(CAT_37_OPTS)
 Disabled
 Enabled
 
 #(CAT_37_OPT_0_DESC)
-Display beautiful textured planets in star systems.
+When enabled planets will be shown fully textured
 
 #(CAT_37_OPT_1_DESC)
 Display beautiful textured planets in star systems.
 
 #(CAT_38_OPTS)
-Original
+Original (MMM DD·YYYY)
 MM·DD·YYYY
 DD MMM·YYYY
 DD·MM·YYYY
@@ -1371,7 +1377,7 @@ or joystick direction you wish
 to assign to this action.
 
 #(LABEL_4)
-  
+
 
 #(LABEL_5)
 User Interface Options
