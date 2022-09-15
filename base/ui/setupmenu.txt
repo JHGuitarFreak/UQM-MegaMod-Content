@@ -1380,16 +1380,16 @@ to assign to this action.
 
 
 #(LABEL_5)
-User Interface Options
+&_User Interface Options
 
 #(LABEL_5)
-Conversation Screen Options
+&_Conversation Screen Options
 
 #(LABEL_5)
-Star System View Options
+&_Star System View Options
 
 #(LABEL_5)
-Scanning Screen Options
+&_Scanning Screen Options
 
 #(TEXT_ENTRIES)
 Current Layout Name
