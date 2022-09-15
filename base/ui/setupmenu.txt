@@ -20,7 +20,7 @@ Scaler
 Scanlines
 Menu Style
 Font Style
-Scan Stats Style
+Stats Display
 Scroll Style
 Subtitles
 3DO Remixes
@@ -89,7 +89,7 @@ No HyperSpace Encounters
 Kohr-Ah DeCleansing
 No Melee Obstacles
 Show Visited Stars
-Unscaled Star System View (HD)
+Unscaled View (HD)
 Sphere Style
 Slaughter Mode
 
@@ -342,10 +342,12 @@ Pulsating
 #(CAT_17_OPT_0_DESC)
 Slave shields maintain a static glow.
 This mimics the PC version.
+&!Only affects the UQM Sphere Style
 
 #(CAT_17_OPT_1_DESC)
 Slave shields pulsate.
 This mimics the 3DO verion.
+&!Only affects the UQM Sphere Style
 
 #(CAT_18_OPTS)
 Placeholder
