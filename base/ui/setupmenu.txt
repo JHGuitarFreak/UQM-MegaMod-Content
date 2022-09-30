@@ -906,16 +906,18 @@ Max amount of minerals the Lander can pick up
 as per the 3DO version: 50 units before upgrade
 
 #(CAT_52_OPTS)
-Step
-Crossfade
+DOS
+3DO
 
 #(CAT_52_OPT_0_DESC)
-Screen transitions will be instantaneous,
-resembling the PC version
+Screen transitions will be instantaneous.
+Fades will use a Subtractive/Additive blend.
+&!Fade style is always Alpha blend in SDL1 builds
 
 #(CAT_52_OPT_1_DESC)
-Screen transitions will crossfade,
-resembling the 3DO version
+Screen transitions will crossfade.
+Fades will use an Alpha blend.
+&!Fade style is always Alpha blend in SDL1 builds
 
 #(CAT_53_OPTS)
 Original
