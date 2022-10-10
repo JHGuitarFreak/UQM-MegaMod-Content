@@ -2024,6 +2024,14 @@ Empty Slot
 Saved Game
 
 
+#(QuickSave activator)
+quicksave
+
+
+#(QuickSave Set)
+QuickSave Set!
+
+
 #(Sound) -- OPTION_STRING_BASE
 Sound
 
