@@ -1936,6 +1936,14 @@ Fuel:
 Fuel Use:
 
 
+#(to)
+to
+
+
+#(->)
+->
+
+
 #(Enter name) -- NAMING_STRING_BASE
 Enter a name
 
