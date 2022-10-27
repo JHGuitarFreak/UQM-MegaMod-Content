@@ -37,6 +37,7 @@ graphics.orbitenter = GFXRES:addons/classic-pack/nav/orbitenter.ani
 graphics.outfitmodules = GFXRES:addons/classic-pack/ui/outfit_modules/outfitmodules.ani
 graphics.pickship = GFXRES:addons/classic-pack/ui/pickship.ani
 graphics.playmenu = GFXRES:addons/classic-pack/ui/play_menu/playmenu.ani
+graphics.submenu = GFXRES:addons/classic-pack/ui/submenu.ani
 
 ship.kohrah.graphics.marauder.large = GFXRES:addons/classic-pack/ships/kohrah/marauder-big.ani
 ship.kohrah.graphics.marauder.medium = GFXRES:addons/classic-pack/ships/kohrah/marauder-med.ani
