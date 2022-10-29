@@ -195,6 +195,8 @@ Easier to read.
 #(CAT_6_OPTS)
 Text
 Pictograms
+P6014 Text
+P6014 Pictograms
 
 #(CAT_6_OPT_0_DESC)
 Displays planet scan information as text,
@@ -203,6 +205,16 @@ as per the original PC version.
 #(CAT_6_OPT_1_DESC)
 Displays planet scan information as pictograms,
 as per the 3DO version.
+
+#(CAT_6_OPT_2_DESC)
+Displays planet scan information as text,
+as per the PC version, but uses colours from Project 6014.
+Easier to read.
+
+#(CAT_6_OPT_3_DESC)
+Displays planet scan information as pictograms,
+as per the 3DO version, but uses colours from Project 6014.
+Easier to read.
 
 #(CAT_7_OPTS)
 Per-Page
