@@ -127,6 +127,7 @@ comm.umgah.graphics = GFXRES:base/comm/umgah/umgah.ani
 comm.umgah.music = MUSICRES:base/comm/umgah/umgah.mod
 comm.umgah.script = SCRIPT:base/comm/umgah/umgah.lua
 comm.urquan.colortable = BINTAB:base/comm/urquan/urquan.ct
+comm.urquan.alt.colortable = BINTAB:base/comm/urquan/urquan-ext.ct
 comm.urquan.dialogue = CONVERSATION:base/comm/urquan/urquan.txt
 comm.urquan.font = FONTRES:base/fonts/urquan.fon
 comm.urquan.graphics = GFXRES:base/comm/urquan/urquan.ani
