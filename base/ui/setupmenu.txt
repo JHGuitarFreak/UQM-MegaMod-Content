@@ -54,7 +54,7 @@ Orbiting Planets
 Textured Planets
 Date Format
 Infinite Fuel
-Partial Mineral Pickup
+Partial Pickup
 In-Game Help Menus
 Resolution
 Add All Devices
@@ -745,12 +745,12 @@ Enabled
 #(CAT_40_OPT_0_DESC)
 Minerals that are bigger than the remaining limit of 
 your Lander hold will be partially picked up.
-Leaving a smaller amount left on the planet surface.
+Biological data will not be picked up if larger than the hold.
 
 #(CAT_40_OPT_1_DESC)
 Minerals that are bigger than the remaining limit of 
 your Lander hold will be partially picked up.
-Leaving a smaller amount left on the planet surface.
+Biological data will not be picked up if larger than the hold.
 
 #(CAT_41_OPTS)
 Disabled
