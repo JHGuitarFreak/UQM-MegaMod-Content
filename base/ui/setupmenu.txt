@@ -92,6 +92,7 @@ Show Visited Stars
 Unscaled View (HD)
 Sphere Style
 Slaughter Mode
+Advanced Auto-Pilot
 
 #(CAT_0_OPTS)
 Original
@@ -1276,6 +1277,18 @@ by destroying their ships in battle.
 Enables the ability to affect select alien race's Sphere of Influence
 by destroying their ships in battle.
 &!WARNING: Affected SOI persists in saved games even when disabled
+
+#(CAT_78_OPTS)
+Disabled
+Enabled
+
+#(CAT_78_OPT_0_DESC)
+Advanced Auto-Pilot finds the cheapest route through HyperSpace or 
+QuasiSpace and pilots the ship for you on that route.
+
+#(CAT_78_OPT_1_DESC)
+Advanced Auto-Pilot finds the cheapest route through HyperSpace or 
+QuasiSpace and pilots the ship for you on that route.
 
 #(SLIDERS)
 Music Volume
