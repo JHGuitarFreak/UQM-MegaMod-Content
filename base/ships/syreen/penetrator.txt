@@ -8,6 +8,9 @@ Syreen
 Penetrator
 #(Penetr.)
 Penetr.
+#(Desc)
+Lithe space vixens who
+steal enemy's crew
 #(Teela)
 Teela
 #(Dejah)

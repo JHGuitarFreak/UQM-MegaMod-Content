@@ -8,6 +8,9 @@ Ur-Quan
 Dreadnought
 #(Dreadnt.)
 Dreadnt.
+#(Desc)
+Huge, slow. Heavy weapon.
+Launches fighters
 #(Lord 999)
 Lord 999
 #(Lord 342)

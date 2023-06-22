@@ -8,6 +8,9 @@ Shofix.
 Scout
 #(Scout)
 Scout
+#(Desc)
+Tiny, fast.
+Can self-destruct
 #(Hiyata)
 Hiyata
 #(Wasabe)

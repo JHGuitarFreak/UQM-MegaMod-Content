@@ -8,6 +8,9 @@ Kohr-Ah
 Marauder
 #(Marauder)
 Marauder
+#(Desc)
+Massive. Long-range spinning
+blades, ring of fiery death
 #(Death 11)
 Death 11
 #(Death 17)
