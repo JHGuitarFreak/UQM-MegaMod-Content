@@ -8,6 +8,8 @@ Pkunk
 Fury
 #(Fury)
 Fury
+#(Desc)
+Blazing fast. Insulting enemy. Chance of respawning
 #(Awwky)
 Awwky
 #(Tweety)

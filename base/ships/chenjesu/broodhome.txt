@@ -8,6 +8,8 @@ Chenje.
 Broodhome
 #(Brood.)
 Brood.
+#(Desc)
+Big. Crystal fragment weapon. Breeds pesky doggies
 #(Kzzakk)
 Kzzakk
 #(Tzrrow)

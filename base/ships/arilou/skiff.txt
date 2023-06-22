@@ -8,6 +8,8 @@ Arilou
 Skiff
 #(Skiff)
 Skiff
+#(Desc)
+Fast, no inertia. Auto-aim laser. Hyper-jump
 #(Fefaloo)
 Fefaloo
 #(Bezabu)

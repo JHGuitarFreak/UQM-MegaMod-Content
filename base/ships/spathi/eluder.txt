@@ -8,6 +8,8 @@ Spathi
 Eluder
 #(Eluder)
 Eluder
+#(Desc)
+Very fast. Large, cowardly crew. Rear firing weapon
 #(Thwil)
 Thwil
 #(Pwappy)

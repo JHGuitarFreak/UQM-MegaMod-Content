@@ -8,6 +8,8 @@ Slylan.
 Probe
 #(Probe)
 Probe
+#(Desc)
+Constant motion, instant reverse. Absorbs asteroids
 #(2418-B)
 2418-B
 #(2418-B)

@@ -8,6 +8,8 @@ Thradd.
 Torch
 #(Torch)
 Torch
+#(Desc)
+Nimble. Afterburner accelerates ship, burns enemy
 #(Dthunk)
 Dthunk
 #(Bardat)

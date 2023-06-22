@@ -8,6 +8,8 @@ Ilwrath
 Avenger
 #(Avenger)
 Avenger
+#(Desc)
+Large. Devastating flame blast. Cloaking device
 #(Gorgon)
 Gorgon
 #(Taragon)

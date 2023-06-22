@@ -8,6 +8,8 @@ Supox
 Blade
 #(Blade)
 Blade
+#(Desc)
+Light. Rapid-fire globs. Slides in any direction
 #(Trifid)
 Trifid
 #(Crinoid)

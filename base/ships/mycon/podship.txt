@@ -8,6 +8,8 @@ Mycon
 Podship
 #(Podship)
 Podship
+#(Desc)
+Very slow. Homing plasma torpedo. Grows new crew
 #(Blort)
 Blort
 #(Chupp)
