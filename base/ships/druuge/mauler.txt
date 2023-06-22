@@ -8,6 +8,9 @@ Druuge
 Mauler
 #(Mauler)
 Mauler
+#(Desc)
+Sluggish. Heavy momentum
+weapon. Combustible crew
 #(Tuuga)
 Tuuga
 #(Siinur)

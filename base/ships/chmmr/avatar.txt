@@ -1,5 +1,5 @@
 #(Chmmr Hybrid)
-Chmmr Hybrid
+Chmmr
 #(Chmmr)
 Chmmr
 #(Chmmr)
@@ -8,6 +8,9 @@ Chmmr
 Avatar
 #(Avatar)
 Avatar
+#(Desc)
+Very powerful laser.
+ZapSats. Tractor beam
 #(Mnzgk)
 Mnzgk
 #(Chzrmn)

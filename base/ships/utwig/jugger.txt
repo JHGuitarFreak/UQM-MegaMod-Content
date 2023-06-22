@@ -8,6 +8,9 @@ Utwig
 Jugger
 #(Jugger)
 Jugger
+#(Desc)
+Weapons consume no energy.
+Absorbent shields
 #(Endo)
 Endo
 #(Vermi)

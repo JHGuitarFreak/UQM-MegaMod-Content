@@ -8,6 +8,9 @@ Orz
 Nemesis
 #(Nemesis)
 Nemesis
+#(Desc)
+Quick. Rotating turret. Space
+marines board enemy ship
 #(*Wet*)
 *Wet*
 #(*Happy*)

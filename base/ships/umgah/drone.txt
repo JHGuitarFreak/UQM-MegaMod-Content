@@ -8,6 +8,9 @@ Umgah
 Drone
 #(Drone)
 Drone
+#(Desc)
+Stubby and slow. Anti-matter
+cone. Zips backwards
 #(Julg'ka)
 Julg'ka
 #(Gibj'o)

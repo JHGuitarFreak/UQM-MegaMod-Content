@@ -1,5 +1,5 @@
 #(ZoqFotPik)
-ZoqFotPik
+Zoq-Fot-Pik
 #(ZoqFot)
 ZoqFot
 #(ZoqFot)
@@ -8,6 +8,9 @@ ZoqFot
 Stinger
 #(Stinger)
 Stinger
+#(Desc)
+Small crew. Speedy. Anti-
+matter spray, tongue attack
 #(NikNak)
 NikNak
 #(FipPat)
