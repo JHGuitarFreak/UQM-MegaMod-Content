@@ -94,6 +94,7 @@ Sphere Style
 Slaughter Mode
 Advanced Auto-Pilot
 Super-Melee Ship Descriptions
+Music Resume
 
 #(CAT_0_OPTS)
 Original
@@ -1302,6 +1303,16 @@ the main Super-Melee menu while picking a ship for your fleet.
 #(CAT_79_OPT_1_DESC)
 Show Star Control 1-styled short ship descriptions at the bottom of
 the main Super-Melee menu while picking a ship for your fleet.
+
+#(CAT_80_OPTS)
+Disabled
+Enabled
+
+#(CAT_80_OPT_0_DESC)
+Resumes the music in UQM from where it last left off
+
+#(CAT_80_OPT_1_DESC)
+Resumes the music in UQM from where it last left off
 
 #(SLIDERS)
 Music Volume
