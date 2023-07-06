@@ -8,9 +8,6 @@ Andro.
 Guardian
 #(Guard.)
 Guard.
-#(Desc)
-Pokey. Blows mean bubbles.
-Changes to flaming comet
 #(BOOJI-1)
 BOOJI-1
 #(DORN-3)
@@ -43,3 +40,6 @@ NECRO-99
 HAL-2001
 #(SR-71)
 SR-71
+#(Desc)
+Pokey. Blows mean bubbles.
+Changes to flaming comet.

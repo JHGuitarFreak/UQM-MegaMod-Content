@@ -8,9 +8,6 @@ Spathi
 Eluder
 #(Eluder)
 Eluder
-#(Desc)
-Very fast. Large, cowardly
-crew. Rear firing weapon
 #(Thwil)
 Thwil
 #(Pwappy)
@@ -45,3 +42,6 @@ Bwinkin
 Whuff
 #(Fwiffo)
 Fwiffo
+#(Desc)
+Very fast. Large, cowardly
+crew. Rear firing weapon.

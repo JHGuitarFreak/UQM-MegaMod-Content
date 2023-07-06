@@ -8,9 +8,6 @@ Arilou
 Skiff
 #(Skiff)
 Skiff
-#(Desc)
-Fast, no inertia. Auto-aim
-laser. Hyper-jump
 #(Fefaloo)
 Fefaloo
 #(Bezabu)
@@ -43,3 +40,6 @@ Yipyapi
 Ropilup
 #(Wolwali)
 Wolwali
+#(Desc)
+Fast, no inertia. Auto-aim
+laser. Hyper-jump.

@@ -8,9 +8,6 @@ Yehat
 Terminator
 #(Termin.)
 Termin.
-#(Desc)
-Agile. Rapid-fire, twin
-missiles. Shield
 #(Heep-eep)
 Heep-eep
 #(Feep-eep)
@@ -43,3 +40,6 @@ Geep-eep
 Zeep-eep
 #(Neep-eep)
 Neep-eep
+#(Desc)
+Agile. Rapid-fire, twin
+missiles. Shield.

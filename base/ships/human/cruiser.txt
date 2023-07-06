@@ -8,9 +8,6 @@ Earth.
 Cruiser
 #(Cruiser)
 Cruiser
-#(Desc)
-Slow, heavy. Seeking nukes.
-Point defense lasers
 #(Decker)
 Decker
 #(Trent)
@@ -43,3 +40,6 @@ Buck
 Solo
 #(Belt)
 Belt
+#(Desc)
+Slow, heavy. Seeking nukes.
+Point defense lasers.
