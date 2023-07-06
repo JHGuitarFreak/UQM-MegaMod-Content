@@ -8,9 +8,6 @@ Shofix.
 Scout
 #(Scout)
 Scout
-#(Desc)
-Tiny, fast.
-Can self-destruct
 #(Hiyata)
 Hiyata
 #(Wasabe)
@@ -47,3 +44,6 @@ Kimba
 Tanaka
 #(Katana)
 Katana
+#(Desc)
+Tiny, fast.
+Can self-destruct.

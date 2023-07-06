@@ -8,9 +8,6 @@ Chmmr
 Avatar
 #(Avatar)
 Avatar
-#(Desc)
-Very powerful laser.
-ZapSats. Tractor beam
 #(Mnzgk)
 Mnzgk
 #(Chzrmn)
@@ -43,3 +40,6 @@ Tzrtzn
 Kztztz
 #(Mrnkzt)
 Mrnkzt
+#(Desc)
+Very powerful laser.
+ZapSats. Tractor beam.

@@ -8,9 +8,6 @@ Melnorme
 Trader
 #(Trader)
 Trader
-#(Desc)
-Tubby. Chargeable weapon.
-Can disrupt enemy controls
 #(Reddish)
 Reddish
 #(Orangy)
@@ -43,3 +40,6 @@ Black
 Bluish
 #(Purple)
 Purple
+#(Desc)
+Tubby. Chargeable weapon.
+Can disrupt enemy controls.

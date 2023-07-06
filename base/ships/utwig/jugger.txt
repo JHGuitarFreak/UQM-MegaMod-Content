@@ -8,9 +8,6 @@ Utwig
 Jugger
 #(Jugger)
 Jugger
-#(Desc)
-Weapons consume no energy.
-Absorbent shields
 #(Endo)
 Endo
 #(Vermi)
@@ -43,3 +40,6 @@ Thory
 Jujuby
 #(Erog)
 Erog
+#(Desc)
+Weapons consume no energy.
+Absorbent shields.

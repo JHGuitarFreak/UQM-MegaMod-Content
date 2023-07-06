@@ -8,9 +8,6 @@ ZoqFot
 Stinger
 #(Stinger)
 Stinger
-#(Desc)
-Small crew. Speedy. Anti-
-matter spray, tongue attack
 #(NikNak)
 NikNak
 #(FipPat)
@@ -43,3 +40,6 @@ TikTok
 MikMok
 #(SikSok)
 SikSok
+#(Desc)
+Small crew. Speedy. Anti-
+matter spray, tongue attack.

@@ -8,9 +8,6 @@ Mmrn.
 X-Form
 #(X-Form)
 X-Form
-#(Desc)
-Transforms from a slow,
-heavy to a light, quick ship
 #(Qir-nha)
 Qir-nha
 #(Jhe-qir)
@@ -43,3 +40,6 @@ Hmr-hun
 Nhuh-na
 #(Hrnm-hm)
 Hrnm-hm
+#(Desc)
+Transforms from a slow,
+heavy to a light, quick ship.

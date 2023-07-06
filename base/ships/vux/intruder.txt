@@ -8,9 +8,6 @@ VUX
 Intruder
 #(Intrud.)
 Intrud.
-#(Desc)
-Clumsy. Powerful laser.
-Spawns limpet parasites
 #(ZIK)
 ZIK
 #(PUZ)
@@ -43,3 +40,6 @@ ZOG
 ORZ
 #(ZEK)
 ZEK
+#(Desc)
+Clumsy. Powerful laser.
+Spawns limpet parasites.
