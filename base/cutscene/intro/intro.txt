@@ -31,7 +31,7 @@ FONT1X 0 base/fonts/starcon.fon
 FONT1X 1 base/fonts/slides.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/player.fon
+FONT4X 0 addons/mm-hd/fonts/starcon.fon
 #(Load font to use later)
 FONT4X 1 addons/mm-hd/fonts/slides.fon
 
