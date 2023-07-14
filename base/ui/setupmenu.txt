@@ -103,12 +103,12 @@ HD
 #(CAT_0_OPT_0_DESC)
 Lo-res 320x240 resolution.
 Available with SDL framebuffer or OpenGL.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_0_OPT_1_DESC)
 Hi-res 1280x960 resolution.
 Requires `Hires' package installed.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_1_OPTS)
 SDL Framebuffer
@@ -250,12 +250,12 @@ Enabled
 #(CAT_9_OPT_0_DESC)
 Uses the music from the Original PC version.
 Can still be overriden by addon packs.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_9_OPT_1_DESC)
 Overrides PC soundtrack with 3DO music.
 Can be further overridden by addon packs.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_10_OPTS)
 Disabled
@@ -309,12 +309,12 @@ Enabled
 
 #(CAT_14_OPT_0_DESC)
 Sound effects are center-channel.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_14_OPT_1_DESC)
 Uses positional SFX if possible.
 Currently only supported on OpenAL.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_15_OPTS)
 None
@@ -323,15 +323,15 @@ OpenAL
 
 #(CAT_15_OPT_0_DESC)
 Play silently.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_15_OPT_1_DESC)
 Use the default audio mixer.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_15_OPT_2_DESC)
 Use the Creative Labs OpenAL driver.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_16_OPTS)
 Low
@@ -340,15 +340,15 @@ High
 
 #(CAT_16_OPT_0_DESC)
 Low audio quality.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_16_OPT_1_DESC)
 Medium audio quality.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_16_OPT_2_DESC)
 Highest audio quality.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_17_OPTS)
 Static
@@ -473,12 +473,12 @@ Enabled
 #(CAT_21_OPT_0_DESC)
 Do not load the Precursors Remix Pack.
 
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_21_OPT_1_DESC)
 Overrides PC or 3DO soundtrack with the
 modern soundtrack written by The Precursors.
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_22_OPTS)
 Disabled
@@ -851,12 +851,12 @@ Enabled
 #(CAT_47_OPT_0_DESC)
 A complete set of remixes made by Volasaurus.
 Overrides the PC, 3DO, or Precursors soundtrack
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_47_OPT_1_DESC)
 A complete set of remixes made by Volasaurus.
 Overrides the PC, 3DO, or Precursors soundtrack
-&!Requires Restart when changed.
+&!UQM will reload when changed.
 
 #(CAT_48_OPTS)
 Disabled
