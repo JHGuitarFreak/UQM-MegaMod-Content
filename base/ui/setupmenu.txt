@@ -56,7 +56,7 @@ Date Format
 Infinite Fuel
 Partial Pickup
 In-Game Help Menus
-Resolution
+Window Size
 Add All Devices
 Hazard Colors
 Custom Border
