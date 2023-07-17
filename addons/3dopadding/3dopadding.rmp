@@ -1,0 +1,9 @@
+
+comm.kohrah.graphics = GFXRES:addons/3dopadding/comm/kohrah/kohrah.ani
+comm.urquan.graphics = GFXRES:addons/3dopadding/comm/urquan/urquan.ani
+
+graphics.activity = GFXRES:addons/3dopadding/ui/activity.ani
+graphics.meleemenu = GFXRES:addons/3dopadding/ui/meleemenu.ani
+graphics.meleepickship = GFXRES:addons/3dopadding/ui/meleepickship.ani
+graphics.playmenu = GFXRES:addons/3dopadding/ui/playmenu.ani
+graphics.shipyard = GFXRES:addons/3dopadding/ui/shipyard.ani
