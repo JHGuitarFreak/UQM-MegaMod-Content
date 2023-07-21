@@ -95,7 +95,7 @@ Slaughter Mode
 Advanced Auto-Pilot
 Super-Melee Ship Descriptions
 Music Resume
-3DO Padding
+Window Type
 
 #(CAT_0_OPTS)
 Original
@@ -1316,8 +1316,9 @@ Resumes the music in UQM from where it last left off
 Resumes the music in UQM from where it last left off
 
 #(CAT_81_OPTS)
-Disabled
-Enabled
+DOS
+3DO
+UQM
 
 #(CAT_81_OPT_0_DESC)
 Enables border padding on all sides of the for the ultimate
@@ -1328,6 +1329,12 @@ Enables border padding on all sides of the for the ultimate
 Enables border padding on all sides of the for the ultimate
 3DO version look.
 &!Disables many features that are incompatible while enabled
+
+#(CAT_81_OPT_2_DESC)
+Enables border padding on all sides of the for the ultimate
+3DO version look.
+&!Disables many features that are incompatible while enabled
+
 
 #(SLIDERS)
 Music Volume
