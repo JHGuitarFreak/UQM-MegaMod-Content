@@ -15,5 +15,7 @@ addons/automods-hd/.*
 addons/classic-pack/.*
 !addons/3dopadding/
 addons/3dopadding/.*
+!addons/DOSwind/
+addons/DOSwind/.*
 *.uqm
 .vs
