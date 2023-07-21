@@ -1321,19 +1321,17 @@ DOS
 UQM
 
 #(CAT_81_OPT_0_DESC)
-Enables border padding on all sides of the for the ultimate
-3DO version look.
+Changes the window type to look like the DOS version with a
+shortened vertical resolution.
 &!Disables many features that are incompatible while enabled
 
 #(CAT_81_OPT_1_DESC)
-Enables border padding on all sides of the for the ultimate
+Enables border padding on all sides of the window for the ultimate
 3DO version look.
 &!Disables many features that are incompatible while enabled
 
 #(CAT_81_OPT_2_DESC)
-Enables border padding on all sides of the for the ultimate
-3DO version look.
-&!Disables many features that are incompatible while enabled
+The default UQM viewing experience.
 
 
 #(SLIDERS)
