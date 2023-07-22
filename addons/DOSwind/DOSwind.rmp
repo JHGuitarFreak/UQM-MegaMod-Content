@@ -1,2 +1,4 @@
 
+graphics.modulesmenu = GFXRES:addons/DOSwind/ui/modulesmenu.ani
 graphics.newgame = GFXRES:addons/DOSwind/ui/newgame.ani
+graphics.shipyard = GFXRES:addons/DOSwind/ui/shipyard.ani
