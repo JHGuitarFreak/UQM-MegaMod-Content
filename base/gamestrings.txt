@@ -2387,11 +2387,16 @@ The game will shut down now -
 we apologise for the inconvenience!
 
 
-#(Hmm...)
-Hmm...
+#(Addon not found...)
+The addon pack for this particular option
+was not found within the addons directory
+inside the content folder.
+
+This option will now revert back to
+its default value.
 
 
-#(hd_pack_not_found))
+#(hd_pack_not_found)
 Hmm...
 You were trying to run the game in HD mode, 
 but the game couldn't find the 'HD' addon 
