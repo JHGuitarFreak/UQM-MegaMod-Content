@@ -22,6 +22,3 @@ DRAW 0
 
 #(Fade-in a slide; param1=fade time)
 FTC 500
-
-#(Animate 1)
-ANIMATE 1 4 0 3000 10
