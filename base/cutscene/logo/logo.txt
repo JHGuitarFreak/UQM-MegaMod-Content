@@ -240,3 +240,9 @@ WAIT 80
 
 #(Spark 3 - final)
 DRAW 38
+
+#(Wait)
+WAIT 3000
+
+#(Fade out)
+FTB 500
