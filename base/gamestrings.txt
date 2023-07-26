@@ -766,6 +766,66 @@ Uploading
 data...
 
 
+#(modules) -- OUTFIT_STRING_BASE
+modules
+
+
+#(Planet Lander)
+Planet Lander
+
+
+#(Fusion Thruster)
+Fusion Thruster
+
+
+#(Turning Jets)
+Turning Jets
+
+
+#(Crew Pod)
+Crew Pod
+
+
+#(Storage Bay)
+Storage Bay
+
+
+#(Fuel Tank)
+Fuel Tank
+
+
+#(High-Ef FuelSys)
+Hi-Eff FuelSys
+
+
+#(Dynamo Unit)
+Dynamo Unit
+
+
+#(Shiva Furnace)
+Shiva Furnace
+
+
+#(Ion-Bolt Gun)
+Ion-Bolt Gun
+
+
+#(Fusion Blaster)
+Fusion Blaster
+
+
+#(Hellbore Cannon)
+Hellbore Cannon
+
+
+#(A.T.S. System)
+A.T.S. System
+
+
+#(Point Defense)
+Point Defense
+
+
 #(Hydrogen) -- ELEMENTS_STRING_BASE
 Hydrogen
 
