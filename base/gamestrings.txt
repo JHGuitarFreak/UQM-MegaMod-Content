@@ -775,7 +775,7 @@ Planet Lander
 
 
 #(Fusion Thruster)
-Fusion Thruster
+Fusion Thrust
 
 
 #(Turning Jets)
@@ -795,7 +795,7 @@ Fuel Tank
 
 
 #(High-Ef FuelSys)
-Hi-Eff FuelSys
+High-Ef FuelSys
 
 
 #(Dynamo Unit)
