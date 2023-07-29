@@ -7,4 +7,3 @@ graphics.outfit = GFXRES:addons/DOSwind/ui/outfit.ani
 graphics.outfitmodules = GFXRES:addons/DOSwind/ui/outfitmodules.ani
 graphics.playmenu = GFXRES:addons/DOSwind/ui/playmenu.ani
 graphics.shipyard = GFXRES:addons/DOSwind/ui/shipyard.ani
-graphics.title = GFXRES:addons/DOSwind/ui/title.ani
