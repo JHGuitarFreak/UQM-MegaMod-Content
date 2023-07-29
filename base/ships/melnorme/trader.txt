@@ -3,7 +3,7 @@ Melnorme
 #(Melnorme)
 Melnorme
 #(Melnorme)
-Melnorme
+Melnor.
 #(Trader)
 Trader
 #(Trader)

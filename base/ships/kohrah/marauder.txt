@@ -7,7 +7,7 @@ Kohr-Ah
 #(Marauder)
 Marauder
 #(Marauder)
-Marauder
+Maraud.
 #(Death 11)
 Death 11
 #(Death 17)
