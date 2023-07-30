@@ -766,66 +766,6 @@ Uploading
 data...
 
 
-#(modules) -- OUTFIT_STRING_BASE
-modules
-
-
-#(Planet Lander)
-Planet Lander
-
-
-#(Fusion Thruster)
-Fusion Thrust
-
-
-#(Turning Jets)
-Turning Jets
-
-
-#(Crew Pod)
-Crew Pod
-
-
-#(Storage Bay)
-Storage Bay
-
-
-#(Fuel Tank)
-Fuel Tank
-
-
-#(High-Ef FuelSys)
-High-Ef FuelSys
-
-
-#(Dynamo Unit)
-Dynamo Unit
-
-
-#(Shiva Furnace)
-Shiva Furnace
-
-
-#(Ion-Bolt Gun)
-Ion-Bolt Gun
-
-
-#(Fusion Blaster)
-Fusion Blaster
-
-
-#(Hellbore Cannon)
-Hellbore Cannon
-
-
-#(A.T.S. System)
-A.T.S. System
-
-
-#(Point Defense)
-Point Defense
-
-
 #(Hydrogen) -- ELEMENTS_STRING_BASE
 Hydrogen
 
@@ -1938,6 +1878,70 @@ Remaining Crew:
 
 #(Cdr. Hayes)
 Cdr. Hayes
+
+
+#(ships)
+ships
+
+
+#(modules)
+modules
+
+
+#(Planet Lander)
+Planet Lander
+
+
+#(Fusion Thruster)
+Fusion Thrust
+
+
+#(Turning Jets)
+Turning Jets
+
+
+#(Crew Pod)
+Crew Pod
+
+
+#(Storage Bay)
+Storage Bay
+
+
+#(Fuel Tank)
+Fuel Tank
+
+
+#(High-Ef FuelSys)
+High-Ef FuelSys
+
+
+#(Dynamo Unit)
+Dynamo Unit
+
+
+#(Shiva Furnace)
+Shiva Furnace
+
+
+#(Ion-Bolt Gun)
+Ion-Bolt Gun
+
+
+#(Fusion Blaster)
+Fusion Blaster
+
+
+#(Hellbore Cannon)
+Hellbore Cannon
+
+
+#(A.T.S. System)
+A.T.S. System
+
+
+#(Point Defense)
+Point Defense
 
 
 #(ENCOUNTER IN) -- ENCOUNTER_STRING_BASE
