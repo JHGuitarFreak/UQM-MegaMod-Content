@@ -15,7 +15,7 @@ FTB 0
 ANI1X base/cutscene/reload/reload.ani
 
 #(Load movie)
-ANI4X base/cutscene/reload/reloadhd/reload.ani
+ANI4X addons/mm-hd/cutscene/reload/reload.ani
 
 #(Draw slide; param1=ANI index)
 DRAW 0
