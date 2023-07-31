@@ -1,0 +1,12 @@
+
+graphics.activity = GFXRES:addons/dos-mode-sd/ui/activity.ani
+graphics.flagshipstatus = GFXRES:addons/dos-mode-sd/ui/flagshipstatus.ani
+graphics.landerlaunch = GFXRES:addons/dos-mode-sd/lander/launch.ani
+graphics.landerreturn = GFXRES:addons/dos-mode-sd/lander/return.ani
+graphics.meleemenu = GFXRES:addons/dos-mode-sd/ui/meleemenu.ani
+graphics.modulesmenu = GFXRES:addons/dos-mode-sd/ui/modulesmenu.ani
+graphics.newgame = GFXRES:addons/dos-mode-sd/ui/newgame.ani
+graphics.outfit = GFXRES:addons/dos-mode-sd/ui/outfit.ani
+graphics.outfitmodules = GFXRES:addons/dos-mode-sd/ui/outfitmodules.ani
+graphics.playmenu = GFXRES:addons/dos-mode-sd/ui/playmenu.ani
+graphics.shipyard = GFXRES:addons/dos-mode-sd/ui/shipyard.ani

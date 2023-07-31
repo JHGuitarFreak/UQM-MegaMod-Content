@@ -1,9 +1,0 @@
-
-graphics.activity = GFXRES:addons/DOSwind/ui/activity.ani
-graphics.flagshipstatus = GFXRES:addons/DOSwind/ui/flagshipstatus.ani
-graphics.modulesmenu = GFXRES:addons/DOSwind/ui/modulesmenu.ani
-graphics.newgame = GFXRES:addons/DOSwind/ui/newgame.ani
-graphics.outfit = GFXRES:addons/DOSwind/ui/outfit.ani
-graphics.outfitmodules = GFXRES:addons/DOSwind/ui/outfitmodules.ani
-graphics.playmenu = GFXRES:addons/DOSwind/ui/playmenu.ani
-graphics.shipyard = GFXRES:addons/DOSwind/ui/shipyard.ani
