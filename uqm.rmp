@@ -1036,6 +1036,7 @@ slides.spins.24 = STRTAB:base/cutscene/spins/ship24.txt
 sounds.battle = SNDRES:base/battle/battle.snd
 sounds.lander = SNDRES:base/lander/lander.snd
 sounds.menu = SNDRES:base/ui/menu.snd
+sounds.test = SNDRES:base/ui/test.snd
 text.algoliteruins = STRTAB:base/lander/energy/algoliteruins.txt
 text.androsynthruins = STRTAB:base/lander/energy/androsynth_ruins.txt
 text.aquahelix = STRTAB:base/lander/energy/aquahelix.txt
