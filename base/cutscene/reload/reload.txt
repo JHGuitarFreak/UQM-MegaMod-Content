@@ -1,24 +1,20 @@
-#(Clear entire screen first; set size...)
-DIMS 320 240
-
-#(... and clear)
-CLS
-
-#(Set sequence dimensions; param1=width; param2=height)
-DIMS 320 200
-#(Everything is drawn within the clipping rect defined by DIMS, from 0, 0)
-
-#(Fade all to black; param1=fade time)
-FTB 0
-
 #(Load movie)
 ANI1X base/cutscene/reload/reload.ani
 
 #(Load movie)
-ANI4X base/cutscene/reload/reloadhd/reload.ani
+ANI4X addons/mm-hd/cutscene/reload/reload.ani
 
-#(Draw slide; param1=ANI index)
+#(Take up entire screen)
+DIMS 320 240
+
+#(Fade out)
+FTB 0
+
+#(Clear screen)
+CLS
+
+#(Background)
 DRAW 0
 
-#(Fade-in a slide; param1=fade time)
+#(Fade in)
 FTC 500
