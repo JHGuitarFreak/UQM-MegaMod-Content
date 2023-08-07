@@ -13,5 +13,17 @@ addons/sol-textures-sd/.*
 addons/automods-hd/.*
 !addons/classic-pack/
 addons/classic-pack/.*
+!addons/3dopadding/
+addons/3dopadding/.*
+!addons/DOSwind/
+addons/DOSwind/.*
+!addons/3do-mode-sd/
+addons/3do-mode-sd/.*
+!addons/3do-mode-hd/
+addons/3do-mode-hd/.*
+!addons/dos-mode-sd/
+addons/dos-mode-sd/.*
+!addons/dos-mode-hd/
+addons/dos-mode-hd/.*
 *.uqm
 .vs

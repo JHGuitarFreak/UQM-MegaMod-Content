@@ -56,7 +56,7 @@ Date Format
 Infinite Fuel
 Partial Pickup
 In-Game Help Menus
-Resolution
+Window Size
 Add All Devices
 Hazard Colors
 Custom Border
@@ -95,6 +95,7 @@ Slaughter Mode
 Advanced Auto-Pilot
 Super-Melee Ship Descriptions
 Music Resume
+Window Type
 
 #(CAT_0_OPTS)
 Original
@@ -1313,6 +1314,25 @@ Resumes the music in UQM from where it last left off
 
 #(CAT_80_OPT_1_DESC)
 Resumes the music in UQM from where it last left off
+
+#(CAT_81_OPTS)
+DOS
+3DO
+UQM
+
+#(CAT_81_OPT_0_DESC)
+Changes the window type to look like the DOS version with a
+shortened vertical resolution.
+&!Disables many features that are incompatible while enabled
+
+#(CAT_81_OPT_1_DESC)
+Enables border padding on all sides of the window for the ultimate
+3DO version look.
+&!Disables many features that are incompatible while enabled
+
+#(CAT_81_OPT_2_DESC)
+The default UQM viewing experience.
+
 
 #(SLIDERS)
 Music Volume
