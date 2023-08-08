@@ -168,6 +168,7 @@ credits.font.pt45 = FONTRES:base/fonts/pt45.fon
 event.script = SCRIPT:base/script/events.lua
 font.lander = FONTRES:base/fonts/lander.fon
 font.micro = FONTRES:base/fonts/micro.fon
+font.microthin = FONTRES:base/fonts/microthin.fon
 font.player = FONTRES:base/fonts/player.fon
 font.starcon = FONTRES:base/fonts/starcon.fon
 font.tiny = FONTRES:base/fonts/tiny.fon
