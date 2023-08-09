@@ -1,0 +1,32 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/accessdata.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/accessdata.ani
+
+#(Take up entire screen)
+DIMS 320 240
+
+#(Set font to use)
+FONT 0
+
+#(Draw first frame)
+DRAW 0
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 30 50 Accessing Starship Databank...#
