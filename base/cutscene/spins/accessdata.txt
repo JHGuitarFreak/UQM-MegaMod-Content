@@ -1,5 +1,8 @@
+#(Clear entire screen first; set size...)
+DIMS 320 240
+
 #(Load font to use later)
-FONT1X 0 base/fonts/micro.fon
+FONT1X 0 base/fonts/micro.thin.fon
 
 #(Load font to use later)
 FONT4X 0 addons/mm-hd/fonts/micro.fon
@@ -16,17 +19,17 @@ ANI1X base/cutscene/spins/accessdata.ani
 #(Load movie)
 ANI4X addons/mm-hd/cutscene/spins/accessdata.ani
 
-#(Take up entire screen)
-DIMS 320 240
-
 #(Set font to use)
 FONT 0
 
 #(Draw first frame)
 DRAW 0
 
-#(Wait for ditty)
-WAITDITTY
+#(Fade-in a slide; param1=fade time)
+FTC 500
 
 #(Text for spin)
-TEXTSPIN 30 50 Accessing Starship Databank...#
+TEXTSPIN 68 73 Accessing Starship Databank...#
+
+#(Wait)
+WAIT 1600
