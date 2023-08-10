@@ -27,7 +27,7 @@ DIMS 320 200
 FONT 0
 
 #(Ditty)
-DITTY syreen
+DITTY ilwrath
 
 #(Draw ship frame)
 DRAW 6
@@ -39,47 +39,59 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 82 2 SYREEN PENETRA#
+TEXTSPIN 2 2 ILWRATH#
 
 #(Text for spin)
-TEXTSPIN 206 2 TOR#
+TEXTSPIN 71 2 A#
+
+#(Text for spin)
+TEXTSPIN 81 2 VENGER#
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 53 100 Hypnotization Field
-Pro#
-
-#(Text for spin)
-TEXTSPIN 73 111 jection Ribs#
-
-#(Line for spin)
-LINESPIN 107 67 107 98
-
-#(Line for spin)
-LINESPIN 132 98 149 81
+TEXTSPIN 5 13 (uncloaking to attack)#
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 6 43 Partical
-Beam
-Stiletto#
+TEXTSPIN 20 80 Hellfire
+Spout#
 
 #(Line for spin)
-LINESPIN 9 14 9 40
+LINESPIN 55 99 64 108
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 249 40 Etheric
-Stabilizer#
+TEXTSPIN 247 41 Optical
+Cloaking
+Device#
 
 #(Line for spin)
-LINESPIN 213 48 245 48
+LINESPIN 210 54 244 54
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 74 37 Sensory Clusters#
+
+#(Line for spin)
+LINESPIN 97 46 97 53
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 98 117 Poor Tactical
+Positioning#
+
+#(Line for spin)
+LINESPIN 67 128 92 128
 
 #(Wait)
 WAIT 1000
@@ -91,28 +103,28 @@ STATBOX 182 77
 FONT 1
 
 #(Draw stat)
-SPINSTAT 3 6 CREW COMPLEMENT
+SPINSTAT 5 0 CREW COMPLEMENT
 
 #(Draw stat)
 SPINSTAT 3 0 BATT CAPACITY
 
 #(Draw stat)
-SPINSTAT 4 0 BATT REGEN.
+SPINSTAT 5 0 BATT REGEN.
 
 #(Draw stat)
 SPINSTAT 8 0 ACCELERATION
 
 #(Draw stat)
-SPINSTAT 6 0 TURNING RATE
+SPINSTAT 7 0 TURNING RATE
 
 #(Draw stat)
-SPINSTAT 6 0 MAX VELOCITY
+SPINSTAT 4 0 MAX VELOCITY
 
 #(Draw stat)
-SPINSTAT 5 0 WEAPON RANGE
+SPINSTAT 3 0 WEAPON RANGE
 
 #(Draw stat)
-SPINSTAT 2 0 WEAPON DAMAGE
+SPINSTAT 4 0 WEAPON DAMAGE
 
 #(Wait for five minutes, or keypress)
 WAIT 300000
