@@ -1,32 +1,153 @@
-#(Load font)
-FONT 0 base/fonts/starcon.fon
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
 
-#(... and BG)
-TBC 000000
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
 
 #(Load movie)
-ANI1X base/cutscene/spins/ship09.ani
+ANI1X base/cutscene/spins/ship.ani
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/spins/ship09.ani
+ANI4X addons/mm-hd/cutscene/spins/ship.ani
 
 #(Take up entire screen)
-DIMS 320 240
+DIMS 320 200
 
-#(Fade out)
-FTB 250
+#(Set font to use)
+FONT 0
 
 #(Ditty)
 DITTY mmrnmhrm
 
-#(Draw first frame)
-DRAW 0
+#(Draw ship frame)
+DRAW 9
 
-#(Draw first frame)
-DRAW 1
+#(Get the bounds of the last frame drawn)
+GETRECT
 
-#(Fade in)
-FTC 250
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 62 128 MMRNMHRM#
+
+#(Text for spin)
+TEXTSPIN 152 128 TRANSFORMER#
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 95 64 Transformation#
+
+#(Text for spin)
+TEXTSPIN 112 73 Linkages#
+
+#(Line for spin)
+LINESPIN 94 72 41 89
+
+#(Line for spin)
+LINESPIN 192 68 245 68
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 44 91 Laser cannon#
+
+#(Line for spin)
+LINESPIN 43 112 84 99
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 207 112 Missile launcher#
+
+#(Line for spin)
+LINESPIN 238 88 260 110
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 142 100 Afterburner#
+
+#(Line for spin)
+LINESPIN 175 98 200 73
+
+#(Wait)
+WAIT 1000
+
+#(Statbox)
+STATBOX 3 2
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 4 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 2 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 8 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 6 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 7 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 1 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 1 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 6 0 WEAPON DAMAGE
+
+#(Wait)
+WAIT 1000
+
+#(Statbox)
+STATBOX 182 2
+
+#(Draw stat)
+SPINSTAT 4 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 2 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 5 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 9 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 1 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 9 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 9 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 2 0 WEAPON DAMAGE
 
 #(Wait for five minutes, or keypress)
 WAIT 300000

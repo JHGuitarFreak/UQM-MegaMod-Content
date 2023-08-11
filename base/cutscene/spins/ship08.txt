@@ -1,32 +1,117 @@
-#(Load font)
-FONT 0 base/fonts/starcon.fon
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
 
-#(... and BG)
-TBC 000000
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
 
 #(Load movie)
-ANI1X base/cutscene/spins/ship08.ani
+ANI1X base/cutscene/spins/ship.ani
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/spins/ship08.ani
+ANI4X addons/mm-hd/cutscene/spins/ship.ani
 
 #(Take up entire screen)
-DIMS 320 240
+DIMS 320 200
 
-#(Fade out)
-FTB 250
+#(Set font to use)
+FONT 0
 
 #(Ditty)
 DITTY melnorme
 
-#(Draw first frame)
-DRAW 0
+#(Draw ship frame)
+DRAW 8
 
-#(Draw first frame)
-DRAW 1
+#(Get the bounds of the last frame drawn)
+GETRECT
 
-#(Fade in)
-FTC 250
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 2 2 MELNORME TRADER#
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 129 107 Bridge
+Color
+Control#
+
+#(Line for spin)
+LINESPIN 169 111 209 111
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 80 15 Variable Power
+Blaster Charge#
+
+#(Line for spin)
+LINESPIN 122 35 137 50
+
+#(Line for spin)
+LINESPIN 113 35 103 45
+
+#(Line for spin)
+LINESPIN 47 28 76 28
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 215 2 Confusion Ray#
+
+#(Text for spin)
+TEXTSPIN 243 12 Capacitor#
+
+#(Line for spin)
+LINESPIN 216 11 206 21
+
+#(Wait)
+WAIT 1000
+
+#(Statbox)
+STATBOX 2 77
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 4 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 9 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 4 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 1 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 3 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 5 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 9 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 3 6 WEAPON DAMAGE
 
 #(Wait for five minutes, or keypress)
 WAIT 300000
