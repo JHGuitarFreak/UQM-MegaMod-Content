@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,15 +39,16 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 64 1 CHENJESU    BROODHOME#
+TEXTSPIN 64 1 CHENJESU    BROODHOME
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 100 93 Photon
+TEXTSPIN 100 93
+Photon
 Crystal
-Shard#
+Shard
 
 #(Line for spin)
 LINESPIN 138 123 143 128
@@ -56,10 +57,11 @@ LINESPIN 138 123 143 128
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 2 13 High-frequency
+TEXTSPIN 2 13
+High-frequency
 Resonators
 (for D.O.G.I.
-control)#
+control)
 
 #(Line for spin)
 LINESPIN 50 51 71 72
@@ -68,9 +70,10 @@ LINESPIN 50 51 71 72
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 237 22 Energy
+TEXTSPIN 237 22
+Energy
 Absorption
-Crystals#
+Crystals
 
 #(Line for spin)
 LINESPIN 207 37 234 37

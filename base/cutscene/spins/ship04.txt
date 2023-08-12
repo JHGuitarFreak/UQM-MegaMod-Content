@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,16 +39,17 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 33 2 DRUUGE  MAULER#
+TEXTSPIN 33 2 DRUUGE  MAULER
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 171 98 Matter-
+TEXTSPIN 171 98
+Matter-
 to-Energy
 Conversion
-Furnace#
+Furnace
 
 #(Line for spin)
 LINESPIN 243 121 267 113
@@ -57,9 +58,10 @@ LINESPIN 243 121 267 113
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 5 52 Dense,
+TEXTSPIN 5 52
+Dense,
 Heavy
-Projectile#
+Projectile
 
 #(Line for spin)
 LINESPIN 8 18 8 47
@@ -68,8 +70,9 @@ LINESPIN 8 18 8 47
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 91 114 Combat
-Battery#
+TEXTSPIN 91 114
+Combat
+Battery
 
 #(Line for spin)
 LINESPIN 136 110 157 89
@@ -78,8 +81,9 @@ LINESPIN 136 110 157 89
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 108 16 High-recoil
-Cannon#
+TEXTSPIN 108 16
+High-recoil
+Cannon
 
 #(Line for spin)
 LINESPIN 67 21 103 21

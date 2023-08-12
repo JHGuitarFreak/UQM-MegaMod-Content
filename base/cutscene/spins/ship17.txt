@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,20 +39,21 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 82 2 SYREEN PENETRA#
+TEXTSPIN 82 2 SYREEN PENETRA
 
 #(Text for spin)
-TEXTSPIN 206 2 TOR#
+TEXTSPIN 206 2 TOR
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 53 100 Hypnotization Field
-Pro#
+TEXTSPIN 53 100
+Hypnotization Field
+Pro
 
 #(Text for spin)
-TEXTSPIN 73 111 jection Ribs#
+TEXTSPIN 73 111 jection Ribs
 
 #(Line for spin)
 LINESPIN 107 67 107 98
@@ -64,9 +65,10 @@ LINESPIN 132 98 149 81
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 6 43 Partical
+TEXTSPIN 6 43
+Partical
 Beam
-Stiletto#
+Stiletto
 
 #(Line for spin)
 LINESPIN 9 14 9 40
@@ -75,8 +77,9 @@ LINESPIN 9 14 9 40
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 249 40 Etheric
-Stabilizer#
+TEXTSPIN 249 40
+Etheric
+Stabilizer
 
 #(Line for spin)
 LINESPIN 213 48 245 48

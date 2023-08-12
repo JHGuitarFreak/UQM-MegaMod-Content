@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,14 +39,15 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 2 2 ORZ NEMESIS#
+TEXTSPIN 2 2 ORZ NEMESIS
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 183 83 Rotating
-Howitzer#
+TEXTSPIN 183 83
+Rotating
+Howitzer
 
 #(Line for spin)
 LINESPIN 162 67 180 85
@@ -55,8 +56,9 @@ LINESPIN 162 67 180 85
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 74 89 Marine
-PortHoles#
+TEXTSPIN 74 89
+Marine
+PortHoles
 
 #(Line for spin)
 LINESPIN 108 61 108 87
@@ -65,7 +67,7 @@ LINESPIN 108 61 108 87
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 30 15 Space Marines#
+TEXTSPIN 30 15 Space Marines
 
 #(Line for spin)
 LINESPIN 89 24 89 31
@@ -77,7 +79,7 @@ LINESPIN 33 24 33 49
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 86 117 Crew Habitation Tanks#
+TEXTSPIN 86 117 Crew Habitation Tanks
 
 #(Line for spin)
 LINESPIN 233 120 263 120

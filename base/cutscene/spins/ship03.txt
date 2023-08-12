@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,13 +39,13 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 1 2 CHMMR  AVATAR#
+TEXTSPIN 1 2 CHMMR  AVATAR
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 60 95 ZapSats#
+TEXTSPIN 60 95 ZapSats
 
 #(Line for spin)
 LINESPIN 105 104 105 114
@@ -57,10 +57,10 @@ LINESPIN 30 64 57 91
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 244 79 Terawatt#
+TEXTSPIN 244 79 Terawatt
 
 #(Text for spin)
-TEXTSPIN 268 89 Laser#
+TEXTSPIN 268 89 Laser
 
 #(Line for spin)
 LINESPIN 277 99 277 127
@@ -69,8 +69,9 @@ LINESPIN 277 99 277 127
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 6 16 Tractor Beam
-Generator#
+TEXTSPIN 6 16
+Tractor Beam
+Generator
 
 #(Line for spin)
 LINESPIN 67 32 92 44

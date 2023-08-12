@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,19 +39,19 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 62 128 MMRNMHRM#
+TEXTSPIN 62 128 MMRNMHRM
 
 #(Text for spin)
-TEXTSPIN 152 128 TRANSFORMER#
+TEXTSPIN 152 128 TRANSFORMER
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 95 64 Transformation#
+TEXTSPIN 95 64 Transformation
 
 #(Text for spin)
-TEXTSPIN 112 73 Linkages#
+TEXTSPIN 112 73 Linkages
 
 #(Line for spin)
 LINESPIN 94 72 41 89
@@ -63,7 +63,7 @@ LINESPIN 192 68 245 68
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 44 91 Laser cannon#
+TEXTSPIN 44 91 Laser cannon
 
 #(Line for spin)
 LINESPIN 43 112 84 99
@@ -72,7 +72,7 @@ LINESPIN 43 112 84 99
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 207 112 Missile launcher#
+TEXTSPIN 207 112 Missile launcher
 
 #(Line for spin)
 LINESPIN 238 88 260 110
@@ -81,7 +81,7 @@ LINESPIN 238 88 260 110
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 142 100 Afterburner#
+TEXTSPIN 142 100 Afterburner
 
 #(Line for spin)
 LINESPIN 175 98 200 73

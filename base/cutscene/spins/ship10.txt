@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,19 +39,19 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 172 127 MYCON#
+TEXTSPIN 172 127 MYCON
 
 #(Text for spin)
-TEXTSPIN 228 127 PODSHIP#
+TEXTSPIN 228 127 PODSHIP
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 169 4 Plasma#
+TEXTSPIN 169 4 Plasma
 
 #(Text for spin)
-TEXTSPIN 219 4 Generator#
+TEXTSPIN 219 4 Generator
 
 #(Line for spin)
 LINESPIN 200 13 200 40
@@ -60,8 +60,9 @@ LINESPIN 200 13 200 40
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 5 118 Homing
-Plasmoid#
+TEXTSPIN 5 118
+Homing
+Plasmoid
 
 #(Line for spin)
 LINESPIN 50 125 68 107
@@ -70,9 +71,10 @@ LINESPIN 50 125 68 107
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 134 91 Crew
+TEXTSPIN 134 91
+Crew
 Growth
-Zones#
+Zones
 
 #(Line for spin)
 LINESPIN 170 95 175 89

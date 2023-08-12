@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,15 +39,16 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 2 2 MELNORME TRADER#
+TEXTSPIN 2 2 MELNORME TRADER
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 129 107 Bridge
+TEXTSPIN 129 107
+Bridge
 Color
-Control#
+Control
 
 #(Line for spin)
 LINESPIN 169 111 209 111
@@ -56,8 +57,9 @@ LINESPIN 169 111 209 111
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 80 15 Variable Power
-Blaster Charge#
+TEXTSPIN 80 15
+Variable Power
+Blaster Charge
 
 #(Line for spin)
 LINESPIN 122 35 137 50
@@ -72,10 +74,10 @@ LINESPIN 47 28 76 28
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 215 2 Confusion Ray#
+TEXTSPIN 215 2 Confusion Ray
 
 #(Text for spin)
-TEXTSPIN 243 12 Capacitor#
+TEXTSPIN 243 12 Capacitor
 
 #(Line for spin)
 LINESPIN 216 11 206 21

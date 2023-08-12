@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,16 +39,17 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 66 2 ANDROSYNTH GUARDIAN#
+TEXTSPIN 66 2 ANDROSYNTH GUARDIAN
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 5 19 Molecular
+TEXTSPIN 5 19
+Molecular
 acid
 sphere
-launcher#
+launcher
 
 #(Line for spin)
 LINESPIN 49 36 105 36
@@ -57,10 +58,11 @@ LINESPIN 49 36 105 36
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 124 91 Spheres
+TEXTSPIN 124 91
+Spheres
 employ
 Chaos™
-tracking#
+tracking
 
 #(Line for spin)
 LINESPIN 131 46 131 88
@@ -72,9 +74,10 @@ LINESPIN 148 89 160 77
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 229 20 High-speed,
+TEXTSPIN 229 20
+High-speed,
 destructive
-Blazer form#
+Blazer form
 
 #(Line for spin)
 LINESPIN 197 34 225 34

@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,22 +39,23 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 134 2 ARILOULALEELAY SKIFF#
+TEXTSPIN 134 2 ARILOULALEELAY SKIFF
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 148 13 (Last reported position)#
+TEXTSPIN 148 13
+(Last reported position)
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 158 107  Ventral, auto-aiming#
+TEXTSPIN 158 107 Ventral, auto-aiming
 
 #(Text for spin)
-TEXTSPIN 206 117 laser weapon#
+TEXTSPIN 206 117 laser weapon
 
 #(Line for spin)
 LINESPIN 199 89 216 106
@@ -63,10 +64,10 @@ LINESPIN 199 89 216 106
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 5 73 Short-range#
+TEXTSPIN 5 73 Short-range
 
 #(Text for spin)
-TEXTSPIN 6 82 hyperdrive shunt#
+TEXTSPIN 6 82 hyperdrive shunt
 
 #(Line for spin)
 LINESPIN 95 80 148 63
@@ -75,10 +76,10 @@ LINESPIN 95 80 148 63
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 241 40 Inertialess#
+TEXTSPIN 241 40 Inertialess
 
 #(Text for spin)
-TEXTSPIN 242 49 drive#
+TEXTSPIN 242 49 drive
 
 #(Line for spin)
 LINESPIN 217 43 240 43
@@ -87,7 +88,8 @@ LINESPIN 217 43 240 43
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 74 126 Headlights#
+TEXTSPIN 74 126
+Headlights
 
 #(Line for spin)
 LINESPIN 105 123 130 98

@@ -5,7 +5,7 @@ DIMS 320 240
 FONT1X 0 base/fonts/micro.thin.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 
 #(Set color)
 TC 55FF55
@@ -29,7 +29,7 @@ DRAW 0
 FTC 500
 
 #(Text for spin)
-TEXTSPIN 68 73 Accessing Starship Databank...#
+TEXTSPIN 68 73 Accessing Starship Databank...
 
 #(Wait)
 WAIT 1600

@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,17 +39,18 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 240 119 KOHR-AH#
+TEXTSPIN 240 119 KOHR-AH
 
 #(Text for spin)
-TEXTSPIN 224 130 MARAUDER#
+TEXTSPIN 224 130 MARAUDER
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 33 10 F.R.I.E.D.
-Emitters#
+TEXTSPIN 33 10
+F.R.I.E.D.
+Emitters
 
 #(Line for spin)
 LINESPIN 90 14 110 14
@@ -58,7 +59,7 @@ LINESPIN 90 14 110 14
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 5 128 Spinning Blade#
+TEXTSPIN 5 128 Spinning Blade
 
 #(Line for spin)
 LINESPIN 92 132 126 132

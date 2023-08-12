@@ -4,9 +4,9 @@ FONT1X 0 base/fonts/micro.thin.fon
 FONT1X 1 base/fonts/tiny.cond.fon
 
 #(Load font to use later)
-FONT4X 0 addons/mm-hd/fonts/micro.fon
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
 #(Load font to use later)
-FONT4X 1 addons/mm-hd/fonts/tiny.fon
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
 
 #(Set color)
 TC 55FF55
@@ -39,20 +39,21 @@ GETRECT
 WAITDITTY
 
 #(Text for spin)
-TEXTSPIN 156 130 EARTHLING CRUISER#
+TEXTSPIN 156 130 EARTHLING CRUISER
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 203 32 Fire-and-forget
-Nuclear Missile#
+TEXTSPIN 203 32
+Fire-and-forget
+Nuclear Missile
 
 #(Wait)
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 203 53 (MX surplus)#
+TEXTSPIN 203 53 (MX surplus)
 
 #(Line for spin)
 LINESPIN 267 30 271 26
@@ -61,7 +62,7 @@ LINESPIN 267 30 271 26
 WAIT 1000
 
 #(Text for spin)
-TEXTSPIN 6 2 Point-defense Laser System (SDI surplus)#
+TEXTSPIN 6 2 Point-defense Laser System (SDI surplus)
 
 #(Line for spin)
 LINESPIN 101 10 106 15
