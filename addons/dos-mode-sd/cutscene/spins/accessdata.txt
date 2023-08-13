@@ -1,5 +1,5 @@
 #(Clear entire screen first; set size...)
-DIMS 320 240
+DIMS 320 200
 
 #(Load font to use later)
 FONT1X 0 base/fonts/micro.thin.fon
@@ -14,10 +14,10 @@ TC 55FF55
 TBC FFFFFF
 
 #(Load movie)
-ANI1X base/cutscene/spins/accessdata.ani
+ANI1X addons/dos-mode-sd/cutscene/spins/accessdata.ani
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/spins/accessdata.ani
+ANI4X addons/dos-mode-hd/cutscene/spins/accessdata.ani
 
 #(Set font to use)
 FONT 0
@@ -29,7 +29,7 @@ DRAW 0
 FTC 500
 
 #(Text for spin)
-TEXTSPIN 68 73 Accessing Starship Databank...
+TEXTSPIN 68 53 Accessing Starship Databank...
 
 #(Wait)
 WAIT 1600

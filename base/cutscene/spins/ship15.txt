@@ -1,32 +1,137 @@
-#(Load font)
-FONT 0 base/fonts/starcon.fon
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
 
-#(... and BG)
-TBC 000000
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
 
 #(Load movie)
-ANI1X base/cutscene/spins/ship15.ani
+ANI1X base/cutscene/spins/ship.ani
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/spins/ship15.ani
+ANI4X addons/mm-hd/cutscene/spins/ship.ani
 
 #(Take up entire screen)
-DIMS 320 240
+DIMS 320 200
 
-#(Fade out)
-FTB 250
+#(Set font to use)
+FONT 0
 
 #(Ditty)
 DITTY spathi
 
-#(Draw first frame)
-DRAW 0
+#(Draw ship frame)
+DRAW 15
 
-#(Draw first frame)
-DRAW 1
+#(Get the bounds of the last frame drawn)
+GETRECT
 
-#(Fade in)
-FTC 250
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 158 2 SP
+
+#(Text for spin)
+TEXTSPIN 174 2 A
+
+#(Text for spin)
+TEXTSPIN 183 2 THI
+
+#(Text for spin)
+TEXTSPIN 216 2 ELUDER
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 152 12 (In Attack Position)
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 190 119 Rear-firing Missile
+
+#(Text for spin)
+TEXTSPIN 205 130 Launch Tube
+
+#(Line for spin)
+LINESPIN 157 122 186 122
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 34 77
+Main
+Crew
+Area
+
+#(Line for spin)
+LINESPIN 52 44 52 73
+
+#(Line for spin)
+LINESPIN 72 104 87 111
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 226 72
+Decoy
+Projections
+
+#(Line for spin)
+LINESPIN 254 54 254 70
+
+#(Line for spin)
+LINESPIN 181 79 219 79
+
+#(Line for spin)
+LINESPIN 217 108 233 92
+
+#(Wait)
+WAIT 1000
+
+#(Statbox)
+STATBOX 3 2
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 6 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 2 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 1 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 8 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 8 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 9 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 5 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 2 0 WEAPON DAMAGE
 
 #(Wait for five minutes, or keypress)
 WAIT 300000

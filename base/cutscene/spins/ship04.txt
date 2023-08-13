@@ -1,32 +1,125 @@
-#(Load font)
-FONT 0 base/fonts/starcon.fon
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
 
-#(... and BG)
-TBC 000000
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
 
 #(Load movie)
-ANI1X base/cutscene/spins/ship04.ani
+ANI1X base/cutscene/spins/ship.ani
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/spins/ship04.ani
+ANI4X addons/mm-hd/cutscene/spins/ship.ani
 
 #(Take up entire screen)
-DIMS 320 240
+DIMS 320 200
 
-#(Fade out)
-FTB 250
+#(Set font to use)
+FONT 0
 
 #(Ditty)
 DITTY druuge
 
-#(Draw first frame)
-DRAW 0
+#(Draw ship frame)
+DRAW 4
 
-#(Draw first frame)
-DRAW 1
+#(Get the bounds of the last frame drawn)
+GETRECT
 
-#(Fade in)
-FTC 250
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 33 2 DRUUGE  MAULER
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 171 98
+Matter-
+to-Energy
+Conversion
+Furnace
+
+#(Line for spin)
+LINESPIN 243 121 267 113
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 5 52
+Dense,
+Heavy
+Projectile
+
+#(Line for spin)
+LINESPIN 8 18 8 47
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 91 114
+Combat
+Battery
+
+#(Line for spin)
+LINESPIN 136 110 157 89
+
+#(Wait)
+WAIT 1000
+
+#(Text for spin)
+TEXTSPIN 108 16
+High-recoil
+Cannon
+
+#(Line for spin)
+LINESPIN 67 21 103 21
+
+#(Wait)
+WAIT 1000
+
+#(Statbox)
+STATBOX 183 1
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 3 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 7 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 1 8 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 1 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 3 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 1 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 8 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 8 0 WEAPON DAMAGE
 
 #(Wait for five minutes, or keypress)
 WAIT 300000
