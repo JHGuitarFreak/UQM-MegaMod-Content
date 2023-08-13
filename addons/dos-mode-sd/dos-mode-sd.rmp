@@ -10,3 +10,5 @@ graphics.outfit = GFXRES:addons/dos-mode-sd/ui/outfit.ani
 graphics.outfitmodules = GFXRES:addons/dos-mode-sd/ui/outfitmodules.ani
 graphics.playmenu = GFXRES:addons/dos-mode-sd/ui/playmenu.ani
 graphics.shipyard = GFXRES:addons/dos-mode-sd/ui/shipyard.ani
+
+slides.accessdata = STRTAB:addons/dos-mode-sd/cutscene/spins/accessdata.txt
