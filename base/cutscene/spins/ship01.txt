@@ -42,14 +42,14 @@ WAITDITTY
 TEXTSPIN 134 2 ARILOULALEELAY SKIFF
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 148 13
 (Last reported position)
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 158 107 Ventral, auto-aiming
@@ -61,7 +61,7 @@ TEXTSPIN 206 117 laser weapon
 LINESPIN 199 89 216 106
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 5 73 Short-range
@@ -73,7 +73,7 @@ TEXTSPIN 6 82 hyperdrive shunt
 LINESPIN 95 80 148 63
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 241 40 Inertialess
@@ -85,7 +85,7 @@ TEXTSPIN 242 49 drive
 LINESPIN 217 43 240 43
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 74 126
@@ -95,7 +95,7 @@ Headlights
 LINESPIN 105 123 130 98
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Statbox)
 STATBOX 3 2

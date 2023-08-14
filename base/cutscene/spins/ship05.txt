@@ -42,7 +42,7 @@ WAITDITTY
 TEXTSPIN 156 130 EARTHLING CRUISER
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 203 32
@@ -50,7 +50,7 @@ Fire-and-forget
 Nuclear Missile
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 203 53 (MX surplus)
@@ -59,7 +59,7 @@ TEXTSPIN 203 53 (MX surplus)
 LINESPIN 267 30 271 26
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 6 2 Point-defense Laser System (SDI surplus)
@@ -68,7 +68,7 @@ TEXTSPIN 6 2 Point-defense Laser System (SDI surplus)
 LINESPIN 101 10 106 15
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Statbox)
 STATBOX 3 77

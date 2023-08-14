@@ -42,7 +42,7 @@ WAITDITTY
 TEXTSPIN 103 2 PKUNK FURY
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 255 5
@@ -54,7 +54,7 @@ Pellets
 LINESPIN 271 36 271 45
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 14 21 Psionic Amplifier
@@ -63,7 +63,7 @@ TEXTSPIN 14 21 Psionic Amplifier
 LINESPIN 110 29 121 40
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 21 58 May
@@ -73,7 +73,7 @@ Resurrect
 LINESPIN 46 79 46 104
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Statbox)
 STATBOX 182 77

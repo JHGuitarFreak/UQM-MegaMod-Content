@@ -28,8 +28,57 @@ DRAW 0
 #(Fade-in a slide; param1=fade time)
 FTC 500
 
-#(Text for spin)
-TEXTSPIN 68 73 Accessing Starship Databank...
+#(Wait)
+SPINWAIT 50
+
+#(Draw frame)
+DRAW 1
 
 #(Wait)
-WAIT 1600
+SPINWAIT 50
+
+#(Draw frame)
+DRAW 2
+
+#(Wait)
+SPINWAIT 50
+
+#(Draw frame)
+DRAW 3
+
+#(Wait)
+SPINWAIT 50
+
+#(Draw frame)
+DRAW 4
+
+#(Wait)
+SPINWAIT 50
+
+#(Draw frame)
+DRAW 5
+
+#(Wait)
+SPINWAIT 50
+
+#(Draw frame)
+DRAW 6
+
+#(Wait)
+SPINWAIT 50
+
+#(Draw frame)
+DRAW 7
+
+#(Wait)
+SPINWAIT 50
+
+#(Text for spin was 64 122)
+TEXTSPIN 68 73
+Accessing Starship Databank...
+
+#(Wait)
+SPINWAIT 1500
+
+#(Unbatch graphics)
+UNBATCH
