@@ -42,7 +42,7 @@ WAITDITTY
 TEXTSPIN 42 2 SUPOX BLADE
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 160 114
@@ -56,7 +56,7 @@ LINESPIN 219 91 219 110
 LINESPIN 109 94 156 117
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 3 17
@@ -67,13 +67,13 @@ Launcher
 LINESPIN 13 36 13 63
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 9 117 Sun Dome
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 9 128 (for photo-synthesis)
@@ -82,7 +82,7 @@ TEXTSPIN 9 128 (for photo-synthesis)
 LINESPIN 46 85 46 113
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Statbox)
 STATBOX 182 2

@@ -42,7 +42,7 @@ WAITDITTY
 TEXTSPIN 33 2 DRUUGE  MAULER
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 171 98
@@ -55,7 +55,7 @@ Furnace
 LINESPIN 243 121 267 113
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 5 52
@@ -67,7 +67,7 @@ Projectile
 LINESPIN 8 18 8 47
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 91 114
@@ -78,7 +78,7 @@ Battery
 LINESPIN 136 110 157 89
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 108 16
@@ -89,7 +89,7 @@ Cannon
 LINESPIN 67 21 103 21
 
 #(Wait)
-WAIT 1000
+SPINWAIT 1000
 
 #(Statbox)
 STATBOX 183 1
