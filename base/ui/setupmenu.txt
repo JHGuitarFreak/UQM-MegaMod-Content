@@ -259,8 +259,9 @@ Can be further overridden by addon packs.
 &!UQM will reload when changed.
 
 #(CAT_10_OPTS)
-Disabled
-Enabled
+Windowed
+Exclusive Fullscreen
+Borderless Fullscreen
 
 #(CAT_10_OPT_0_DESC)
 Display everything in a window.
@@ -268,7 +269,13 @@ Display everything in a window.
 
 #(CAT_10_OPT_1_DESC)
 Game occupies the entire screen.
+Changes display resolution to fit game resolution
 (if available)
+
+#(CAT_10_OPT_2_DESC)
+Game occupies the entire screen.
+Changes game resolution to fit display resolution
+&!Not Available in SDL1 builds
 
 #(CAT_11_OPTS)
 Slides
