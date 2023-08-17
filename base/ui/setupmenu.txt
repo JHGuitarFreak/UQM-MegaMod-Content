@@ -24,7 +24,7 @@ Stats Display
 Scroll Style
 Subtitles
 3DO Remixes
-Fullscreen
+Display Mode
 Cutscenes
 Show FPS
 Melee Zoom
@@ -56,7 +56,7 @@ Date Format
 Infinite Fuel
 Partial Pickup
 In-Game Help Menus
-Window Size
+Resolution
 Add All Devices
 Hazard Colors
 Custom Border
@@ -782,6 +782,7 @@ Default
 1280x960
 1600x1200
 1920x1440
+Custom
 
 #(CAT_42_OPT_0_DESC)
 Default resolution for Vanilla and HD graphics.
@@ -803,6 +804,9 @@ Scale graphics to 1600x1200 resolution.
 
 #(CAT_42_OPT_5_DESC)
 Scale graphics to 1920x1440 resolution.
+
+#(CAT_42_OPT_6_DESC)
+Using a custom resolution.
 
 #(CAT_43_OPTS)
 Disabled
@@ -1474,10 +1478,12 @@ to assign to this action.
 #(TEXT_ENTRIES)
 Current Layout Name
 Custom Seed
+Custom Resolution
 
 #(TEXT_ENTRIES_INITIAL)
 Placeholder
 16807
+Placeholder
 
 #(TEXT_ENTRY_0_DESC)
 
@@ -1488,6 +1494,11 @@ Change the name of this control scheme.
 Change the seed for random planet generation.
 Only works for New Games.
 Default value is: 16807
+
+#(TEXT_ENTRY_2_DESC)
+
+
+Set the resolution to a custom value.
 
 #(CONTROL_ENTRIES)
 Up
