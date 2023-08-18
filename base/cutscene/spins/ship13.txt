@@ -49,7 +49,7 @@ SPINWAIT 1000
 
 #(Text for spin)
 TEXTSPIN 219 113
-Medokusai
+Mendokusai
 Energy Dart
 
 #(Line for spin)
