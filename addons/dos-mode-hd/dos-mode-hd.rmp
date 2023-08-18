@@ -1,0 +1,15 @@
+
+graphics.activity = GFXRES:addons/dos-mode-hd/ui/activity.ani
+graphics.border = GFXRES:addons/dos-mode-hd/ui/custom-border/custom-border.ani
+graphics.hdborder = GFXRES:addons/dos-mode-hd/ui/default-border/default-border.ani
+graphics.landerlaunch = GFXRES:addons/dos-mode-hd/lander/launch.ani
+graphics.landerreturn = GFXRES:addons/dos-mode-hd/lander/return.ani
+graphics.meleemenu = GFXRES:addons/dos-mode-hd/ui/meleemenu.ani
+graphics.modulesmenu = GFXRES:addons/dos-mode-hd/ui/modulesmenu.ani
+graphics.newgame = GFXRES:addons/dos-mode-hd/ui/newgame.ani
+graphics.outfit = GFXRES:addons/dos-mode-hd/ui/outfit/outfit.ani
+graphics.outfitmodules = GFXRES:addons/dos-mode-hd/ui/outfit/outfitmodules.ani
+graphics.playmenu = GFXRES:addons/dos-mode-hd/ui/playmenu.ani
+graphics.shipyard = GFXRES:addons/dos-mode-hd/ui/shipyard.ani
+
+slides.accessdata = STRTAB:addons/dos-mode-hd/cutscene/spins/accessdata.txt
