@@ -1,0 +1,118 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/slylandro.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/slylandro.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY slylandro
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 1 1 SLYLANDRO PROBE
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 18 10 (2418-B)
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 140 77
+Scoop
+Dynamos
+
+#(Line for spin)
+LINESPIN 140 75 120 55
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 180 8
+Electric
+Discharge
+
+#(Line for spin)
+LINESPIN 200 32 200 53
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 2 20 Raw Material
+
+#(Text for spin)
+TEXTSPIN 34 31 Storage
+
+#(Line for spin)
+LINESPIN 55 40 55 55
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 2 77
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 2 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 4 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 0 4 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 9 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 9 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 9 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 4 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 4 0 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000

@@ -1,0 +1,153 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/mmrnmhrm.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/mmrnmhrm.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY mmrnmhrm
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 62 128 MMRNMHRM
+
+#(Text for spin)
+TEXTSPIN 152 128 TRANSFORMER
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 80 64 Transformation
+
+#(Text for spin)
+TEXTSPIN 97 73 Linkages
+
+#(Line for spin)
+LINESPIN 16 68 76 68
+
+#(Line for spin)
+LINESPIN 180 54 170 64
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 2 111 Laser cannon
+
+#(Line for spin)
+LINESPIN 20 108 20 81
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 207 112 Missile launcher
+
+#(Line for spin)
+LINESPIN 228 78 260 110
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 132 100 Afterburner
+
+#(Line for spin)
+LINESPIN 170 98 188 80
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 3 2
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 4 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 2 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 8 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 6 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 7 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 1 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 1 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 6 0 WEAPON DAMAGE
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 182 2
+
+#(Draw stat)
+SPINSTAT 4 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 2 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 5 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 9 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 1 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 9 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 9 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 2 0 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000

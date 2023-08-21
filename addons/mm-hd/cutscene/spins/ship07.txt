@@ -1,0 +1,101 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/kohr-ah.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/kohr-ah.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY kohrah
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 240 119 KOHR-AH
+
+#(Text for spin)
+TEXTSPIN 224 130 MARAUDER
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 47 28
+F.R.I.E.D.
+Emitters
+
+#(Line for spin)
+LINESPIN 104 32 121 32
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 95 118 Spinning Blade
+
+#(Line for spin)
+LINESPIN 182 122 216 122
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 183 1
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 9 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 9 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 4 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 1 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 3 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 4 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 9 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 6 0 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000

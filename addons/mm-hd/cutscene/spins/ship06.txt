@@ -1,0 +1,134 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/ilwrath.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/ilwrath.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY ilwrath
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 2 2 ILWRATH
+
+#(Text for spin)
+TEXTSPIN 71 2 A
+
+#(Text for spin)
+TEXTSPIN 81 2 VENGER
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 5 13 (uncloaking to attack)
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 15 75
+Hellfire
+Spout
+
+#(Line for spin)
+LINESPIN 50 94 59 103
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 200 41
+Optical
+Cloaking
+Device
+
+#(Line for spin)
+LINESPIN 156 54 197 54
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 74 28
+Sensory Clusters
+
+#(Line for spin)
+LINESPIN 97 37 97 44
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 88 117
+Poor Tactical
+Positioning
+
+#(Line for spin)
+LINESPIN 57 128 82 128
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 182 77
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 5 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 3 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 5 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 8 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 7 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 4 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 3 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 4 0 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000
