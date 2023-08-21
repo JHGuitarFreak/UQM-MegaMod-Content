@@ -1,0 +1,111 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/zoqfot.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/zoqfot.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY zoqfotpik
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 2 130 ZOQ-FOT-PIK STINGER
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 216 72
+Anti-matter
+Nebulizer
+
+#(Line for spin)
+LINESPIN 162 76 212 76
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 42 98
+Grappling
+Arms
+
+#(Line for spin)
+LINESPIN 100 102 115 102
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 188 114
+Plasma-injecting
+Drilling Tube
+
+#(Line for spin)
+LINESPIN 198 99 211 112
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 2 2
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 2 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 2 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 4 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 9 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 9 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 6 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 4 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 1 5 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000

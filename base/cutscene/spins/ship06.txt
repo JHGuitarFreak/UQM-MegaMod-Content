@@ -15,10 +15,10 @@ TC 55FF55
 TBC FFFFFF
 
 #(Load movie)
-ANI1X base/cutscene/spins/ship.ani
+ANI1X base/cutscene/spins/ilwrath.ani
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/spins/ship.ani
+ANI4X addons/mm-hd/cutscene/spins/ilwrath.ani
 
 #(Take up entire screen)
 DIMS 320 200
@@ -30,7 +30,7 @@ FONT 0
 DITTY ilwrath
 
 #(Draw ship frame)
-DRAW 6
+DRAW 0
 
 #(Get the bounds of the last frame drawn)
 GETRECT

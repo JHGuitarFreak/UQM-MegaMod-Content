@@ -1,0 +1,125 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/vux.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/vux.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY vux
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 109 130 VUX INTRUDER
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 1 120
+Gigawatt
+Laser
+
+#(Line for spin)
+LINESPIN 25 110 25 120
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 227 4
+Limpet
+Cocoons
+
+#(Line for spin)
+LINESPIN 240 24 240 40
+
+#(Line for spin)
+LINESPIN 280 20 288 20
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 254 118
+Thrust
+Nacelles
+
+#(Line for spin)
+LINESPIN 263 100 280 117
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 142 105
+Stasis Pulse
+Energy Storage
+
+#(Line for spin)
+LINESPIN 173 95 182 104
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 3 2
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 6 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 9 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 6 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 2 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 1 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 1 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 4 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 8 0 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000
