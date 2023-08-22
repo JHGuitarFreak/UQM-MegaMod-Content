@@ -1,0 +1,124 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/orz.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/orz.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY orz
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 2 2 ORZ NEMESIS
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 5 15
+Rotating
+Howitzer
+
+#(Line for spin)
+LINESPIN 58 23 75 23
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 40 89
+Marine
+PortHoles
+
+#(Line for spin)
+LINESPIN 65 68 65 87
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 200 117 Space Marines
+
+#(Line for spin)
+LINESPIN 214 115 214 71
+
+#(Line for spin)
+LINESPIN 264 115 264 84
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 71 70 Crew Habitation Tanks
+
+#(Line for spin)
+LINESPIN 153 68 153 34
+
+#(Line for spin)
+LINESPIN 137 78 95 120
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 183 1
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 3 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 4 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 3 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 4 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 9 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 5 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 6 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 4 0 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000

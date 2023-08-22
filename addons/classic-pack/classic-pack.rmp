@@ -28,7 +28,6 @@ graphics.shipyard = GFXRES:addons/classic-pack/ui/shipyard/shipyard.ani
 
 graphics.activity = GFXRES:addons/classic-pack/ui/activity.ani
 
-graphics.hdborder = GFXRES:addons/classic-pack/ui/default-border/default-border.ani
 graphics.meleemenu = GFXRES:addons/classic-pack/ui/melee_menu/meleemenu.ani
 #graphics.miscdata = GFXRES:addons/classic-pack/ui/misc_data/miscdata.ani
 graphics.nebulae = GFXRES:addons/classic-pack/nav/nebulae/nebulae.ani
@@ -37,7 +36,6 @@ graphics.orbitenter = GFXRES:addons/classic-pack/nav/orbitenter.ani
 graphics.outfitmodules = GFXRES:addons/classic-pack/ui/outfit_modules/outfitmodules.ani
 graphics.pickship = GFXRES:addons/classic-pack/ui/pickship.ani
 graphics.playmenu = GFXRES:addons/classic-pack/ui/play_menu/playmenu.ani
-graphics.submenu = GFXRES:addons/classic-pack/ui/submenu.ani
 
 ship.kohrah.graphics.marauder.large = GFXRES:addons/classic-pack/ships/kohrah/marauder-big.ani
 ship.kohrah.graphics.marauder.medium = GFXRES:addons/classic-pack/ships/kohrah/marauder-med.ani

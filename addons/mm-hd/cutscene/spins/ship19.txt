@@ -1,0 +1,128 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/umgah.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/umgah.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY umgah
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 108 127 UMGAH
+
+#(Text for spin)
+TEXTSPIN 167 127 DRONE
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 5 120
+Anti-matter
+Vent
+
+#(Line for spin)
+LINESPIN 48 118 48 100
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 159 66 Intake
+
+#(Line for spin)
+LINESPIN 138 69 154 69
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 10 2 Observation
+
+#(Text for spin)
+TEXTSPIN 35 12 Blisters
+
+#(Line for spin)
+LINESPIN 73 22 73 40
+
+#(Line for spin)
+LINESPIN 80 22 85 32
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 140 84
+Retro-
+Propulsion
+System
+
+#(Line for spin)
+LINESPIN 112 97 136 97
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 182 2
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 2 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 6 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 6 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 5 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 5 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 1 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 2 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 5 0 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000

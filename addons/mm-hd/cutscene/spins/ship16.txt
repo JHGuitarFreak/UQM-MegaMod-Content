@@ -1,0 +1,118 @@
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+#(Load font to use later)
+FONT1X 1 base/fonts/tiny.cond.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+#(Load font to use later)
+FONT4X 1 addons/mm-hd/fonts/tiny.cond.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X base/cutscene/spins/supox.ani
+
+#(Load movie)
+ANI4X addons/mm-hd/cutscene/spins/supox.ani
+
+#(Take up entire screen)
+DIMS 320 200
+
+#(Set font to use)
+FONT 0
+
+#(Ditty)
+DITTY supox
+
+#(Draw ship frame)
+DRAW 0
+
+#(Get the bounds of the last frame drawn)
+GETRECT
+
+#(Wait for ditty)
+WAITDITTY
+
+#(Text for spin)
+TEXTSPIN 42 2 SUPOX BLADE
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 200 114
+Omnidirectional
+Thrust Controls
+
+#(Line for spin)
+LINESPIN 259 80 259 110
+
+#(Line for spin)
+LINESPIN 149 94 196 117
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 3 37
+Toxic Globule
+Launcher
+
+#(Line for spin)
+LINESPIN 84 46 116 46
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 39 100 Sun Dome
+
+#(Wait)
+SPINWAIT 1000
+
+#(Text for spin)
+TEXTSPIN 39 111 (for photo-synthesis)
+
+#(Line for spin)
+LINESPIN 86 98 136 48
+
+#(Wait)
+SPINWAIT 1000
+
+#(Statbox)
+STATBOX 182 2
+
+#(Set font to use)
+FONT 1
+
+#(Draw stat)
+SPINSTAT 2 0 CREW COMPLEMENT
+
+#(Draw stat)
+SPINSTAT 3 0 BATT CAPACITY
+
+#(Draw stat)
+SPINSTAT 4 0 BATT REGEN.
+
+#(Draw stat)
+SPINSTAT 7 0 ACCELERATION
+
+#(Draw stat)
+SPINSTAT 9 0 TURNING RATE
+
+#(Draw stat)
+SPINSTAT 6 0 MAX VELOCITY
+
+#(Draw stat)
+SPINSTAT 5 0 WEAPON RANGE
+
+#(Draw stat)
+SPINSTAT 3 0 WEAPON DAMAGE
+
+#(Wait for five minutes, or keypress)
+WAIT 300000
