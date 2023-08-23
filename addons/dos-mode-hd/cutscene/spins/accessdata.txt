@@ -1,0 +1,35 @@
+#(Clear entire screen first; set size...)
+DIMS 320 200
+
+#(Load font to use later)
+FONT1X 0 base/fonts/micro.thin.fon
+
+#(Load font to use later)
+FONT4X 0 addons/mm-hd/fonts/micro.thin.fon
+
+#(Set color)
+TC 55FF55
+
+#(Set color)
+TBC FFFFFF
+
+#(Load movie)
+ANI1X addons/dos-mode-sd/cutscene/spins/accessdata.ani
+
+#(Load movie)
+ANI4X addons/dos-mode-hd/cutscene/spins/accessdata.ani
+
+#(Set font to use)
+FONT 0
+
+#(Draw first frame)
+DRAW 0
+
+#(Fade-in a slide; param1=fade time)
+FTC 500
+
+#(Text for spin)
+TEXTSPIN 68 53 Accessing Starship Databank...
+
+#(Wait)
+WAIT 1600

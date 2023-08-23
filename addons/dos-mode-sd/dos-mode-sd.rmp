@@ -1,4 +1,5 @@
 
+graphics.border = GFXRES:addons/dos-mode-sd/ui/custom-border/border.ani
 graphics.activity = GFXRES:addons/dos-mode-sd/ui/activity.ani
 graphics.flagshipstatus = GFXRES:addons/dos-mode-sd/ui/flagshipstatus.ani
 graphics.landerlaunch = GFXRES:addons/dos-mode-sd/lander/launch.ani
