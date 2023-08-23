@@ -2176,6 +2176,50 @@ CREW
 CAPTAIŅ
 
 
+#(minerals)
+minerals
+
+
+#(starmap)
+starmap
+
+
+#(FUEL)
+FUEL:
+
+
+#(CREW)
+CREW:
+
+
+#(LAND.:)
+LAND.:
+
+
+#(CARGO)
+CARGO:
+
+
+#(Maps)
+:Maps
+
+
+#(Add->)
+:Add->
+
+
+#(Speed)
+Speed
+
+
+#(Search)
+:Search
+
+
+#(Zoom)
+:Zoom
+
+
 #(nose:) -- FLAGSHIP_STRING_BASE
 nose:
 
