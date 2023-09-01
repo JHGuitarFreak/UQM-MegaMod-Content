@@ -2,7 +2,7 @@
 comm.kohrah.graphics = GFXRES:addons/3do-mode-hd/comm/kohrah/kohrah.ani
 comm.urquan.graphics = GFXRES:addons/3do-mode-hd/comm/urquan/urquan.ani
 
-graphics.activity = GFXRES:addons/3do-mode-hd/ui/activity.ani
+#graphics.activity = GFXRES:addons/3do-mode-hd/ui/activity.ani
 graphics.border = GFXRES:addons/3do-mode-hd/ui/custom-border/custom-border.ani
 graphics.hdborder = GFXRES:addons/3do-mode-hd/ui/default-border/default-border.ani
 graphics.landerlaunch = GFXRES:addons/3do-mode-hd/lander/launch.ani
