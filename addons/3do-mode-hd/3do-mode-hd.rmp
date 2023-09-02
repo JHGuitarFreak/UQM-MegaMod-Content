@@ -1,8 +1,6 @@
-
 comm.kohrah.graphics = GFXRES:addons/3do-mode-hd/comm/kohrah/kohrah.ani
 comm.urquan.graphics = GFXRES:addons/3do-mode-hd/comm/urquan/urquan.ani
 
-#graphics.activity = GFXRES:addons/3do-mode-hd/ui/activity.ani
 graphics.border = GFXRES:addons/3do-mode-hd/ui/custom-border/custom-border.ani
 graphics.hdborder = GFXRES:addons/3do-mode-hd/ui/default-border/default-border.ani
 graphics.landerlaunch = GFXRES:addons/3do-mode-hd/lander/launch.ani
@@ -10,4 +8,4 @@ graphics.landerreturn = GFXRES:addons/3do-mode-hd/lander/return.ani
 graphics.meleemenu = GFXRES:addons/3do-mode-hd/ui/meleemenu.ani
 graphics.meleepickship = GFXRES:addons/3do-mode-hd/ui/meleepickship.ani
 graphics.playmenu = GFXRES:addons/3do-mode-hd/ui/playmenu/playmenu.ani
-graphics.shipyard = GFXRES:addons/3do-mode-hd/ui/shipyard.ani
+graphics.shipyard = GFXRES:addons/3do-mode-hd/ui/shipyard/shipyard.ani
