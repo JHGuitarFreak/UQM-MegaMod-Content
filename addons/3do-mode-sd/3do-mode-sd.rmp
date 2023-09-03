@@ -3,6 +3,7 @@ comm.kohrah.graphics = GFXRES:addons/3do-mode-sd/comm/kohrah/kohrah.ani
 comm.urquan.graphics = GFXRES:addons/3do-mode-sd/comm/urquan/urquan.ani
 
 graphics.activity = GFXRES:addons/3do-mode-sd/ui/activity.ani
+graphics.border = GFXRES:addons/3do-mode-sd/ui/border/border.ani
 graphics.landerlaunch = GFXRES:addons/3do-mode-sd/lander/launch.ani
 graphics.landerreturn = GFXRES:addons/3do-mode-sd/lander/return.ani
 graphics.meleemenu = GFXRES:addons/3do-mode-sd/ui/meleemenu.ani
