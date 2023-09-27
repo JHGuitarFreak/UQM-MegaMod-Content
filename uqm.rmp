@@ -1004,7 +1004,6 @@ ship.zoqfotpik.sounds = SNDRES:base/ships/zoqfotpik/stinger.snd
 ship.zoqfotpik.text = STRTAB:base/ships/zoqfotpik/stinger.txt
 slides.accessdata = STRTAB:base/cutscene/spins/accessdata.txt
 slides.deathmarch = STRTAB:base/cutscene/gameover/deathmarch.txt
-slides.deathmarchquasi = STRTAB:base/cutscene/gameover/deathmarchquasi.txt
 slides.defeated = STRTAB:base/cutscene/gameover/defeated.txt
 slides.ending = STRTAB:base/cutscene/ending/ending.txt
 slides.intro = STRTAB:base/cutscene/intro/intro.txt
