@@ -37,6 +37,10 @@ graphics.outfitmodules = GFXRES:addons/classic-pack/ui/outfit_modules/outfitmodu
 graphics.pickship = GFXRES:addons/classic-pack/ui/pickship.ani
 graphics.playmenu = GFXRES:addons/classic-pack/ui/play_menu/playmenu.ani
 
+graphics.boom.large = GFXRES:addons/classic-pack/battle/boom-big.ani
+graphics.boom.medium = GFXRES:addons/classic-pack/battle/boom-med.ani
+graphics.boom.small = GFXRES:addons/classic-pack/battle/boom-sml.ani
+
 ship.kohrah.graphics.marauder.large = GFXRES:addons/classic-pack/ships/kohrah/marauder-big.ani
 ship.kohrah.graphics.marauder.medium = GFXRES:addons/classic-pack/ships/kohrah/marauder-med.ani
 ship.kohrah.graphics.marauder.small = GFXRES:addons/classic-pack/ships/kohrah/marauder-sml.ani
