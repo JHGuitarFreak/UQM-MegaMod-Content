@@ -1318,21 +1318,13 @@ the main Super-Melee menu while picking a ship for your fleet.
 
 #(CAT_80_OPTS)
 Disabled
-5 Minutes
-Indefinite
+Enabled
 
 #(CAT_80_OPT_0_DESC)
-Music Resume is disabled
+Resumes the music in UQM from where it last left off
 
 #(CAT_80_OPT_1_DESC)
-Resumes the music in UQM from where it last left off.
-But with a 5 minute timer that resets individual tracks back to their
-beginning if not heard within the alotted time.
-
-#(CAT_80_OPT_1_DESC)
-Resumes the music in UQM from where it last left off.
-But with no timer that resets music back to beginning after 
-a period of time.
+Resumes the music in UQM from where it last left off
 
 #(CAT_81_OPTS)
 DOS
