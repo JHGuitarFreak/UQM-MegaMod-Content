@@ -9,8 +9,6 @@ addons/volasaurus-remix-pack/.*
 addons/sol-textures-hd/.*
 !addons/sol-textures-sd/
 addons/sol-textures-sd/.*
-!addons/automods-hd/
-addons/automods-hd/.*
 !addons/classic-pack/
 addons/classic-pack/.*
 !addons/3dopadding/
