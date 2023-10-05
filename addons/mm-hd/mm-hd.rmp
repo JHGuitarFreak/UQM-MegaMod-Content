@@ -74,6 +74,7 @@ font.player = FONTRES:addons/mm-hd/fonts/player.fon
 font.starcon = FONTRES:addons/mm-hd/fonts/starcon.fon
 font.tiny = FONTRES:addons/mm-hd/fonts/tiny.fon
 font.tiny.bold = FONTRES:addons/mm-hd/fonts/3do.tiny.fon
+font.tiny.condensed = FONTRES:addons/mm-hd/fonts/tiny.cond.fon
 graphics.activity = GFXRES:addons/mm-hd/ui/activity.ani
 graphics.ambient = GFXRES:addons/mm-hd/nav/ambient.ani
 graphics.ambientquasispace = GFXRES:addons/mm-hd/nav/quasi-stuff/quasi.ani
