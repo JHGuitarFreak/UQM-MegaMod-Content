@@ -29,6 +29,13 @@ CREW
 ................................................... 
  
 
+#(Project coordination caption)
+17 C PROJECT COORDINATION
+
+#(Project coordinator)
+13 C Kohr-Ah Death 213
+ 
+
 #(Art caption)
 17 C ART
 
@@ -37,8 +44,9 @@ CREW
 Clay
 haomaicl (Jordan Lo)
 Nackles42
-Kohr-Ah Death
+Kohr-Ah Death 213
 Volasaurus
+Bummer6
  
 
 #(Music caption)
@@ -51,7 +59,17 @@ Mark Vera
 Rush AX
 Saibuster
 Volasaurus
- 
+
+
+#(Additional Writing Caption)
+17 C ADDITIONAL WRITING
+
+#(Additional Writing Crew)
+13 C
+Kruzen
+Kohr-Ah Death 213
+Spencer Secord (Tarp)
+
 
 #(AE caption)
 17 C AUDIO ENGINEERING
@@ -73,7 +91,7 @@ Elestan
 Kruzen
 Matt Bentley
 Nic
-Kohr-Ah Death
+Kohr-Ah Death 213
 Slightly Intelligent Monkey
  
  
