@@ -2771,7 +2771,7 @@ Only one side at a time can be network controlled.
 Netplay with a computer-controlled side is currently not possible.
 
 
-#(Roto-Dendron)
+#(Roto-Dendron) -- BIOLOGICAL_STRING_BASE
 Roto-Dendron
 
 
@@ -2873,3 +2873,39 @@ Brainbox Bulldozers
 
 #(Zex's Beauty)
 Zex's Beauty
+
+
+#(NO LIMIT) -- LABEL_STRING_BASE
+NO LIMIT
+
+
+#(EMPTY SLOT)
+EMPTY SLＯT
+
+
+#(SAVE GAME)
+SAVE GAME
+
+
+#(LOAD GAME)
+LOAD GAME
+
+
+#(CARGO)
+&!CARGO
+
+
+#(LANDER)
+&!LANDER
+
+
+#(DEVICES)
+DEVＩCES
+
+
+#(R.U.)
+&!R.U.
+
+
+#(CREDITS)
+CREDITS
