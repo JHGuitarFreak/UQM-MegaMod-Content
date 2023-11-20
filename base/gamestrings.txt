@@ -2876,7 +2876,7 @@ Zex's Beauty
 
 
 #(NO LIMIT) -- LABEL_STRING_BASE
-NO LIMIT
+NO	ＬIMIT
 
 
 #(EMPTY SLOT)
