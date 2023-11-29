@@ -2637,6 +2637,26 @@ A multitude of changes to make gameplay much
 harder for the veteran UQM player.
 
 
+#(New Game)
+New Game
+
+
+#(Load Game)
+Load Game
+
+
+#(Super Melee!)
+Super Melee!
+
+
+#(Setup)
+Setup
+
+
+#(Exit) - 73
+Exit
+
+
 #(Unconnected. Press LEFT to connect.) -- NETMELEE_STRING_BASE
 Unconnected. Press LEFT to connect.
 

@@ -171,6 +171,7 @@ font.lander = FONTRES:base/fonts/lander.fon
 font.micro = FONTRES:base/fonts/micro.fon
 font.micro.thin = FONTRES:base/fonts/micro.thin.fon
 font.player = FONTRES:base/fonts/player.fon
+font.slab = FONTRES:base/fonts/slab.fon
 font.square = FONTRES:base/fonts/square.fon
 font.starcon = FONTRES:base/fonts/starcon.fon
 font.tiny = FONTRES:base/fonts/tiny.fon
