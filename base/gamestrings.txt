@@ -2076,6 +2076,62 @@ Behemoth Zenith
 The Peeled Eyes
 
 
+#(SUPER-MELEE)
+|-8|SUPER-MELEE
+
+
+#(HUMAN CONTROL)
+HUMAN CONTROL
+
+
+#(WEAK CYBORG)
+WEAK CYBORG
+
+
+#(GOOD CYBORG)
+GOOD CYBORG
+
+
+#(AWESOME CYBORG)
+AWESOME CYBORG
+
+
+#(LOAD)
+LOAD
+
+
+#(SAVE)
+SAVE
+
+
+#(BATTLE!)
+ＢＡＴＴＬＥ！
+
+
+#(QUIT)
+QUIT
+
+
+#(NETWORK CONTROL)
+NETWORK CONTROL
+
+
+#(NET...)
+NET...
+
+
+#(LOAD)
+LOAD
+
+
+#(CANCEL)
+CANCEL
+
+
+#(SCROLL)
+SCROLL
+
+
 #(Saving . . .) -- SAVEGAME_STRING_BASE
 Saving . . .
 
