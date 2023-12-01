@@ -2081,19 +2081,19 @@ The Peeled Eyes
 
 
 #(HUMAN CONTROL)
-HUMAN CONTROL
+|-3|ＨＵＭＡＮ |2|ＣＯＮＴＲＯＬ
 
 
 #(WEAK CYBORG)
-WEAK CYBORG
+|-2|ＷＥＡＫ |1|ＣＹＢＯＲＧ
 
 
 #(GOOD CYBORG)
-GOOD CYBORG
+|-1|ＧＯＯＤ ＣＹＢＯＲＧ
 
 
 #(AWESOME CYBORG)
-AWESOME CYBORG
+|-1|ＡＷＥＳＯＭＥ ＣＹＢＯＲＧ
 
 
 #(LOAD)
@@ -2113,7 +2113,7 @@ QUIT
 
 
 #(NETWORK CONTROL)
-NETWORK CONTROL
+|-1|ＮＥＴＷＯＲＫ ＣＯＮＴＲＯＬ
 
 
 #(NET...)
