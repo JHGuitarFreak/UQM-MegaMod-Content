@@ -2132,6 +2132,14 @@ CANCEL
 SCROLL
 
 
+#(PICK SHIP)
+PICK SHIP
+
+
+#(SHIP INFO)
+SHIP INFO
+
+
 #(Saving . . .) -- SAVEGAME_STRING_BASE
 Saving . . .
 
