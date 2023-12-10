@@ -2133,11 +2133,11 @@ SCROLL
 
 
 #(PICK SHIP)
-PICK SHIP
+:-3:|1|PＩＣK SHＩP
 
 
 #(SHIP INFO)
-SHIP INFO
+:-3:|1|SHＩP ＩNFO
 
 
 #(Saving . . .) -- SAVEGAME_STRING_BASE
