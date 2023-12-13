@@ -71,6 +71,7 @@ credits.font.pt45 = FONTRES:addons/mm-hd/fonts/pt45.fon
 font.button = FONTRES:addons/mm-hd/fonts/button.fon
 font.label = FONTRES:addons/mm-hd/fonts/label.fon
 font.lander = FONTRES:addons/mm-hd/fonts/lander.fon
+font.melee.title = FONTRES:addons/mm-hd/fonts/melee.title.fon
 font.micro = FONTRES:addons/mm-hd/fonts/micro.fon
 font.player = FONTRES:addons/mm-hd/fonts/player.fon
 font.slab = FONTRES:addons/mm-hd/fonts/slab.fon
