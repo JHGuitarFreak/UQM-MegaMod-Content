@@ -2108,8 +2108,8 @@ SAVE
 ＢＡＴＴＬＥ！
 
 
-#(QUIT)
-QUIT
+#(EXIT)
+EXIT
 
 
 #(NETWORK CONTROL)
