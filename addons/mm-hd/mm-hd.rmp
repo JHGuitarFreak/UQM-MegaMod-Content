@@ -68,6 +68,7 @@ credits.background = GFXRES:addons/mm-hd/cutscene/credits/credback.ani
 credits.font.pt13 = FONTRES:addons/mm-hd/fonts/pt13.fon
 credits.font.pt17 = FONTRES:addons/mm-hd/fonts/pt17.fon
 credits.font.pt45 = FONTRES:addons/mm-hd/fonts/pt45.fon
+font.button = FONTRES:addons/mm-hd/fonts/button.fon
 font.label = FONTRES:addons/mm-hd/fonts/label.fon
 font.lander = FONTRES:addons/mm-hd/fonts/lander.fon
 font.micro = FONTRES:addons/mm-hd/fonts/micro.fon
