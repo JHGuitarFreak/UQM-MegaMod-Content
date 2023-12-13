@@ -73,6 +73,7 @@ font.label = FONTRES:addons/mm-hd/fonts/label.fon
 font.lander = FONTRES:addons/mm-hd/fonts/lander.fon
 font.melee.title = FONTRES:addons/mm-hd/fonts/melee.title.fon
 font.micro = FONTRES:addons/mm-hd/fonts/micro.fon
+font.micro.thin = FONTRES:addons/mm-hd/fonts/micro.thin.fon
 font.player = FONTRES:addons/mm-hd/fonts/player.fon
 font.slab = FONTRES:addons/mm-hd/fonts/slab.fon
 font.square = FONTRES:addons/mm-hd/fonts/square.fon
