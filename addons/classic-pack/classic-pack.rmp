@@ -46,3 +46,5 @@ ship.kohrah.graphics.marauder.medium = GFXRES:addons/classic-pack/ships/kohrah/m
 ship.kohrah.graphics.marauder.small = GFXRES:addons/classic-pack/ships/kohrah/marauder-sml.ani
 ship.kohrah.icons = GFXRES:addons/classic-pack/ships/kohrah/marauder-icons.ani
 ship.kohrah.meleeicons = GFXRES:addons/classic-pack/ships/kohrah/marauder-meleeicons.ani
+
+text.starcon = STRTAB:addons/classic-pack/gamestrings.txt
