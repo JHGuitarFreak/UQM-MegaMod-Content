@@ -2959,6 +2959,126 @@ Brainbox Bulldozers
 Zex's Beauty
 
 
+#(SCAN) -- TDO_MENU_STRING_BASE
+|-1|SCAN
+
+
+#(STARMAP)
+|1|STARMAP
+
+
+#(DEVICES)
+|1|DEVICES
+
+
+#(CARGO)
+|1|CARGO
+
+
+#(ROSTER)
+ROSTER
+
+
+#(GAMES)
+|-1|GAMES
+
+
+#(NAVIGATE)
+|1|NAVIGATE
+
+
+#(MIN.SCAN)
+MIN.  SCAN
+
+
+#(ENE.SCAN)
+ENE.  SCAN
+
+
+#(BIO.SCAN)
+|1|BIO. SCAN
+
+
+#(EXIT MENU)
+EXIT MENU
+
+
+#(AUTOSCAN)
+AUTOSCAN
+
+
+#(LANDER)
+LANDER
+
+
+#(SAVE)
+|-1|SAVE
+
+
+#(LOAD)
+|-1|LOAD
+
+
+#(QUIT)
+|-1|QUIT
+
+
+#(SETTINGS)
+SETTINGS
+
+
+#(CONVERSE)
+CONVERSE
+
+
+#(FIGHT!)
+FIGHT!
+
+
+#(FUEL)
+|1|FUEL
+
+
+#(MODULES)
+MODULES
+
+
+#(FLEET)
+|1|FLEET
+
+
+#(SOUND ON)
+SOUND  ON
+
+
+#(NO SOUND)
+NO   SOUND
+
+
+#(MUSIC ON)
+|1|MUSIC   ON
+
+
+#(NO MUSIC)
+|1|NO   MUSIC
+
+
+#(COMBAT)
+|1|COMBAT
+
+
+#(READING)
+|1|READING
+
+
+#(CAPTAIN)
+|1|CAPTAIN
+
+
+#(FLAGSHIP)
+FLAGSHIP
+
+
 #(NO LIMIT) -- LABEL_STRING_BASE
 NO	ＬIMIT
 

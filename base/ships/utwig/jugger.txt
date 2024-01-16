@@ -40,6 +40,8 @@ Thory
 Jujuby
 #(Erog)
 Erog
+#(Tarp)
+Tarp
 #(Desc)
 Weapons consume no energy.
 Absorbent shields.
