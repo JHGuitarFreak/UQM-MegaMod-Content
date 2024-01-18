@@ -2927,6 +2927,67 @@ Brainbox Bulldozers
 Zex's Beauty
 
 
+#(SCAN) -- PLAYMENU_STRING_BASE
+
+#(STARMAP)
+
+#(DEVICES)
+
+#(CARGO)
+
+#(ROSTER)
+
+#(GAMES)
+
+#(NAVIGATE)
+
+#(MIN.SCAN)
+
+#(ENE.SCAN)
+
+#(BIO.SCAN)
+
+#(EXIT MENU)
+
+#(AUTOSCAN)
+
+#(LANDER)
+
+#(SAVE)
+
+#(LOAD)
+
+#(QUIT)
+
+#(SETTINGS)
+
+#(CONVERSE)
+
+#(FIGHT!)
+
+#(FUEL)
+
+#(MODULES)
+
+#(FLEET)
+
+#(SOUND ON)
+
+#(NO SOUND)
+
+#(MUSIC ON)
+
+#(NO MUSIC)
+
+#(COMBAT)
+
+#(READING)
+
+#(CAPTAIN)
+
+#(FLAGSHIP)
+
+
 #(NO LIMIT) -- LABEL_STRING_BASE
 NO	ＬIMIT
 
