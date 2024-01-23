@@ -4,10 +4,14 @@ Androsynth
 Androsyn
 #(Andro.)
 Andro.
+#(ANDROSYNTH)
+ANDROSYNTH
 #(Guardian)
 Guardian
 #(Guard.)
 Guard.
+#(GUARDIAN)
+GUARDIAN
 #(BOOJI-1)
 BOOJI-1
 #(DORN-3)

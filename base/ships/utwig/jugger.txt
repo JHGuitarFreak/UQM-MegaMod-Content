@@ -4,10 +4,14 @@ Utwig
 Utwig
 #(Utwig)
 Utwig
+#(UTWIG)
+|-2|UTWIG
 #(Jugger)
 Jugger
 #(Jugger)
 Jugger
+#(JUGGER)
+|-2|JUGGER
 #(Endo)
 Endo
 #(Vermi)

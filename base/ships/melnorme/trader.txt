@@ -4,10 +4,14 @@ Melnorme
 Melnorme
 #(Melnorme)
 Melnor.
+#(MELNORME)
+|-1|MELNORME
 #(Trader)
 Trader
 #(Trader)
 Trader
+#(TRADER)
+|-1|TRADER
 #(Reddish)
 Reddish
 #(Orangy)

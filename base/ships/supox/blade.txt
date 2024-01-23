@@ -4,10 +4,14 @@ Supox
 Supox
 #(Supox)
 Supox
+#(SUPOX)
+|-2|SUPOX
 #(Blade)
 Blade
 #(Blade)
 Blade
+#(BLADE)
+|-2|BLADE
 #(Trifid)
 Trifid
 #(Crinoid)

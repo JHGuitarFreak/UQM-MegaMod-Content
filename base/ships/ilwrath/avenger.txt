@@ -4,10 +4,14 @@ Ilwrath
 Ilwrath
 #(Ilwrath)
 Ilwrath
+#(ILWRATH)
+ILWRATH
 #(Avenger)
 Avenger
 #(Avenger)
 Avenger
+#(AVENGER)
+AVENGER
 #(Gorgon)
 Gorgon
 #(Taragon)

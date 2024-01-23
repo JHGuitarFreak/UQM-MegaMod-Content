@@ -4,10 +4,14 @@ VUX
 VUX
 #(VUX)
 VUX
+#(VUX)
+VUX
 #(Intruder)
 Intruder
 #(Intrud.)
 Intrud.
+#(INTRUDER)
+INTRUDER
 #(ZIK)
 ZIK
 #(PUZ)

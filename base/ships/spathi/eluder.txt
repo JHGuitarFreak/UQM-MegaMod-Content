@@ -4,10 +4,14 @@ Spathi
 Spathi
 #(Spathi)
 Spathi
+#(SPATHI)
+|-1|SPATHI
 #(Eluder)
 Eluder
 #(Eluder)
 Eluder
+#(ELUDER)
+|-1|ELUDER
 #(Thwil)
 Thwil
 #(Pwappy)

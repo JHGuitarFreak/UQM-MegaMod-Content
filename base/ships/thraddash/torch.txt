@@ -4,10 +4,14 @@ Thraddash
 Thraddash
 #(Thradd.)
 Thradd.
+#(THRADDASH)
+THRADDASH
 #(Torch)
 Torch
 #(Torch)
 Torch
+#(TORCH)
+|-1|TORCH
 #(Dthunk)
 Dthunk
 #(Bardat)

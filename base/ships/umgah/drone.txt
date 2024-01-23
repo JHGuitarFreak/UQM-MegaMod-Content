@@ -4,10 +4,14 @@ Umgah
 Umgah
 #(Umgah)
 Umgah
+#(UMGAH)
+|-2|UMGAH
 #(Drone)
 Drone
 #(Drone)
 Drone
+#(DRONE)
+|-2|DRONE
 #(Julg'ka)
 Julg'ka
 #(Gibj'o)

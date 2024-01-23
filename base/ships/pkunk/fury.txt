@@ -4,10 +4,14 @@ Pkunk
 Pkunk
 #(Pkunk)
 Pkunk
+#(PKUNK)
+|-1|PKUNK
 #(Fury)
 Fury
 #(Fury)
 Fury
+#(FURY)
+|-1|FURY
 #(Awwky)
 Awwky
 #(Tweety)

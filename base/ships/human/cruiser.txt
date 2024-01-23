@@ -4,10 +4,14 @@ Earthling
 Earthling
 #(Earth.)
 Earth.
+#(EARTHLING)
+EARTHLING
 #(Cruiser)
 Cruiser
 #(Cruiser)
 Cruiser
+#(CRUISER)
+CRUISER
 #(Decker)
 Decker
 #(Trent)

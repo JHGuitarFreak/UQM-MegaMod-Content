@@ -4,10 +4,14 @@ Mycon
 Mycon
 #(Mycon)
 Mycon
+#(MYCON)
+|-3|MYCON
 #(Podship)
 Podship
 #(Podship)
 Podship
+#(PODSHIP)
+|-2|PODSHIP
 #(Blort)
 Blort
 #(Chupp)

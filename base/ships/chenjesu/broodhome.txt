@@ -4,10 +4,14 @@ Chenjesu
 Chenjesu
 #(Chenje.)
 Chenje.
+#(CHENJESU)
+CHENJESU
 #(Broodhome)
 Broodhome
 #(Brood.)
 Brood.
+#(BROODHOME)
+BROODHOME
 #(Kzzakk)
 Kzzakk
 #(Tzrrow)

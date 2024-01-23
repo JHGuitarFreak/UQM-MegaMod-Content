@@ -4,10 +4,14 @@ Shofixti
 Shofixti
 #(Shofix.)
 Shofix.
+#(SHOFIXTI)
+SHOFIXTI
 #(Scout)
 Scout
 #(Scout)
 Scout
+#(SCOUT)
+SCOUT
 #(Hiyata)
 Hiyata
 #(Wasabe)

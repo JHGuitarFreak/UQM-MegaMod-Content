@@ -4,10 +4,14 @@ Orz
 Orz
 #(Orz)
 Orz
+#(ORZ)
+|-1|ORZ
 #(Nemesis)
 Nemesis
 #(Nemesis)
 Nemesis
+#(NEMESIS)
+|-1|NEMESIS
 #(*Wet*)
 *Wet*
 #(*Happy*)

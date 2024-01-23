@@ -4,10 +4,14 @@ Chmmr
 Chmmr
 #(Chmmr)
 Chmmr
+#(CHMMR)
+|-1|CHMMR
 #(Avatar)
 Avatar
 #(Avatar)
 Avatar
+#(AVATAR)
+|-1|AVATAR
 #(Mnzgk)
 Mnzgk
 #(Chzrmn)

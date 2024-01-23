@@ -4,10 +4,14 @@ Kohr-Ah
 Kohr-Ah
 #(Kohr-Ah)
 Kohr-Ah
+#(KOHR-AH)
+KOHR-AH
 #(Marauder)
 Marauder
 #(Marauder)
 Maraud.
+#(MARAUDER)
+MARAUDER
 #(Death 11)
 Death 11
 #(Death 17)

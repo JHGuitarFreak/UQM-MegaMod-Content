@@ -4,10 +4,14 @@ Slylandro
 Slylandro
 #(Slylan.)
 Slylan.
+#(SLYLANDRO)
+SLYLANDRO
 #(Probe)
 Probe
 #(Probe)
 Probe
+#(PROBE)
+PROBE
 #(2418-B)
 2418-B
 #(2418-B)

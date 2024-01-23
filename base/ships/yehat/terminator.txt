@@ -4,10 +4,14 @@ Yehat
 Yehat
 #(Yehat)
 Yehat
+#(YEHAT)
+|-1|YEHAT
 #(Terminator)
 Terminator
 #(Termin.)
 Termin.
+#(TERMINATOR)
+TERMINATOR
 #(Heep-eep)
 Heep-eep
 #(Feep-eep)

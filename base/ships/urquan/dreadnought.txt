@@ -4,10 +4,14 @@ Ur-Quan
 Ur-Quan
 #(Ur-Quan)
 Ur-Quan
+#(UR-QUAN)
+UR-QUAN
 #(Dreadnought)
 Dreadnought
 #(Dreadnt.)
 Dreadnt.
+#(DREADNT.)
+DREADNT.
 #(Lord 999)
 Lord 999
 #(Lord 342)
