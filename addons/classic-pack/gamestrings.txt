@@ -2235,7 +2235,7 @@ CREW
 
 
 #(CAPTAIN)
-CAPTAIŅ
+CAPTAIＮ
 
 
 #(minerals)
@@ -2280,6 +2280,18 @@ Speed
 
 #(Zoom)
 :Zoom
+
+
+#(FUEL)
+ＦＵEＬ
+
+
+#(CREW)
+CＲEW
+
+
+#(CAPTAIN)
+ＣＡＰTＡＩN
 
 
 #(nose:) -- FLAGSHIP_STRING_BASE

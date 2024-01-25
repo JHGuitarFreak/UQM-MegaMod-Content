@@ -1,11 +1,11 @@
-border-021.png -2 -1 0 0
-border-022.png -2 -1 4 0
-border-023.png -2 -1 4 4
-border-024.png -2 -1 0 4
-border-025.png -2 -1 -4 0
-border-026.png -2 -1 4 -4
-border-027.png -2 -1 -4 4
-border-028.png -2 -1 0 -4
+bevel-000.png -2 -1 0 0
+bevel-001.png -2 -1 4 0
+bevel-002.png -2 -1 4 4
+bevel-003.png -2 -1 0 4
+bevel-004.png -2 -1 -4 0
+bevel-005.png -2 -1 4 -4
+bevel-006.png -2 -1 -4 4
+bevel-007.png -2 -1 0 -4
 slug.png -2 -1 0 0
 slug.png -2 -1 0 0
 slug.png -2 -1 0 0
@@ -38,3 +38,4 @@ slug.png -2 -1 0 0
 slug.png -2 -1 0 0
 slug.png -2 -1 0 0
 slug.png -2 -1 0 0
+bevel-008.png -2 -1 0 0
