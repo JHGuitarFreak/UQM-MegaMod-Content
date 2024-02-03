@@ -196,6 +196,7 @@ graphics.boom.large = GFXRES:base/battle/boom-big.ani
 graphics.boom.medium = GFXRES:base/battle/boom-med.ani
 graphics.boom.small = GFXRES:base/battle/boom-sml.ani
 graphics.border = GFXRES:base/ui/border/border.ani
+graphics.cust.bevel = GFXRES:base/ui/border/bevel/bevel.ani
 graphics.burvixcaster = GFXRES:base/lander/energy/burvixcaster.ani
 graphics.dossphere = GFXRES:base/planets/dosstuff/planet_sphere.ani
 graphics.dos.shield = GFXRES:base/planets/dosstuff/shield.ani
