@@ -30,7 +30,6 @@ graphics.activity = GFXRES:addons/classic-pack/ui/activity.ani
 
 graphics.meleemenu = GFXRES:addons/classic-pack/ui/melee_menu/meleemenu.ani
 #graphics.miscdata = GFXRES:addons/classic-pack/ui/misc_data/miscdata.ani
-graphics.nebulae = GFXRES:addons/classic-pack/nav/nebulae/nebulae.ani
 graphics.orbitbackground = GFXRES:addons/classic-pack/nav/orbit_background/orbitbackground.ani
 graphics.orbitenter = GFXRES:addons/classic-pack/nav/orbitenter.ani
 graphics.outfitmodules = GFXRES:addons/classic-pack/ui/outfit_modules/outfitmodules.ani
@@ -40,6 +39,8 @@ graphics.playmenu = GFXRES:addons/classic-pack/ui/play_menu/playmenu.ani
 graphics.boom.large = GFXRES:addons/classic-pack/battle/boom-big.ani
 graphics.boom.medium = GFXRES:addons/classic-pack/battle/boom-med.ani
 graphics.boom.small = GFXRES:addons/classic-pack/battle/boom-sml.ani
+
+nebula.resource = STRTAB:addons/classic-pack/nav/nebulae/nebulas.txt
 
 ship.kohrah.graphics.marauder.large = GFXRES:addons/classic-pack/ships/kohrah/marauder-big.ani
 ship.kohrah.graphics.marauder.medium = GFXRES:addons/classic-pack/ships/kohrah/marauder-med.ani

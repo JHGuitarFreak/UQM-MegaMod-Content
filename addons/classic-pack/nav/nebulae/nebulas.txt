@@ -1,0 +1,44 @@
+#(Nebulae 000)
+addons/classic-pack/nav/nebulae/nebula-000.ani
+#(Nebulae 001)
+addons/classic-pack/nav/nebulae/nebula-001.ani
+#(Nebulae 002)
+addons/classic-pack/nav/nebulae/nebula-002.ani
+#(Nebulae 003)
+addons/classic-pack/nav/nebulae/nebula-003.ani
+#(Nebulae 004)
+addons/classic-pack/nav/nebulae/nebula-004.ani
+#(Nebulae 005)
+addons/classic-pack/nav/nebulae/nebula-005.ani
+#(Nebulae 006)
+addons/classic-pack/nav/nebulae/nebula-006.ani
+#(Nebulae 007)
+addons/classic-pack/nav/nebulae/nebula-007.ani
+#(Nebulae 008)
+addons/classic-pack/nav/nebulae/nebula-008.ani
+#(Nebulae 009)
+addons/classic-pack/nav/nebulae/nebula-009.ani
+#(Nebulae 010)
+addons/classic-pack/nav/nebulae/nebula-010.ani
+#(Nebulae 011)
+addons/classic-pack/nav/nebulae/nebula-011.ani
+#(Nebulae 012)
+addons/classic-pack/nav/nebulae/nebula-012.ani
+#(Nebulae 013)
+addons/classic-pack/nav/nebulae/nebula-013.ani
+#(Nebulae 014)
+addons/classic-pack/nav/nebulae/nebula-014.ani
+#(Nebulae 015)
+addons/classic-pack/nav/nebulae/nebula-015.ani
+#(Nebulae 016)
+addons/classic-pack/nav/nebulae/nebula-016.ani
+#(Nebulae 017)
+addons/classic-pack/nav/nebulae/nebula-017.ani
+#(Nebulae 018)
+addons/classic-pack/nav/nebulae/nebula-018.ani
+#(Nebulae 019)
+addons/classic-pack/nav/nebulae/nebula-019.ani
+#(Nebulae 020)
+addons/classic-pack/nav/nebulae/nebula-020.ani
+#(Nebulae 021)
+addons/classic-pack/nav/nebulae/nebula-021.ani
