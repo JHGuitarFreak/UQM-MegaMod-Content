@@ -2072,6 +2072,11 @@ to
 ->
 
 
+#(ENTERING PLANETARY ORBIT...)
+|5|ENTERING PLANETARY
+|3|ORBIT ． ． ．
+
+
 #(Enter name) -- NAMING_STRING_BASE
 Enter a name
 

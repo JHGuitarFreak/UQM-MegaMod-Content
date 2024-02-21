@@ -2047,6 +2047,9 @@ to
 ->
 
 
+#(ENTERING PLANETARY ORBIT...)
+
+
 #(Enter name) -- NAMING_STRING_BASE
 Enter a name
 
