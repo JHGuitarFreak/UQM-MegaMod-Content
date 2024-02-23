@@ -1375,7 +1375,7 @@ May not work on all hardware.
 
 #(SLIDER_4_DESC)
 Sets the nebulae brightness when nebulae are enabled.
-Default value is: 24
+Default value is: 16
 
 #(BUTTONS)
 Quit Setup
