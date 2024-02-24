@@ -2382,19 +2382,19 @@ tail:
 
 
 #(maximum velocity:)
-maximum velocity:
+maximum ｖeloｃity:
 
 
 #(turning rate:)
-turning rate:
+turninｇ      rate:
 
 
 #(combat energy:)
-combat energy:
+ｃombat   enerｇy:
 
 
 #(maximum fuel:)
-maximum fuel:
+maximum     fuel:
 
 
 #(gun)
