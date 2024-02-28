@@ -2285,6 +2285,10 @@ No
 Escape Unit
 
 
+#(Game Paused)
+Game Paused
+
+
 #(Cr) -- STATUS_STRING_BASE
 Cr
 
