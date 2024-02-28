@@ -81,7 +81,7 @@ Star Background
 Scanning Style
 Non-Stop Oscilloscope
 Oscilloscope Style
-Animated HyperSpace Stars (HD)
+HD Animations
 Lander View Style
 Planet Map Textures
 Flagship Engine Color
@@ -95,7 +95,7 @@ Slaughter Mode
 Advanced Auto-Pilot
 Super-Melee Ship Descriptions
 Music Resume
-Window Type
+Platform UI
 
 #(CAT_0_OPTS)
 Original
@@ -1152,13 +1152,12 @@ Static
 Animated
 
 #(CAT_67_OPT_0_DESC)
-HD HyperSpace stars faithfully resemble their Vanilla 
-counterparts but are not animated.
-(Everything else is animated)
+HD HyperSpace stars, gravity wells, QuasiSpace portals, and Solar System
+Suns faithfully resemble their Vanilla counterparts but are not animated.
 
 #(CAT_67_OPT_1_DESC)
-HD HyperSpace stars are animated but do not resemble
-their Vanilla counterparts at all.
+HD HyperSpace stars, gravity wells, QuasiSpace portals, and Solar System
+Suns are animated.
 
 #(CAT_68_OPTS)
 PC
@@ -1340,17 +1339,18 @@ DOS
 UQM
 
 #(CAT_81_OPT_0_DESC)
-Changes the window type to look like the DOS version with a
-shortened vertical resolution.
+Changes the UI scaling to present a faithful DOS look and feel.
+Fits in a 16:10 aspect ratio.
 &!Disables many features that are incompatible while enabled
 
 #(CAT_81_OPT_1_DESC)
-Enables border padding on all sides of the window for the ultimate
-3DO version look.
+Enables border padding on all sides of the window for an ultra
+faithful 3DO presentation. Fits in a 4:3 aspect ratio.
 &!Disables many features that are incompatible while enabled
 
 #(CAT_81_OPT_2_DESC)
-The default UQM viewing experience.
+The default UQM presentation.
+Fits in a 4:3 aspect ratio.
 
 
 #(SLIDERS)
