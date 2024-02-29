@@ -1152,12 +1152,13 @@ Static
 Animated
 
 #(CAT_67_OPT_0_DESC)
-HD HyperSpace stars, gravity wells, QuasiSpace portals, and Solar System
-Suns faithfully resemble their Vanilla counterparts but are not animated.
+HD HyperSpace stars, gravity wells, QuasiSpace portals
+and Solar System Suns faithfully resemble their Vanilla counterparts
+but are not animated.
 
 #(CAT_67_OPT_1_DESC)
-HD HyperSpace stars, gravity wells, QuasiSpace portals, and Solar System
-Suns are animated.
+HD HyperSpace stars, gravity wells, QuasiSpace portals
+and Solar System Suns are animated.
 
 #(CAT_68_OPTS)
 PC
