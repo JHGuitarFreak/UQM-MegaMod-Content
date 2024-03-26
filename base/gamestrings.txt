@@ -2369,6 +2369,14 @@ CＲEW
 ＣＡＰTＡＩN
 
 
+#(MIN)
+MIN
+
+
+#(DAT)
+ＤＡT
+
+
 #(nose:) -- FLAGSHIP_STRING_BASE
 nose:
 
