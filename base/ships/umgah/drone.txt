@@ -4,14 +4,10 @@ Umgah
 Umgah
 #(Umgah)
 Umgah
-#(UMGAH)
-|-2|UMGAH
 #(Drone)
 Drone
 #(Drone)
 Drone
-#(DRONE)
-|-2|DRONE
 #(Julg'ka)
 Julg'ka
 #(Gibj'o)
@@ -44,6 +40,10 @@ Kterbi'a
 Chup'he
 #(I'buba)
 I'buba
+#(UMGAH)
+|-2|UMGAH
+#(DRONE)
+|-2|DRONE
 #(Desc)
 Stubby and slow. Anti-matter
 cone. Zips backwards.

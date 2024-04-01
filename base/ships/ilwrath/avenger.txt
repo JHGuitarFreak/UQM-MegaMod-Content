@@ -4,14 +4,10 @@ Ilwrath
 Ilwrath
 #(Ilwrath)
 Ilwrath
-#(ILWRATH)
-ILWRATH
 #(Avenger)
 Avenger
 #(Avenger)
 Avenger
-#(AVENGER)
-AVENGER
 #(Gorgon)
 Gorgon
 #(Taragon)
@@ -44,6 +40,10 @@ Lurgo
 Regorjo
 #(Manglor)
 Manglor
+#(ILWRATH)
+ILWRATH
+#(AVENGER)
+AVENGER
 #(Desc)
 Large. Devastating flame
 blast. Cloaking device.

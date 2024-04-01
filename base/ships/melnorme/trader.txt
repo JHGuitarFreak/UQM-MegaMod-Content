@@ -4,14 +4,10 @@ Melnorme
 Melnorme
 #(Melnorme)
 Melnor.
-#(MELNORME)
-|-1|MELNORME
 #(Trader)
 Trader
 #(Trader)
 Trader
-#(TRADER)
-|-1|TRADER
 #(Reddish)
 Reddish
 #(Orangy)
@@ -44,6 +40,10 @@ Black
 Bluish
 #(Purple)
 Purple
+#(MELNORME)
+|-1|MELNORME
+#(TRADER)
+|-1|TRADER
 #(Desc)
 Tubby. Chargeable weapon.
 Can disrupt enemy controls.

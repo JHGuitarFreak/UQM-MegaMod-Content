@@ -4,14 +4,10 @@ Shofixti
 Shofixti
 #(Shofix.)
 Shofix.
-#(SHOFIXTI)
-SHOFIXTI
 #(Scout)
 Scout
 #(Scout)
 Scout
-#(SCOUT)
-SCOUT
 #(Hiyata)
 Hiyata
 #(Wasabe)
@@ -48,6 +44,10 @@ Kimba
 Tanaka
 #(Katana)
 Katana
+#(SHOFIXTI)
+SHOFIXTI
+#(SCOUT)
+SCOUT
 #(Desc)
 Tiny, fast.
 Can self-destruct.

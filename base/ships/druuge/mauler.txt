@@ -4,14 +4,10 @@ Druuge
 Druuge
 #(Druuge)
 Druuge
-#(DRUUGE)
-|-2|DRUUGE
 #(Mauler)
 Mauler
 #(Mauler)
 Mauler
-#(MAULER)
-|-2|MAULER
 #(Tuuga)
 Tuuga
 #(Siinur)
@@ -44,6 +40,10 @@ Piini
 Soopi
 #(Peeru)
 Peeru
+#(DRUUGE)
+|-2|DRUUGE
+#(MAULER)
+|-2|MAULER
 #(Desc)
 Sluggish. Heavy momentum
 weapon. Combustible crew.

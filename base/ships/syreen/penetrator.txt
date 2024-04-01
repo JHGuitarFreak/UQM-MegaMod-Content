@@ -4,14 +4,10 @@ Syreen
 Syreen
 #(Syreen)
 Syreen
-#(SYREEN)
-SYREEN
 #(Penetrator)
 Penetrator
 #(Penetr.)
 Penetr.
-#(PENETRATOR)
-PENETRATOR
 #(Teela)
 Teela
 #(Dejah)
@@ -44,6 +40,10 @@ Aelita
 Alura
 #(Dale)
 Dale
+#(SYREEN)
+SYREEN
+#(PENETRATOR)
+PENETRATOR
 #(Desc)
 Lithe space vixens who
 steal enemy's crew.

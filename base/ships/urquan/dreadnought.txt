@@ -4,14 +4,10 @@ Ur-Quan
 Ur-Quan
 #(Ur-Quan)
 Ur-Quan
-#(UR-QUAN)
-UR-QUAN
 #(Dreadnought)
 Dreadnought
 #(Dreadnt.)
 Dreadnt.
-#(DREADNT.)
-DREADNT.
 #(Lord 999)
 Lord 999
 #(Lord 342)
@@ -44,6 +40,10 @@ Lord 783
 Lord 52
 #(Lord 21)
 Lord 21
+#(UR-QUAN)
+UR-QUAN
+#(DREADNT.)
+DREADNT.
 #(Desc)
 Huge, slow. Heavy weapon.
 Launches fighters.
