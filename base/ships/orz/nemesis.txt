@@ -4,14 +4,10 @@ Orz
 Orz
 #(Orz)
 Orz
-#(ORZ)
-|-1|ORZ
 #(Nemesis)
 Nemesis
 #(Nemesis)
 Nemesis
-#(NEMESIS)
-|-1|NEMESIS
 #(*Wet*)
 *Wet*
 #(*Happy*)
@@ -44,6 +40,10 @@ Nemesis
 *Juice*
 #(*Squirt*)
 *Squirt*
+#(ORZ)
+|-1|ORZ
+#(NEMESIS)
+|-1|NEMESIS
 #(Desc)
 Quick. Rotating turret. Space
 marines board enemy ship.

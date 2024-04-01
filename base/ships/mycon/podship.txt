@@ -4,14 +4,10 @@ Mycon
 Mycon
 #(Mycon)
 Mycon
-#(MYCON)
-|-3|MYCON
 #(Podship)
 Podship
 #(Podship)
 Podship
-#(PODSHIP)
-|-2|PODSHIP
 #(Blort)
 Blort
 #(Chupp)
@@ -44,6 +40,10 @@ Yush
 Zaloop
 #(Znuff)
 Znuff
+#(MYCON)
+|-3|MYCON
+#(PODSHIP)
+|-2|PODSHIP
 #(Desc)
 Very slow. Homing plasma
 torpedo. Grows new crew.

@@ -4,14 +4,10 @@ Spathi
 Spathi
 #(Spathi)
 Spathi
-#(SPATHI)
-|-1|SPATHI
 #(Eluder)
 Eluder
 #(Eluder)
 Eluder
-#(ELUDER)
-|-1|ELUDER
 #(Thwil)
 Thwil
 #(Pwappy)
@@ -46,6 +42,10 @@ Bwinkin
 Whuff
 #(Fwiffo)
 Fwiffo
+#(SPATHI)
+|-1|SPATHI
+#(ELUDER)
+|-1|ELUDER
 #(Desc)
 Very fast. Large, cowardly
 crew. Rear firing weapon.

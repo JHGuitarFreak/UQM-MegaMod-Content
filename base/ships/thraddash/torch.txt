@@ -4,14 +4,10 @@ Thraddash
 Thraddash
 #(Thradd.)
 Thradd.
-#(THRADDASH)
-THRADDASH
 #(Torch)
 Torch
 #(Torch)
 Torch
-#(TORCH)
-|-1|TORCH
 #(Dthunk)
 Dthunk
 #(Bardat)
@@ -44,6 +40,10 @@ Fkank
 Pdump
 #(Whumps)
 Whumps
+#(THRADDASH)
+THRADDASH
+#(TORCH)
+|-1|TORCH
 #(Desc)
 Nimble. Afterburner
 accelerates ship, burns enemy.

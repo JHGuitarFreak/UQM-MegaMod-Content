@@ -4,14 +4,10 @@ Supox
 Supox
 #(Supox)
 Supox
-#(SUPOX)
-|-2|SUPOX
 #(Blade)
 Blade
 #(Blade)
 Blade
-#(BLADE)
-|-2|BLADE
 #(Trifid)
 Trifid
 #(Crinoid)
@@ -44,6 +40,10 @@ Stem
 Bramble
 #(Thicket)
 Thicket
+#(SUPOX)
+|-2|SUPOX
+#(BLADE)
+|-2|BLADE
 #(Desc)
 Light. Rapid-fire globs.
 Slides in any direction.

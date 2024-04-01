@@ -4,14 +4,10 @@ Utwig
 Utwig
 #(Utwig)
 Utwig
-#(UTWIG)
-|-2|UTWIG
 #(Jugger)
 Jugger
 #(Jugger)
 Jugger
-#(JUGGER)
-|-2|JUGGER
 #(Endo)
 Endo
 #(Vermi)
@@ -46,6 +42,10 @@ Jujuby
 Erog
 #(Tarp)
 Tarp
+#(UTWIG)
+|-2|UTWIG
+#(JUGGER)
+|-2|JUGGER
 #(Desc)
 Weapons consume no energy.
 Absorbent shields.

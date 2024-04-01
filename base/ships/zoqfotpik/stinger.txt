@@ -4,14 +4,10 @@ Zoq-Fot-Pik
 ZoqFot
 #(ZoqFot)
 ZoqFot
-#(ZOQFOTPIK)
-|-2|ZOQ-FOT
 #(Stinger)
 Stinger
 #(Stinger)
 Stinger
-#(STINGER)
-|-3|STINGER
 #(NikNak)
 NikNak
 #(FipPat)
@@ -44,6 +40,10 @@ TikTok
 MikMok
 #(SikSok)
 SikSok
+#(ZOQFOTPIK)
+|-2|ZOQ-FOT
+#(STINGER)
+|-3|STINGER
 #(Desc)
 Small crew. Speedy. Anti-
 matter spray, tongue attack.

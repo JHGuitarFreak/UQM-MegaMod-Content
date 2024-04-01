@@ -4,14 +4,10 @@ Kohr-Ah
 Kohr-Ah
 #(Kohr-Ah)
 Kohr-Ah
-#(KOHR-AH)
-KOHR-AH
 #(Marauder)
 Marauder
 #(Marauder)
 Maraud.
-#(MARAUDER)
-MARAUDER
 #(Death 11)
 Death 11
 #(Death 17)
@@ -44,6 +40,10 @@ Death 47
 Death 53
 #(Death 83)
 Death 83
+#(KOHR-AH)
+KOHR-AH
+#(MARAUDER)
+MARAUDER
 #(Desc)
 Massive. Long-range spinning
 blades, ring of fiery death.

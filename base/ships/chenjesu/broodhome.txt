@@ -4,14 +4,10 @@ Chenjesu
 Chenjesu
 #(Chenje.)
 Chenje.
-#(CHENJESU)
-CHENJESU
 #(Broodhome)
 Broodhome
 #(Brood.)
 Brood.
-#(BROODHOME)
-BROODHOME
 #(Kzzakk)
 Kzzakk
 #(Tzrrow)
@@ -44,6 +40,10 @@ Vrroww
 Zznaz
 #(Zzzhmm)
 Zzzhmm
+#(CHENJESU)
+CHENJESU
+#(BROODHOME)
+BROODHOME
 #(Desc)
 Big. Crystal fragment
 weapon. Breeds pesky doggies.

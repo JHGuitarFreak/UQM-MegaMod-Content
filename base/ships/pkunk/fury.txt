@@ -4,14 +4,10 @@ Pkunk
 Pkunk
 #(Pkunk)
 Pkunk
-#(PKUNK)
-|-1|PKUNK
 #(Fury)
 Fury
 #(Fury)
 Fury
-#(FURY)
-|-1|FURY
 #(Awwky)
 Awwky
 #(Tweety)
@@ -44,6 +40,10 @@ Jay
 Screech
 #(Twitter)
 Twitter
+#(PKUNK)
+|-1|PKUNK
+#(FURY)
+|-1|FURY
 #(Desc)
 Blazing fast. Insulting enemy.
 Chance of respawning

@@ -4,14 +4,10 @@ Earthling
 Earthling
 #(Earth.)
 Earth.
-#(EARTHLING)
-EARTHLING
 #(Cruiser)
 Cruiser
 #(Cruiser)
 Cruiser
-#(CRUISER)
-CRUISER
 #(Decker)
 Decker
 #(Trent)
@@ -44,6 +40,10 @@ Buck
 Solo
 #(Belt)
 Belt
+#(EARTHLING)
+EARTHLING
+#(CRUISER)
+CRUISER
 #(Desc)
 Slow, heavy. Seeking nukes.
 Point defense lasers.
