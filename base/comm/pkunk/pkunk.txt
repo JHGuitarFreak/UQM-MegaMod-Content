@@ -52,7 +52,7 @@ Is that not what living is for?
 I sense that you are cautious.
 You feel that you are not yet ready to enter into the fullness of our compassion. 
 I say to you, Let go!!
-Travel to our planet of love at the star you call Gamma Krueger
+Travel to our planet of love at the star you call <% comm.getStarName("Gamma Krueger", "pkunk") %>
 and share the brightness of your soul with us.
 Unburden yourself of fears, become as a child once again
 release yourself to tears of joy!
@@ -244,9 +244,9 @@ In fact, I myself did not sleep well last night.
 Well, actually I slept okay in the first part of the night, and then had a little trouble a little later on
 maybe halfway through, until I got up and had something to eat.
 Anyway, the reason we're not sleeping is because of a dream. Yes, a dream.
-We have seen that in the center of this region of space, near stars that form the shape of a cup
-and are in a constellation that begins with the letter C and ends with the letter S
-and whose letters rearranged spell `Asteric', two great armadas fight.
+We have seen that in <% comm.swapIfSeeded("the center of this region of space, near stars that form the shape of a cup", "this region of space") %>
+<% comm.swapIfSeeded("and are in a constellation that", "near the") %> <% comm.getConstellation("begins with the letter C and ends with", "samatra") %> <% comm.swapIfSeeded("the letter S", "Constellation") %>
+<% comm.swapIfSeeded("and whose letters rearranged spell `Asteric', two", "two") %> great armadas fight.
 One of black ships, the other of green.
 Our dream tells us that if the black ships should win this fight, they will destroy all life in this region.
 Captain, they are winning now. If there is anything you can do to stop them you must do it... please!
@@ -320,7 +320,7 @@ must reach it!...
 #(MIGRATING_SPACE_1)	pkunk-042.ogg
 We have decided that our Yehat siblings are in need of our love and good counsel.
 We have waited far too long to return home and heal the wound that has kept our race apart these many centuries.
-When we arrive in the Serpentis constellation, we will greet our Yehat brethren with warm hugs of affection
+When we arrive in the <% comm.getConstellation("Serpentis", "yehat") %> constellation, we will greet our Yehat brethren with warm hugs of affection
 which I am sure shall be returned in kind.
 
 #(MIGRATING_SPACE_2)	pkunk-043.ogg
@@ -400,12 +400,12 @@ You see?
 
 #(VISIT_OUR_HOMEWORLD)	pkunk-055.ogg
 If you wish our assistance, you should consult with our wise ones
-at our homeworld. Its coordinates are 52.2, 52.5.
+at our homeworld. Its coordinates are <% comm.getPoint("52.2, 52.5", "pkunk") %>.
 
 #(CAN_BE_FRIENDS)	pkunk-056.ogg
 Now that we've cleared the air and can completely trust each other
 we'll just tell you where our home planet is located.
-It is the first planet in the Gamma Krueger system, located at 52.2, 52.5 on the standard HyperSpace starmap.
+It is the first planet in the <% comm.getStarName("Gamma Krueger", "pkunk") %> system, located at <% comm.getPoint("52.2, 52.5", "pkunk") %> on the standard HyperSpace starmap.
 Ah, now that feels so much better, doesn't it, friend?
 
 #(bye_angry)
@@ -754,14 +754,14 @@ I, Captain, have lived thirty-eight lives
 a paltry number compared to those wise and ancient souls who guide our race.
 You must consult them, Captain. They will help you to understand yourself
 and in doing so, understand others... who in turn may or may not understand other things.
-Seek those wise birds at our homeworld, at Gamma Krueger I. They have all the answers.
+Seek those wise birds at our homeworld, at <% comm.getStarName("Gamma Krueger", "pkunk") %> I. They have all the answers.
 
 #(can_you_help)
 We are dedicated to fighting the Ur-Quan Hierarchy. Can you help us?
 
 #(GO_TO_HOMEWORLD_AGAIN)	pkunk-093.ogg
 See the wise ones at our homeworld, Captain.
-Go to Gamma Krueger for your answers.
+Go to <% comm.getStarName("Gamma Krueger", "pkunk") %> for your answers.
 
 #(hostile_greeting)
 Hey! Bird-brains! Got any fruit loops? Har-har-har!
@@ -892,7 +892,7 @@ Just the other day one of our psychics, while in the Trance of Plam Prikky
 cried out the location of one of these curious alien widgy-whatsits.
 Perhaps you are interested.  Just before she fainted she said
 `A Sphere of Rosy Color, a Ball of Red
-grasped by the greedy hands of a Foul Race deep in Persei. The sphere waits.
+grasped by the greedy hands of a Foul Race deep in <% comm.getConstellation("Persei", "druuge") %>. The sphere waits.
 In a tiny voice it calls for its two mates.
 `Where are you, where are you, Clear Spindle Thing-a-ma-jig and other thing?'
 
@@ -905,7 +905,7 @@ Awkky Birdy is overcome.  He hesitates, and the females rush forward and swarm o
 Uh...the Clear Spindle, yes I am coming to that.
 Just as he is about to pass out, Awkky Birdy sees a Clear Spindle, a red orb, and a blue twisty thing
 all spinning about each other above his head.
-In a fit of ecstasy he screams out the word, `DRACONIS!!!!'
+In a fit of ecstasy he screams out the word, `<% comm.getConstellation("DRACONIS", "aqua helix") %>!!!!'
 and then the lights dim, and with a smile on his face Awkky Birdy sleeps.
 Quite a dream, eh?
 

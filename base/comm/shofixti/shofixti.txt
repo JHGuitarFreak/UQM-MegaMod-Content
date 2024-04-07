@@ -305,7 +305,7 @@ If your sun went nova, how did you survive?
 #(NOT_HERE)	shofixti-040.ogg
 I wasn't here when they made the sun flare.
 I was assigned to a Yehat squadron as a forward scout performing a deep recon in Mycon space.
-We were sent to investigate reports of unusual Mycon activity around Beta Brahe.
+We were sent to investigate reports of unusual Mycon activity around <% comm.getStarName("Beta Brahe", "sun device") %>.
 I was the first ship to enter the system.
 My scanners showed a small fleet of Mycon clustered around the planet conducting a test of some device.
 The unit was small, not even half the size of my ship.
@@ -324,7 +324,7 @@ On my way home, I encountered a VUX Intruder.
 Before I destroyed it, the VUX was able to affix some of those vile limpet things to my ship
 and I had to return home at a greatly diminished speed.
 I did find one thing interesting though as I skimmed through the edge of Yehat space.
-I dropped into Zeta Sextantis to re-charge some of my depleted energy cells
+I dropped into <% comm.getStarName("Zeta Sextantis", "rainbow 0") %> to re-charge some of my depleted energy cells
 so I moved into the extreme inner system. There, right next to the sun
 I found a very strange planet... it messed up my sensors somehow
 that's why I could not recognize your ship at first.

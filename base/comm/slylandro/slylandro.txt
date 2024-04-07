@@ -116,8 +116,8 @@ like turning green and evil.
 We are particularly interested in studying unusual planets and life forms.
 
 #(MAYBE_INTERESTED)	slylandro-012.ogg
-Oh! Then you should go check out a planet orbiting a blue star not too far from here.
-I think there is another blue star right next to it.
+Oh! Then you should go check out a planet orbiting a <% comm.getColor("blue", "rainbow 4") %> star not too far from here.
+I think <% comm.swapIfSeeded("there is another", "it is near the") %> <% comm.getConstellation("blue star","rainbow 4") %> <% comm.swapIfSeeded("right next to it", "star system") %>.
 We can't desribe exactly where it is, but the people who told us about it
 the Ur-Quan, I think, said that it was one of the rarest worlds in space
 and that as far as they knew
@@ -206,8 +206,8 @@ What my associate communicates is the description of a set of ten worlds, unlike
 The Shaggy Ones either discovered these planets or... this is garbled.. assembled them?
 We were told the planets were... again this is confusing... organized (?) in some pattern
 which in some way alluded to the Shaggy Ones' ultimate fate.
-One of the worlds was described as orbiting one of a pair of blue stars not far from here.
-Another of these worlds circled a large white sun.
+One of the worlds was described as orbiting <% comm.swapIfSeeded("one of a pair of", "a") %> <% comm.getColor("blue", "rainbow 4") %> <% comm.swapIfSeeded("stars", "star") not far from here.
+Another of these worlds circled a large <% comm.getColor("white", "rainbow 9") %> sun.
 That is all we can remember.
 
 #(who_are_you)

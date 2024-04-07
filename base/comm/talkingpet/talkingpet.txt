@@ -7,7 +7,7 @@ I thought this was the Umgah homeworld. Who are you?
 #(JUST_TALKING_PET)	talkingpet-001.ogg
 I am, uh, a peaceful creature, a friendly alien life form. The Ur-Quan call us `talking pets'.
 Until recently, I was employed on a Dreadnought starship as a translator.
-Then, after the ship suffered severe damage in combat, we crashed at Alpha Pavonis.
+Then, after the ship suffered severe damage in combat, we crashed at <% comm.getStarName("Alpha Pavonis", "urquan wreck") %>.
 Miraculously, I survived, and was rescued by an Ariloulaleelay exploration vessel.
 The Arilou, they could not heal my most severe injuries, so they brought me to the Umgah
 who possess superior bio-engineering skills.
@@ -591,7 +591,7 @@ I am a called a `talking pet'
 For many years I served as a translator aboard an Ur-Quan Dreadnought.
 During this time though, I possessed less intelligence than an Earth swine, but this was soon to change.
 The Dreadnought came under attack by the Kohr-Ah and was severely damaged.
-We made a crash-landing at a planet orbiting Alpha Pavonis. I was the only survivor.
+We made a crash-landing at a planet orbiting <% comm.getStarName("Alpha Pavonis", "urquan wreck") %>. I was the only survivor.
 The prospect of investigating a Dreadnought was sufficient to bring the Arilou down to the planet surface, where they found me.
 They tried to nurse me back to health, but they could not repair all my damage.
 So they turned to their neighbors, the Umgah, for assistance.

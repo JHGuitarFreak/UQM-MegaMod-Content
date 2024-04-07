@@ -238,7 +238,7 @@ when the technological superiority of the farmers curtailed any major conflict.
 What was Syra like?
 
 #(ABOUT_HOMEWORLD)	syreen-022.ogg
-It was our paradise, Captain, our Eden.
+<% comm.getStarName("It", "egg case 0") %> was our paradise, Captain, our Eden.
 Earth is the only world we know of whose variety and richness of life even comes close to Syra.
 Again, like so many other things about our two species, our worlds were very much the same
 at least before you began encasing yours in concrete and plastic.
@@ -336,11 +336,11 @@ The starship officers who flew the Penetrators to the vault did so with total se
 The only thing they could use for navigation was the presence of the Dreadnought fleet surrounding them.
 When they arrived at their destination and lowered their ships into the immense vault
 they were transported to the Dreadnoughts and only caught a split-second glimpse of the outside world.
-As far as they could tell, the sun was either red or orange. Based on their trip-time calculations
+As far as they could tell, the sun was <% comm.getColor("either red or orange", "ship vault") %>. Based on their trip-time calculations
 the farthest they could have travelled is about 200 HyperSpace distance units.
 
 #(been_there)
-I've already been there. The vault is on the moon of Epsilon Camelopardalis I, but I couldn't open it.
+I've already been there. The vault is on the moon of <% comm.getStarName("Epsilon Camelopardalis", "ship vault") %> I, but I couldn't open it.
 
 #(GREAT)	syreen-030.ogg
 Wonderful! Then the job is already almost complete!
@@ -376,10 +376,10 @@ and possessing a molten, active mantle.
 Our plan is to lure the Mycons to such a planet, and then attack them when they least expect it.
 We know of just such a world.
 When the Ur-Quan were analyzing their mass of planetary data to find a new home for my people
-one of the close candidates, ranked just below Gaia, was a blue world orbiting close to the star, Organon.
+one of the close candidates, ranked just below Gaia, was a blue world orbiting close to the star, <% comm.getStarName("Organon", "mycon trap") %>.
 Captain, we need your services again. Here is what you must do.
 You must go to the Mycon and tell them of this world.
-They will find that the world is suitable, and when they go to Organon
+They will find that the world is suitable, and when they go to <% comm.getStarName("Organon", "mycon trap") %>
 we shall be there... waiting for them.
 Then we shall destroy them!
 
@@ -410,7 +410,7 @@ SUCCESS, Captain! The Mycons' fleet is in shambles!
 JUSTICE IS OURS!
 We have revenged ourselves against the heinous Mycons!
 They fell for our trap so completely!
-When they approached Organon I, we were hiding behind its moon.
+When they approached <% comm.getStarName("Organon", "mycon trap") %> I, we were hiding behind its moon.
 As they approached, their ships broke combat formation
 in preparation for their hideous implanting ceremony.
 We waited until they were fully dispersed around the planet, then we attacked!
@@ -478,7 +478,7 @@ If I wasn't running this Starbase, I'd be first in line.
 #(GENERAL_INFO_AFTER_AMBUSH_2)	syreen-044.ogg
 We have been intercepting a concentration of Hierarchy broadcasts
 but we cannot translate their content.
-They all appear to be originating from the direction of the Horologii constellation.
+They all appear to be originating from the direction of the <% comm.getConstellation("Horologii", "samatra") %> constellation.
 
 #(GENERAL_INFO_AFTER_AMBUSH_3)	syreen-045.ogg
 Nothing new to report, Captain.
@@ -502,10 +502,10 @@ Any success finding our ships, Captain?
 Er... no. Have you got any idea where it is, even a guess?
 
 #(OK_HINT)	syreen-050.ogg
-Only that the vault is at a red or maybe orange star, and not too far from our position.
+Only that the vault is at a <% comm.getColor("red or maybe orange", "ship vault") %> star, and not too far from our position.
 
 #(found_vault)
-Yes! We found it on the moon of Epsilon Camelopardalis I.
+Yes! We found it on the moon of <% comm.getStarName("Epsilon Camelopardalis", "ship vault") %> I.
 
 #(bye_before_vault)
 Goodbye, Talana. I'm off to find the vault!
@@ -533,7 +533,7 @@ Could you repeat the plan again?
 
 #(OK_REPEAT_PLAN)	syreen-055.ogg
 Ok, here's the plan, again.
-You must go to the Mycons and tell them about a world at the Organon star system.
+You must go to the Mycons and tell them about a world at the <% comm.getStarName("Organon", "mycon trap") %> star system.
 Tell them that you have found the perfect world for their hideous Deep Children.
 We will hide there and wait for them in ambush.
 Then we shall destroy them.

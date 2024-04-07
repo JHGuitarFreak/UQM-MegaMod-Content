@@ -86,7 +86,7 @@ Maybe you do not even *smell*? That is sad.
 Perhaps you have not been to the *Playground*.
 The *Playground* is for Taalo and for Orz, but *Campers* can go.
 It more fun than several.
-The *Playground* is 372.1, 261.9 your *silly* numbers.
+The *Playground* is <% comm.getPoint("372.1, 261.9", "taalo protector") %> your *silly* numbers.
 You can go there for too much fun.
 
 #(GENERAL_INFO_ALLY_3)	orz-013.ogg
@@ -535,7 +535,7 @@ Why explaining? You are not a *camper*! You are too *hard*!
 If you want *words with fluid* then you must be *campers*!
 Of course you are so silly. That is too much. Do not asking about *playgrounds*.
 If you want to be a *camper* you can go to my *house*.
-Silly name is Gamma Vulpeculae.
+Silly name is <% comm.getStarName("Gamma Vulpeculae", "orz") %>.
 
 #(may_we_land)
 Would you mind if we did a bit of exploring on the planet's surface?
@@ -561,7 +561,7 @@ It is the best way!
 You will be very happy *campers*. Do not be *terrified*.
 It is better as *campers*.
 You must going to my *house* to start *camping*.
-It is 371.3, 253.7 location.
+It is <% comm.getPoint("371.3, 253.7", "orz") %> location.
 We are so busy here for starting the *campers*!
 
 #(why_busy)

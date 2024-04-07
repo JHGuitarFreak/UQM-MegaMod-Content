@@ -108,7 +108,7 @@ please get some and bring them back here before it's too late.
 #(THATS_IMPOSSIBLE) commander-020.ogg
 Star Control science mission, eh?
 Captain, I served as a Star Control officer during the war, aboard several cruisers in the Coreward Front
-and if there had been any `scientific mission' to Vela
+and if there had been any `scientific mission' to <% comm.getStarName("Vela", "start colony") %>
 I would have heard about it.
 
 #(ASK_AWAY) commander-021.ogg
@@ -174,7 +174,7 @@ I will seriously consider your offer.
 Hmmm... you know, come to think of it
 there were some rumors that Corridor Nine, the special operations division of Star Control
 was directing some hush-hush operation near Androsynth space.
-The Vela star system... yes, that would be the right direction
+The <% comm.getStarName("Vela", "start colony") %> star system... yes, that would be the right direction
 So, Captain... if you say it's true
 how do you explain that huge, alien starship you're flying
 and why are you here? What do you want from us?
@@ -307,7 +307,7 @@ Actually I lied, this isn't the resupply vessel. Sorry.
 Er..., oh dang!  Wouldn't you know it; we're plumb out of those.
 
 #(we_are_vindicator)
-I am Captain <% state.sis.getCaptainName() %> of the starship <% state.sis.getShipName() %>. We are the survivors of a Star Control science research team to the Vela star system.
+I am Captain <% state.sis.getCaptainName() %> of the starship <% state.sis.getShipName() %>. We are the survivors of a Star Control science research team to the <% comm.getStarName("Vela", "start colony") %> star system.
 
 #(first_give_info)
 I need you to explain a few things.

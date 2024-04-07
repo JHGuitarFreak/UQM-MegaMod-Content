@@ -180,7 +180,7 @@ Look, mistakes happen.  Don't get so bent out of shape!
 
 #(NO_EXCUSE_1)	melnorme-026.ogg
 The Spathi once used a similar excuse
-after an unfortunate incident at their base on Algol IV.
+after an unfortunate incident at their base on <% comm.getStarName("Algol", "algolites") %> IV.
 They didn't like the climate there
 so they decided to make `just a few minor, climatic adjustments.'
 Their equipment went haywire, they panicked and fled
@@ -649,13 +649,13 @@ The problem at hand seems simple: bring together two Shofixti of different sexes
 and the carnal gymnastics proceed. Given the short gestation and maturation time of the Shofixti
 you will have thousands of the creatures in ten years, and millions in twenty.
 Finding a male of the species is easier than flup
-simply visit the Shofixti's blasted star system at Delta Gorno.
+simply visit the Shofixti's blasted star system at <% comm.getStarName("Delta Gorno", "shofixti") %>.
 Captain Tanaka or its sibling Katana shall greet you on your arrival.
 A warning! -- These warriors are old and fly in barely functional ships.
 If they mistakenly identify you as the enemy, do not return fire!
 Retreat and try to talk with them on their own level.
 The females of the species will be more difficult to obtain.
-The only supply of such remaining in the galaxy is at Alpha Cerenkov I
+The only supply of such remaining in the galaxy is at <% comm.getStarName("Alpha Cerenkov", "maidens") %> I
 included as part of General ZEX's bizarre and beloved menagerie.
 Fortunately for you, Captain, ZEX is considered... well... perverse, by his fellow VUX.
 This is because ZEX actually enjoys the presence of human beings.
@@ -663,11 +663,11 @@ To acquire the Shofixti females, you will have to appease ZEX, or kill him.
 
 #(OK_BUY_EVENT_2)	melnorme-092.ogg
 The Ur-Quan are presently at war with a race called the Kohr-Ah.
-They are fighting within a large spherical region of space centered around the Crateris star group.
+They are fighting within a large spherical region of space centered around the <% comm.getConstellation("Crateris", "samatra") %> star group.
 Although it is probably too early to tell, it would appear that the Kohr-Ah are winning.
 
 #(OK_BUY_EVENT_3)	melnorme-093.ogg
-No doubt you are familiar with an alien race called the Umgah who live in the Orionis constellation.
+No doubt you are familiar with an alien race called the Umgah who live in the <% comm.getConstellation("Orionis", "talking pet") %> constellation.
 While they are renowned for their potent and often cruel sense of humor
 they have outdone themselves in recent years.
 Specifically, they have used an unusual HyperWave 'Caster
@@ -684,7 +684,7 @@ and the general feeling that the priests had made Dogar and Kazon's pronouncemen
 As you know, there are weaknesses in the division between dimensions.
 For example, your vessel uses such weaknesses to enter HyperSpace.
 However, there are other weak spots in the galaxy which lead to yet different dimensions.
-One such portal exists nearby, between the Chandrasekhar and Columbae constellations.
+One such portal exists nearby, <% comm.swapIfSeeded("between", "near") %> the <% comm.getConstellation("Chandrasekhar and Columbae", "arilou" %> <% comm.swapIfSeeded("constellations", "constellation") %>.
 The portal opens only a short time each month starting on the 17th.
 Since we have never entered the portal, we can give no more information on this subject.
 
@@ -693,7 +693,7 @@ As you are probably aware, Ur-Quan starships -- you call them `Dreadnoughts', I 
 possess effective self-annihilation circuits which prevent other races
 from reverse-engineering Ur-Quan technological secrets.
 However, we have become aware of a shipwrecked dreadnought which has remained largely intact.
-You will find the remains of the ship on the surface of a blue world orbiting Alpha Pavonis.
+You will find the remains of the ship on the surface of a blue world orbiting <% comm.getStarName("Alpha Pavonis", "urquan wreck") %>.
 We suspect you will find at least one item of interest there, possibly two.
 
 #(OK_BUY_EVENT_6)	melnorme-096.ogg
@@ -703,7 +703,7 @@ We are sorry to say that this is our catalog item 2418-B.
 Do not blame us! We are not responsible for this violent folly!
 The product is not being used in a correct manner.
 Should you wish to confront the actual wrong-doers
-we suggest you search the planets in Beta Corvi for the probes' owners.
+we suggest you search the planets in <% comm.getStarName("Beta Corvi", "slylandro") %> for the probes' owners.
 
 #(OK_BUY_EVENT_7)	melnorme-097.ogg
 Not more than fifty years ago
@@ -712,12 +712,12 @@ of a powerful alien nation called the Utwig.
 The Utwig, the Burvixese explained, were pleasant, sophisticated creatures
 but they were also terminally depressed and often spoke about ending their lives
 by activating a super-weapon, some kind of gigantic bomb
-which they had found on one of their worlds -- Zeta Hyades VI-B I think it was.
+which they had found on one of their worlds -- <% comm.getStarName("Zeta Hyades", "bomb") %> VI-B I think it was.
 The Druuge recognized the description of the bomb as a Precursor planeteering tool
 which indeed was an explosive device of unrivaled power, and they set out to make it their own.
 Though the revolting, criminal, insidious Druuge rarely leave their sphere of influence
-(it encompasses Algol, Almagest, and the Persei stars)
-they made a special trip on this occasion to the Aquarii constellation, where they made contact with the Utwig.
+(it encompasses <% comm.swapIfSeeded("Algol, Almagest, and the", "the") %> <% comm.getConstellation("Persei", "druuge" %> stars)
+they made a special trip on this occasion to the <% comm.getConstellation("Aquarii", "utwig") %> constellation, where they made contact with the Utwig.
 There is a device commonly known as the `Ultron'.
 Is it now in your possession? Ah... I see.
 The Druuge sold this device to the Utwig, explaining that it was a Precursor `Personal Magnifier'
@@ -728,7 +728,7 @@ and instead gave them a collection of `historical oddments and genuine artifacts
 which to this day, the Druuge are trying to unload on unwary buyers.
 
 #(OK_BUY_EVENT_8)	melnorme-098.ogg
-The Utwig, who live in the Aquarii constellation, have grown very depressed of late.
+The Utwig, who live in the <% comm.getConstellation("Aquarii", "utwig") %> constellation, have grown very depressed of late.
 They accidentally broke the supposed `Ultron' sold to them by the felonious Druuge.
 As a consequence, they are morose and melancholic
 and will probably be unwilling to help you fight the Ur-Quan.
@@ -750,10 +750,10 @@ this close proximity to the inter-Ur-Quan war will give them insights into the c
 which will be of great use to you.
 In addition, the Zoq-Fot-Pik met the Chenjesu early on in the war, and are eager to make allies
 who can protect them from their enemies. 
-In case you are interested, the Zoq-Fot-Pik homeworld is at coordinates 400.0:543.7, planet I.
+In case you are interested, the Zoq-Fot-Pik homeworld is at coordinates <% comm.getPoint("400.0:543.7", "zoqfot") %>, planet I.
 
 #(OK_BUY_ALIEN_RACE_2)	melnorme-100.ogg
-The Ilwrath are presently attacking the Pkunk in the Lacaille and Krueger constellations.
+The Ilwrath are presently attacking the Pkunk in the <% comm.getConstellation("Lacaille and Krueger", "pkunk") %> <% comm.swapIfSeeded("constellations", "constellation") %>.
 These beings have slavish devotion to their dark gods Dogar and Kazon
 which in the past few years has been used against them by the Umgah.
 If you need to manipulate the Ilwrath, we suggest you discover the Umgah's technique
@@ -761,7 +761,7 @@ and duplicate it.
 
 #(OK_BUY_ALIEN_RACE_3)	melnorme-101.ogg
 The Pkunk are a mystical off-shoot of the Yehat species
-who left their bird-brothers long ago to found a peaceful enclave in the Krueger and Giclas stars.
+who left their bird-brothers long ago to found a peaceful enclave in the <% comm.getConstellation("Krueger and Giclas", "pkunk") %> stars.
 At the present time, the Pkunk are defending themselves against the Ilwrath
 who have been commanded to attack the happy birds by Dogar and Kazon. 
 The Pkunk may be unwilling to make a formal alliance with you
@@ -787,11 +787,11 @@ Why are you looking at me like that, Captain? It is not appropriate.
 As I was saying, these wicked creatures will try to sell you commodities at unreasonably low prices.
 Hoy! -- they almost give away fuel! 
 Do not fall for their tricks! There are hidden costs -- secret tariffs!
-So that you may avoid them, I will tell you that their main trade world is Zeta Persei I.
+So that you may avoid them, I will tell you that their main trade world is <% comm.getStarName("Zeta Persei", "druuge") %> I.
 Why are you smiling, Captain?
 
 #(OK_BUY_ALIEN_RACE_6)	melnorme-104.ogg
-The Burvixese race evolved on the planet Arcturus I.
+The Burvixese race evolved on the planet <% comm.getStarName("Arcturus", "burvixese") %> I.
 They lived there in a relatively benevolent manner
 until the Kohr-Ah came and destroyed them during the course of 2 or 3 unfortunate days.
 The Druuge were largely responsible for the Kohr-Ah finding the Burvixese.
@@ -808,16 +808,16 @@ The Kohr-Ah changed course, attacked the poor Burvixese and sadly, destroyed the
 
 #(OK_BUY_ALIEN_RACE_7)	melnorme-105.ogg
 The Thraddash are an arrogant, stubborn, and thick-skinned species
-who reside in the Draconis and Apodis star systems.
+who reside in the <% comm.getConstellation("Draconis and Apodis", "thraddash") %> star systems.
 They have little or no respect for anything but force, which they admire greatly.
 To make the Thraddash your friends, you should consider killing most, but not all of them.
-In addition, they guard some kind of sacred relic at the star system Zeta Draconis
+In addition, they guard some kind of sacred relic at the star system <% comm.getStarName("Zeta Draconis", "aqua helix") %>
 though we do not know the true nature of this artifact.
-The Thraddash homeworld is at Delta Draconis.
+The Thraddash homeworld is at <% comm.getStarName("Delta Draconis", "thraddash") %>.
 
 #(OK_BUY_ALIEN_RACE_8)	melnorme-106.ogg
 After the war, the Chenjesu and the Mmrnmhrm chose to be slave-shielded
-on the Chenjesu's homeworld at Procyon.
+on the Chenjesu's homeworld at <% comm.getStarName("Procyon", "chmmr") %>.
 We suspect that they are melding their two species to form some kind of new, hybrid race
 a race which may well be powerful enough to destroy the Ur-Quan single-handedly.
 However, by our calculations, this process will take many decades, if not centuries.
@@ -846,7 +846,7 @@ Actually, we don't know what the Orz did to the Androsynth -- they're just all g
 The Arilou Lalee'lay are a mysterious race of IDF beings
 IDF meaning, Inter-Dimensional Fatigue.
 They do not reside in this galaxy, or in fact, anywhere in this universe.
-While it is true that the Arilou are rarely seen far from the Columbae star group
+While it is true that the Arilou are rarely seen far from the <% comm.getConstellation("Columbae", "arilou") %> star group
 they do make regular, secret visits to your world, and have done so for centuries.
 Ever since Earth was slave-shielded, they have focused their attention
 on the humans aboard the starbase, many of whom are now members of your crew.
@@ -861,11 +861,11 @@ The resulting storm of solar flares cooked the life off the Shofixti homeworld
 and incinerated over a hundred Ur-Quan Dreadnoughts
 which had just entered the system to conquer the Shofixti.
 In actuality, there are still at least a dozen Shofixti left alive in the galaxy.
-One or two are at Delta Gorno, guarding the dead hulk of their once beautiful world.
+One or two are at <% comm.getStarName("Delta Gorno", "shofixti") %>, guarding the dead hulk of their once beautiful world.
 Others can be found in VUX space.
 
 #(OK_BUY_ALIEN_RACE_13)	melnorme-111.ogg
-The Slylandro are a mostly non-solid, sentient race who live in a gas giant at Beta Corvi.
+The Slylandro are a mostly non-solid, sentient race who live in a gas giant at <% comm.getStarName("Beta Corvi", "slylandro") %>.
 We recently sold them a self-replicating exploration probe
 which has somehow turned hostile and attacks everything it detects.
 If such encounters have angered you, Captain, please do NOT address your concerns to us.
@@ -873,7 +873,7 @@ We possess a formal Waiver of Damages, authorized by a Slylandro Speaker
 and are in no way responsible for the situation.
 
 #(OK_BUY_ALIEN_RACE_14)	melnorme-112.ogg
-The cowardly Spathi live at the single planet orbiting Epsilon Gruis.
+The cowardly Spathi live at the single planet orbiting <% comm.getStarName("Epsilon Gruis", "spathi") %>.
 They do not actually live on their world, rather they reside on its airless moon.
 The reason? A xenomorphic species, which craves the sweet-flavored flesh of the Spathi
 has been transported to the surface of their planet
@@ -888,7 +888,7 @@ you will need to know the Secret Spathi Cypher -- a password, which is
 
 #(OK_BUY_ALIEN_RACE_15)	melnorme-113.ogg
 Like you Earthlings, when the war with the Ur-Quan was lost
-the Syreen chose to be slave-shielded. Their new world is at Betelgeuse.
+the Syreen chose to be slave-shielded. Their new world is at <% comm.getStarName("Betelgeuse", "syreen") %>.
 The Syreen's starbase is crewed by the starship commanders and crew
 who were decommissioned at the end of the war.
 Though the Syreen hate the Ur-Quan with a vengeance, they are unlikely to offer you assistance
@@ -956,7 +956,7 @@ The Taalo were natural immunes to the Dnyarri psychic compulsion; they were unaf
 and the Dnyarri would not permit anyone to exist outside their control
 so they ordered the remaining races of the Milieu to attack and destroy the Taalo home planet.
 This planet was one of the few Milieu worlds located in this region of space.
-I believe you call their star Delta Vulpeculae. Their home was a moon revolving about the second planet.
+I believe you call their star <% comm.getStarName("Delta Vulpeculae", "taalo protector") %>. Their home was a moon revolving about the second planet.
 I am sad to say that the Taalo were, indeed, eliminated.
 However, at the time of their devastation they had completed a device
 which they thought would give other races psychic immunity like their own.
@@ -1056,7 +1056,7 @@ and when the two Ur-Quan forces met, they would fight again in ritual combat
 with the Precursor Battleship given to the winner.
 Captain, this is happening here and now.
 The Kzer-Za, the Ur-Quan who enslaved Earth, are fighting their ritual battle against the Kohr-Ah
-in a large area centered near the Crateris constellation.
+in a large area centered near the <% comm.getConstellation("Crateris", "samatra") %> constellation.
 If the Kohr-Ah win this battle, Captain, the Kzer-Za will stand aside and let them kill us all.
 We believe it is your destiny to prevent this from happening.
 

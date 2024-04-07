@@ -341,8 +341,8 @@ Which species?
 #(ABOUT_OTHER) starbase-075.ogg
 None that we had made formal contact with.
 The Chenjesu implied that they had met 2 other starfaring species
-one near the Giclas constellation, and the other directly coreward from Procyon.
-The Ariloulaleelay once mentioned having `some fun' with an alien race in Draconis
+one near the <% comm.getConstellation("Giclas", "pkunk") %> constellation, and the other <% comm.swapIfSeeded("directly coreward from Procyon", "near the <% comm.getConstellation("Zoqfot", "zoqfot") %> constellation") %>.
+The Ariloulaleelay once mentioned having `some fun' with an alien race in <% comm.getConstellation("Draconis", "thraddash") %>
 but like so much else with the Arilou, they never revealed the whole story.
 I am sure there are hundreds more alien races in our galaxy,
 but beyond what I've told you, your guess is as good as mine.
@@ -352,7 +352,7 @@ Would you like information on any other aspect of history?
 
 #(ABOUT_SHOFIXTI) starbase-077.ogg
 The Shofixti are a race of intelligent marsupials who had been `civilized' for only a few decades when the War began.
-They were discovered in the Delta Gorno star system by the Yehat
+They were discovered in the <% comm.getStarName("Delta Gorno", "shofixti") %> star system by the Yehat
 who adopted and then `uplifted' the Shofixti, giving them advanced technology and cultural definition.
 Shofixti are noble and fearless Warriors, Captain. In addition, their incredible fecundity and rapid maturation rate
 kept Alliance ranks solid even at the worst part of the War.
@@ -451,7 +451,7 @@ but I don't know any details.
 When I was flying combat missions along the Coreward Front
 there was nothing we feared more than the Androsynth Hit-And-Run Squadron.
 Their Blazer ships were more than a match for our Cruisers
-so we stayed clear of Eta Vulpeculae, their home star.
+so we stayed clear of <% comm.getStarName("Eta Vulpeculae", "androsynth") %>, their home star.
 In addition, I think each of us aboard the ship knew deep down in our hearts
 that the Androsynth had a damn good reason for hating us.
 Our grandparents had kept them as slaves for nearly 50 years.
@@ -477,7 +477,7 @@ Hell, you probably know more about them than I do, but here goes... about 200,00
 when our great-to-the-nth-grandparents were just starting to play with stone knives and bearskins
 a starfaring species suddenly appeared on the galactic scene and spread like wildfire.
 We've found evidence of their presence just about everywhere
-from an orbital platform in Alpha Centauri, to a stack of DataPlates in a cave on Pluto
+from an orbital platform in <% comm.getStarName("Alpha Centauri", "melnorme 1") %>, to a stack of DataPlates in a cave on Pluto
 to some nameless widget found in a voodoo shop in New Orleans.
 Though we've never found a Precursor body, or even a picture of one
 we can conjecture what they looked like by examining the scale and layout of their equipment.
@@ -492,7 +492,7 @@ based on some research by a Chenjesu historian that I read at the Academy.
 Tzzz-Tzer-Tzak, the historian, found some evidence that there was a group of alien races
 who formed an interstellar empire not too far from here about 22,000 years ago.
 The only species in this empire actually lived in our region of space
-was a race of rocklike creatures who lived in the Vulpeculae constellation.
+was a race of rocklike creatures who lived in the <% comm.getConstellation("Vulpeculae", "taalo protector") %> constellation.
 The presence of the hostile Androsynth in that part of space
 severely limited Tzzz-Tzer-Tzak's research.
 He never even found out the race's name.
@@ -527,7 +527,7 @@ when the Chenjesu's super-sensitive receivers detected a strange signal from the
 Though even the Chenjesu didn't know it, it was the first sign of the Ur-Quan's arrival.
 The Ur-Quan, having detected the presence of many sentient species, were beaming out an exulting hunting cry.
 The first direct evidence of the Ur-Quan's intent
-was the sudden conquest of the Umgah, a solitary, though not unfriendly, species in the Orionis constellation.
+was the sudden conquest of the Umgah, a solitary, though not unfriendly, species in the <% comm.getConstellation("Orionis", "talking pet" %> constellation.
 The Chenjesu, distraught by the invasion, were further angered when the Ur-Quan
 turned their fleets on the hostile but weak Ilwrath race.
 A hastily assembled defense force of Mmrnmhrm and Chenjesu vessels turned the Ur-Quan fleet aside
@@ -545,13 +545,13 @@ that we didn't really pay it much attention at the time.
 #(WAR_WAS_LIKE_SO) starbase-097.ogg
 At the start of the war, here on Earth we were working like crazy
 churning out hundreds of heavy Cruisers and smaller support vehicles.
-The Ur-Quan were busy too.  Unbeknownst to us, they had moved down toward the Luyten star group
+The Ur-Quan were busy too.  Unbeknownst to us, they had moved down toward the <% comm.getConstellation("Luyten", "vux") %> star group
 and were attacking the VUX, who only the Yehat knew existed.
 Our botched first contact with the VUX took place in 2119, and it was the biggest single mistake we made during the War.
 After defeating the VUX, the Ur-Quan fleets ran smack into the combined might of the Yehat and Shofixti
 supported by the first wave of our cruisers.
 Again the Ur-Quan turned away from the hard spot to attack the weak, though we just thought they were running away.
-In fact, the Ur-Quan had found another independent alien race, the Mycon, in the Brahe constellation.
+In fact, the Ur-Quan had found another independent alien race, the Mycon, in the <% comm.getConstellation("Brahe", "mycon" %> constellation.
 The Mycon's voluntary submission to the Ur-Quan
 brought the return of the Ur-Quan fleets, now swollen with a hundred devastating Mycon Podships.
 The last entrants to the conflict were the Syreen, a race of space gypsies
@@ -565,10 +565,10 @@ but we held the line -- The Coreward front remained intact.
 Over the following ten years, there were many great battles between the combined Alliance starfleet
 and the Ur-Quan and their Hierarchy of Battle Thralls.
 Then, in 2134, a dramatic shift in the balance of power took place --
--- this must have been about the time the science research mission was sent to the planet at Vela --
+-- this must have been about the time the science research mission was sent to the planet at <% comm.getStarName("Vela", "start colony") %> --
 -- our fleets were pushed back from the Indi-Mira line to beyond Raynet.
 Holding Rigel cost grievously in Chenjesu forces and the Ur-Quan, recognizing this weakness
-shifted to focus the brunt of their forces on Procyon.
+shifted to focus the brunt of their forces on <% comm.getStarName("Procyon", "chmmr") %>.
 That was the last we heard from the Chenjesu and the Mmrnmhrm.
 A few weeks later, waves of ships hit us from all directions.
 When Ceres Station, our outpost in the Asteroid belt, fell to the Hierarchy, we knew we were beaten
@@ -664,7 +664,7 @@ but right now I could kiss every one of those pale little weirdoes
 because they gave us three Skiff vessels!
 
 #(STARBASE_BULLETIN_7) starbase-109.ogg
-We are receiving a priority distress call from the Zoq-Fot Homeworld at Alpha Tucanae.
+We are receiving a priority distress call from the Zoq-Fot Homeworld at <% comm.getStarName("Alpha Tucanae", "zoqfot") %>.
 The signal was urgent but extremely weak. The only portions of the transmission that we can be sure of are:
 `HELP!'
 `BLACK DESTROYER!'
@@ -677,7 +677,7 @@ and finally
 #(STARBASE_BULLETIN_8) starbase-110.ogg
 A previously unknown alien race has recently made contact with our base.
 They call themselves the Melnorme, and they are anxious to initiate trading relations with us.
-If we are interested, they suggest making a rendezvous at Alpha Centauri.
+If we are interested, they suggest making a rendezvous at <% comm.getStarName("Alpha Centauri", "melnorme 1") %>.
 
 #(STARBASE_BULLETIN_9) starbase-111.ogg
 The Melnorme have returned, wondering when you want to meet them.
@@ -699,7 +699,7 @@ We don't know how or why, but until we receive replacements from Spathiwa
 you will be unable to commission any additional Spathi Eluder vessels for your fleet.
 
 #(STARBASE_BULLETIN_12) starbase-114.ogg
-We are being bathed in broad-beam HyperWave transmission from the direction of the Rigel star system.
+We are being bathed in broad-beam HyperWave transmission from the direction of the <% comm.getStarName("Rigel", "zoq scout") %> star system.
 Due to the broadcast's wide dispersion, we cannot discern its content.
 
 #(STARBASE_BULLETIN_13) starbase-115.ogg
@@ -715,7 +715,7 @@ and I'm sure their volunteers will reduce the cost for new crew.
 
 #(STARBASE_BULLETIN_15) starbase-117.ogg
 We have detected a minute but measurable disturbance in the InterSpace fabric
-at approximate TrueSpace coordinate 100:50.
+at approximate TrueSpace coordinate <% comm.getPoint("100:50", "pkunk") %>.
 Our scientists speculate that this disturbance may be caused by many thousands of HyperWarp penetrations
 all in phase -- as though a huge fleet of ships were on the move.
 
@@ -754,7 +754,7 @@ We no longer have limits on what we can build for your flagship, or your fleet.
 
 #(STARBASE_BULLETIN_22) starbase-121.ogg
 I have some somber news.
-For weeks now we have been scanning space in the direction of the Tucanae stars
+For weeks now we have been scanning space in the direction of the <% comm.getConstellation("Tucanae", "zoqfot") %> stars
 hoping to hear some word from our Zoq-Fot-Pik allies,
 with no success. We must assume that something grave has happened to them.
 We did receive an alien broadcast however -- it rang through space like an electronic howl.
@@ -900,7 +900,7 @@ DATA: At first we thought this was a piece of junk -- in fact it may still be ju
 but when you submitted it to us, we infused it with gamma radiation
 and found that the scatter signature was identical to the patterns
 recorded from the `Empties', the `Singing Hoops', and `the Big Dud'
-which were all found in Precursor burrows on Procyon.
+which were all found in Precursor burrows on <% comm.comm.getStarName("Procyon", "chmmr") %>.
 SUMMARY: We are now convinced that this is a Precursor tool, but it remains dysfunctional.
 
 #(ABOUT_ULTRON_2) starbase-139.ogg
