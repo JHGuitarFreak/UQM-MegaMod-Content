@@ -123,8 +123,8 @@ Never! Never in the two-thousand years of the Veep-Neep Queens
 have the Yehat ever, EVER suffered a defeat!
 It is this fact ALONE that is making our loyalty to the Queen so strong!
 This is the unbreakable bond that keeps the Clans together!
-When the Ur-Quan were entering our home star system at <% comm.getStarName("Gamma Serpentis", "yehat") %>
-we had a thousand starships prepared to defend our home
+When the Ur-Quan were entering our home star system at <% comm.getStarName("Gamma Serpentis", "yehat") %>...
+...we had a thousand starships prepared to defend our home
 and then... the Queen... She... she
 allied with the Ur-Quan
 and the fight is over before it is even begun. AWK!

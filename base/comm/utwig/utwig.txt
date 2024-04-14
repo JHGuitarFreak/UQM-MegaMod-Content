@@ -304,8 +304,8 @@ but every once in a while I still see such a repository... always empty.
 In despair, we gave the broken device to our allies, the Supox, who live at <% comm.getStarName("Beta Librae", "supox") %>.
 We just couldn't stand to look at it any longer.
 At that time, many suggested that we use the Precursor relic as a form of self punishment.
-The proposal was that we collectively go to the second moon of the sixth planet of <% comm.getStarName("Zeta Hyades", "bomb") %>
-and use the ancient planeteering device to end our existence.
+The proposal was that we collectively go to the second moon of the sixth planet of <% comm.getStarName("Zeta Hyades", "bomb") %>...
+...and use the ancient planeteering device to end our existence.
 After much discussion, we decided that we deserved to suffer.
 We can use the Bomb if we ever decide the time is right
 in the meantime, we atone for our grievous mistake with our collective misery.
@@ -417,8 +417,8 @@ You will be immortalized as the blessed figure that delivered unto us our future
 We will revere your very likeness!
 Let me take the Ultron...yes, I feel the link...the knowledge, and... the Power.
 Hmm, it seems that there is much to do.
-Indeed, it seems that you should proceed to the second moon of the sixth planet of <% comm.getStarName("Zeta Hyades", "bomb") %>
-and take what you find there; we no longer have need for it
+Indeed, it seems that you should proceed to the second moon of the sixth planet of <% comm.getStarName("Zeta Hyades", "bomb") %>...
+...and take what you find there; we no longer have need for it
 but the Ultron reveals that YOU will!
 I thank you for your part in the grand scheme. We now recover that which is ours via destiny
 and proceed to perform our essential service for the universe.

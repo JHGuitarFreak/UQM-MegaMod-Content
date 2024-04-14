@@ -255,8 +255,8 @@ Where can I find the super-weapon you described?
 
 #(PRECURSOR_WEAPON)	chmmr-030.ogg
 THERE ARE RUMORS OF SUCH A DEVICE, A PRECURSOR PLANETEERING TOOL
-TO BE FOUND SOMEWHERE <% comm.swapIfSeeded("FAR TOWARDS", "NEAR") %> <% comm.getConstellation("THE CORE", "bomb") %>
-IN THE POSSESSION OF A NON-HOSTILE ALIEN RACE.
+TO BE FOUND SOMEWHERE <% comm.swapIfSeeded("FAR TOWARDS ", "NEAR ") %><% comm.getConstellation("THE CORE", "bomb") %>...
+...IN THE POSSESSION OF A NON-HOSTILE ALIEN RACE.
 WE CANNOT PROVIDE ANY MORE INFORMATION AT THIS TIME.
 
 #(where_distraction)

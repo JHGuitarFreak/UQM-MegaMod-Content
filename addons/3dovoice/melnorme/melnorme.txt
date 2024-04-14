@@ -684,7 +684,7 @@ and the general feeling that the priests had made Dogar and Kazon's pronouncemen
 As you know, there are weaknesses in the division between dimensions.
 For example, your vessel uses such weaknesses to enter HyperSpace.
 However, there are other weak spots in the galaxy which lead to yet different dimensions.
-One such portal exists nearby, <% comm.swapIfSeeded("between", "near") %> the <% comm.getConstellation("Chandrasekhar and Columbae", "arilou" %> <% comm.swapIfSeeded("constellations", "constellation") %>.
+One such portal exists nearby, <% comm.swapIfSeeded("between the ", "near the ") %><% comm.getConstellation("Chandrasekhar and Columbae", "arilou") %><% comm.swapIfSeeded(" constellations", " constellation") %>.
 The portal opens only a short time each month starting on the 17th.
 Since we have never entered the portal, we can give no more information on this subject.
 
@@ -716,7 +716,7 @@ which they had found on one of their worlds -- <% comm.getStarName("Zeta Hyades"
 The Druuge recognized the description of the bomb as a Precursor planeteering tool
 which indeed was an explosive device of unrivaled power, and they set out to make it their own.
 Though the revolting, criminal, insidious Druuge rarely leave their sphere of influence
-(it encompasses <% comm.swapIfSeeded("Algol, Almagest, and the", "the") %> <% comm.getConstellation("Persei", "druuge" %> stars)
+(it encompasses <% comm.swapIfSeeded("Algol, Almagest, and the ", "the ") %><% comm.getConstellation("Persei", "druuge") %> stars)
 they made a special trip on this occasion to the <% comm.getConstellation("Aquarii", "utwig") %> constellation, where they made contact with the Utwig.
 There is a device commonly known as the `Ultron'.
 Is it now in your possession? Ah... I see.
@@ -753,7 +753,7 @@ who can protect them from their enemies.
 In case you are interested, the Zoq-Fot-Pik homeworld is at coordinates <% comm.getPoint("400.0:543.7", "zoqfot") %>, planet I.
 
 #(OK_BUY_ALIEN_RACE_2)	melnorme-100.ogg
-The Ilwrath are presently attacking the Pkunk in the <% comm.getConstellation("Lacaille and Krueger", "pkunk") %> <% comm.swapIfSeeded("constellations", "constellation") %>.
+The Ilwrath are presently attacking the Pkunk in the <% comm.getConstellation("Lacaille and Krueger", "pkunk") %><% comm.swapIfSeeded(" constellations", " constellation") %>.
 These beings have slavish devotion to their dark gods Dogar and Kazon
 which in the past few years has been used against them by the Umgah.
 If you need to manipulate the Ilwrath, we suggest you discover the Umgah's technique
@@ -811,8 +811,8 @@ The Thraddash are an arrogant, stubborn, and thick-skinned species
 who reside in the <% comm.getConstellation("Draconis and Apodis", "thraddash") %> star systems.
 They have little or no respect for anything but force, which they admire greatly.
 To make the Thraddash your friends, you should consider killing most, but not all of them.
-In addition, they guard some kind of sacred relic at the star system <% comm.getStarName("Zeta Draconis", "aqua helix") %>
-though we do not know the true nature of this artifact.
+In addition, they guard some kind of sacred relic at the star system <% comm.getStarName("Zeta Draconis", "aqua helix") %>...
+...though we do not know the true nature of this artifact.
 The Thraddash homeworld is at <% comm.getStarName("Delta Draconis", "thraddash") %>.
 
 #(OK_BUY_ALIEN_RACE_8)	melnorme-106.ogg
@@ -896,7 +896,7 @@ unless you reveal to them the truth behind the tragedy of their original homewor
 which was destroyed by the birth of a Mycon `Deep Child' a century ago.
 
 #(OK_BUY_ALIEN_RACE_16)	melnorme-114.ogg
-When the Ur-Quan entered Gamma Serpentis -- the home star of the Yehat
+When the Ur-Quan entered <% comm.getStarName("Gamma Serpentis", "yehat") %> -- the home star of the Yehat
 their Queen made a sudden change of allegiance and allied with the Ur-Quan Hierarchy.
 They became Ur-Quan combat thralls.
 This act was viewed by most Yehat starship officers as ultimately dishonorable

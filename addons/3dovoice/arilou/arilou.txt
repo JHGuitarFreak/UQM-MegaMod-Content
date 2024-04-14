@@ -275,8 +275,8 @@ From our perspective, this sequence of events ends here.
 Well what about the Ur-Quan? What are they up to?
 
 #(ABOUT_URQUAN)	arilou-034.ogg
-Soon after the Ur-Quan defeated the Yehat and imprisoned the Syreen in <% comm.getStarName("Betelgeuse", "syreen") %>
-their siblings arrived to initiate the Doctrinal Conflict.
+Soon after the Ur-Quan defeated the Yehat and imprisoned the Syreen in <% comm.getStarName("Betelgeuse", "syreen") %>...
+...their siblings arrived to initiate the Doctrinal Conflict.
 This battle continues as we speak.
 
 #(best_if_i_killed_you)
@@ -493,8 +493,8 @@ Aughhh! I am sorry! WHAT WAS I THINKING?!!
 #(APOLOGIZE_AT_HOMEWORLD)	arilou-058.ogg
 If you wish to make atonement... seek a strangely shaped rock or plant.
 However, should you wish to change the nature of our relationship
-seek the Arilou in QuasiSpace. You can make the transit at <% comm.getPoint("43.8 : 637.2", "arilou") %>
-but only when the door is open.
+seek the Arilou in QuasiSpace. You can make the transit at <% comm.getPoint("43.8 : 637.2", "arilou") %>...
+...but only when the door is open.
 
 #(bye_angry_space)
 G'bye.

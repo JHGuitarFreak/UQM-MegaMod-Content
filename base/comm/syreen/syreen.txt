@@ -384,8 +384,8 @@ When the Ur-Quan were analyzing their mass of planetary data to find a new home 
 one of the close candidates, ranked just below Gaia, was a blue world orbiting close to the star, <% comm.getStarName("Organon", "mycon trap") %>.
 Captain, we need your services again. Here is what you must do.
 You must go to the Mycon and tell them of this world.
-They will find that the world is suitable, and when they go to <% comm.getStarName("Organon", "mycon trap") %>
-we shall be there... waiting for them.
+They will find that the world is suitable, and when they go to <% comm.getStarName("Organon", "mycon trap") %>...
+...we shall be there... waiting for them.
 Then we shall destroy them!
 
 #(what_now)

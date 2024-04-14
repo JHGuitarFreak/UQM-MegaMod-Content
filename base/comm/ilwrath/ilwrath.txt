@@ -296,8 +296,8 @@ You Have Earned The Right To Hold Your Head High!
 #(GENERAL_INFO_SPACE_3) ilwrath-043.ogg
 Incorrectness! We Come From The Eye Of Dogar.
 Such A Quasar Exists Nowhere Near This Location!
-Look In The Heavens At Location <% comm.getPoint("022.9, 366.6", "ilwrath") %>
-And Gaze Into The Depths Of Its All-Seeing Eye If You Dare!
+Look In The Heavens At Location <% comm.getPoint("022.9, 366.6", "ilwrath") %>...
+...And Gaze Into The Depths Of Its All-Seeing Eye If You Dare!
 Only By The Sparing Caress Of Kazon's Anointed Cilia Will You Survive Such An Act.
 Else, You Will Bless The Altar Of Consumption With Your Ceremonial Blood!
 

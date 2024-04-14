@@ -341,9 +341,9 @@ Which species?
 #(ABOUT_OTHER) starbase-075.ogg
 None that we had made formal contact with.
 The Chenjesu implied that they had met 2 other starfaring species
-one near the <% comm.getConstellation("Giclas", "pkunk") %> constellation, and the other <% comm.swapIfSeeded("directly coreward from Procyon", "near the <% comm.getConstellation("Zoqfot", "zoqfot") %> constellation") %>.
-The Ariloulaleelay once mentioned having `some fun' with an alien race in <% comm.getConstellation("Draconis", "thraddash") %>
-but like so much else with the Arilou, they never revealed the whole story.
+one near the <% comm.getConstellation("Giclas", "pkunk") %> constellation, and the other <% comm.swapIfSeeded("directly coreward ", "near the ") %><% comm.getConstellation("from", "zoqfot") %><% comm.swapIfSeeded(" Procyon", " constellation") %>.
+The Ariloulaleelay once mentioned having `some fun' with an alien race in <% comm.getConstellation("Draconis", "thraddash") %>...
+...but like so much else with the Arilou, they never revealed the whole story.
 I am sure there are hundreds more alien races in our galaxy,
 but beyond what I've told you, your guess is as good as mine.
 
@@ -527,7 +527,7 @@ when the Chenjesu's super-sensitive receivers detected a strange signal from the
 Though even the Chenjesu didn't know it, it was the first sign of the Ur-Quan's arrival.
 The Ur-Quan, having detected the presence of many sentient species, were beaming out an exulting hunting cry.
 The first direct evidence of the Ur-Quan's intent
-was the sudden conquest of the Umgah, a solitary, though not unfriendly, species in the <% comm.getConstellation("Orionis", "talking pet" %> constellation.
+was the sudden conquest of the Umgah, a solitary, though not unfriendly, species in the <% comm.getConstellation("Orionis", "talking pet") %> constellation.
 The Chenjesu, distraught by the invasion, were further angered when the Ur-Quan
 turned their fleets on the hostile but weak Ilwrath race.
 A hastily assembled defense force of Mmrnmhrm and Chenjesu vessels turned the Ur-Quan fleet aside
@@ -551,7 +551,7 @@ Our botched first contact with the VUX took place in 2119, and it was the bigges
 After defeating the VUX, the Ur-Quan fleets ran smack into the combined might of the Yehat and Shofixti
 supported by the first wave of our cruisers.
 Again the Ur-Quan turned away from the hard spot to attack the weak, though we just thought they were running away.
-In fact, the Ur-Quan had found another independent alien race, the Mycon, in the <% comm.getConstellation("Brahe", "mycon" %> constellation.
+In fact, the Ur-Quan had found another independent alien race, the Mycon, in the <% comm.getConstellation("Brahe", "mycon") %> constellation.
 The Mycon's voluntary submission to the Ur-Quan
 brought the return of the Ur-Quan fleets, now swollen with a hundred devastating Mycon Podships.
 The last entrants to the conflict were the Syreen, a race of space gypsies

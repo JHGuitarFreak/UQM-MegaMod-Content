@@ -69,7 +69,7 @@ I will even provide you with a clue to finding the creature's native planet!
 My source for this information is an ancient wildlife handbook
 written millennia ago by some unknown alien author. The pertinent passage goes as follows
 `... demise, It(!) basks in <% comm.getColor("yellow", "vux beast") %> light within the constellation Linch-Nas-Ploh.'
-We have translated `Linch-Nas-Ploh' to <% comm.swapIfSeeded("mean approximately", "mean") %>
+We have translated `Linch-Nas-Ploh' <% comm.swapIfSeeded("to mean approximately", "to mean") %>
 `<% comm.getConstellation("the long, thin creature who has swallowed the huge beast", "vux beast") %>.'
 I am afraid this is all that I know.
 I hope it is sufficient.
@@ -82,7 +82,7 @@ Certainly, my smooth-skinned friend!
 My source for this information is an ancient wildlife handbook
 written millennia ago by some unknown alien author. The pertinent passage goes as follows
 `... demise, It(!) basks in <% comm.getColor("yellow", "vux beast") %> light within the constellation Linch-Nas-Ploh.'
-We have translated `Linch-Nas-Ploh' to <% comm.swapIfSeeded("mean approximately", "mean") %>
+We have translated `Linch-Nas-Ploh' <% comm.swapIfSeeded("to mean approximately", "to mean") %>
 `<% comm.getConstellation("the long, thin creature who has swallowed the huge beast", "vux beast") %>.'
 I am afraid this is all that I know.
 I hope it is sufficient.

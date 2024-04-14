@@ -225,8 +225,8 @@ Mostly with the Chenjesu, who stopped off here occasionally
 when they were on their way to explore the galactic core.
 Actually, their last visit was interesting. They were returning from the <% comm.getConstellation("Tucanae", "zoqfot") %> Star systems
 Where they said they had found a new alien race called the Fop-Dope-Bic...or something like that.
-The only other race we ever dealt with was the Mmrnmhrm who once tried to colonize <% comm.getStarName("Beta Herculis", "spathi monument") %>
-which we considered within our sphere of influence.
+The only other race we ever dealt with was the Mmrnmhrm who once tried to colonize <% comm.getStarName("Beta Herculis", "spathi monument") %>...
+...which we considered within our sphere of influence.
 When we explained this to the Mmrnmhrm, they politely withdrew from the contested star system
 and never bothered us again.
 

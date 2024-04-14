@@ -793,8 +793,8 @@ That means, next month there will be
 By back-tracing the probes' course paths
 we have been able to calculate
 that the source of the probes
-is somewhere <% comm.swapIfSeeded("on a direct line", "near") %>
-<% comm.getConstellation("that includes our star, and Epsilon Muscae", "slylandro") %>.
+is somewhere <% comm.swapIfSeeded("on a direct line", "in the") %>...
+...<% comm.getConstellation("that includes our star, and", "slylandro") %><%comm.swapIfSeeded(" Epsilon Muscae", " system") %>.
 #(ABOUT_OTHERS13)	zoqfotpik-262.ogg
 Go get 'em, Captain!
 

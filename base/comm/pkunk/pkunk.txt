@@ -52,8 +52,8 @@ Is that not what living is for?
 I sense that you are cautious.
 You feel that you are not yet ready to enter into the fullness of our compassion. 
 I say to you, Let go!!
-Travel to our planet of love at the star you call <% comm.getStarName("Gamma Krueger", "pkunk") %>
-and share the brightness of your soul with us.
+Travel to our planet of love at the star you call <% comm.getStarName("Gamma Krueger", "pkunk") %>...
+...and share the brightness of your soul with us.
 Unburden yourself of fears, become as a child once again
 release yourself to tears of joy!
 Go. Go now, young one. Go quickly!
@@ -244,9 +244,9 @@ In fact, I myself did not sleep well last night.
 Well, actually I slept okay in the first part of the night, and then had a little trouble a little later on
 maybe halfway through, until I got up and had something to eat.
 Anyway, the reason we're not sleeping is because of a dream. Yes, a dream.
-We have seen that in <% comm.swapIfSeeded("the center of this region of space, near stars that form the shape of a cup", "this region of space") %>
-<% comm.swapIfSeeded("and are in a constellation that", "near the") %> <% comm.getConstellation("begins with the letter C and ends with", "samatra") %> <% comm.swapIfSeeded("the letter S", "Constellation") %>
-<% comm.swapIfSeeded("and whose letters rearranged spell `Asteric', two", "two") %> great armadas fight.
+We have seen that in <% comm.swapIfSeeded("the center of this region of space, near stars that form the shape of a cup", "this region of space") %>...
+...<% comm.swapIfSeeded("and are in a constellation that ", "by the ") %><% comm.getConstellation("begins with the letter C and ends with", "samatra") %><% comm.swapIfSeeded(" the letter S", " constellation") %>...
+...<% comm.swapIfSeeded("and whose letters rearranged spell `Asteric', two", "two") %> great armadas fight.
 One of black ships, the other of green.
 Our dream tells us that if the black ships should win this fight, they will destroy all life in this region.
 Captain, they are winning now. If there is anything you can do to stop them you must do it... please!

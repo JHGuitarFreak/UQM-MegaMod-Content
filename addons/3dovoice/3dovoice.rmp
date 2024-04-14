@@ -9,6 +9,7 @@ comm.mycon.dialogue = CONVERSATION:addons/3dovoice/mycon/mycon.txt:addons/3dovoi
 comm.orz.dialogue = CONVERSATION:base/comm/orz/orz.txt:addons/3dovoice/orz/:addons/3dovoice/orz/orz.ts
 comm.pkunk.dialogue = CONVERSATION:base/comm/pkunk/pkunk.txt:addons/3dovoice/pkunk/:addons/3dovoice/pkunk/pkunk.ts
 comm.probe.dialogue = CONVERSATION:base/comm/probe/probe.txt:addons/3dovoice/probe/:addons/3dovoice/probe/probe.ts
+comm.robot.dialogue = CONVERSATION:base/comm/robot/robot.txt:addons/3dovoice/robot/:addons/3dovoice/robot/robot.ts
 comm.safeones.dialogue = CONVERSATION:base/comm/safeones/safeones.txt:addons/3dovoice/safeones/:addons/3dovoice/safeones/safeones.ts
 comm.shofixti.dialogue = CONVERSATION:base/comm/shofixti/shofixti.txt:addons/3dovoice/shofixti/:addons/3dovoice/shofixti/shofixti.ts
 comm.slylandro.dialogue = CONVERSATION:base/comm/slylandro/slylandro.txt:addons/3dovoice/slylandro/:addons/3dovoice/slylandro/slylandro.ts
