@@ -601,7 +601,7 @@ One was clearly a Dreadnought, the ship of our ex-masters, the Ur-Quan.
 The other ship was a dark and ominous ship equally as huge as the Dreadnought.
 The vessels were locked in mortal combat. They fought valiantly!
 Eventually, the Ur-Quan destroyed the black ship, but not before receiving mortal wounds itself.
-The last we saw of the ship, it was tumbling out of control towards <% comm.getStarName("Alpha Pavonis", "urquan wreck").
+The last we saw of the ship, it was tumbling out of control towards <% comm.getStarName("Alpha Pavonis", "urquan wreck") %>.
 We do not know its eventual fate.
 
 #(GENERAL_INFO_ALLY_3)	thraddash-071.ogg

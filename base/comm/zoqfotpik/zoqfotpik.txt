@@ -300,7 +300,7 @@ They are wiser... more powerful beings!
 #(EMMISSARIES5)	zoqfotpik-101.ogg
 They look just like us, though.
 #(EMMISSARIES6)	zoqfotpik-102.ogg
-Fly to the star called <% comm.getStarName("Alpha Tucanae") %>.
+Fly to the star called <% comm.getStarName("Alpha Tucanae", "zoqfot") %>.
 The planet closest to the sun is our home.
 #(EMMISSARIES7)	zoqfotpik-103.ogg
 And if possible, hurry.

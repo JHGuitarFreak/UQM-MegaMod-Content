@@ -551,7 +551,7 @@ Our botched first contact with the VUX took place in 2119, and it was the bigges
 After defeating the VUX, the Ur-Quan fleets ran smack into the combined might of the Yehat and Shofixti
 supported by the first wave of our cruisers.
 Again the Ur-Quan turned away from the hard spot to attack the weak, though we just thought they were running away.
-In fact, the Ur-Quan had found another independent alien race, the Mycon, in the <% comm.getConstellation("Brahe", "mycon") %> consntellation.
+In fact, the Ur-Quan had found another independent alien race, the Mycon, in the <% comm.getConstellation("Brahe", "mycon") %> constellation.
 The Mycon's voluntary submission to the Ur-Quan
 brought the return of the Ur-Quan fleets, now swollen with a hundred devastating Mycon Podships.
 The last entrants to the conflict were the Syreen, a race of space gypsies

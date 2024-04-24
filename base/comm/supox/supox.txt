@@ -350,7 +350,7 @@ In truth though, we have learned a fact or two unknown to others.
 We did not think anyone would care in the slightest, but since you ask, listen.
 We have not fared far from our region of space, but we have explored this region thoroughly.
 Of all the oddities we have found, from the firefalls of Nalnar to the servants of Mali
-the truest mystery was the nature of a world we found at the <% comm.getColor("orange", "rainbow 7") %> star, <% getStarName("Beta Leporis", "rainbow 7") %>.
+the truest mystery was the nature of a world we found at the <% comm.getColor("orange", "rainbow 7") %> star, <% comm.getStarName("Beta Leporis", "rainbow 7") %>.
 As a general rule, we prefer not to dwell in such <% comm.swapIfSeeded("long", "pale") %>-wavelength regions
 but we were on a mapping mission. That was when we found the planet.
 At first we thought our scanners had failed, for they showed us a world of chromatic aspect.
