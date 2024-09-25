@@ -983,7 +983,8 @@ Based upon Extended Mod made by 0xDEC0DE.
 
 #(CAT_55_OPTS)
 Disabled
-Enabled
+Easy
+Normal
 
 #(CAT_55_OPT_0_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
@@ -993,7 +994,12 @@ who want the most extreme of challenges.
 #(CAT_55_OPT_1_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
 A forced `No Starbase' mode for expert players 
-who want the most extreme of challenges.
+with a few conveniences to help out.
+
+#(CAT_55_OPT_2_DESC)
+&!FOR VETERANS ONLY! NOT FOR BEGINNERS!
+Basic and brutal `No Starbase' mode for expert players 
+with no extra conveniences to help out.
 
 #(CAT_56_OPTS)
 Disabled
