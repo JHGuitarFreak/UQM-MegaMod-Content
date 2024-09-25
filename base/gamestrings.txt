@@ -2229,6 +2229,18 @@ Empty Slot
 Saved Game
 
 
+#(Vanilla UQM Save)
+Vanilla UQM Save
+
+
+#(Legacy UQM Save)
+Legacy UQM Save
+
+
+#(UQM HD-Mod Save)
+UQM HD-Mod Save
+
+
 #(Sound) -- OPTION_STRING_BASE
 Sound
 
