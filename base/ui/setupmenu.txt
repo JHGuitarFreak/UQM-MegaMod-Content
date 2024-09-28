@@ -97,6 +97,7 @@ Super-Melee Ship Descriptions
 Music Resume
 Platform UI
 Seed Type
+Sphere Colors
 
 #(CAT_0_OPTS)
 Original
@@ -1375,6 +1376,16 @@ and the generation of planetary resources and solar systems
 Seed the locations of all plot events into the starmap (REQ. subtitles)
 including homeworlds, fleet locations, dialog, and artifacts
 as well as planetary resources and Quasispace
+
+#(CAT_83_OPTS)
+Default
+Custom
+
+#(CAT_83_OPT_0_DESC)
+Default colors for alien spheres of influence (Default)
+
+#(CAT_83_OPT_1_DESC)
+Custom unique colors for alien spheres of influence
 
 #(SLIDERS)
 Music Volume
