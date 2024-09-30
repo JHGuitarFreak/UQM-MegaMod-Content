@@ -271,7 +271,7 @@ We are the Mycon.
 We are part of Juffo-Wup.
 Juffo-Wup is the hot light in the darkness.
 All else is unfulfilled Void.
-The source of Juffo-Wup is at 629.1, 220.8.
+The source of Juffo-Wup is at <% comm.getPoint("629.1, 220.8", "mycon") %>.
 We are the Mycon.
 
 #(HELLO_SPACE_2)	mycon-044.ogg
@@ -338,7 +338,7 @@ These are the homes of the Deep Children.
 This is a special place
 filled with Juffo-Wup.
 But it is not the source.
-Juffo-Wup springs forth from 629.1, 220.8.
+Juffo-Wup springs forth from <% comm.getPoint("629.1, 220.8", "mycon") %>.
 We must not allow this place to be soiled by the Non.
 You must go. Now.
 
@@ -372,7 +372,7 @@ Let us demonstrate.
 Goodbye fungus-boys!
 
 #(i_have_a_cunning_plan)
-There is a world at the star Organon. I believe it is perfect for your Deep Children.
+There is a world at the star <% comm.getStarName("Organon", "mycon trap") %>. I believe it is perfect for your Deep Children.
 
 #(DIE_LIAR)	mycon-060.ogg
 You are an obstruction to Juffo-Wup.
@@ -382,7 +382,7 @@ You must be removed.
 Have you visited the planet I told you about?
 
 #(UNFORSEEN_DELAYS)	mycon-061.ogg
-We have experienced unforeseen delays implanting Deep Children beneath the crust of Organon 1.
+We have experienced unforeseen delays implanting Deep Children beneath the crust of <% comm.getStarName("Organon", "mycon trap") %> 1.
 However, Juffo-Wup is inevitable.  The Deep Children WILL be born.
 
 #(DIE_THIEF)	mycon-062.ogg

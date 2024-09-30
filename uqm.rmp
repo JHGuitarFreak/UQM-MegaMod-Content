@@ -72,6 +72,7 @@ comm.probe.font = FONTRES:base/fonts/probe.fon
 comm.probe.graphics = GFXRES:base/comm/probe/probe.ani
 comm.probe.music = MUSICRES:base/comm/probe/probe.mod
 comm.probe.script = SCRIPT:base/comm/probe/probe.lua
+comm.robot.script = CONVERSATION:base/comm/robot/robot.txt
 comm.safeones.colortable = BINTAB:base/comm/safeones/safeones.ct
 comm.safeones.dialogue = CONVERSATION:base/comm/safeones/safeones.txt
 comm.safeones.graphics = GFXRES:base/comm/safeones/safeones.ani

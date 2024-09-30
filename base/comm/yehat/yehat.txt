@@ -123,8 +123,8 @@ Never! Never in the two-thousand years of the Veep-Neep Queens
 have the Yehat ever, EVER suffered a defeat!
 It is this fact ALONE that is making our loyalty to the Queen so strong!
 This is the unbreakable bond that keeps the Clans together!
-When the Ur-Quan were entering our home star system at Gamma Serpentis
-we had a thousand starships prepared to defend our home
+When the Ur-Quan were entering our home star system at <% comm.getStarName("Gamma Serpentis", "yehat") %>...
+...we had a thousand starships prepared to defend our home
 and then... the Queen... She... she
 allied with the Ur-Quan
 and the fight is over before it is even begun. AWK!
@@ -182,7 +182,7 @@ But perhaps ye can make use of this information, Captain.
 When we were fighting the Great War against the Mycons
 we encountered a number of odd worlds which seemed to be having their crust shattered.
 Molten lava ran across the surface in huge rivers, and dense metallic elements were abundant.
-But the strangest world we found was the first planet at the star at coordinates 639.5 : 231.2.
+But the strangest world we found was the first planet at the star at coordinates <% comm.getPoint("639.5 : 231.2", "sun device") %>.
 The Mycons were guarding this planet with an almost limitless number of their Podships
 as though there were something of great value there.
 We could never break through their forces, though we destroyed scores of their ships.

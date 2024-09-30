@@ -198,7 +198,7 @@ over all sentient lifeforms in the galaxy.
 As far as we know, there are 6 other races active in the Hierarchy, including:
 the gelatinous Umgah pranksters,
 the multi-legged, super-violent Ilwrath who are fanatical in their worship of Dogar and Kazon,
-the Thraddash - a weak and obnoxious race from the Draconis group of stars,
+the Thraddash - a weak and obnoxious race from the <% comm.getConstellation("Draconis", "thraddash") %> group of stars,
 the humanoid clones you call Androsynth, though they have been strangely absent for some years,
 the vain VUX, commanded by the brilliant and eccentric general ZEX,
 and the mysterious Mycon, who ramble endlessly about people, places and events from long ago
@@ -223,10 +223,10 @@ You mean the one we helped demolish? That one?
 Well, we had some contact with Alliance members before the Ur-Quan showed up.
 Mostly with the Chenjesu, who stopped off here occasionally
 when they were on their way to explore the galactic core.
-Actually, their last visit was interesting. They were returning from the Tucanae Star systems
+Actually, their last visit was interesting. They were returning from the <% comm.getConstellation("Tucanae", "zoqfot") %> Star systems
 Where they said they had found a new alien race called the Fop-Dope-Bic...or something like that.
-The only other race we ever dealt with was the Mmrnmhrm who once tried to colonize Beta Herculis
-which we considered within our sphere of influence.
+The only other race we ever dealt with was the Mmrnmhrm who once tried to colonize <% comm.getStarName("Beta Herculis", "spathi monument") %>...
+...which we considered within our sphere of influence.
 When we explained this to the Mmrnmhrm, they politely withdrew from the contested star system
 and never bothered us again.
 
@@ -234,7 +234,7 @@ and never bothered us again.
 Since we tend to stay close to home -- preferably in the living room
 we know little about other races beyond our neighbors, such as the Umgah.
 Before being subjugated by the Ur-Quan, the Umgah were a contented and peaceable race
-who inhabited the region of stars which you call `Orionis'.
+who inhabited the region of stars which you call `<% comm.getConstellation("Orionis", "talking pet") %>'.
 They spent their time happily exploring and mining the nearby planetary systems
 and engaging in elaborate, and to our way of thinking, cruel practical jokes.
 One particularly nasty prank was the time they broadcast a trick message through space
