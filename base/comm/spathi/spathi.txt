@@ -2,8 +2,8 @@
 Attention big, mean, hostile alien vessel hovering overhead in an obvious attack posture:
 This is Spathi Captain Fwiffo.
 I know you are going to torture me, so let's just get this over with right now.
-The coordinates of my homeworld, Spathiwa, are 241.6, 368.7
-and the ultra-secret Spathi Cypher, which is known only by me and several billion other Spathi
+The coordinates of my homeworld, Spathiwa, are <% comm.getPoint("241.6, 368.7", "spathi") %>...
+...and the ultra-secret Spathi Cypher, which is known only by me and several billion other Spathi
 is `Huffi-Muffi-Guffi'.
 Sorry about that little mistake with your landing vehicle!
 I was so startled when it approached my vessel in a threatening manner that
@@ -105,7 +105,7 @@ is best suited to conducting planetary-scale genocide.
 We'd be delighted to accompany you to your homeworld. What are its HyperSpace coordinates?
 
 #(COORDINATES_ARE)	spathi-009.ogg
-My most wonderful planet Spathiwa circles a safe distance from the orange giant star Yuffo
+My most wonderful planet Spathiwa circles a safe distance from the <% comm.getColor("orange", "spathi") %> giant star Yuffo
 which is at HyperSpace coordinates
 hey -- wait a minute!
 Is this some kind of Homosap trick to get the location of my homeworld
@@ -117,7 +117,7 @@ Just tell me the coordinates, alien dog-slime!
 #(FAKE_COORDINATES)	spathi-010.ogg
 Hmmm... I see
 Very well then, your threats have convinced me to reveal this secret.
-Spathiwa is the 1st planet out from the star at HyperSpace (570.4, 979.5)
+Spathiwa is the 1st planet out from the star at HyperSpace <% comm.getPoint("(570.4, 979.5)", "vux beast") %>.
 
 #(TOO_SCARY)	spathi-011.ogg
 You've got so many ships in your fleet, that instead of joining you
@@ -173,7 +173,7 @@ Do you know anything about other alien races?
 #(ABOUT_OTHER_RACES)	spathi-016.ogg
 We know only bits and pieces of what happened to each race; for instance,
 when defeated, the Yehat joined the Hierarchy as combat thralls,
-while the Syreen chose to be slave shielded on a planet in the BugSquirt star system.
+while the Syreen chose to be slave shielded on a planet in the <% comm.getConstellation("BugSquirt", "syreen") %> star system.
 No, that's not right -- I forget its name, anyway where was I?
 Oh yes, the Shofixti! They were utterly wiped out in a gigantic `blaze of glory'.
 
@@ -629,7 +629,7 @@ Hi folks, what's new?
 #(GENERAL_INFO_SPACE_2)	spathi-066.ogg
 Very little, I'm afraid. We've just been watching the stars.
 You know, actually there was something that happened
-last month on the 17th; we saw a new star appear between the Circini and Chandrasekhar star clusters.
+last month on the 17th; we saw a new star appear <% comm.swapIfSeeded("between the ", "by the ") %><% comm.getConstellation("Circini and Chandrasekhar", "arilou") %><% comm.swapIfSeeded(" star clusters", " star system") %>.
 We watched it and watched it -- for three days, we just watched it
 Then it went away, vanished, just like that.
 I hope it comes back.
@@ -670,7 +670,7 @@ My ichors pulse through my body with unusual ferocity!
 Your arrogance has whipped me into a violent frenzy
 and I am compelled to engage you in a preemptive-defensive action.
 Now you shall never learn my important secrets
-such as the location of the Orange Giant star around which my home planet orbits
+such as the location of the <% comm.getColor("Orange", "spathi") %> Giant star around which my home planet orbits
 oops -- dang! -- you made me give that away!
 Captain, if you somehow survive my attack, I have one sincere hope
 that you may soon be devoured slowly by an ugly, flat-toothed herbivore!

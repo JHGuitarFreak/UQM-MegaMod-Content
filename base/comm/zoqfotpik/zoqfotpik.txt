@@ -23,13 +23,13 @@ dispatched from our homeworld.
 We have travelled far
 through hostile, uncharted space
 to find you.
-We hail from the green dwarf star at coordinates
+We hail from the <% comm.getColor("green", "zoqfot") %> dwarf star at coordinates
 ziggerfau-gerrrnuf, Ah-ah, Pahoy-hoy.
 #(SCOUT_HELLO2)	zoqfotpik-010.ogg
 No, you idiot, in their coordinate system!
 #(SCOUT_HELLO3)	zoqfotpik-011.ogg
 Oh! Er
-Coordinates 400.0 : 543.7.
+Coordinates <% comm.getPoint("400.0 : 543.7", "zoqfot") %>.
 
 #(INIT_HOME_HELLO0)	zoqfotpik-012.ogg
 You have arrived at our homeworld.
@@ -300,7 +300,7 @@ They are wiser... more powerful beings!
 #(EMMISSARIES5)	zoqfotpik-101.ogg
 They look just like us, though.
 #(EMMISSARIES6)	zoqfotpik-102.ogg
-Fly to the star called Alpha Tucanae.
+Fly to the star called <% comm.getStarName("Alpha Tucanae", "zoqfot") %>.
 The planet closest to the sun is our home.
 #(EMMISSARIES7)	zoqfotpik-103.ogg
 And if possible, hurry.
@@ -539,7 +539,7 @@ trying to open the door
 they failed utterly to so much as budge it.
 #(GENERAL_INFO_34)	zoqfotpik-178.ogg
 The reported location of this alien artifact
-is Epsilon Camelopardalis I-A.
+is <% comm.getStarName("Epsilon Camelopardalis", "ship vault") %> I-A.
 #(GENERAL_INFO_35)	zoqfotpik-179.ogg
 Go open it!
 I bet there's something cool inside!
@@ -578,7 +578,7 @@ I said I was sorry.
 #(GENERAL_INFO_410)	zoqfotpik-190.ogg
 Our most talented Seers have detected
 some ominous and powerful meta-psychic signals
-from the direction of the Orionis constellation.
+from the direction of the <% comm.getConstellation("Orionis", "talking pet") %> constellation.
 #(GENERAL_INFO_411)	zoqfotpik-191.ogg
 Faker.
 
@@ -587,12 +587,12 @@ Any news about the war between the two alien races?
 
 #(UTWIG_DELAY0)	zoqfotpik-192.ogg
 Our scouts have witnessed an exciting event
-in the Horologii star system.
+in the <% comm.getConstellation("Horologii", "samatra") %> star system.
 #(UTWIG_DELAY1)	zoqfotpik-193.ogg
 Yeah! Big news!
 #(UTWIG_DELAY2)	zoqfotpik-194.ogg
 Two alien races have entered that region of space
-from the coreward direction.
+from the <% comm.getConstellation("coreward", "utwig") %> direction.
 #(UTWIG_DELAY3)	zoqfotpik-195.ogg
 One of the races look like big talkin' weeds
 and the other wears a funny mask.
@@ -686,7 +686,7 @@ and they have begun their hideous death march.
 The only piece of knowledge we have
 that may help you defeat them
 is a fragment of a transmission we received
-from our agent Buppo who was in the Crateris constellation.
+from our agent Buppo who was in the <% comm.getConstellation("Crateris", "samatra") %> constellation.
 #(KOHRAH_FRENZY7)	zoqfotpik-229.ogg
 They got Buppo too?!...(SOB!)
 #(KOHRAH_FRENZY8)	zoqfotpik-230.ogg
@@ -793,8 +793,8 @@ That means, next month there will be
 By back-tracing the probes' course paths
 we have been able to calculate
 that the source of the probes
-is somewhere on a direct line
-that includes our star, and Epsilon Muscae.
+is somewhere <% comm.swapIfSeeded("on a direct line", "in the") %>...
+...<% comm.getConstellation("that includes our star, and", "slylandro") %><%comm.swapIfSeeded(" Epsilon Muscae", " system") %>.
 #(ABOUT_OTHERS13)	zoqfotpik-262.ogg
 Go get 'em, Captain!
 

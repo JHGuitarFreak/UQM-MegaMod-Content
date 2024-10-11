@@ -98,7 +98,7 @@ Tell me about the end of the War.
 I will describe these events, Captain.
 They make fer a tale, Captain, wrought with sadness... and heroism!... and betrayal.
 After the Chenjesu, Mmrnmhrm and yer species were defeated
-We prepared a defense in the Shofixti homestar, Delta Gorno.
+We prepared a defense in the Shofixti homestar, <% comm.getStarName("Delta Gorno", "shofixti") %>.
 Aside our Shofixti, our adopted children, we awaited the onslaught of the Ur-Quan armada.
 We waited with eagerness, with the hot anticipation of battle!
 But then we received an unbelievable message from our Queen... `Retreat'.
@@ -153,7 +153,7 @@ The brilliant tactics of Fortress Square and the Dynamic Triangle are his creati
 Without ZEX, the VUX would have fallen to our Alliance fleets in weeks
 but ZEX always found a way to turn his own weakness into an advantage.
 After the War, we learned that the Primat and the VUX High Council
-decided to move ZEX out of the picture, and sent him off to `luxurious retirement' at Alpha Cerenkov I.
+decided to move ZEX out of the picture, and sent him off to `luxurious retirement' at <% comm.getStarName("Alpha Cerenkov", "maidens") %> I.
 We have heard that he spends his time pursuing his hobby, though we do not know what more than that.
 
 #(what_about_clue)

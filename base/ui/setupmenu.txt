@@ -96,6 +96,8 @@ Advanced Auto-Pilot
 Super-Melee Ship Descriptions
 Music Resume
 Platform UI
+Seed Type
+Sphere Colors
 
 #(CAT_0_OPTS)
 Original
@@ -1359,6 +1361,37 @@ faithful 3DO presentation. Fits in a 4:3 aspect ratio.
 The default UQM presentation.
 Fits in a 4:3 aspect ratio.
 
+#(CAT_82_OPTS)
+Prime
+Planets
+MRQ
+Starseed
+
+#(CAT_82_OPT_0_DESC)
+Original "Prime" seed, as written by the glorious founders (Default)
+
+#(CAT_82_OPT_1_DESC)
+Seed the generation of planetary resources and solar systems
+
+#(CAT_82_OPT_2_DESC)
+Seed the locations of Melnorme Traders,
+Rainbow Worlds, and Quasispace Portals,
+and the generation of planetary resources and solar systems
+
+#(CAT_82_OPT_3_DESC)
+Seed the locations of all plot events into the starmap (REQ. subtitles)
+including homeworlds, fleet locations, dialog, and artifacts
+as well as planetary resources and Quasispace
+
+#(CAT_83_OPTS)
+Default
+Custom
+
+#(CAT_83_OPT_0_DESC)
+Default colors for alien spheres of influence (Default)
+
+#(CAT_83_OPT_1_DESC)
+Custom unique colors for alien spheres of influence
 
 #(SLIDERS)
 Music Volume

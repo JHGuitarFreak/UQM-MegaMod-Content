@@ -1,0 +1,512 @@
+#(ROBOT_DIGIT_0)	zero.ogg
+zero
+
+#(ROBOT_DIGIT_1)	one.ogg
+wone
+
+#(ROBOT_DIGIT_2)	two.ogg
+tuu
+
+#(ROBOT_DIGIT_3)	three.ogg
+thre-e
+
+#(ROBOT_DIGIT_4)	four.ogg
+forhh
+
+#(ROBOT_DIGIT_5)	five.ogg
+five
+
+#(ROBOT_DIGIT_6)	six.ogg
+six
+
+#(ROBOT_DIGIT_7)	seven.ogg
+seven
+
+#(ROBOT_DIGIT_8)	eight.ogg
+eight
+
+#(ROBOT_DIGIT_9)	nine.ogg
+nine
+
+#(ROBOT_POINT)		point.ogg
+point
+
+#(ROBOT_BY)		by.ogg
+buay
+
+#(ROBOT_COLOR_RED)	red.ogg
+red
+
+#(ROBOT_COLOR_ORANGE)	orange.ogg
+orange
+
+#(ROBOT_COLOR_YELLOW)	yellow.ogg
+yellow
+
+#(ROBOT_COLOR_GREEN)	green.ogg
+green
+
+#(ROBOT_COLOR_BLUE)	blue.ogg
+bloooo
+
+#(ROBOT_COLOR_WHITE)	white.ogg
+wwhite
+
+#(ILWRATH_COLOR_RED)	il_red.ogg
+_RED_
+
+#(ILWRATH_COLOR_ORANGE)	il_orange.ogg
+_ORANGE_
+
+#(ILWRATH_COLOR_YELLOW)	il_yellow.ogg
+_YELLOW_
+
+#(ILWRATH_COLOR_GREEN)	il_green.ogg
+_GREEN_
+
+#(ILWRATH_COLOR_BLUE)	il_blue.ogg
+_BLUE
+
+#(ILWRATH_COLOR_WHITE)	il_white.ogg
+_WHITE_
+
+#(ROBOT_PREFIX_0)	empty.ogg // Unused but easier
+empty
+
+#(ROBOT_ALPHA)	alpha.ogg
+alpha
+
+#(ROBOT_BETA)	beta.ogg
+beta
+
+#(ROBOT_GAMMA)	gamma.ogg
+gamma
+
+#(ROBOT_DELTA)	delta.ogg
+delta
+
+#(ROBOT_EPSILON)	epsilon.ogg
+epsilon
+
+#(ROBOT_ZETA)	zeta.ogg
+zeta
+
+#(ROBOT_ETA)	eta.ogg
+eta
+
+#(ROBOT_THETA)	theta.ogg
+theta
+
+#(ROBOT_IOTA)	iota.ogg
+iota
+
+#(ROBOT_KAPPA)	kappa.ogg
+kappa
+
+#(ROBOT_LAMBDA)	lambda.ogg
+lambda
+
+#(ROBOT_MU)	mu.ogg
+mu
+
+#(ROBOT_NU)	nu.ogg
+nu
+
+#(ROBOT_XI)	xi.ogg
+xi
+
+#(ROBOT_POSTFIX_0)	vega.ogg
+Vega
+
+#(ROBOT_POSTFIX_1)	antliae.ogg
+Antliaey
+
+#(ROBOT_POSTFIX_2)	apodis.ogg
+Apodis
+
+#(ROBOT_POSTFIX_3)	aquarii.ogg
+Aquarry
+
+#(ROBOT_POSTFIX_4)	aquilae.ogg
+Ackui-lay
+
+#(ROBOT_POSTFIX_5)	arae.ogg
+Arae
+
+#(ROBOT_POSTFIX_6)	arietis.ogg
+Arietis
+
+#(ROBOT_POSTFIX_7)	aurigae.ogg
+Aurigee
+
+#(ROBOT_POSTFIX_8)	trianguli.ogg
+Tri-ang-yu-lie
+
+#(ROBOT_POSTFIX_9)	caeli.ogg
+Caeli
+
+#(ROBOT_POSTFIX_10)	camelopardalis.ogg
+Camel-lo-pardal-lis
+
+#(ROBOT_POSTFIX_11)	cancri.ogg
+Cancri
+
+#(ROBOT_POSTFIX_12)	brahe.ogg
+Braahee
+
+#(ROBOT_POSTFIX_13)	kepler.ogg
+Kepler
+
+#(ROBOT_POSTFIX_14)	copernicus.ogg
+Cuh-perrr-nucuss
+
+#(ROBOT_POSTFIX_15)	capricorni.ogg
+Capricorni
+
+#(ROBOT_POSTFIX_16)	carinae.ogg
+Cuhreenae
+
+#(ROBOT_POSTFIX_17)	cassiopeiae.ogg
+Cassiohpeiaeh
+
+#(ROBOT_POSTFIX_18)	tucanae.ogg
+Toocahnny
+
+#(ROBOT_POSTFIX_19)	cephei.ogg
+Cephei
+
+#(ROBOT_POSTFIX_20)	ceti.ogg
+Cetti
+
+#(ROBOT_POSTFIX_21)	crateris.ogg
+Crayteris
+
+#(ROBOT_POSTFIX_22)	circini.ogg
+Ceercini
+
+#(ROBOT_POSTFIX_23)	columbae.ogg
+Columbae
+
+#(ROBOT_POSTFIX_24)	chandrasekhar.ogg
+Chandra-saykhar
+
+#(ROBOT_POSTFIX_25)	sagittae.ogg
+Sagittae
+
+#(ROBOT_POSTFIX_26)	cygnus.ogg
+Signuss
+
+#(ROBOT_POSTFIX_27)	corvi.ogg
+Corvi
+
+#(ROBOT_POSTFIX_28)	chamaeleonis.ogg
+Khamaeleonis
+
+#(ROBOT_POSTFIX_29)	equulei.ogg
+Equulay
+
+#(ROBOT_POSTFIX_30)	delphini.ogg
+Delphini
+
+#(ROBOT_POSTFIX_31)	doradus.ogg
+Doradus
+
+#(ROBOT_POSTFIX_32)	monocerotis.ogg
+Monocerotis
+
+#(ROBOT_POSTFIX_33)	crucis.ogg
+Crucis
+
+#(ROBOT_POSTFIX_34)	eridani.ogg
+Aridahhni
+
+#(ROBOT_POSTFIX_35)	fornacis.ogg
+Fornacis
+
+#(ROBOT_POSTFIX_36)	geminorum.ogg
+Geminorum
+
+#(ROBOT_POSTFIX_37)	altair.ogg
+All-tair
+
+#(ROBOT_POSTFIX_38)	antares.ogg
+Antair-ees
+
+#(ROBOT_POSTFIX_39)	horologii.ogg
+Horrolow-gii
+
+#(ROBOT_POSTFIX_40)	hydrae.ogg
+Hydri
+
+#(ROBOT_POSTFIX_41)	andromedae.ogg
+Androm-medae
+
+#(ROBOT_POSTFIX_42)	groombridge.ogg
+Groombridge
+
+#(ROBOT_POSTFIX_43)	lacertae.ogg
+Lacertae
+
+#(ROBOT_POSTFIX_44)	leonis.ogg
+Leo-nis
+
+#(ROBOT_POSTFIX_45)	hyades.ogg
+Hya-dees
+
+#(ROBOT_POSTFIX_46)	leporis.ogg
+Leporis
+
+#(ROBOT_POSTFIX_47)	librae.ogg
+Lie-bray
+
+#(ROBOT_POSTFIX_48)	lipi.ogg
+Lipi
+
+#(ROBOT_POSTFIX_49)	lyncis.ogg
+Lyncis
+
+#(ROBOT_POSTFIX_50)	fomalhaut.ogg
+Foe-mellout
+
+#(ROBOT_POSTFIX_51)	menkar.ogg
+Menkar
+
+#(ROBOT_POSTFIX_52)	microscopii.ogg
+Micro-scopii
+
+#(ROBOT_POSTFIX_53)	draconis.ogg
+Dracohnis
+
+#(ROBOT_POSTFIX_54)	orionis.ogg
+OhRionIs
+
+#(ROBOT_POSTFIX_55)	normae.ogg
+Normay
+
+#(ROBOT_POSTFIX_56)	octantis.ogg
+Octantis
+
+#(ROBOT_POSTFIX_57)	ophiuchi.ogg
+Ophiuki
+
+#(ROBOT_POSTFIX_58)	muscae.ogg
+Muscae
+
+#(ROBOT_POSTFIX_59)	pavonis.ogg
+Pavohnis
+
+#(ROBOT_POSTFIX_60)	pegasi.ogg
+Pegasi
+
+#(ROBOT_POSTFIX_61)	persei.ogg
+Persee-aye
+
+#(ROBOT_POSTFIX_62)	phoenicis.ogg
+Pheenicis
+
+#(ROBOT_POSTFIX_63)	pictoris.ogg
+Pictoris
+
+#(ROBOT_POSTFIX_64)	piscium.ogg
+Piscium
+
+#(ROBOT_POSTFIX_65)	hyginus.ogg
+Hyginus
+
+#(ROBOT_POSTFIX_66)	puppis.ogg
+Puppis
+
+#(ROBOT_POSTFIX_67)	pyxidis.ogg
+Pyxidis
+
+#(ROBOT_POSTFIX_68)	reticuli.ogg
+Reticuli
+
+#(ROBOT_POSTFIX_69)	arianni.ogg
+Arianni
+
+#(ROBOT_POSTFIX_70)	sagittarii.ogg
+Sagitairry-i
+
+#(ROBOT_POSTFIX_71)	scorpii.ogg
+Scorpii
+
+#(ROBOT_POSTFIX_72)	sculptoris.ogg
+Sculptoris
+
+#(ROBOT_POSTFIX_73)	scuti.ogg
+Scuti
+
+#(ROBOT_POSTFIX_74)	serpentis.ogg
+Serpentis
+
+#(ROBOT_POSTFIX_75)	sextantis.ogg
+Sextantis
+
+#(ROBOT_POSTFIX_76)	tauri.ogg
+Tauri
+
+#(ROBOT_POSTFIX_77)	telescopii.ogg
+Telescohpi-i
+
+#(ROBOT_POSTFIX_78)	bootis.ogg
+Bootis
+
+#(ROBOT_POSTFIX_79)	olber.ogg
+Olber
+
+#(ROBOT_POSTFIX_80)	centauri.ogg
+CenTauri
+
+#(ROBOT_POSTFIX_81)	ptolemae.ogg
+Ptolemae
+
+#(ROBOT_POSTFIX_82)	gorno.ogg
+Gorno
+
+#(ROBOT_POSTFIX_83)	velorum.ogg
+Velohrum
+
+#(ROBOT_POSTFIX_84)	virginis.ogg
+Virginis
+
+#(ROBOT_POSTFIX_85)	volantis.ogg
+Volantis
+
+#(ROBOT_POSTFIX_86)	vulpeculae.ogg
+Vulpec-yoo-lay
+
+#(ROBOT_POSTFIX_87)	lalande.ogg
+Lalande
+
+#(ROBOT_POSTFIX_88)	luyten.ogg
+Luyten
+
+#(ROBOT_POSTFIX_89)	indi.ogg
+Inn-di
+
+#(ROBOT_POSTFIX_90)	lacaille.ogg
+Lah-cayel
+
+#(ROBOT_POSTFIX_91)	giclas.ogg
+Geeclas
+
+#(ROBOT_POSTFIX_92)	krueger.ogg
+Krueger
+
+#(ROBOT_POSTFIX_93)	lyrae.ogg
+Lie-ree
+
+#(ROBOT_POSTFIX_94)	wolf.ogg
+Wolf
+
+#(ROBOT_POSTFIX_95)	saurus.ogg
+Saurus
+
+#(ROBOT_POSTFIX_96)	raynet.ogg
+Raynet
+
+#(ROBOT_POSTFIX_97)	zeeman.ogg
+Zeeman
+
+#(ROBOT_POSTFIX_98)	vela.ogg
+Vela
+
+#(ROBOT_POSTFIX_99)	mira.ogg
+Mira
+
+#(ROBOT_POSTFIX_100)	cerenkov.ogg
+Cherenkov
+
+#(ROBOT_POSTFIX_101)	mersenne.ogg
+Mer-senne
+
+#(ROBOT_POSTFIX_102)	maksutov.ogg
+Mak-su-tov
+
+#(ROBOT_POSTFIX_103)	klystron.ogg
+KliYstron
+
+#(ROBOT_POSTFIX_104)	metis.ogg
+Metis
+
+#(ROBOT_POSTFIX_105)	mensae.ogg
+Mensae
+
+#(ROBOT_POSTFIX_106)	illuminati.ogg
+Illuminati
+
+#(ROBOT_POSTFIX_107)	vitalis.ogg
+Vitalis
+
+#(ROBOT_POSTFIX_108)	herculis.ogg
+Herkyoo-lees
+
+#(ROBOT_POSTFIX_109)	gruis.ogg
+Gruis
+
+#(ROBOT_POSTFIX_110)	squidi.ogg
+Squidi
+
+#(ROBOT_POSTFIX_111)	almagest.ogg
+Aalmagest
+
+#(ROBOT_POSTFIX_112)	alcor.ogg
+Al-cor
+
+#(ROBOT_POSTFIX_113)	algol.ogg
+Algol
+
+#(ROBOT_POSTFIX_114)	betelgeuse.ogg
+Beetelgeuse
+
+#(ROBOT_POSTFIX_115)	aldebaran.ogg
+AlDeBerrin
+
+#(ROBOT_POSTFIX_116)	achernar.ogg
+Ache-ernar
+
+#(ROBOT_POSTFIX_117)	procyon.ogg
+Pro-seon
+
+#(ROBOT_POSTFIX_118)	rigel.ogg
+Ri-gel
+
+#(ROBOT_POSTFIX_119)	bellatrix.ogg
+Bellaytrix
+
+#(ROBOT_POSTFIX_120)	mizar.ogg
+My zer
+
+#(ROBOT_POSTFIX_121)	hyperion.ogg
+Hyperion
+
+#(ROBOT_POSTFIX_122)	regulus.ogg
+Reg-you-lus
+
+#(ROBOT_POSTFIX_123)	organon.ogg
+Organon
+
+#(ROBOT_POSTFIX_124)	pollux.ogg
+Pollux
+
+#(ROBOT_POSTFIX_125)	capella.ogg
+Capella
+
+#(ROBOT_POSTFIX_126)	deneb.ogg
+Dehnub
+
+#(ROBOT_POSTFIX_127)	canopus.ogg
+Canopuss
+
+#(ROBOT_POSTFIX_128)	sirius.ogg
+Seerius
+
+#(ROBOT_POSTFIX_129)	sol.ogg
+Sol
+
+#(ROBOT_POSTFIX_130)	arcturus.ogg
+ArcTurris
+
+#(ROBOT_POSTFIX_131)	lentilis.ogg
+Lentilis
