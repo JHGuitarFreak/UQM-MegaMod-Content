@@ -3,7 +3,7 @@ Contains content files for the UQM-MegaMod
 
 ## Current Status
 
-Currently only the base, HD, 3dovoice, and Volasaurus' space music content files.
+Base, HD, 3DO Voice, 3DO & DOS mode, Classic Pack, Sol Textures, Distorted Hayes, and Volasaurus' space music content files.
 
 ## License
 
