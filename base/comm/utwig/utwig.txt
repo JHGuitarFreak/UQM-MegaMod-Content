@@ -301,11 +301,11 @@ Even the most fundamental fixtures were committed to this irreversible fate.
 The Mask of Natural Bodily Excretions once hung in every lavatory!
 Most of the public facilities have removed the disposable mask dispensers
 but every once in a while I still see such a repository... always empty.
-In despair, we gave the broken device to our allies, the Supox, who live at Beta Librae.
+In despair, we gave the broken device to our allies, the Supox, who live at <% comm.getStarName("Beta Librae", "supox") %>.
 We just couldn't stand to look at it any longer.
 At that time, many suggested that we use the Precursor relic as a form of self punishment.
-The proposal was that we collectively go to the second moon of the sixth planet of Zeta Hyades
-and use the ancient planeteering device to end our existence.
+The proposal was that we collectively go to the second moon of the sixth planet of <% comm.getStarName("Zeta Hyades", "bomb") %>...
+...and use the ancient planeteering device to end our existence.
 After much discussion, we decided that we deserved to suffer.
 We can use the Bomb if we ever decide the time is right
 in the meantime, we atone for our grievous mistake with our collective misery.
@@ -317,7 +317,7 @@ Do you know anything about the enslaving Ur-Quan?
 #(ABOUT_URQUAN_1)	utwig-034.ogg
 We know nothing of this species that you mention.
 However, while we are on the subject of evil and powerful species
-we have encountered a particularly gruesome race that seemed to come from the direction of Arcturus.
+we have encountered a particularly gruesome race that seemed to come from the direction of <% comm.getConstellation("Arcturus", "burvixese") %>.
 When we hailed them, they responded with mighty weapons that sent our delegation to their deaths
 lucky fools.
 The alien's dark crusty battleships are capable of guiding spinning mines into almost any location
@@ -343,7 +343,7 @@ All I can tell you is that the Kohr-Ah live to kill.
 Their stated purpose is to seek out new life and new civilizations
 and then annihilate them.
 We seemed to qualify as such and that is why it is puzzling that after pursuing us with some tenacity
-they suddenly turned away and headed toward Crateris.
+they suddenly turned away and headed toward <% comm.getConstellation("Crateris", "samatra") %>.
 Aangh! All this speculation would be unnecessary if only we had saved the Ultron!
 It would not have taken much; a diving catch, a thrown pillow
 even a fuzzy wumpus would have broken the fall satisfactorily!
@@ -417,8 +417,8 @@ You will be immortalized as the blessed figure that delivered unto us our future
 We will revere your very likeness!
 Let me take the Ultron...yes, I feel the link...the knowledge, and... the Power.
 Hmm, it seems that there is much to do.
-Indeed, it seems that you should proceed to the second moon of the sixth planet of Zeta Hyades
-and take what you find there; we no longer have need for it
+Indeed, it seems that you should proceed to the second moon of the sixth planet of <% comm.getStarName("Zeta Hyades", "bomb") %>...
+...and take what you find there; we no longer have need for it
 but the Ultron reveals that YOU will!
 I thank you for your part in the grand scheme. We now recover that which is ours via destiny
 and proceed to perform our essential service for the universe.
@@ -447,7 +447,7 @@ Tell us what events have transpired since we last met.
 
 #(GENERAL_INFO_AFTER_SPACE_1)	utwig-043.ogg
 We have met the Kohr-Ah in battle, and... well, let me explain.
-Initially, when our forces swept to the Horologii stars
+Initially, when our forces swept to the <% comm.getConstellation("Horologii", "samatra") %> stars
 they proved effective against the armaments of the Kohr-Ah.
 With our shield-absorption technology we were able to sweep clear the Kohr-Ah's spinning blades
 and absorb the brunt of their fiery corona, allowing our Supox allies to concentrate on the vessels themselves.
@@ -509,7 +509,7 @@ Does the remarkable device suggest to us a potential course of action?
 Your request is within our capabilities. One moment
 Mmmm, emanations from the Ultron... orange furry air breathes tender yawns
 Yes, it all becomes clear now... you must do something with the great Bomb
-the Precursor relic we kept at Zeta Hyades VI-B.
+the Precursor relic we kept at <% comm.getStarName("Zeta Hyades", "bomb") %> VI-B.
 It seems that this Bomb must be, ah...
 eaten?... no. Hugged?... no
 Ah! IMPROVED! That's it!  The Bomb must be improved to fulfill its final destiny!
@@ -554,7 +554,7 @@ to implement their stated objective: the elimination of all intelligent life bes
 
 #(FLEET_ON_WAY)	utwig-054.ogg
 Even as I utter these words, the combined military resource of both the Utwig and Supox
-proceed toward Horologii to intercept the Kohr-Ah.
+proceed toward <% comm.getConstellation("Horologii", "samatra") %> to intercept the Kohr-Ah.
 Besides the importance of our efforts, the Ultron indicates
 all futures which include our survival are contingent on the actions that you now take.
 
@@ -570,7 +570,7 @@ As soon as we regain our proficiency, we will be able to accommodate all your re
 #(SAMATRA)	utwig-056.ogg
 The Kohr-Ah will soon possess a seemingly invincible vessel called the Sa-Matra.
 I cannot give you specifics regarding this matter other than its general location
-somewhere in the Crateris constellation.
+somewhere in the <% comm.getConstellation("Crateris", "samatra") %> constellation.
 The Sa-Matra is seemingly invincible, able to lay waste to an entire planet in less than an eyeblink.
 The Ultron indicates that you must somehow destroy this thing or the Kohr-Ah will destroy all known life.
 
@@ -716,7 +716,7 @@ You say you have the Ultron, that you wish to return it to us... LIES!
 The moment our back is turned, you will sneak down to the surface of this world
 and deprive us of our destructive device of dignity.
 If you truly had our Ultron, repaired to its state of perfection
-you would surely take it to the Proctors at our homeworld at Beta Aquarii.
+you would surely take it to the Proctors at our homeworld at <% comm.getStarName("Beta Aquarii", "utwig") %>.
 Speak no more of this subject.
 
 #(OUT_TAKES)	utwig-075.ogg

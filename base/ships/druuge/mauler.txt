@@ -40,6 +40,10 @@ Piini
 Soopi
 #(Peeru)
 Peeru
+#(DRUUGE)
+|-2|DRUUGE
+#(MAULER)
+|-2|MAULER
 #(Desc)
 Sluggish. Heavy momentum
 weapon. Combustible crew.

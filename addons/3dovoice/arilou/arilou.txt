@@ -267,7 +267,7 @@ Your people make the choice not to fight with and for the Ur-Quan.
 A shield is cast about your world. Your people are now safe. This makes us happy.
 The Armada departs your star system and moves toward the remaining Alliance members
 ourselves, the Syreen, the Yehat and their adopted Shofixti.
-The Yehat and Shofixti withdraw to Delta Gorno, but they do not permit the Syreen to follow.
+The Yehat and Shofixti withdraw to <% comm.getStarName("Delta Gorno", "shofixti") %>, but they do not permit the Syreen to follow.
 We are content with the flow of events and leave the area to return here.
 From our perspective, this sequence of events ends here.
 
@@ -275,8 +275,8 @@ From our perspective, this sequence of events ends here.
 Well what about the Ur-Quan? What are they up to?
 
 #(ABOUT_URQUAN)	arilou-034.ogg
-Soon after the Ur-Quan defeated the Yehat and imprisoned the Syreen in Betelgeuse
-their siblings arrived to initiate the Doctrinal Conflict.
+Soon after the Ur-Quan defeated the Yehat and imprisoned the Syreen in <% comm.getStarName("Betelgeuse", "syreen") %>...
+...their siblings arrived to initiate the Doctrinal Conflict.
 This battle continues as we speak.
 
 #(best_if_i_killed_you)
@@ -336,7 +336,7 @@ We have discovered something strange and frightening about the Umgah
 When we approached their vessels, we were instantly attacked
 and the Umgah made no attempts to contact our ships or respond to our hails.
 Using our own psionic sensitivities, we determined that they are under some form of psychic compulsion.
-The source of psionic control commands appears to be Beta Orionis, the Umgah's home star.
+The source of psionic control commands appears to be <% comm.getStarName("Beta Orionis", "talking pet") %>, the Umgah's home star.
 We sent vessels to investigate this location, but none have returned... we fear they are destroyed.
 
 #(what_do_now)
@@ -346,7 +346,7 @@ So what can we do about the psychically zombified blobbies?
 We have had no success with our own investigations.
 Whatever controls the Umgah is a threat, but we seem unprepared to deal with it.
 Perhaps you and your crew are better suited to this mission.
-If you choose to go to Beta Orionis, take care, child.
+If you choose to go to <% comm.getStarName("Beta Orionis", "talking pet") %>, take care, child.
 Whatever controls the Umgah now knows of our presence
 and it may take measures against us.
 
@@ -395,7 +395,7 @@ As a sign of our long-standing relationship with your species
 we would happily fit your vessel with a Portal Spawner of its own
 but your ship is so massive, our units would be ineffective. However
 we suspect you may find a sufficiently powerful warp pod, the key element in a Portal Spawner
-in the wreck of the Ur-Quan Dreadnought on the seventh world at Alpha Pavonis.
+in the wreck of the Ur-Quan Dreadnought on the seventh world at <% comm.getStarName("Alpha Pavonis", "urquan wreck") %>.
 Bring that warp pod back here, and we will prepare a Portal Spawner for your vessel.
 
 #(what_about_tpet)
@@ -405,7 +405,7 @@ You mentioned a Talking Pet. How did you find one?
 We are an endlessly curious species, and we spend much of our time on
 how should I say, reconnaissance missions.
 During one such trip, we witnessed the crash landing of an Ur-Quan Dreadnought
-on the surface of Alpha Pavonis VII.
+on the surface of <% comm.getStarName("Alpha Pavonis", "urquan wreck") %> VII.
 Normally, when an Ur-Quan vessel is disabled, it automatically engages self-annihilation circuits
 to prevent other species from learning the Ur-Quan's technological secrets.
 In this case, however, these circuits must have failed. The Dreadnought did not disintegrate on impact.
@@ -429,7 +429,7 @@ we would be happy to fit your vessel with a Portal Spawner
 allowing you to jump from place to place in HyperSpace, without travelling the intervening distance.
 However, your ship is so massive, our normal warp pod units are insufficient
 but you will find a sufficiently powerful warp pod in the wreck of the Ur-Quan Dreadnought
-on Alpha Pavonis VII. Bring that warp pod back here, and we will prepare a Portal Spawner for your vessel.
+on <% comm.getStarName("Alpha Pavonis", "urquan wreck") %> VII. Bring that warp pod back here, and we will prepare a Portal Spawner for your vessel.
 
 #(got_it)
 I have obtained the Warp Pod unit from the Ur-Quan wreck.
@@ -493,8 +493,8 @@ Aughhh! I am sorry! WHAT WAS I THINKING?!!
 #(APOLOGIZE_AT_HOMEWORLD)	arilou-058.ogg
 If you wish to make atonement... seek a strangely shaped rock or plant.
 However, should you wish to change the nature of our relationship
-seek the Arilou in QuasiSpace. You can make the transit at 43.8 : 637.2
-but only when the door is open.
+seek the Arilou in QuasiSpace. You can make the transit at <% comm.getPoint("43.8 : 637.2", "arilou") %>...
+...but only when the door is open.
 
 #(bye_angry_space)
 G'bye.

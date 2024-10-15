@@ -40,6 +40,10 @@ Buck
 Solo
 #(Belt)
 Belt
+#(EARTHLING)
+EARTHLING
+#(CRUISER)
+CRUISER
 #(Desc)
 Slow, heavy. Seeking nukes.
 Point defense lasers.

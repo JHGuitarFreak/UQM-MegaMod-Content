@@ -81,7 +81,7 @@ Star Background
 Scanning Style
 Non-Stop Oscilloscope
 Oscilloscope Style
-Animated HyperSpace Stars (HD)
+HD Animations
 Lander View Style
 Planet Map Textures
 Flagship Engine Color
@@ -95,7 +95,9 @@ Slaughter Mode
 Advanced Auto-Pilot
 Super-Melee Ship Descriptions
 Music Resume
-Window Type
+Platform UI
+Seed Type
+Sphere Colors
 
 #(CAT_0_OPTS)
 Original
@@ -983,7 +985,8 @@ Based upon Extended Mod made by 0xDEC0DE.
 
 #(CAT_55_OPTS)
 Disabled
-Enabled
+Easy
+Normal
 
 #(CAT_55_OPT_0_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
@@ -993,7 +996,12 @@ who want the most extreme of challenges.
 #(CAT_55_OPT_1_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
 A forced `No Starbase' mode for expert players 
-who want the most extreme of challenges.
+with a few conveniences to help out.
+
+#(CAT_55_OPT_2_DESC)
+&!FOR VETERANS ONLY! NOT FOR BEGINNERS!
+Basic and brutal `No Starbase' mode for expert players 
+with no extra conveniences to help out.
 
 #(CAT_56_OPTS)
 Disabled
@@ -1152,13 +1160,13 @@ Static
 Animated
 
 #(CAT_67_OPT_0_DESC)
-HD HyperSpace stars faithfully resemble their Vanilla 
-counterparts but are not animated.
-(Everything else is animated)
+HD HyperSpace stars, gravity wells, QuasiSpace portals
+and Solar System Suns faithfully resemble their Vanilla counterparts
+but are not animated.
 
 #(CAT_67_OPT_1_DESC)
-HD HyperSpace stars are animated but do not resemble
-their Vanilla counterparts at all.
+HD HyperSpace stars, gravity wells, QuasiSpace portals
+and Solar System Suns are animated.
 
 #(CAT_68_OPTS)
 PC
@@ -1318,13 +1326,21 @@ the main Super-Melee menu while picking a ship for your fleet.
 
 #(CAT_80_OPTS)
 Disabled
-Enabled
+5 Minutes
+Indefinite
 
 #(CAT_80_OPT_0_DESC)
-Resumes the music in UQM from where it last left off
+Music Resume is disabled
 
 #(CAT_80_OPT_1_DESC)
-Resumes the music in UQM from where it last left off
+Resumes the music in UQM from where it last left off.
+But with a 5 minute timer that resets individual tracks back to their
+beginning if not heard within the alotted time.
+
+#(CAT_80_OPT_1_DESC)
+Resumes the music in UQM from where it last left off.
+But with no timer that resets music back to beginning after 
+a period of time.
 
 #(CAT_81_OPTS)
 DOS
@@ -1332,18 +1348,50 @@ DOS
 UQM
 
 #(CAT_81_OPT_0_DESC)
-Changes the window type to look like the DOS version with a
-shortened vertical resolution.
+Changes the UI scaling to present a faithful DOS look and feel.
+Fits in a 16:10 aspect ratio.
 &!Disables many features that are incompatible while enabled
 
 #(CAT_81_OPT_1_DESC)
-Enables border padding on all sides of the window for the ultimate
-3DO version look.
+Enables border padding on all sides of the window for an ultra
+faithful 3DO presentation. Fits in a 4:3 aspect ratio.
 &!Disables many features that are incompatible while enabled
 
 #(CAT_81_OPT_2_DESC)
-The default UQM viewing experience.
+The default UQM presentation.
+Fits in a 4:3 aspect ratio.
 
+#(CAT_82_OPTS)
+Prime
+Planets
+MRQ
+Starseed
+
+#(CAT_82_OPT_0_DESC)
+Original "Prime" seed, as written by the glorious founders (Default)
+
+#(CAT_82_OPT_1_DESC)
+Seed the generation of planetary resources and solar systems
+
+#(CAT_82_OPT_2_DESC)
+Seed the locations of Melnorme Traders,
+Rainbow Worlds, and Quasispace Portals,
+and the generation of planetary resources and solar systems
+
+#(CAT_82_OPT_3_DESC)
+Seed the locations of all plot events into the starmap (REQ. subtitles)
+including homeworlds, fleet locations, dialog, and artifacts
+as well as planetary resources and Quasispace
+
+#(CAT_83_OPTS)
+Default
+Custom
+
+#(CAT_83_OPT_0_DESC)
+Default colors for alien spheres of influence (Default)
+
+#(CAT_83_OPT_1_DESC)
+Custom unique colors for alien spheres of influence
 
 #(SLIDERS)
 Music Volume
@@ -1367,7 +1415,7 @@ May not work on all hardware.
 
 #(SLIDER_4_DESC)
 Sets the nebulae brightness when nebulae are enabled.
-Default value is: 24
+Default value is: 16
 
 #(BUTTONS)
 Quit Setup

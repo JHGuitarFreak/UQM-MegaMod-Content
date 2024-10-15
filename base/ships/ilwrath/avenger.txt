@@ -40,6 +40,10 @@ Lurgo
 Regorjo
 #(Manglor)
 Manglor
+#(ILWRATH)
+ILWRATH
+#(AVENGER)
+AVENGER
 #(Desc)
 Large. Devastating flame
 blast. Cloaking device.

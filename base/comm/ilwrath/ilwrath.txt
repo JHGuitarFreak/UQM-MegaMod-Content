@@ -50,7 +50,7 @@ Dogar And Kazon Once More Grace Channel 44 With Their Inspiring Words Of Hatred 
 Acolyte! Turn The Volume To Maximum Immediately!
 Hear Us, Black Dogar! Hear Us, Bloody Kazon!
 We Have Heard Your Word And Devote Every Breath To Fulfilling Your Desire For Gratuitous Violence And Death!
-As We Speak, A Thousand Starships, Cloaked And Invisible, Make Passage To The Draconis Stars.
+As We Speak, A Thousand Starships, Cloaked And Invisible, Make Passage To The <% comm.getConstellation("Draconis", "thraddash") %> Stars.
 Upon Arrival There, The Holy Killing Team Will Begin The Bloody Slaughter You Requested.
 
 #(GODS_RETURN_1) ilwrath-009.ogg
@@ -79,7 +79,7 @@ Hark! We Are Receiving A Holy Transmission.
 Oh Dark And Gruesome Masters! I Am Honored With Your Attention.
 But Great Gods, I Am But A Simple Ilwrath, A Humble Murderer.
 I Am Unworthy To Hear Your Words!
-Only At Our Homeworld Orbiting The Green Eye Of Dogar Are There Ilwrath Sufficiently Evil
+Only At Our Homeworld Orbiting The <% comm.getColor("Green", "ilwrath") %> Eye Of Dogar Are There Ilwrath Sufficiently Evil
 to Understand Your Commandments. Forgive Me!
 
 #(WHAT_ORDERS) ilwrath-014.ogg
@@ -152,7 +152,7 @@ We Have Spent Many Years Gleefully Preying On The Pkunk.
 They Are A Pitiful, Easily-killed Species
 And We Would Have Continued In This Divine Worship Of Dogar And Kazon
 But We Required Additional Crew Members And Repairs To Our Cloaking Device.
-So We Departed The Giclas Constellation And Set Course For Home.
+So We Departed The <% comm.getConstellation("Giclas", "pkunk") %> Constellation And Set Course For Home.
 But Before We Had Reached Our Region Of Space, We Detected The Passage Of A Nearby Vessel - The Ur-Quan Drone.
 It Informed Us About You... So Here We Are.
 And Now, YOU DIE!
@@ -256,7 +256,7 @@ So That We May Waste No Time.
 Ah, Hu-Man! You Join Us In The Celebration Of Dogar And Kazon!
 We Grow Excited: The Hu-Man Makes Excellent Ceremony.
 When We Peel It, Urgent Bleating Comes From The Noisemaker.
-Then The Green Eye Of Dogar Observes It Writhe Upon The Altar
+Then The <% comm.getColor("Green", "ilwrath") %> Eye Of Dogar Observes It Writhe Upon The Altar
 And The Cilia Of Kazon Swell, Indicating Their Readiness For The Juices.
 It Squirms With Vigor Until We Pop The Crunchy Noisemaker.
 Rejoice! The Duo Of Deception Shall Receive Their Supplication.
@@ -271,7 +271,7 @@ Hu-Man, Listen Closely To These Words
 Favor Neither God With Your Screams, Lest You Tragically Taint The Consumption!
 
 #(SUBSEQUENT_HELLO_SPACE_4) ilwrath-040.ogg
-By The Green Eye Of Dogar, It Is A Squishy Bone-Bag Hu-Man!
+By The <% comm.getColor("Green", "ilwrath") %> Eye Of Dogar, It Is A Squishy Bone-Bag Hu-Man!
 It Is Waiting For Kazon To Knead Its Body With The Cilia Of Dread
 Until It Can Only Roll And Bleat.
 Hah! It Can Only Hope To Be So Honored.
@@ -296,8 +296,8 @@ You Have Earned The Right To Hold Your Head High!
 #(GENERAL_INFO_SPACE_3) ilwrath-043.ogg
 Incorrectness! We Come From The Eye Of Dogar.
 Such A Quasar Exists Nowhere Near This Location!
-Look In The Heavens At Location 022.9, 366.6
-And Gaze Into The Depths Of Its All-Seeing Eye If You Dare!
+Look In The Heavens At Location <% comm.getPoint("022.9, 366.6", "ilwrath") %>...
+...And Gaze Into The Depths Of Its All-Seeing Eye If You Dare!
 Only By The Sparing Caress Of Kazon's Anointed Cilia Will You Survive Such An Act.
 Else, You Will Bless The Altar Of Consumption With Your Ceremonial Blood!
 

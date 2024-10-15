@@ -49,7 +49,7 @@ Animals? Hee! Hee! Hee! Oh, no, Captain! Not mere animals!
 My menagerie contains only the most... beautiful... creatures in the galaxy!
 Each of my children, as I like to call them, has a wonderful set of traits
 which make them unique and special... especially to me!
-I have a complete variety of beasts from as far away as Procyon and Vega.
+I have a complete variety of beasts from as far away as <% comm.getConstellation("Procyon", "chmmr") %> and <% comm.getConstellation("Vega", "destroyed starbase") %>.
 No, this is not just some `zoo'!
 I have worked diligently for many years to craft my menagerie, to gradually improve it.
 Perhaps you can't tell, but I am rather proud of it!
@@ -68,9 +68,9 @@ Deliver the creature to me, and I shall give you the Shofixti Maidens.
 I will even provide you with a clue to finding the creature's native planet!
 My source for this information is an ancient wildlife handbook
 written millennia ago by some unknown alien author. The pertinent passage goes as follows
-`... demise, It(!) basks in yellow light within the constellation Linch-Nas-Ploh.'
-We have translated `Linch-Nas-Ploh' to mean approximately
-`the long, thin creature who has swallowed the huge beast.'
+`... demise, It(!) basks in <% comm.getColor("yellow", "vux beast") %> light within the constellation Linch-Nas-Ploh.'
+We have translated `Linch-Nas-Ploh' <% comm.swapIfSeeded("to mean approximately", "to mean") %>
+`<% comm.getConstellation("the long, thin creature who has swallowed the huge beast", "vux beast") %>.'
 I am afraid this is all that I know.
 I hope it is sufficient.
 
@@ -81,14 +81,14 @@ Would you tell me again where I can find that creature you want so badly?
 Certainly, my smooth-skinned friend!
 My source for this information is an ancient wildlife handbook
 written millennia ago by some unknown alien author. The pertinent passage goes as follows
-`... demise, It(!) basks in yellow light within the constellation Linch-Nas-Ploh.'
-We have translated `Linch-Nas-Ploh' to mean approximately
-`the long, thin creature who has swallowed the huge beast.'
+`... demise, It(!) basks in <% comm.getColor("yellow", "vux beast") %> light within the constellation Linch-Nas-Ploh.'
+We have translated `Linch-Nas-Ploh' <% comm.swapIfSeeded("to mean approximately", "to mean") %>
+`<% comm.getConstellation("the long, thin creature who has swallowed the huge beast", "vux beast") %>.'
 I am afraid this is all that I know.
 I hope it is sufficient.
 
 #(i_have_beast)
-Admiral ZEX, we have captured the hideous monster from Delta Lyncis. Let us make an exchange.
+Admiral ZEX, we have captured the hideous monster from <% comm.getStarName("Delta Lyncis", "vux beast") %>. Let us make an exchange.
 
 #(GIVE_BEAST)	vux-010.ogg
 Ah, a most excellent piece of news! My chiton rasps and moistens with excitement!
@@ -444,7 +444,7 @@ VUX. We seek to learn more about you. Maybe then we can see eye to... eyes.
 #(GENERAL_INFO_HOSTILE_1)	vux-048.ogg
 Look, vomitous alien. If you want to talk to one of our species
 without making them sick
-why don't you go see Admiral ZEX at his world in Alpha Cerenkov.
+why don't you go see Admiral ZEX at his world in <% comm.getStarName("Alpha Cerenkov", "maidens") %>.
 He (urp!) likes humans.
 
 #(GENERAL_INFO_HOSTILE_2)	vux-049.ogg
@@ -456,7 +456,7 @@ Yuck! Don't show your tongue like that. It makes me sick.
 
 #(GENERAL_INFO_HOSTILE_4)	vux-051.ogg
 Forget it, human. We can't think straight when we have to look at you.
-If you're lonely, go to Alpha Cerenkov and talk with that pervert, Admiral ZEX.
+If you're lonely, go to <% comm.getStarName("Alpha Cerenkov", "maidens") %> and talk with that pervert, Admiral ZEX.
 
 #(cant_we_be_friends_1)
 Why can't we be friends? I like YOU.

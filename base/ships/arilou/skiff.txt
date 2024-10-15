@@ -40,6 +40,10 @@ Yipyapi
 Ropilup
 #(Wolwali)
 Wolwali
+#(ARILOU)
+ARILOU
+#(SKIFF)
+SKIFF
 #(Desc)
 Fast, no inertia. Auto-aim
 laser. Hyper-jump.

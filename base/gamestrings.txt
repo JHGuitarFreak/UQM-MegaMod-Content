@@ -1944,6 +1944,70 @@ A.T.S. System
 Point Defense
 
 
+#(PLANET LANDER) -- For 3DO style menu
+PLANET LANDER
+
+
+#(ANTIMAT THRUSTER)
+ANTIMAT THRUSTER
+
+
+#(TURNING JETS)
+|1|TURNING JETS
+
+
+#(CREW POD)
+CREW POD
+
+
+#(STORAGE BAY)
+|1|STORAGE |1|BAY
+
+
+#(FUEL TANK)
+|-1|FUEL |-1|TANK
+
+
+#(HIGH-EF FUELSYS)
+|1|HIGH-EF FUELSYS
+
+
+#(DYNAMO UNIT)
+DYNAMO |-1|UNIT
+
+
+#(SHIVA FURNACE)
+|-1|SHIVA FURNACE
+
+
+#(ION-BOLT GUN)
+ION-BOLT |-1|GUN
+
+
+#(FUSION BLASTER)
+|-1|FUSION BLASTER
+
+
+#(HELLBORE CANNON)
+|1|HELLBORE CANNON
+
+
+#(TRACKING SYSTEM)
+TRACKING SYSTEM
+
+
+#(POINT DEFENSE)
+POINT |-1|DEFENSE
+
+
+#(NO ROOM FOR LANDERS)
+|-6|ＮO ROOＭ FOR LAＮDERS
+
+
+#(ESCAPE POD)
+ESCAPE POD
+
+
 #(ENCOUNTER IN) -- ENCOUNTER_STRING_BASE
 ENCOUNTER IN
 
@@ -2006,6 +2070,11 @@ to
 
 #(->)
 ->
+
+
+#(ENTERING PLANETARY ORBIT...)
+|5|ENTERING PLANETARY
+|3|ORBIT ． ． ．
 
 
 #(Enter name) -- NAMING_STRING_BASE
@@ -2076,6 +2145,70 @@ Behemoth Zenith
 The Peeled Eyes
 
 
+#(SUPER-MELEE)
+|-8|SUPER-MELEE
+
+
+#(HUMAN CONTROL)
+|-3|ＨＵＭＡＮ |2|ＣＯＮＴＲＯＬ
+
+
+#(WEAK CYBORG)
+|-2|ＷＥＡＫ |1|ＣＹＢＯＲＧ
+
+
+#(GOOD CYBORG)
+|-1|ＧＯＯＤ ＣＹＢＯＲＧ
+
+
+#(AWESOME CYBORG)
+|-1|ＡＷＥＳＯＭＥ ＣＹＢＯＲＧ
+
+
+#(LOAD)
+LOAD
+
+
+#(SAVE)
+SAVE
+
+
+#(BATTLE!)
+ＢＡＴＴＬＥ！
+
+
+#(EXIT)
+|-1|EXIT
+
+
+#(NETWORK CONTROL)
+|-1|ＮＥＴＷＯＲＫ ＣＯＮＴＲＯＬ
+
+
+#(NET...)
+NET...
+
+
+#(LOAD)
+LOAD
+
+
+#(CANCEL)
+CANCEL
+
+
+#(SCROLL)
+SCROLL
+
+
+#(PICK SHIP)
+:-3:|1|PＩＣK SHＩP
+
+
+#(SHIP INFO)
+:-3:|1|SHＩP ＩNFO
+
+
 #(Saving . . .) -- SAVEGAME_STRING_BASE
 Saving . . .
 
@@ -2094,6 +2227,18 @@ Empty Slot
 
 #(Saved Game - Date:)
 Saved Game
+
+
+#(Vanilla UQM Save)
+Vanilla UQM Save
+
+
+#(Legacy UQM Save)
+Legacy UQM Save
+
+
+#(UQM HD-Mod Save)
+UQM HD-Mod Save
 
 
 #(Sound) -- OPTION_STRING_BASE
@@ -2152,6 +2297,10 @@ No
 Escape Unit
 
 
+#(Game Paused)
+Game Paused
+
+
 #(Cr) -- STATUS_STRING_BASE
 Cr
 
@@ -2173,7 +2322,7 @@ CREW
 
 
 #(CAPTAIN)
-CAPTAIŅ
+CAPTAIＮ
 
 
 #(minerals)
@@ -2220,6 +2369,26 @@ Speed
 :Zoom
 
 
+#(FUEL)
+ＦＵEＬ
+
+
+#(CREW)
+CＲEW
+
+
+#(CAPTAIN)
+ＣＡＰTＡＩN
+
+
+#(MIN)
+MIN
+
+
+#(DAT)
+ＤＡT
+
+
 #(nose:) -- FLAGSHIP_STRING_BASE
 nose:
 
@@ -2237,19 +2406,19 @@ tail:
 
 
 #(maximum velocity:)
-maximum velocity:
+maximum ｖeloｃity:
 
 
 #(turning rate:)
-turning rate:
+turninｇ      rate:
 
 
 #(combat energy:)
-combat energy:
+ｃombat   enerｇy:
 
 
 #(maximum fuel:)
-maximum fuel:
+maximum     fuel:
 
 
 #(gun)
@@ -2504,18 +2673,8 @@ This option will now revert back to
 its default value.
 
 
-#(hd_pack_not_found)
-Hmm...
-You were trying to run the game in HD mode, 
-but the game couldn't find the 'HD' addon 
-.uqm package.
+#()
 
-Are you sure you have downloaded it and
-installed it into the correct folder?
-
-Solutions:
-Either install the 'HD' package and play, or
-select the Original Graphics option and play.
 
 
 #()
@@ -2645,6 +2804,26 @@ Vanilla difficulty as it was originally intended.
 NOT FOR BEGINNERS!
 A multitude of changes to make gameplay much
 harder for the veteran UQM player.
+
+
+#(New Game)
+New Game
+
+
+#(Load Game)
+Load Game
+
+
+#(Super Melee!)
+Super Melee!
+
+
+#(Setup)
+Setup
+
+
+#(Exit) - 73
+Exit
 
 
 #(Unconnected. Press LEFT to connect.) -- NETMELEE_STRING_BASE
@@ -2781,7 +2960,7 @@ Only one side at a time can be network controlled.
 Netplay with a computer-controlled side is currently not possible.
 
 
-#(Roto-Dendron)
+#(Roto-Dendron) -- BIOLOGICAL_STRING_BASE
 Roto-Dendron
 
 
@@ -2883,3 +3062,167 @@ Brainbox Bulldozers
 
 #(Zex's Beauty)
 Zex's Beauty
+
+
+#(SCAN) -- TDO_MENU_STRING_BASE
+|-1|SCAN
+
+
+#(STARMAP)
+|1|STARMAP
+
+
+#(DEVICES)
+|1|DEVICES
+
+
+#(CARGO)
+|1|CARGO
+
+
+#(ROSTER)
+ROSTER
+
+
+#(GAMES)
+|-1|GAMES
+
+
+#(NAVIGATE)
+|1|NAVIGATE
+
+
+#(MIN.SCAN)
+MIN.  SCAN
+
+
+#(ENE.SCAN)
+ENE.  SCAN
+
+
+#(BIO.SCAN)
+|1|BIO. SCAN
+
+
+#(EXIT MENU)
+EXIT   MENU
+
+
+#(AUTOSCAN)
+AUTOSCAN
+
+
+#(LANDER)
+LANDER
+
+
+#(SAVE)
+|-1|SAVE
+
+
+#(LOAD)
+|-1|LOAD
+
+
+#(QUIT)
+|-1|QUIT
+
+
+#(SETTINGS)
+SETTINGS
+
+
+#(CONVERSE)
+CONVERSE
+
+
+#(FIGHT!)
+FIGHT!
+
+
+#(FUEL)
+|1|FUEL
+
+
+#(MODULES)
+MODULES
+
+
+#(FLEET)
+|1|FLEET
+
+
+#(SOUND ON)
+SOUND  ON
+
+
+#(NO SOUND)
+NO   SOUND
+
+
+#(MUSIC ON)
+|1|MUSIC   ON
+
+
+#(NO MUSIC)
+|1|NO   MUSIC
+
+
+#(COMBAT)
+|1|COMBAT
+
+
+#(READING)
+|1|READING
+
+
+#(CAPTAIN)
+|1|CAPTAIN
+
+
+#(FLAGSHIP)
+FLAGSHIP
+
+
+#(NO LIMIT) -- LABEL_STRING_BASE
+NO	ＬIMIT
+
+
+#(EMPTY SLOT)
+EMPTY SLＯT
+
+
+#(SAVE GAME)
+SAVE GAME
+
+
+#(LOAD GAME)
+LOAD GAME
+
+
+#(CARGO)
+|1|CARGO
+
+
+#(LANDER)
+|1|LANDER
+
+
+#(DEVICES)
+DEVＩCES
+
+
+#(R.U.)
+|1|R.U.
+
+
+#(CREDITS)
+CREDITS
+
+
+#(AMPLIFIED PRECURSOR BOMB)
+|-2|AMPLIFIED PRECURSOR |-1|BOMB
+
+
+#(ESCAPE POD)
+|1|ESCAPE POD

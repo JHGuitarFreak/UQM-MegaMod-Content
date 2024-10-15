@@ -2,5 +2,5 @@ name=HD Content
 author=Kohr-Ah Death
 version=2
 description=HD textures and UI for the MegaMod's HD mode.
-year=2021
-min_uqm_version=0.8.1
+year=2024
+min_uqm_version=0.8.3

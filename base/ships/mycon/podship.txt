@@ -40,6 +40,10 @@ Yush
 Zaloop
 #(Znuff)
 Znuff
+#(MYCON)
+|-3|MYCON
+#(PODSHIP)
+|-2|PODSHIP
 #(Desc)
 Very slow. Homing plasma
 torpedo. Grows new crew.

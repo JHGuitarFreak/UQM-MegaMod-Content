@@ -222,7 +222,7 @@ Greetings friend and fellow explorer.
 I am an Officer of the Crimson Corporation.
 We are the Druuge.
 We are delighted to make your acquaintance, and hope that we can do business together.
-Should your desires be similar, please hurry to our main trading world at Zeta Persei I.
+Should your desires be similar, please hurry to our main trading world at <% comm.getStarName("Zeta Persei", "druuge") %> I.
 
 #(SUBSEQUENT_SPACE_HELLO)	druuge-027.ogg
 Ah, the young starship captain from Earth!
@@ -267,7 +267,7 @@ You may be interested to know that we recently diverted the onslaught of a hosti
 We learned of its approach from our ex-clients, the Burvixese.
 The kind and philanthropic Burvixese informed us that a dark and sinister armada
 had detected our HyperWave emissions, and though still distant
-was inexorably homing in on our central trade world at Zeta Persei.
+was inexorably homing in on our central trade world at <% comm.getStarName("Zeta Persei", "druuge") %>.
 We devised a brilliant plan, implemented it perfectly
 and were thus spared gruesome death at the hands of the aliens
 who we later learned call themselves the `Kohr-Ah'.

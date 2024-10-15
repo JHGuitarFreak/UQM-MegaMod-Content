@@ -40,6 +40,10 @@ Fkank
 Pdump
 #(Whumps)
 Whumps
+#(THRADDASH)
+THRADDASH
+#(TORCH)
+|-1|TORCH
 #(Desc)
 Nimble. Afterburner
 accelerates ship, burns enemy.

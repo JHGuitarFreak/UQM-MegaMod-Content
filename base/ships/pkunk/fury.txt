@@ -8,9 +8,6 @@ Pkunk
 Fury
 #(Fury)
 Fury
-#(Desc)
-Blazing fast. Insulting enemy.
-Chance of respawning
 #(Awwky)
 Awwky
 #(Tweety)
@@ -43,3 +40,10 @@ Jay
 Screech
 #(Twitter)
 Twitter
+#(PKUNK)
+|-1|PKUNK
+#(FURY)
+|-1|FURY
+#(Desc)
+Blazing fast. Insulting enemy.
+Chance of respawning

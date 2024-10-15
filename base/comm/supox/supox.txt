@@ -11,7 +11,7 @@ Greetings Fellow Carbon Creature, may your roots always be well watered.
 Hello, Voyager. May the light always reach your leaves.
 
 #(HOSTILE_SPACE_HELLO_1)	supox-004.ogg
-So it is you, the blockers of the warm green sunlight
+So it is you, the blockers of the warm <% comm.getColor("green", "supox") %> sunlight
 the water poisoners
 the heinous uprooters of flowering shrubbery.
 Begone before our wrath overcomes our peaceful nature.
@@ -26,7 +26,7 @@ We ignore you, as we ignore the pale, tasteless light of your wan home star.
 Hail Fellow and Well Met. We trust that your seed distributes widely.
 
 #(ALLIED_HOMEWORLD_HELLO_2)	supox-007.ogg
-Be Welcome Friendly Allies. We hope that the Good Green Sunlight warms you.
+Be Welcome Friendly Allies. We hope that the Good <% comm.getColor("Green", "supox") %> Sunlight warms you.
 
 #(ALLIED_HOMEWORLD_HELLO_3)	supox-008.ogg
 Greetings and Salutations. May fertilizer flow on your roots.
@@ -72,7 +72,7 @@ This is our idiom.
 Symbionts, how interesting! Please tell us more.
 
 #(OUR_SPECIES)	supox-015.ogg
-Our kind evolved on a beautiful planet orbiting the wonderfully green-hued star, Root.
+Our kind evolved on a beautiful planet orbiting the wonderfully <% comm.getColor("green", "supox") %>-hued star, Root.
 From the canopy of the great jungles to the shores of the azure seas
 Our species has flowered and grown well.
 Early in our evolution, we adapted to exist in symbiosis with other, hardier life, both flora and fauna,
@@ -156,7 +156,7 @@ Begone, or we shall uproot you!
 This time we are sure we have repaired the Ultron completely.
 
 #(GOOD_GIVE_TO_UTWIG)	supox-023.ogg
-Oh Wonderful, Oh Rapturous Light of the Green Sun!
+Oh Wonderful, Oh Rapturous Light of the <% comm.getColor("green", "supox") %> Sun!
 Please convey it immediately to the Utwig, they will be elated!
 
 #(look_i_repaired_lots)
@@ -253,7 +253,7 @@ So what are you doing?
 
 #(GENERAL_INFO_BEFORE_SPACE_1)	supox-039.ogg
 Our Utwig allies have instructed us to prepare for combat, and so we make ready!
-Our destination is Antares, where we shall face the Kohr-Ah in battle!
+Our destination is <% comm.getConstellation("Antares", "samatra") %>, where we shall face the Kohr-Ah in battle!
 
 #(GENERAL_INFO_BEFORE_SPACE_2)	supox-040.ogg
 We make our way to an epic confrontation with the Kohr-Ah!
@@ -274,7 +274,7 @@ G'bye plant dudes.
 Wish us luck, human.
 
 #(how_went_war)
-What happened at Antares? Describe the struggle.
+What happened at <% comm.getConstellation("Antares", "samatra") %>? Describe the struggle.
 
 #(how_goes_war)
 How fares the battle against the Kohr-Ah?
@@ -296,8 +296,8 @@ while we play the role of opportunist, striking only when the Kohr-Ah is de-ener
 and then retreating to permit our Utwig allies to renew the cycle.
 
 #(FLEET_ON_WAY)	supox-045.ogg
-Even as we speak, the Utwig and Supox fleets streak toward Horologii
-where they hope to strike a major blow against the Kohr-Ah forces.
+Even as we speak, the Utwig and Supox fleets streak toward <% comm.getConstellation("Horologii", "samatra") %>...
+...where they hope to strike a major blow against the Kohr-Ah forces.
 
 #(learn_new_info)
 Have your fighting forces learned anything I should know?
@@ -312,7 +312,7 @@ During the battle, one of our ships intercepted a signal
 from an Ur-Quan vessel to a Kohr-Ah ship.
 The contents of the message was simple, `Sa-Matra'.
 Immediately after receiving the broadcast, the Kohr-Ah vessel disengaged from combat
-entered HyperSpace and sped off in the direction of the Crateris stars.
+entered HyperSpace and sped off in the direction of <% comm.getStarName("the Crateris stars", "samatra") %>.
 
 #(what_now_homeworld)
 So now what do we do?
@@ -350,8 +350,8 @@ In truth though, we have learned a fact or two unknown to others.
 We did not think anyone would care in the slightest, but since you ask, listen.
 We have not fared far from our region of space, but we have explored this region thoroughly.
 Of all the oddities we have found, from the firefalls of Nalnar to the servants of Mali
-the truest mystery was the nature of a world we found at the orange star, Beta Leporis.
-As a general rule, we prefer not to dwell in such long-wavelength regions
+the truest mystery was the nature of a world we found at the <% comm.getColor("orange", "rainbow 7") %> star, <% comm.getStarName("Beta Leporis", "rainbow 7") %>.
+As a general rule, we prefer not to dwell in such <% comm.swapIfSeeded("long", "pale") %>-wavelength regions
 but we were on a mapping mission. That was when we found the planet.
 At first we thought our scanners had failed, for they showed us a world of chromatic aspect.
 Then we located the source of our malfunction... the planet itself!

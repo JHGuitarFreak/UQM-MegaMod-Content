@@ -40,6 +40,10 @@ ZOG
 ORZ
 #(ZEK)
 ZEK
+#(VUX)
+VUX
+#(INTRUDER)
+INTRUDER
 #(Desc)
 Clumsy. Powerful laser.
 Spawns limpet parasites.

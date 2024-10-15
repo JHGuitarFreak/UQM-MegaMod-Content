@@ -40,6 +40,10 @@ Black
 Bluish
 #(Purple)
 Purple
+#(MELNORME)
+|-1|MELNORME
+#(TRADER)
+|-1|TRADER
 #(Desc)
 Tubby. Chargeable weapon.
 Can disrupt enemy controls.

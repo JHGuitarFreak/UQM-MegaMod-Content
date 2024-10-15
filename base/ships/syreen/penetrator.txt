@@ -40,6 +40,10 @@ Aelita
 Alura
 #(Dale)
 Dale
+#(SYREEN)
+SYREEN
+#(PENETRATOR)
+PENETRATOR
 #(Desc)
 Lithe space vixens who
 steal enemy's crew.

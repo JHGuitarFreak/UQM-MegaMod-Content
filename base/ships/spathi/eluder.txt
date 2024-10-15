@@ -42,6 +42,10 @@ Bwinkin
 Whuff
 #(Fwiffo)
 Fwiffo
+#(SPATHI)
+|-1|SPATHI
+#(ELUDER)
+|-1|ELUDER
 #(Desc)
 Very fast. Large, cowardly
 crew. Rear firing weapon.

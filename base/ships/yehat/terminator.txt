@@ -40,6 +40,10 @@ Geep-eep
 Zeep-eep
 #(Neep-eep)
 Neep-eep
+#(YEHAT)
+|-1|YEHAT
+#(TERMINATOR)
+TERMINATOR
 #(Desc)
 Agile. Rapid-fire, twin
 missiles. Shield.

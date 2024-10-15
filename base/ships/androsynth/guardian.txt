@@ -40,6 +40,10 @@ NECRO-99
 HAL-2001
 #(SR-71)
 SR-71
+#(ANDROSYNTH)
+ANDROSYNTH
+#(GUARDIAN)
+GUARDIAN
 #(Desc)
 Pokey. Blows mean bubbles.
 Changes to flaming comet.

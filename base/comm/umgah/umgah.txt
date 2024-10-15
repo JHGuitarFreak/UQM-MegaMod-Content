@@ -110,12 +110,12 @@ What reward you ask? Why this reward, of course!
 #(REWARD_AT_HOMEWORLD_1)	umgah-024.ogg
 Hurray! Hurray! It human Earthling! Our Savior!!
 Oh hurry, human Earthling, HURRY! Your reward awaits at our homeworld!
-In case you have forgotten, that at Beta Orionis!
+In case you have forgotten, that at <% comm.getStarName("Beta Orionis", "talking pet") %>!
 Hurry, human Earthling, HURRY!
 
 #(REWARD_AT_HOMEWORLD_2)	umgah-025.ogg
 Hust! Hust! You must make haste, human Earthling!
-Sooner you go to our homeworld at Beta Orionis
+Sooner you go to our homeworld at <% comm.getStarName("Beta Orionis", "talking pet") %>
 sooner you shall receive your reward!
 
 #(POST_ZOMBIE_HWLD_HELLO)	umgah-026.ogg
@@ -262,7 +262,7 @@ Umgah! Reveal your secrets!
 #(GENERAL_INFO_PRE_ZOMBIE)	umgah-035.ogg
 Okay, since you ask so nicely, we will tell you a thing or two.
 For instance, did know that even now we performing surgery on Talking Pet?
-Arilou found it alone and dying in wreck of Ur-Quan Dreadnought on Alpha Pavonis.
+Arilou found it alone and dying in wreck of Ur-Quan Dreadnought on <% comm.getStarName("Alpha Pavonis", "urquan wreck") %>.
 They couldn't heal so they brought to us.
 We discovered that animal has potential for high intelligence
 provided we make few minor genetic modifications.
@@ -294,7 +294,7 @@ Here's our credo: Freedom from Ur-Quan! What do you say?
 #(FINE_BY_US)	umgah-039.ogg
 Har! Har! Har! Freedom very good thing!
 It so much easier to make good jokes without boring old Ur-Quan slave laws!
-We wanting to pull real good one on those stupid nosers from Draconis for long time
+We wanting to pull real good one on those stupid nosers from <% comm.getConstellation("Draconis", "thraddash") %> for long time
 but since they battle thralls too, we not allowed do even small pranks on them
 like, say... dropping planetoid in their ocean.
 Big waves! Big waves! Har! Har! Har!

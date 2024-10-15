@@ -40,6 +40,10 @@ Hmr-hun
 Nhuh-na
 #(Hrnm-hm)
 Hrnm-hm
+#(MMRNMHRM)
+MMRNMHRM
+#(X-FORM)
+X-FORM
 #(Desc)
 Transforms from a slow,
 heavy to a light, quick ship.

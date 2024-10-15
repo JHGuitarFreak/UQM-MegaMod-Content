@@ -40,6 +40,10 @@ Death 47
 Death 53
 #(Death 83)
 Death 83
+#(KOHR-AH)
+KOHR-AH
+#(MARAUDER)
+MARAUDER
 #(Desc)
 Massive. Long-range spinning
 blades, ring of fiery death.

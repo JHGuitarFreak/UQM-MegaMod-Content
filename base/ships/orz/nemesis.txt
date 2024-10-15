@@ -40,6 +40,10 @@ Nemesis
 *Juice*
 #(*Squirt*)
 *Squirt*
+#(ORZ)
+|-1|ORZ
+#(NEMESIS)
+|-1|NEMESIS
 #(Desc)
 Quick. Rotating turret. Space
 marines board enemy ship.
