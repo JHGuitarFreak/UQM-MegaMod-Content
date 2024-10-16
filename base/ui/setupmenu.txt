@@ -848,7 +848,8 @@ An alternative UI inspired by Clay's "SC2 Redo" concept art
 
 #(CAT_46_OPTS)
 Disabled
-Enabled
+No Spoilers
+Spoilers
 
 #(CAT_46_OPT_0_DESC)
 Music that plays when you are in a star system
@@ -856,7 +857,13 @@ within an alien race's Sphere of Influence
 
 #(CAT_46_OPT_1_DESC)
 Music that plays when you are in a star system
-within an alien race's Sphere of Influence
+within an alien race's Sphere of Influence but
+only after you discover the alien race
+
+#(CAT_46_OPT_2_DESC)
+Music that plays when you are in a star system
+within an alien race's Sphere of Influence regardless
+if you've ever met them or not
 
 #(CAT_47_OPTS)
 Disabled
