@@ -1298,6 +1298,38 @@ Calcium Compounds
 Nitric Acid
 
 
+#(Common Compounds)
+Common Materials
+
+
+#(Corrosive Compounds)
+Corrosive Compounds
+
+
+#(Base Metals)
+Base Metals
+
+
+#(Noble Gasses)
+Noble Gasses
+
+
+#(Rare Earths)
+Rare Earths
+
+
+#(Precious Metals)
+Precious Metals
+
+
+#(Radioactive Materials)
+Radioactive Materials
+
+
+#(Exotic Materials)
+Exotic Materials
+
+
 #(MINERAL SCAN) -- SCAN_STRING_BASE
 MINERAL SCAN
 
