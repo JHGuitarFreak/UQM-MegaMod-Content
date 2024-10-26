@@ -99,6 +99,7 @@ Music Resume
 Platform UI
 Seed Type
 Sphere Colors
+Scatter Elements
 
 #(CAT_0_OPTS)
 Original
@@ -1400,6 +1401,18 @@ Default colors for alien spheres of influence (Default)
 
 #(CAT_83_OPT_1_DESC)
 Custom unique colors for alien spheres of influence
+
+#(CAT_84_OPTS)
+Disabled
+Enabled
+
+#(CAT_84_OPT_0_DESC)
+Scatter a percentage of the elements in the lander's
+cargo hold onto the planet's surface when the lander explodes
+
+#(CAT_84_OPT_1_DESC)
+Scatter a percentage of the elements in the lander's
+cargo hold onto the planet's surface when the lander explodes
 
 #(SLIDERS)
 Music Volume
