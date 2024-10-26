@@ -1,5 +1,5 @@
 #(TITLE)
-The Ur-Quan Masters Setup
+The Ur-Quan Masters MegaMod Setup
 
 #(SUBTITLES)
 
@@ -12,6 +12,7 @@ Advanced Options
 Edit Controls
 Music Options
 Visual Options
+Quality of Life Options
 
 #(CHOICES)
 Graphics
@@ -1437,6 +1438,7 @@ Edit Controls
 Back to Controls
 Music
 Visuals
+Quality of Life
 
 #(BUTTON_0_DESC)
 
@@ -1485,6 +1487,9 @@ Configure music options for UQM.
 
 #(BUTTON_11_DESC)
 Configure the look and feel of the MegaMod.
+
+#(BUTTON_12_DESC)
+Configure the Quality of Life additions in MegaMod.
 
 #(LABELS)
 Incomplete
