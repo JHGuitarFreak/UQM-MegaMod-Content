@@ -357,3 +357,8 @@ Farewell. We will be back when we've got everything we need.
 #(GOODBYE)	chmmr-044.ogg
 WE AWAIT YOUR RETURN.
 
+#(perhaps_not_install)
+Oof... I actually need to take care of a few things. Can we postpone the modifications?
+
+#(YES)	chmmr-045.ogg
+YES.  

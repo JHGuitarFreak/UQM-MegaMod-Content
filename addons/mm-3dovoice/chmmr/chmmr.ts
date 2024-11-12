@@ -74,3 +74,5 @@
 #(GOODBYE_AFTER_BOMB) 
 #(bye) 
 #(GOODBYE) 
+#(perhaps_not_install) 
+#(YES) 
