@@ -1,5 +1,5 @@
 #(TITLE)
-The Ur-Quan Masters Setup
+The Ur-Quan Masters MegaMod Setup
 
 #(SUBTITLES)
 
@@ -12,6 +12,7 @@ Advanced Options
 Edit Controls
 Music Options
 Visual Options
+Quality of Life Options
 
 #(CHOICES)
 Graphics
@@ -98,6 +99,7 @@ Music Resume
 Platform UI
 Seed Type
 Sphere Colors
+Scatter Elements
 
 #(CAT_0_OPTS)
 Original
@@ -1400,6 +1402,18 @@ Default colors for alien spheres of influence (Default)
 #(CAT_83_OPT_1_DESC)
 Custom unique colors for alien spheres of influence
 
+#(CAT_84_OPTS)
+Disabled
+Enabled
+
+#(CAT_84_OPT_0_DESC)
+Scatter a percentage of the elements in the lander's
+cargo hold onto the planet's surface when the lander explodes
+
+#(CAT_84_OPT_1_DESC)
+Scatter a percentage of the elements in the lander's
+cargo hold onto the planet's surface when the lander explodes
+
 #(SLIDERS)
 Music Volume
 SFX Volume
@@ -1437,6 +1451,7 @@ Edit Controls
 Back to Controls
 Music
 Visuals
+Quality of Life
 
 #(BUTTON_0_DESC)
 
@@ -1485,6 +1500,9 @@ Configure music options for UQM.
 
 #(BUTTON_11_DESC)
 Configure the look and feel of the MegaMod.
+
+#(BUTTON_12_DESC)
+Configure the Quality of Life additions in MegaMod.
 
 #(LABELS)
 Incomplete

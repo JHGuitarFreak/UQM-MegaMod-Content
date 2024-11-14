@@ -1,6 +1,6 @@
 addons/[^.]*
-!addons/3dovoice/
-addons/3dovoice/.*
+!addons/mm-3dovoice/
+addons/mm-3dovoice/.*
 !addons/mm-hd/
 addons/mm-hd/.*
 !addons/volasaurus-remix-pack/
@@ -11,10 +11,6 @@ addons/sol-textures-hd/.*
 addons/sol-textures-sd/.*
 !addons/classic-pack/
 addons/classic-pack/.*
-!addons/3dopadding/
-addons/3dopadding/.*
-!addons/DOSwind/
-addons/DOSwind/.*
 !addons/3do-mode-sd/
 addons/3do-mode-sd/.*
 !addons/3do-mode-hd/
@@ -23,7 +19,7 @@ addons/3do-mode-hd/.*
 addons/dos-mode-sd/.*
 !addons/dos-mode-hd/
 addons/dos-mode-hd/.*
-!addons/distorted-hayes/
-addons/distorted-hayes/.*
+!addons/mm-distorted-hayes/
+addons/mm-distorted-hayes/.*
 *.uqm
 .vs
