@@ -120,6 +120,7 @@ graphics.hyperstars = GFXRES:addons/mm-hd/nav/hyperstars.ani
 graphics.hyperstars.anim = GFXRES:addons/mm-hd/nav/animated/hyperstars.ani
 graphics.lander = GFXRES:addons/mm-hd/lander/lander.ani
 graphics.lander.pc = GFXRES:addons/mm-hd/lander/lander-pc.ani
+graphics.lander.mods = GFXRES:addons/mm-hd/lander/mods/mods.ani
 graphics.landerfonteffect = GFXRES:addons/mm-hd/lander/fonteffect.ani
 graphics.landerlaunch = GFXRES:addons/mm-hd/lander/launch.ani
 graphics.landerreturn = GFXRES:addons/mm-hd/lander/return.ani
