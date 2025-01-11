@@ -1546,7 +1546,7 @@ to assign to this action.
 &_Star System View Options
 
 #(LABEL_5)
-&_Scanning Screen Options
+&_Orbit Screen Options
 
 #(TEXT_ENTRIES)
 Current Layout Name
