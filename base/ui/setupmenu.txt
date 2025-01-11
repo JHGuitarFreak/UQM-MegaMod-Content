@@ -100,6 +100,7 @@ Platform UI
 Seed Type
 Sphere Colors
 Scatter Elements
+Show Lander Upgrades
 
 #(CAT_0_OPTS)
 Original
@@ -1413,6 +1414,16 @@ cargo hold onto the planet's surface when the lander explodes
 #(CAT_84_OPT_1_DESC)
 Scatter a percentage of the elements in the lander's
 cargo hold onto the planet's surface when the lander explodes
+
+#(CAT_85_OPTS)
+Disabled
+Enabled
+
+#(CAT_85_OPT_0_DESC)
+Show Lander upgrade graphics when exploring a planet.
+
+#(CAT_85_OPT_1_DESC)
+Show Lander upgrade graphics when exploring a planet.
 
 #(SLIDERS)
 Music Volume
