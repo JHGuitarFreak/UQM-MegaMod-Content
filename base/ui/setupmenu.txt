@@ -101,6 +101,7 @@ Seed Type
 Sphere Colors
 Scatter Elements
 Show Lander Upgrades
+Fleet Point System
 
 #(CAT_0_OPTS)
 Original
@@ -1424,6 +1425,20 @@ Show Lander upgrade graphics when exploring a planet.
 
 #(CAT_85_OPT_1_DESC)
 Show Lander upgrade graphics when exploring a planet.
+
+#(CAT_86_OPTS)
+Disabled
+Enabled
+
+#(CAT_86_OPT_0_DESC)
+Limits the amount of ships in your fleet via their melee points
+Max points start at Norm 80, Easy 160, Hard 40 and alliances raise
+the max by Norm 2x, Easy 3x, Hard 1x of the allied race's ship points
+
+#(CAT_86_OPT_1_DESC)
+Limits the amount of ships in your fleet via their melee points
+Max points start at Norm 80, Easy 160, Hard 40 and alliances raise
+the max by Norm 2x, Easy 3x, Hard 1x of the allied race's ship points
 
 #(SLIDERS)
 Music Volume
