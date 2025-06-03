@@ -215,6 +215,7 @@ graphics.fontgradient = GFXRES:base/fonts/fontgradient.ani
 graphics.fwiffo = GFXRES:base/lander/energy/fwiffo.ani
 graphics.hyperstars = GFXRES:base/nav/hyperstars.ani
 graphics.lander = GFXRES:base/lander/lander.ani
+graphics.lander.mods = GFXRES:base/lander/mods/mods.ani
 graphics.lander.pc = GFXRES:base/lander/lander-pc.ani
 graphics.landerfonteffect = GFXRES:base/lander/fonteffect.ani
 graphics.landerlaunch = GFXRES:base/lander/launch.ani
