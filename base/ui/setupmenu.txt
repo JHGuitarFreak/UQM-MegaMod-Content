@@ -13,6 +13,8 @@ Edit Controls
 Music Options
 Visual Options
 Quality of Life Options
+Device Options
+Upgrade Options
 
 #(CHOICES)
 Graphics
@@ -102,6 +104,44 @@ Sphere Colors
 Scatter Elements
 Show Lander Upgrades
 Fleet Point System
+Portal Spawner
+Talking Pet
+Utwig Bomb
+Sun Device
+Rosy Sphere
+Aqua Helix
+Clear Spindle
+Ultron (Broken)
+Ultron (Semi-Broken)
+Ultron (Semi-Fixed)
+Ultron (Fixed)
+Shofixti Maidens
+Umgah Hyperwave Broadcaster
+Burvixese Hyperwave 'Caster
+Taalo Protector
+Egg Casing 1
+Egg Casing 2
+Egg Casing 3
+Syreen Shuttle
+VUX Beast
+Slylandro Self-Destruct Code
+Ur-Quan Warp Pod
+Wimbli's Trident
+Glowing Rod
+Lunar Base
+Lander Speed
+Lander Cargo
+Lander Rapid Fire
+Lander Bio Shield
+Lander Quake Shield
+Lander Lightning Shield
+Lander Heat Shield
+Point Defense Module
+Fusion Blaster Module
+Hi-Eff Fuel Module
+Tracking Module
+Hellbore Cannon Module
+Shiva Furnace Module
 
 #(CAT_0_OPTS)
 Original
@@ -1440,6 +1480,424 @@ Limits the amount of ships in your fleet via their melee points
 Max points start at Norm 80, Easy 160, Hard 40 and alliances raise
 the max by Norm 2x, Easy 3x, Hard 1x of the allied race's ship points
 
+#(CAT_87_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_87_OPT_0_DESC)
+
+#(CAT_87_OPT_1_DESC)
+
+#(CAT_87_OPT_2_DESC)
+
+#(CAT_88_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_88_OPT_0_DESC)
+
+#(CAT_88_OPT_1_DESC)
+
+#(CAT_88_OPT_2_DESC)
+
+#(CAT_89_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_89_OPT_0_DESC)
+
+#(CAT_89_OPT_1_DESC)
+
+#(CAT_89_OPT_2_DESC)
+
+#(CAT_90_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_90_OPT_0_DESC)
+
+#(CAT_90_OPT_1_DESC)
+
+#(CAT_90_OPT_2_DESC)
+
+#(CAT_91_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_91_OPT_0_DESC)
+
+#(CAT_91_OPT_1_DESC)
+
+#(CAT_91_OPT_2_DESC)
+
+#(CAT_92_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_92_OPT_0_DESC)
+
+#(CAT_92_OPT_1_DESC)
+
+#(CAT_92_OPT_2_DESC)
+
+#(CAT_93_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_93_OPT_0_DESC)
+
+#(CAT_93_OPT_1_DESC)
+
+#(CAT_93_OPT_2_DESC)
+
+#(CAT_94_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_94_OPT_0_DESC)
+
+#(CAT_94_OPT_1_DESC)
+
+#(CAT_94_OPT_2_DESC)
+
+#(CAT_95_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_95_OPT_0_DESC)
+
+#(CAT_95_OPT_1_DESC)
+
+#(CAT_95_OPT_2_DESC)
+
+#(CAT_96_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_96_OPT_0_DESC)
+
+#(CAT_96_OPT_1_DESC)
+
+#(CAT_96_OPT_2_DESC)
+
+#(CAT_97_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_97_OPT_0_DESC)
+
+#(CAT_97_OPT_1_DESC)
+
+#(CAT_97_OPT_2_DESC)
+
+#(CAT_98_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_98_OPT_0_DESC)
+
+#(CAT_98_OPT_1_DESC)
+
+#(CAT_98_OPT_2_DESC)
+
+#(CAT_99_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_99_OPT_0_DESC)
+
+#(CAT_99_OPT_1_DESC)
+
+#(CAT_99_OPT_2_DESC)
+
+#(CAT_100_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_100_OPT_0_DESC)
+
+#(CAT_100_OPT_1_DESC)
+
+#(CAT_100_OPT_2_DESC)
+
+#(CAT_101_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_101_OPT_0_DESC)
+
+#(CAT_101_OPT_1_DESC)
+
+#(CAT_101_OPT_2_DESC)
+
+#(CAT_102_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_102_OPT_0_DESC)
+
+#(CAT_102_OPT_1_DESC)
+
+#(CAT_102_OPT_2_DESC)
+
+#(CAT_103_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_103_OPT_0_DESC)
+
+#(CAT_103_OPT_1_DESC)
+
+#(CAT_103_OPT_2_DESC)
+
+#(CAT_104_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_104_OPT_0_DESC)
+
+#(CAT_104_OPT_1_DESC)
+
+#(CAT_104_OPT_2_DESC)
+
+#(CAT_105_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_105_OPT_0_DESC)
+
+#(CAT_105_OPT_1_DESC)
+
+#(CAT_105_OPT_2_DESC)
+
+#(CAT_106_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_106_OPT_0_DESC)
+
+#(CAT_106_OPT_1_DESC)
+
+#(CAT_106_OPT_2_DESC)
+
+#(CAT_107_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_107_OPT_0_DESC)
+
+#(CAT_107_OPT_1_DESC)
+
+#(CAT_107_OPT_2_DESC)
+
+#(CAT_108_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_108_OPT_0_DESC)
+
+#(CAT_108_OPT_1_DESC)
+
+#(CAT_108_OPT_2_DESC)
+
+#(CAT_109_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_109_OPT_0_DESC)
+
+#(CAT_109_OPT_1_DESC)
+
+#(CAT_109_OPT_2_DESC)
+
+#(CAT_110_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_110_OPT_0_DESC)
+
+#(CAT_110_OPT_1_DESC)
+
+#(CAT_110_OPT_2_DESC)
+
+#(CAT_111_OPTS)
+Do Nothing
+Remove Device
+Add Device
+
+#(CAT_111_OPT_0_DESC)
+
+#(CAT_111_OPT_1_DESC)
+
+#(CAT_111_OPT_2_DESC)
+
+#(CAT_112_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_112_OPT_0_DESC)
+
+#(CAT_112_OPT_1_DESC)
+
+#(CAT_112_OPT_2_DESC)
+
+#(CAT_113_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_113_OPT_0_DESC)
+
+#(CAT_113_OPT_1_DESC)
+
+#(CAT_113_OPT_2_DESC)
+
+#(CAT_114_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_114_OPT_0_DESC)
+
+#(CAT_114_OPT_1_DESC)
+
+#(CAT_114_OPT_2_DESC)
+
+#(CAT_115_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_115_OPT_0_DESC)
+
+#(CAT_115_OPT_1_DESC)
+
+#(CAT_115_OPT_2_DESC)
+
+#(CAT_116_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_116_OPT_0_DESC)
+
+#(CAT_116_OPT_1_DESC)
+
+#(CAT_116_OPT_2_DESC)
+
+#(CAT_117_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_117_OPT_0_DESC)
+
+#(CAT_117_OPT_1_DESC)
+
+#(CAT_117_OPT_2_DESC)
+
+#(CAT_118_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_118_OPT_0_DESC)
+
+#(CAT_118_OPT_1_DESC)
+
+#(CAT_118_OPT_2_DESC)
+
+#(CAT_119_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_119_OPT_0_DESC)
+
+#(CAT_119_OPT_1_DESC)
+
+#(CAT_119_OPT_2_DESC)
+
+#(CAT_120_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_120_OPT_0_DESC)
+
+#(CAT_120_OPT_1_DESC)
+
+#(CAT_120_OPT_2_DESC)
+
+#(CAT_121_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_121_OPT_0_DESC)
+
+#(CAT_121_OPT_1_DESC)
+
+#(CAT_121_OPT_2_DESC)
+
+#(CAT_122_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_122_OPT_0_DESC)
+
+#(CAT_122_OPT_1_DESC)
+
+#(CAT_122_OPT_2_DESC)
+
+#(CAT_123_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_123_OPT_0_DESC)
+
+#(CAT_123_OPT_1_DESC)
+
+#(CAT_123_OPT_2_DESC)
+
+#(CAT_124_OPTS)
+Do Nothing
+Remove Upgrade
+Add Upgrade
+
+#(CAT_124_OPT_0_DESC)
+
+#(CAT_124_OPT_1_DESC)
+
+#(CAT_124_OPT_2_DESC)
+
 #(SLIDERS)
 Music Volume
 SFX Volume
@@ -1478,6 +1936,9 @@ Back to Controls
 Music
 Visuals
 Quality of Life
+Devices
+Upgrades
+Return to Cheats
 
 #(BUTTON_0_DESC)
 
@@ -1529,6 +1990,17 @@ Configure the look and feel of the MegaMod.
 
 #(BUTTON_12_DESC)
 Configure the Quality of Life additions in MegaMod.
+
+#(BUTTON_13_DESC)
+Add and/or Remove devices from a New or Loaded game.
+
+#(BUTTON_14_DESC)
+Add and/or Remove upgrades from a New or Loaded game.
+
+#(BUTTON_9_DESC)
+
+
+Return to the Cheat options menu.
 
 #(LABELS)
 Incomplete
