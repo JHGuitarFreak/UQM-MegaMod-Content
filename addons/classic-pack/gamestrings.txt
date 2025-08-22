@@ -1880,6 +1880,14 @@ Remaining Crew:
 Cdr. Hayes
 
 
+#(Fleet Points: )
+Fleet Points: 
+
+
+#(FP: )
+FP: 
+
+
 #(ships)
 ships
 
