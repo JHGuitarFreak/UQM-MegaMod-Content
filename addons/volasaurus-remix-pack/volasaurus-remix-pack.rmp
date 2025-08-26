@@ -97,3 +97,23 @@ space.utwig.music = MUSICRES:addons/volasaurus-remix-pack/space/utwig.ogg
 space.vux.music = MUSICRES:addons/volasaurus-remix-pack/space/vux.ogg
 space.yehat.music = MUSICRES:addons/volasaurus-remix-pack/space/yehat.ogg
 space.zoqfotpik.music = MUSICRES:addons/volasaurus-remix-pack/space/zoqfotpik.ogg
+
+hyperspace.arilou.music = MUSICRES:addons/volasaurus-remix-pack/hyperspace/arilou.ogg
+hyperspace.ilwrath.music = MUSICRES:addons/volasaurus-remix-pack/hyperspace/ilwrath.ogg
+hyperspace.pkunk.music = MUSICRES:addons/volasaurus-remix-pack/hyperspace/pkunk.ogg
+hyperspace.spathi.music = MUSICRES:addons/volasaurus-remix-pack/hyperspace/spathi.ogg
+hyperspace.umgah.music = MUSICRES:addons/volasaurus-remix-pack/hyperspace/umgah.ogg
+
+hyperspace.chmmr.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.druuge.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.kohrah.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.mycon.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.orz.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.supox.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.syreen.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.thraddash.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.urquan.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.utwig.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.vux.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.yehat.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
+hyperspace.zoqfotpik.music = MUSICRES:addons/volasaurus-remix-pack/incidental/hyperspace.ogg
