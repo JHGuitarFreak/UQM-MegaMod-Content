@@ -142,6 +142,7 @@ Hi-Eff Fuel Module
 Tracking Module
 Hellbore Cannon Module
 Shiva Furnace Module
+Seed Ship Allocation
 
 #(CAT_0_OPTS)
 Original
@@ -1893,6 +1894,16 @@ Add Upgrade
 #(CAT_124_OPT_1_DESC)
 
 #(CAT_124_OPT_2_DESC)
+
+#(CAT_125_OPTS)
+Disabled
+Enabled
+
+#(CAT_125_OPT_0_DESC)
+Ships are assigned to their normal races.
+
+#(CAT_125_OPT_1_DESC)
+Ship assignment to race is seeded based on the custom seed.
 
 #(SLIDERS)
 Music Volume

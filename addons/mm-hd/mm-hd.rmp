@@ -503,6 +503,7 @@ ship.mmrnmhrm.graphics.ywing.medium = GFXRES:addons/mm-hd/ships/mmrnmhrm/ywing-m
 ship.mmrnmhrm.graphics.ywing.small = GFXRES:addons/mm-hd/ships/mmrnmhrm/ywing-sml.ani
 ship.mmrnmhrm.icons = GFXRES:addons/mm-hd/ships/mmrnmhrm/xform-icons.ani
 ship.mmrnmhrm.meleeicons = GFXRES:addons/mm-hd/ships/mmrnmhrm/xform-meleeicons.ani
+ship.mmrnmhrm.meleeicons.y = GFXRES:addons/mm-hd/ships/mmrnmhrm/ywing-meleeicons.ani
 ship.mycon.graphics.captain = GFXRES:addons/mm-hd/ships/mycon/podship-cap.ani
 ship.mycon.graphics.plasma.large = GFXRES:addons/mm-hd/ships/mycon/plasma-big.ani
 ship.mycon.graphics.plasma.medium = GFXRES:addons/mm-hd/ships/mycon/plasma-med.ani
