@@ -2544,10 +2544,6 @@ cargo
 roster
 
 
-#(journal)
-journal
-
-
 #(game)
 game
 
@@ -2668,8 +2664,12 @@ flagship
 exit menu
 
 
-#()
+#(must restart)
+In order for your changes to take effect, 
+you must restart the game.
 
+The game will shut down now -
+we apologise for the inconvenience!
 
 
 #(Addon not found...)
@@ -2699,10 +2699,6 @@ starmap
 
 #(manifest)
 manifest
-
-
-#(journal)
-journal
 
 
 #(game)
