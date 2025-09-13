@@ -775,6 +775,7 @@ ship.mmrnmhrm.graphics.ywing.medium = GFXRES:base/ships/mmrnmhrm/ywing-med.ani
 ship.mmrnmhrm.graphics.ywing.small = GFXRES:base/ships/mmrnmhrm/ywing-sml.ani
 ship.mmrnmhrm.icons = GFXRES:base/ships/mmrnmhrm/xform-icons.ani
 ship.mmrnmhrm.meleeicons = GFXRES:base/ships/mmrnmhrm/xform-meleeicons.ani
+ship.mmrnmhrm.meleeicons.y = GFXRES:base/ships/mmrnmhrm/ywing-meleeicons.ani
 ship.mmrnmhrm.sounds = SNDRES:base/ships/mmrnmhrm/xform.snd
 ship.mmrnmhrm.text = STRTAB:base/ships/mmrnmhrm/xform.txt
 ship.mycon.code = SHIP:10
