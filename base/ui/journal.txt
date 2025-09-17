@@ -45,6 +45,16 @@ Inform Earth Starbase about Hierarchy base on Luna
 Convince Earth Starbase to join the fight against the Ur-Quan
 
 
+#(FIND_FWIFFO)
+Find the source of the mysterious signal out near Uranus
+
+#(RECRUIT_FWIFFO)
+Convince Fwiffo to join you
+
+#(MET_FWIFFO)
+Met Fwiffo
+
+
 #(CONTACT_ARILOU)
 Re-establish contact with the Arilou
 
