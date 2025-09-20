@@ -6,14 +6,19 @@ OPEN:
 #(CLOSED_OBJECTIVE)
 CLOSED:
 
+
+#(PRESS_LEFT_RIGHT)
+PRESS LEFT OR RIGHT TO SHOW THE OTHER JOURNALS
+
+
 #(OBJECTIVES_JOURNAL_HEADER)
 Objectives
 
 #(ALIENS_JOURNAL_HEADER)
-Alien Races
+Aliens
 
 #(ARTIFACTS_JOURNAL_HEADER)
-Artifacts & Points of Interest
+Artifacts
 
 
 #(VISIT_EARTH)
@@ -60,6 +65,10 @@ Convince Fwiffo to join you
 Met Fwiffo
 
 
+#(INVESTIGATE_RIGEL)
+Investigate the HyperWave transmission coming from <% comm.getStarName("Rigel", "zoq scout") %>
+
+
 #(CONTACT_ARILOU)
 Re-establish contact with the Arilou
 
@@ -67,22 +76,25 @@ Re-establish contact with the Arilou
 Re-establish contact with the Chenjesu
 
 #(CONTACT_MELNORME)
-Make contact with the Melnorme
+Make contact with the Melnorme at <% comm.getStarName("Alpha Centauri", "melnorme 1") %>
+
+#(MET_THE_MELNORME)
+Met the Melnorme
 
 #(CONTACT_MMRNMHRM)
 Re-establish contact with the Mmrnmhrm
 
-#(CONTACT_ORZ)
-Make contact with the Orz
+#(CONTACT_ANDROSYNTH)
+Investigate the Androsynth at their home star, <% comm.getStarName("Eta Vulpeculae", "androsynth") %>
 
 #(VISIT_ORZ_HOMEWORLD)
-Visit the Orz homeworld in Gamma Vulpeculae
+Visit the Orz homeworld in <% comm.getStarName("Gamma Vulpeculae", "orz") %>
 
 #(ALLY_ORZ)
 Form alliance with the Orz
 
 #(CONTACT_PKUNK)
-Make contact with the Pkunk
+Investigate the Pkunk located around the <% comm.getConstellation("Giclas", "pkunk") %> constellation
 
 #(CONTACT_SHOFIXTI)
 Re-establish contact with the Shofixti
