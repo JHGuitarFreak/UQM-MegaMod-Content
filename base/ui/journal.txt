@@ -75,14 +75,14 @@ Re-establish contact with the Arilou
 #(CONTACT_CHENJESU)
 Re-establish contact with the Chenjesu
 
+#(CONTACT_MMRNMHRM)
+Re-establish contact with the Mmrnmhrm
+
 #(CONTACT_MELNORME)
 Make contact with the Melnorme at <% comm.getStarName("Alpha Centauri", "melnorme 1") %>
 
 #(MET_THE_MELNORME)
 Met the Melnorme
-
-#(CONTACT_MMRNMHRM)
-Re-establish contact with the Mmrnmhrm
 
 #(CONTACT_ANDROSYNTH)
 Investigate the Androsynth at their home star, <% comm.getStarName("Eta Vulpeculae", "androsynth") %>
@@ -93,11 +93,32 @@ Visit the Orz homeworld in <% comm.getStarName("Gamma Vulpeculae", "orz") %>
 #(ALLY_ORZ)
 Form alliance with the Orz
 
-#(CONTACT_PKUNK)
-Investigate the Pkunk located around the <% comm.getConstellation("Giclas", "pkunk") %> constellation
+
+#(HEARD_OF_PKUNK_ILWRATH)
+Investigate the Pkunk mentioned by the Ilwrath located around the <% comm.getConstellation("Giclas", "pkunk") %> constellation
+
+#(HEARD_OF_PKUNK_MELNORME)
+Find the Pkunk mentioned by the Melnorme located around the <% comm.getConstellation("Lacaille and Krueger", "pkunk") %><% comm.swapIfSeeded(" constellations", " constellation") %>
+
+#(GO_TO_PKUNK_HOMEWORLD)
+Go to the Pkunk homeworld loacated in the <% comm.getStarName("Gamma Krueger", "pkunk") %> star system
+
+#(MET_THE_PKUNK)
+Met the Pkunk at their homeworld
+
 
 #(CONTACT_SHOFIXTI)
-Re-establish contact with the Shofixti
+Re-establish contact with the Shofixti at <% comm.getStarName("Delta Gorno", "shofixti") %>
+
+#(RECRUIT_THE_SHOFIXTI)
+Find a way to recruit the Shofixti
+
+#(SENT_SHOFIXTI)
+Sent the Shofixti off to repopulate
+
+#(SHOFIXTI_REPOPULATED)
+The Shofixti have been repopulated!
+
 
 #(CONTACT_SPATHI)
 Make contact with the Spathi
@@ -160,9 +181,6 @@ Find a use for the Aqua Helix
 #(USE_AQUAHELIX)
 Use the Aqua Helix to repair the Ultron
 
-#(SELL_BURVCASTER)
-Sell the Burvixese 'Caster to the Druuge
-
 #(GET_CLEARSPINDLE)
 Acquire the Clear Spindle from the Pkunk
 
@@ -172,17 +190,8 @@ Find a use for the Clear Spindle
 #(USE_CLEARSPINDLE)
 Use the Clear Spindle to repair the Ultron
 
-#(GET_GLOWINGROD)
-Purchase the Glowing Rod from the Druuge
-
-#(LEARN_GLOWINGROD)
-Find a use for the Glowing Rod
-
 #(GET_EGGCASE)
 Acquire Mycon Egg Case fragments
-
-#(SELL_EGGCASE)
-Sell Mycon Egg Case fragments to the Druuge
 
 #(GET_ROSYSPHERE)
 Purchase the Rosy Sphere from the Druuge
@@ -195,9 +204,6 @@ Use the Rosy Sphere to repair the Ultron
 
 #(GET_MAIDENS)
 Acquire the Shofixti Maidens from VUX Admiral ZEX in Alpha Cerenkov
-
-#(SELL_MAIDENS)
-Sell the Shofixti Maidens to the Druuge
 
 #(CHECK_PLAYGROUND)
 Investigate the Orz's 'Taalo Playground' on Delta Vulpeculae II-C
@@ -220,14 +226,11 @@ Give the Warp Pod to the Arilou on Falayalaralfali
 #(GET_SPAWNER)
 Acquire the Portal Spawner from the Arilou
 
-#(SELL_SPAWNER)
-Sell the Portal Spawner to the Druuge
+#(GET_BOMB)
+Acquire the Utwig bomb
 
-#(GET_WIMBLISTRIDENT)
-Purchase Wimbli's Trident from the Druuge
-
-#(LEARN_WIMBLISTRIDENT)
-Find a use for Wimbli's Trident
+#(IMPROVE_BOMB)
+Improve the Utwig bomb
 
 
 #(FIND_RAINBOW)
@@ -248,12 +251,6 @@ Find a way to defeat the Ur-Quan
 
 #(FIND_DESTROY_SAMATRA)
 Find a way to destroy the Sa-Matra
-
-#(GET_BOMB)
-Acquire the Utwig bomb
-
-#(IMPROVE_BOMB)
-Improve the Utwig bomb
 
 #(FIND_ACCESS_SAMATRA)
 Find a way to reach the Sa-Matra
