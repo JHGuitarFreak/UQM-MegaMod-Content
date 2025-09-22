@@ -123,11 +123,23 @@ The Shofixti have been repopulated!
 #(CONTACT_SPATHI)
 Make contact with the Spathi
 
+
 #(CONTACT_SUPOX)
-Make contact with the Supox
+Make contact with the Supox (Their homeworld is in the <% comm.getStarName("Beta Librae", "supox") %> star system)
+
+#(MET_THE_SUPOX)
+Made contact with the Supox
+
 
 #(CONTACT_SYREEN)
 Re-establish contact with the Syreen
+
+#(CONTACT_SYREEN_HW)
+Make contact with the Syreen at their homeworld in the <% comm.getStarName("Betelgeuse", "syreen") %> star system
+
+#(MET_THE_SYREEN)
+Made contact with the Syreen
+
 
 #(CONTACT_THRADDASH)
 Make contact with the Thraddash
