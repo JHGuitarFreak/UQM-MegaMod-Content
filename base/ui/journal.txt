@@ -94,6 +94,9 @@ Visit the Orz homeworld in <% comm.getStarName("Gamma Vulpeculae", "orz") %>
 Form alliance with the Orz
 
 
+#(HAYES_PKUNK)
+Investigate Hayes' information about an alien race in the <% comm.getConstellation("Giclas", "pkunk") %> constellation
+
 #(HEARD_OF_PKUNK_ILWRATH)
 Investigate the Pkunk mentioned by the Ilwrath located around the <% comm.getConstellation("Giclas", "pkunk") %> constellation
 
@@ -141,8 +144,12 @@ Make contact with the Syreen at their homeworld in the <% comm.getStarName("Bete
 Made contact with the Syreen
 
 
+#(HAYES_THRADDASH)
+Investigate Hayes' information about an alien race in the <% comm.getConstellation("Draconis", "thraddash") %> constellation
+
 #(CONTACT_THRADDASH)
 Make contact with the Thraddash
+
 
 #(CONTACT_UTWIG)
 Make contact with the Utwig
@@ -153,8 +160,13 @@ Make contact with the Umgah
 #(CONTACT_YEHAT)
 Re-establish contact with the Yehat
 
+
+#(HAYES_ZFP)
+Investigate Hayes' information about an alien race <% comm.swapIfSeeded("directly coreward ", "near the ") %><% comm.getConstellation("from", "zoqfot") %><% comm.swapIfSeeded(" Procyon", " constellation") %>
+
 #(CONTACT_ZOQFOTPIK)
 Make contact with the Zoq-Fot-Pik
+
 
 #(FIND_PORTAL_TIME)
 Search for a 'doorway' in HyperSpace from the 17th to the 20th
