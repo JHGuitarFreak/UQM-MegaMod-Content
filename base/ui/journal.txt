@@ -147,8 +147,14 @@ Made contact with the Syreen
 #(HAYES_THRADDASH)
 Investigate Hayes' information about an alien race in the <% comm.getConstellation("Draconis", "thraddash") %> constellation
 
-#(CONTACT_THRADDASH)
-Make contact with the Thraddash
+#(GENERAL_THRADDASH)
+Investigate the Thraddash located in the <% comm.getConstellation("Draconis", "thraddash") %> constellation
+
+#(MELNORME_THRADDASH)
+Investigate the Thraddash located in the <% comm.getStarName("Delta Draconis", "thraddash") %> star system
+
+#(CONTACTED_THRADDASH)
+Made contact with the Thraddash
 
 
 #(CONTACT_UTWIG)
@@ -197,7 +203,7 @@ Acquire the Dnyarri to use against the Ur-Quan
 
 
 #(GET_AQUAHELIX)
-Acquire the Aqua Helix from the Thraddash
+Investigate the Aqua Helix artifact in Thraddash space in the <% comm.getStarName("Zeta Draconis", "aqua helix") %> star system
 
 #(LEARN_AQUAHELIX)
 Find a use for the Aqua Helix
