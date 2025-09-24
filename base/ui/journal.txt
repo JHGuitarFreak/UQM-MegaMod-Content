@@ -157,11 +157,19 @@ Investigate the Thraddash located in the <% comm.getStarName("Delta Draconis", "
 Made contact with the Thraddash
 
 
-#(CONTACT_UTWIG)
-Make contact with the Utwig
+#(INVESTIGATE_UWTIG)
+Investigate the Utwig located in the <% comm.getConstellation("Draconis", "thraddash") %> constellation
+
+#(CONTACTED_UTWIG)
+Made contact with the Utwig
+
 
 #(CONTACT_UMGAH)
-Make contact with the Umgah
+Make contact with the Umgah in the <% comm.getConstellation("Orionis", "talking pet") %> constellation
+
+#(MET_THE_UMGAH)
+Made contact with the Umgah
+
 
 #(CONTACT_YEHAT)
 Re-establish contact with the Yehat
