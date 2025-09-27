@@ -188,6 +188,25 @@ Investigate Hayes' information about an alien race <% comm.swapIfSeeded("directl
 Make contact with the Zoq-Fot-Pik
 
 
+#(INV_SLYLANDRO_PROBE)
+Find the source of the mysterious tumbling probes
+
+#(INV_SLYLANDRO_ZFP)
+Investigate the information provided to you from the Zoq-Fot-Pik about the probes coming from somewhere <% comm.swapIfSeeded("on a direct line", "in the") %> <% comm.getConstellation("that includes the Zoq-Fot-Pik star, and", "slylandro") %><%comm.swapIfSeeded(" Epsilon Muscae", " system") %>
+
+#(INV_SLY_THRADD_00)
+Investigate the information provided to you from the Thraddash about the probes coming from the <% comm.getConstellation("Vega", "slylandro") %> constellation
+
+#(INV_SLY_THRADD_01)
+Investigate the probe around the strange planet in the <% comm.getStarName("Epsilon Draconis", "rainbow 5") %> star system
+
+#(MELNORME_SLYLANDRO)
+Investigate the source of the Slylandro Probes in the <% comm.getStarName("Beta Corvi", "slylandro") %> star system
+
+#(SLY_PROBE_FAULTY)
+Figure out how to convince the Slylandro their probes are hostile
+
+
 #(FIND_PORTAL_TIME)
 Search for a 'doorway' in HyperSpace from the 17th to the 20th
 
