@@ -22,10 +22,10 @@ Artifacts
 
 
 #(VISIT_EARTH)
-Return to Earth
+Establish contact with Earth
 
 #(CONTACT_EARTH)
-Contact Earth Starbase
+Visit the Earth Starbase
 
 #(GET_RADIOACTIVES)
 Acquire radioactives for Earth Starbase
@@ -157,7 +157,7 @@ Investigate the Thraddash located in the <% comm.getStarName("Delta Draconis", "
 Made contact with the Thraddash
 
 
-#(INVESTIGATE_UWTIG)
+#(INVESTIGATE_UTWIG)
 Investigate the Utwig located in the <% comm.getConstellation("Draconis", "thraddash") %> constellation
 
 #(CONTACTED_UTWIG)
@@ -173,6 +173,12 @@ Made contact with the Umgah
 
 #(CONTACT_YEHAT)
 Re-establish contact with the Yehat
+
+#(MELNORME_YEHAT)
+Make contect with the Yehat in the <% comm.getStarName("Gamma Serpentis", "yehat") %> star system
+
+#(MET_THE_YEHAT)
+Met the Yehat
 
 
 #(HAYES_ZFP)
@@ -252,6 +258,7 @@ Acquire the Taalo Mind Shield from Delta Vulpeculae II-C
 #(CHECK_CRASH_SITE)
 Investigate a possible Ur-Quan Dreadnought crash site in Alpha Pavonis
 
+
 #(GET_WARPPOD)
 Acquire the Ur-Quan Warp Pod from Alpha Pavonis VII
 
@@ -260,6 +267,7 @@ Find a use for the Ur-Quan Warp Pod
 
 #(GIVE_WARPPOD)
 Give the Warp Pod to the Arilou on Falayalaralfali
+
 
 #(GET_SPAWNER)
 Acquire the Portal Spawner from the Arilou
