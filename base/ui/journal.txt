@@ -84,6 +84,7 @@ Make contact with the Melnorme at <% comm.getStarName("Alpha Centauri", "melnorm
 #(MET_THE_MELNORME)
 Met the Melnorme
 
+
 #(CONTACT_ANDROSYNTH)
 Investigate the Androsynth at their home star, <% comm.getStarName("Eta Vulpeculae", "androsynth") %>
 
@@ -204,7 +205,10 @@ Investigate the probe around the strange planet in the <% comm.getStarName("Epsi
 Investigate the source of the Slylandro Probes in the <% comm.getStarName("Beta Corvi", "slylandro") %> star system
 
 #(SLY_PROBE_FAULTY)
-Figure out how to convince the Slylandro their probes are hostile
+Convince the Slylandro their probes are hostile
+
+#(SLYLANDRO_CONVINCED)
+The Slylandro have been convinced their probes are hostile and you have the self-destruct code
 
 
 #(FIND_PORTAL_TIME)
@@ -244,6 +248,7 @@ Find a use for the Aqua Helix
 #(USE_AQUAHELIX)
 Use the Aqua Helix to repair the Ultron
 
+
 #(GET_CLEARSPINDLE)
 Acquire the Clear Spindle from the Pkunk
 
@@ -253,8 +258,10 @@ Find a use for the Clear Spindle
 #(USE_CLEARSPINDLE)
 Use the Clear Spindle to repair the Ultron
 
+
 #(GET_EGGCASE)
 Acquire Mycon Egg Case fragments
+
 
 #(GET_ROSYSPHERE)
 Purchase the Rosy Sphere from the Druuge
@@ -265,8 +272,10 @@ Find a use for the Rosy Sphere
 #(USE_ROSYSPHERE)
 Use the Rosy Sphere to repair the Ultron
 
+
 #(GET_MAIDENS)
 Acquire the Shofixti Maidens from VUX Admiral ZEX in Alpha Cerenkov
+
 
 #(CHECK_PLAYGROUND)
 Investigate the Orz's 'Taalo Playground' on Delta Vulpeculae II-C
@@ -274,9 +283,9 @@ Investigate the Orz's 'Taalo Playground' on Delta Vulpeculae II-C
 #(GET_MINDSHIELD)
 Acquire the Taalo Mind Shield from Delta Vulpeculae II-C
 
+
 #(CHECK_CRASH_SITE)
 Investigate a possible Ur-Quan Dreadnought crash site in Alpha Pavonis
-
 
 #(GET_WARPPOD)
 Acquire the Ur-Quan Warp Pod from Alpha Pavonis VII
