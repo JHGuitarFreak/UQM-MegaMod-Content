@@ -10,3 +10,5 @@ graphics.meleemenu = GFXRES:addons/3do-mode-sd/ui/meleemenu.ani
 graphics.meleepickship = GFXRES:addons/3do-mode-sd/ui/meleepickship.ani
 graphics.playmenu = GFXRES:addons/3do-mode-sd/ui/playmenu.ani
 graphics.shipyard = GFXRES:addons/3do-mode-sd/ui/shipyard.ani
+
+ship.samatra.graphics.captain = GFXRES:addons/3do-mode-sd/ships/samatra/samatra-cap.ani
