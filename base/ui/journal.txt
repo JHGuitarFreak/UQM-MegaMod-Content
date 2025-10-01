@@ -18,7 +18,7 @@ Objectives
 Aliens
 
 #(ARTIFACTS_JOURNAL_HEADER)
-Artifacts
+Curiosities
 
 
 #(VISIT_EARTH)
@@ -199,7 +199,7 @@ Investigate the information provided to you from the Zoq-Fot-Pik about the probe
 Investigate the information provided to you from the Thraddash about the probes coming from the <% comm.getConstellation("Vega", "slylandro") %> constellation
 
 #(INV_SLY_THRADD_01)
-Investigate the probe around the strange planet in the <% comm.getStarName("Epsilon Draconis", "rainbow 5") %> star system
+Investigate the probe and the strange planet it's orbiting in the <% comm.getStarName("Epsilon Draconis", "rainbow 5") %> star system
 
 #(MELNORME_SLYLANDRO)
 Investigate the source of the Slylandro Probes in the <% comm.getStarName("Beta Corvi", "slylandro") %> star system
@@ -307,17 +307,42 @@ Acquire the Utwig bomb
 Improve the Utwig bomb
 
 
-#(FIND_RAINBOW)
-Locate 'Rainbow Worlds'
-
 #(FIND_RAINBOW_SEXTANTIS)
 Investigate 'very strange planet' at Zeta Sextantis I
 
-#(FIND_RAINBOW_DRACONIS)
-Investigate 'strange planet' in Epsilon Draconis
-
 #(FIND_RAINBOW_LEPORIS)
 Investigate strange radioactive planet in Beta Leporis
+
+
+#(FOUND_RAINBOW_0)
+Found a Rainbow World in the <% comm.getStarName("Zeta Sextantis", "rainbow 0") %> star system
+
+#(FOUND_RAINBOW_1)
+Found a Rainbow World in the <% comm.getStarName("Gamma Kepler", "rainbow 1") %> star system
+
+#(FOUND_RAINBOW_2)
+Found a Rainbow World in the <% comm.getStarName("Gamma Reticuli", "rainbow 2") %> star system
+
+#(FOUND_RAINBOW_3)
+Found a Rainbow World in the <% comm.getStarName("Alpha Andromedae", "rainbow 3") %> star system
+
+#(FOUND_RAINBOW_4)
+Found a Rainbow World in the <% comm.getStarName("Beta Pegasi", "rainbow 4") %> star system
+
+#(FOUND_RAINBOW_5)
+Found a Rainbow World in the <% comm.getStarName("Epsilon Draconis", "rainbow 5") %> star system
+
+#(FOUND_RAINBOW_6)
+Found a Rainbow World in the <% comm.getStarName("Epsilon Lipi", "rainbow 6") %> star system
+
+#(FOUND_RAINBOW_7)
+Found a Rainbow World in the <% comm.getStarName("Beta Leporis", "rainbow 7") %> star system
+
+#(FOUND_RAINBOW_8)
+Found a Rainbow World in the <% comm.getStarName("Gamma Aquarii", "rainbow 8") %> star system
+
+#(FOUND_RAINBOW_9)
+Found a Rainbow World in the <% comm.getStarName("Groombridge", "rainbow 9") %> star system
 
 
 #(FIND_DEFEAT_URQUAN)
