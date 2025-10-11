@@ -8,8 +8,11 @@ CLOSED:
 
 
 #(PRESS_LEFT_RIGHT)
-PRESS LEFT OR RIGHT TO SHOW THE OTHER JOURNALS
+PRESS LEFT OR RIGHT TO SHOW THE OTHER LOGS
 
+
+#(CAPTAINS_LOG)
+Captain's Log
 
 #(OBJECTIVES_JOURNAL_HEADER)
 Objectives
@@ -315,34 +318,34 @@ Investigate strange radioactive planet in Beta Leporis
 
 
 #(FOUND_RAINBOW_0)
-Found a Rainbow World in the <% comm.getStarName("Zeta Sextantis", "rainbow 0") %> star system
+Visited Rainbow World at <% comm.getStarName("Zeta Sextantis", "rainbow 0") %>
 
 #(FOUND_RAINBOW_1)
-Found a Rainbow World in the <% comm.getStarName("Gamma Kepler", "rainbow 1") %> star system
+Visited Rainbow World at <% comm.getStarName("Gamma Kepler", "rainbow 1") %>
 
 #(FOUND_RAINBOW_2)
-Found a Rainbow World in the <% comm.getStarName("Gamma Reticuli", "rainbow 2") %> star system
+Visited Rainbow World at <% comm.getStarName("Gamma Reticuli", "rainbow 2") %>
 
 #(FOUND_RAINBOW_3)
-Found a Rainbow World in the <% comm.getStarName("Alpha Andromedae", "rainbow 3") %> star system
+Visited Rainbow World at <% comm.getStarName("Alpha Andromedae", "rainbow 3") %>
 
 #(FOUND_RAINBOW_4)
-Found a Rainbow World in the <% comm.getStarName("Beta Pegasi", "rainbow 4") %> star system
+Visited Rainbow World at <% comm.getStarName("Beta Pegasi", "rainbow 4") %>
 
 #(FOUND_RAINBOW_5)
-Found a Rainbow World in the <% comm.getStarName("Epsilon Draconis", "rainbow 5") %> star system
+Visited Rainbow World at <% comm.getStarName("Epsilon Draconis", "rainbow 5") %>
 
 #(FOUND_RAINBOW_6)
-Found a Rainbow World in the <% comm.getStarName("Epsilon Lipi", "rainbow 6") %> star system
+Visited Rainbow World at <% comm.getStarName("Epsilon Lipi", "rainbow 6") %>
 
 #(FOUND_RAINBOW_7)
-Found a Rainbow World in the <% comm.getStarName("Beta Leporis", "rainbow 7") %> star system
+Visited Rainbow World at <% comm.getStarName("Beta Leporis", "rainbow 7") %>
 
 #(FOUND_RAINBOW_8)
-Found a Rainbow World in the <% comm.getStarName("Gamma Aquarii", "rainbow 8") %> star system
+Visited Rainbow World at <% comm.getStarName("Gamma Aquarii", "rainbow 8") %>
 
 #(FOUND_RAINBOW_9)
-Found a Rainbow World in the <% comm.getStarName("Groombridge", "rainbow 9") %> star system
+Visited Rainbow World at <% comm.getStarName("Groombridge", "rainbow 9") %>
 
 
 #(FIND_DEFEAT_URQUAN)
