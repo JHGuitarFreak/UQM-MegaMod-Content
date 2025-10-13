@@ -162,7 +162,7 @@ Made contact with the Thraddash
 
 
 #(INVESTIGATE_UTWIG)
-Investigate the Utwig located in the <% comm.getConstellation("Draconis", "thraddash") %> constellation
+Investigate the Utwig located in the <% comm.getConstellation("Aquarii", "utwig") %> constellation
 
 #(CONTACTED_UTWIG)
 Made contact with the Utwig
