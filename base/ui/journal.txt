@@ -311,7 +311,7 @@ Improve the Utwig bomb
 
 
 #(FIND_RAINBOW_SEXTANTIS)
-Investigate 'very strange planet' at Zeta Sextantis I
+Investigate the `very strange planet' that the Shofixti told you about located in the <% comm.getStarName("Zeta Sextantis", "rainbow 0") %> star system
 
 #(FIND_RAINBOW_LEPORIS)
 Investigate strange radioactive planet in Beta Leporis
