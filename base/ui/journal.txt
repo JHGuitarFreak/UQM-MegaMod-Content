@@ -303,11 +303,19 @@ Give the Warp Pod to the Arilou on Falayalaralfali
 #(GET_SPAWNER)
 Acquire the Portal Spawner from the Arilou
 
+
 #(GET_BOMB)
 Acquire the Utwig bomb
 
 #(IMPROVE_BOMB)
 Improve the Utwig bomb
+
+
+#(GLOWING_ROD_ENTRY)
+Acquired useless Glowing Rod from the Druuge
+
+#(WIMBLIS_TRIDENT_ENTRY)
+Acquired the doubtfully useless Wimbli's Trident, what do the Starbase scientists know anyways...
 
 
 #(FIND_RAINBOW_SEXTANTIS)
