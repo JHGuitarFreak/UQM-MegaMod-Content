@@ -242,16 +242,6 @@ Confront the Dnyarri in Beta Orionis
 Acquire the Dnyarri to use against the Ur-Quan
 
 
-#(GET_AQUAHELIX)
-Investigate the Aqua Helix artifact in Thraddash space in the <% comm.getStarName("Zeta Draconis", "aqua helix") %> star system
-
-#(LEARN_AQUAHELIX)
-Find a use for the Aqua Helix
-
-#(USE_AQUAHELIX)
-Use the Aqua Helix to repair the Ultron
-
-
 #(GET_CLEARSPINDLE)
 Acquire the Clear Spindle from the Pkunk
 
@@ -261,9 +251,24 @@ Find a use for the Clear Spindle
 #(USE_CLEARSPINDLE)
 Use the Clear Spindle to repair the Ultron
 
+#(USED_CLEARSPINDLE)
+Used the Clear Spindle to repair the Ultron
 
-#(GET_EGGCASE)
-Acquire Mycon Egg Case fragments
+
+#(GET_AQUAHELIX)
+Acquire the Aqua Helix from the Thraddash
+
+#(GET_AQUAHELIX_DRACONIS)
+Acquire the Aqua Helix artifact from the Thraddash in the <% comm.getStarName("Zeta Draconis", "aqua helix") %> star system
+
+#(LEARN_AQUAHELIX)
+Find a use for the Aqua Helix
+
+#(USE_AQUAHELIX)
+Use the Aqua Helix to repair the Ultron
+
+#(USED_AQUAHELIX)
+Used the Aqua Helix to repair the Ultron
 
 
 #(GET_ROSYSPHERE)
@@ -274,6 +279,13 @@ Find a use for the Rosy Sphere
 
 #(USE_ROSYSPHERE)
 Use the Rosy Sphere to repair the Ultron
+
+#(USED_ROSYSPHERE)
+Used the Rosy Sphere to repair the Ultron
+
+
+#(GET_EGGCASE)
+Acquire Mycon Egg Case fragments
 
 
 #(GET_MAIDENS)
