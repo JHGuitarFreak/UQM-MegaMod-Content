@@ -2019,7 +2019,6 @@ UI
 Melee
 IP
 Scanning
-No support
 
 #(LABEL_0)
 This part of the configuration
@@ -2054,9 +2053,6 @@ to assign to this action.
 #(LABEL_8)
 &_Orbit Screen Options
 
-#(LABEL_9)
-&!The SDL1 version of The Ur-Quan Masters MegaMod
-&!does not support gamepads
 
 #(TEXT_ENTRIES)
 Current Layout Name
