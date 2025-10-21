@@ -2004,7 +2004,7 @@ Add and/or Remove devices from a New or Loaded game.
 #(BUTTON_14_DESC)
 Add and/or Remove upgrades from a New or Loaded game.
 
-#(BUTTON_9_DESC)
+#(BUTTON_15_DESC)
 
 
 Return to the Cheat options menu.
@@ -2019,6 +2019,7 @@ UI
 Melee
 IP
 Scanning
+No support
 
 #(LABEL_0)
 This part of the configuration
@@ -2044,14 +2045,18 @@ to assign to this action.
 #(LABEL_5)
 &_User Interface Options
 
-#(LABEL_5)
+#(LABEL_6)
 &_Conversation Screen Options
 
-#(LABEL_5)
+#(LABEL_7)
 &_Star System View Options
 
-#(LABEL_5)
+#(LABEL_8)
 &_Orbit Screen Options
+
+#(LABEL_9)
+&!The SDL1 version of The Ur-Quan Masters MegaMod
+&!does not support gamepads
 
 #(TEXT_ENTRIES)
 Current Layout Name
