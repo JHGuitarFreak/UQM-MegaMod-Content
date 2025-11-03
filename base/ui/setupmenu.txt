@@ -143,6 +143,7 @@ Tracking Module
 Hellbore Cannon Module
 Shiva Furnace Module
 Seed Ship Allocation
+The Crappiest Mouse Input
 
 #(CAT_0_OPTS)
 Original
