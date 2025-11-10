@@ -97,8 +97,18 @@ Investigate the Androsynth at their home star, <% comm.getStarName("Eta Vulpecul
 #(VISIT_ORZ_HOMEWORLD)
 Visit the Orz homeworld in <% comm.getStarName("Gamma Vulpeculae", "orz") %>
 
-#(ALLY_ORZ)
-Form alliance with the Orz
+
+#(INVESTIGATE_ORZ)
+Investigate the Orz that now occupy Androsynth space
+
+#(MET_THE_ORZ)
+You've met the Orz that now occupy Androsynth space
+
+#(ALLIED_WITH_ORZ)
+You allied with the Orz
+
+#(MADE_ORZ_FRUMPLE)
+You made the Orz *frumple*
 
 
 #(HAYES_PKUNK)
