@@ -94,8 +94,8 @@ Met the Melnorme
 #(CONTACT_ANDROSYNTH)
 Investigate the Androsynth at their home star, <% comm.getStarName("Eta Vulpeculae", "androsynth") %>
 
-#(VISIT_ORZ_HOMEWORLD)
-Visit the Orz homeworld in <% comm.getStarName("Gamma Vulpeculae", "orz") %>
+#(ANDROSYNTH_GONE)
+You've found out the Androsynth disappeared under mysterious circumstances
 
 
 #(INVESTIGATE_ORZ)
@@ -141,7 +141,16 @@ The Shofixti have been repopulated!
 
 
 #(CONTACT_SPATHI)
-Make contact with the Spathi
+Make contact with the Spathi at their homeworld, Spathiwa, in Epsilon Gruis
+
+#(ERADICATE_EVIL_ONES)
+Eradicate the `Evil Ones' from the surface of Spathiwa
+
+#(INFORM_SPATHI_EVIL_ONES)
+Inform the Spathi that you have eradicated the `Evil Ones'
+
+#(ALLIED_WITH_SPATHI)
+You've allied with the Spathi
 
 
 #(CONTACT_SUPOX)
@@ -302,6 +311,10 @@ Use the Rosy Sphere to repair the Ultron
 
 #(USED_ROSYSPHERE)
 Used the Rosy Sphere to repair the Ultron
+
+
+#(INVESTIGATE_BURVIXESE)
+Search the Burvixese homeworld and its moon for the HyperWave beacon in <% comm.getStarName("Arcturus", "burvixese") %>
 
 
 #(GET_EGGCASE)
