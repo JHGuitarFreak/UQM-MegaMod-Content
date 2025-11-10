@@ -217,11 +217,18 @@ Convince the Slylandro their probes are hostile
 The Slylandro have been convinced their probes are hostile and you have the self-destruct code
 
 
-#(FIND_PORTAL_TIME)
-Search for a 'doorway' in HyperSpace from the 17th to the 20th
+#(FIND_PORTAL_SPATHI)
+Search for a star that appears on the 17th of each month and remains for 3 days <% comm.swapIfSeeded("between the ", "by the ") %><% comm.getConstellation("Circini and Chandrasekhar", "arilou") %><% comm.swapIfSeeded(" star clusters", " star system") %>.
 
-#(FIND_PORTAL)
-Find the naturally occuring QuasiSpace portal
+#(FIND_PORTAL_MELS)
+Find the naturally occuring dimensional portal that appears on the 17th of each month <% comm.swapIfSeeded("between the ", "near the ") %><% comm.getConstellation("Chandrasekhar and Columbae", "arilou") %><% comm.swapIfSeeded(" constellations", " constellation") %>
+
+#(FIND_PORTAL_ARILOU)
+Search for a `doorway' in HyperSpace from the 17th to the 20th
+
+#(FOUND_QS_PORTAL)
+Found the naturally occuring QuasiSpace portal that appears between the 17th and 20th of each month at <% comm.getPoint("43.8 : 637.2", "arilou") %>
+
 
 #(ASK_UMGAH_TPET)
 Ask the Umgah about the Arilou's injured Talking Pet
