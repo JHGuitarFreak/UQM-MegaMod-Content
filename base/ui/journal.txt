@@ -72,7 +72,7 @@ Met Fwiffo
 
 
 #(INVESTIGATE_ZFP_SPATHI)
-Investigate the HyperWave transmission coming from <% comm.getStarName("Rigel", "zoq scout") %>
+Investigate these `Fop-Dope-Bic' the Safe One's mentioned  that reside within the <% comm.getConstellation("Tucanae", "zoqfot") %> star systems
 
 #(INVESTIGATE_RIGEL)
 Investigate the HyperWave transmission coming from <% comm.getStarName("Rigel", "zoq scout") %>
