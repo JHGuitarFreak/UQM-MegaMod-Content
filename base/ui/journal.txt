@@ -71,8 +71,26 @@ Convince Fwiffo to join you
 Met Fwiffo
 
 
+#(INVESTIGATE_ZFP_SPATHI)
+Investigate the HyperWave transmission coming from <% comm.getStarName("Rigel", "zoq scout") %>
+
 #(INVESTIGATE_RIGEL)
 Investigate the HyperWave transmission coming from <% comm.getStarName("Rigel", "zoq scout") %>
+
+#(MEET_ZFP_HOMEWORLD)
+Make contact with the Zoq-Fot-Pik homeworld in the <% comm.getStarName("Alpha Tucanae", "zoqfot") %> star system
+
+#(ALLIED_WITH_ZFP)
+You've made an alliance with the Zoq-Fot-Pik from <% comm.getStarName("Alpha Tucanae", "zoqfot") %>
+
+#(SAVE_THE_ZFP)
+Defend the Zoq-Fot-Pik from the `BLACK DESTROYER' at their home planet in <% comm.getStarName("Alpha Tucanae", "zoqfot") %>
+
+#(SAVED_THE_ZFP)
+You saved the Zoq-Fot-Pik from the Kohr-Ah attack
+
+#(THE_ZFP_DIED)
+Unfortunately the Zoq-Fot-Pik were wiped out
 
 
 #(CONTACT_ARILOU)
@@ -147,7 +165,7 @@ Make contact with the Spathi at their homeworld, Spathiwa, in Epsilon Gruis
 Eradicate the `Evil Ones' from the surface of Spathiwa
 
 #(INFORM_SPATHI_EVIL_ONES)
-Inform the Spathi that you have eradicated the `Evil Ones'
+Inform the Spathi at their homeworld that you have eradicated the `Evil Ones'
 
 #(ALLIED_WITH_SPATHI)
 You've allied with the Spathi
