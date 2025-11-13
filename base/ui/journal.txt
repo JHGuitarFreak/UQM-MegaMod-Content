@@ -159,7 +159,7 @@ The Shofixti have been repopulated!
 
 
 #(CONTACT_SPATHI)
-Make contact with the Spathi at their homeworld, Spathiwa, in Epsilon Gruis
+Make contact with the Spathi at their homeworld, Spathiwa, at the coordinates <% comm.getPoint("241.6, 368.7", "spathi") %>
 
 #(ERADICATE_EVIL_ONES)
 Eradicate the `Evil Ones' from the surface of Spathiwa
