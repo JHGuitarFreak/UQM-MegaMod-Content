@@ -351,16 +351,16 @@ Acquire the Taalo Mind Shield from Delta Vulpeculae II-C
 
 
 #(CHECK_CRASH_SITE)
-Investigate a possible Ur-Quan Dreadnought crash site in Alpha Pavonis
+Investigate a possible Ur-Quan Dreadnought crash site as told to you by the Melnorme located in <% comm.getStarName("Alpha Pavonis", "urquan wreck") %>
 
 #(GET_WARPPOD)
-Acquire the Ur-Quan Warp Pod from Alpha Pavonis VII
+Acquire the Ur-Quan Warp Pod from <% comm.getStarName("Alpha Pavonis", "urquan wreck") %> for the Arilou
 
 #(LEARN_WARPPOD)
 Find a use for the Ur-Quan Warp Pod
 
 #(GIVE_WARPPOD)
-Give the Warp Pod to the Arilou on Falayalaralfali
+Give the Warp Pod to the Arilou at Falayalaralfali
 
 
 #(GET_SPAWNER)
