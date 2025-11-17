@@ -263,30 +263,40 @@ Find the naturally occuring dimensional portal that appears on the 17th of each 
 #(FIND_PORTAL_ARILOU)
 Search for a `doorway' in HyperSpace from the 17th to the 20th
 
+#(FIND_PORTAL_ARILOU_ADD)
+Search for a `doorway' in HyperSpace from the 17th to the 20th at <% comm.getPoint("43.8 : 637.2", "arilou") %>
+
 #(FOUND_QS_PORTAL)
 Found the naturally occuring QuasiSpace portal that appears between the 17th and 20th of each month at <% comm.getPoint("43.8 : 637.2", "arilou") %>
 
 
+#(INVESTIGATE_ORIONIS)
+Investigate the Zoq-Fot-Pik's seer's claim about the ominous and powerful meta-psychic signals
+from the direction of the <% comm.getConstellation("Orionis", "talking pet") %> constellation.
+
 #(ASK_UMGAH_TPET)
 Ask the Umgah about the Arilou's injured Talking Pet
 
+#(UMGAH_BEING_WEIRD)
+Figure out why the Umgah are acting like zombies
+
 #(REPORT_UMGAH_WEIRD)
-Tell the Arilou about the Umgah's behavior
+Tell the Arilou about the Umgah's behavior at their homeworld Falayalaralfali
 
 #(FOLLOWUP_UMGAH_WEIRD)
-Check back with the Arilou about the Umgah's behavior
+Check back with the Arilou in a few days at Falayalaralfali about the Umgah's behavior
 
 #(CHECK_UMGAH_HOME)
-Investigate psionic compulsion at the Umgah homeworld in Beta Orionis
+Investigate the source of psionic control at the Umgah's homeworld in <% comm.getStarName("Beta Orionis", "talking pet") %>
 
-#(FIND_SHIELD)
-Find a way to neutralize psionic compulsion
+#(NEUTRALIZE_TPET)
+Find a way to gain control over the Talking Pet at the Umgah's homeworld in <% comm.getStarName("Beta Orionis", "talking pet") %>
 
-#(FACE_DNYARRI)
-Confront the Dnyarri in Beta Orionis
+#(CONFRONT_TPET)
+With the Taalo Shield now on board confront the Talking Pet at the Umgah's homeworld in <% comm.getStarName("Beta Orionis", "talking pet") %>
 
-#(GET_DNYARRI)
-Acquire the Dnyarri to use against the Ur-Quan
+#(ACQUIRED_TPET)
+You have acquired the Talking Pet creature
 
 
 #(GET_CLEARSPINDLE)
@@ -344,10 +354,10 @@ Acquire the Shofixti Maidens from VUX Admiral ZEX in Alpha Cerenkov
 
 
 #(CHECK_PLAYGROUND)
-Investigate the Orz's 'Taalo Playground' on Delta Vulpeculae II-C
+Investigate the Orz's `Taalo Playground' at the coordinates <% comm.getPoint("372.1, 261.9", "taalo protector") %>
 
-#(GET_MINDSHIELD)
-Acquire the Taalo Mind Shield from Delta Vulpeculae II-C
+#(INVESTIGATE_TAALO)
+Investigate the Taalo homeworld in <% comm.getStarName("Delta Vulpeculae", "taalo protector") %> for evidence of a `psychic immunity shield' device
 
 
 #(CHECK_CRASH_SITE)
@@ -363,8 +373,11 @@ Find a use for the Ur-Quan Warp Pod
 Give the Warp Pod to the Arilou at Falayalaralfali
 
 
-#(GET_SPAWNER)
-Acquire the Portal Spawner from the Arilou
+#(ACQUIRED_QS_SPAWNER)
+Acquired the QuasiSpace Portal Spawner from the Arilou
+
+#(SOLD_QS_SPAWNER)
+Sold the QuasiSpace Portal Spawner to the Druuge
 
 
 #(GET_BOMB)
