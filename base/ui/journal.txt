@@ -341,6 +341,23 @@ Use the Rosy Sphere to repair the Ultron
 Used the Rosy Sphere to repair the Ultron
 
 
+#(FIX_THE_ULTRON)
+Figure out how to fix the Ultron
+
+#(RETURN_THE_ULTRON)
+The Ultron is fixed, now give it to the Utwig that reside in the <% comm.getConstellation("Aquarii", "utwig") %> constellation
+
+#(GET_THE_BOMB)
+Acquire the Precursor Bomb at <% comm.getStarName("Zeta Hyades", "bomb") %> VI-B
+
+#(IMPROVE_THE_BOMB)
+Find a way to improve the Precursor Bomb to fulfill its final destiny
+
+
+#(MELNORME_BOMB)
+Investigate <% comm.getStarName("Zeta Hyades", "bomb") %> VI-B for this gigantic bomb the Melnorme told you about
+
+
 #(INVESTIGATE_BURVIXESE)
 Search the Burvixese homeworld and its moon for the HyperWave beacon in <% comm.getStarName("Arcturus", "burvixese") %>
 
@@ -378,13 +395,6 @@ Acquired the QuasiSpace Portal Spawner from the Arilou
 
 #(SOLD_QS_SPAWNER)
 Sold the QuasiSpace Portal Spawner to the Druuge
-
-
-#(GET_BOMB)
-Acquire the Utwig bomb
-
-#(IMPROVE_BOMB)
-Improve the Utwig bomb
 
 
 #(GLOWING_ROD_ENTRY)
