@@ -14,3 +14,5 @@ graphics.shipyard = GFXRES:addons/dos-mode-hd/ui/shipyard.ani
 graphics.title = GFXRES:addons/dos-mode-hd/ui/title.ani
 
 slides.accessdata = STRTAB:addons/dos-mode-hd/cutscene/spins/accessdata.txt
+
+ship.samatra.graphics.captain = GFXRES:addons/dos-mode-hd/ships/samatra/samatra-cap.ani
