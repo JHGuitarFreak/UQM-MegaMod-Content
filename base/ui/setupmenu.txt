@@ -99,7 +99,7 @@ Advanced Auto-Pilot
 Super-Melee Ship Descriptions
 Music Resume
 Platform UI
-Seed Type
+Starmap Seeding
 Sphere Colors
 Scatter Elements
 Show Lander Upgrades
@@ -142,7 +142,10 @@ Hi-Eff Fuel Module
 Tracking Module
 Hellbore Cannon Module
 Shiva Furnace Module
-Seed Ship Allocation
+Ship Seeding
+Ship Storage Queue
+Shipyard Captain Names
+DOS Side Menu
 The Crappiest Mouse Input
 
 #(CAT_0_OPTS)
@@ -1417,30 +1420,30 @@ MRQ
 Starseed
 
 #(CAT_82_OPT_0_DESC)
-Original "Prime" seed, as written by the glorious founders (Default)
+Original game, as written by the glorious founders. (Default)
 
 #(CAT_82_OPT_1_DESC)
-Seed the generation of planetary resources and solar systems
+Seed the generation of planetary resources and solar systems.
 
 #(CAT_82_OPT_2_DESC)
 Seed the locations of Melnorme Traders,
 Rainbow Worlds, and Quasispace Portals,
-and the generation of planetary resources and solar systems
+and the generation of planetary resources and solar systems.
 
 #(CAT_82_OPT_3_DESC)
-Seed the locations of all plot events into the starmap (REQ. subtitles)
+Seed the locations of all plot events into the starmap
 including homeworlds, fleet locations, dialog, and artifacts
-as well as planetary resources and Quasispace
+as well as planetary resources and Quasispace.
 
 #(CAT_83_OPTS)
 Default
 Custom
 
 #(CAT_83_OPT_0_DESC)
-Default colors for alien spheres of influence (Default)
+Default colors for alien spheres of influence. (Default)
 
 #(CAT_83_OPT_1_DESC)
-Custom unique colors for alien spheres of influence
+Custom distinct colors for alien spheres of influence.
 
 #(CAT_84_OPTS)
 Disabled
@@ -1469,14 +1472,14 @@ Disabled
 Enabled
 
 #(CAT_86_OPT_0_DESC)
-Limits the amount of ships in your fleet via their melee points
-Max points start at Norm 80, Easy 160, Hard 40 and alliances raise
-the max by Norm 2x, Easy 3x, Hard 1x of the allied race's ship points
+Limits the amount of ships in your fleet based on melee values.
+Max points equals 60 (Easy 90, Hard 30) plus additional points
+equal to 2x each allied race's ship value (Easy 3x, Hard 1x).
 
 #(CAT_86_OPT_1_DESC)
-Limits the amount of ships in your fleet via their melee points
-Max points start at Norm 80, Easy 160, Hard 40 and alliances raise
-the max by Norm 2x, Easy 3x, Hard 1x of the allied race's ship points
+Limits the amount of ships in your fleet based on melee values.
+Max points equals 60 (Easy 90, Hard 30) plus additional points
+equal to 2x each allied race's ship value (Easy 3x, Hard 1x).
 
 #(CAT_87_OPTS)
 Do Nothing
@@ -1901,19 +1904,51 @@ Disabled
 Enabled
 
 #(CAT_125_OPT_0_DESC)
-Ships are assigned to their normal races.
+Alien races fly their normal ships.
 
 #(CAT_125_OPT_1_DESC)
-Ship assignment to race is seeded based on the custom seed.
+Aliens are assigned ships from three classes of ships
+based on the custom seed.
 
 #(CAT_126_OPTS)
 Disabled
 Enabled
 
 #(CAT_126_OPT_0_DESC)
-Enable/Disable mouse input
 
 #(CAT_126_OPT_1_DESC)
+Ships can be stored at starbase and retrieved later, and gift ships
+are sent directly to starbase when they can't join the flagship.
+
+#(CAT_127_OPTS)
+Disabled
+Enabled
+
+#(CAT_127_OPT_0_DESC)
+
+#(CAT_127_OPT_1_DESC)
+Captain names are displayed above ships in the shipyard.
+
+#(CAT_128_OPTS)
+Disabled
+Enabled
+
+#(CAT_128_OPT_0_DESC)
+SIS display window is replaced by side menu window
+during shipyard purchases only on DOS platform (default).
+
+#(CAT_128_OPT_1_DESC)
+SIS display window is replaced by DOS-style side menu window
+during shipyard purchases on all platforms.
+
+#(CAT_129_OPTS)
+Disabled
+Enabled
+
+#(CAT_129_OPT_0_DESC)
+Enable/Disable mouse input
+
+#(CAT_129_OPT_1_DESC)
 Enable/Disable mouse input
 
 #(SLIDERS)
