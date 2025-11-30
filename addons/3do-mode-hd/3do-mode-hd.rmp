@@ -8,3 +8,5 @@ graphics.landerreturn = GFXRES:addons/3do-mode-hd/lander/return.ani
 graphics.meleemenu = GFXRES:addons/3do-mode-hd/ui/meleemenu/meleemenu.ani
 graphics.playmenu = GFXRES:addons/3do-mode-hd/ui/playmenu/playmenu.ani
 graphics.shipyard = GFXRES:addons/3do-mode-hd/ui/shipyard/shipyard.ani
+
+ship.samatra.graphics.captain = GFXRES:addons/3do-mode-hd/ships/samatra/samatra-cap.ani
