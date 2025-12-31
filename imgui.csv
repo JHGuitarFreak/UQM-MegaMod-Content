@@ -1,0 +1,172 @@
+ID,STRING0,STRING1,STRING2,STRING3,STRING4,STRING5
+MENU_TITLE,Full Screen Menu
+GRAPHICS_TAB,Graphics
+AUDIO_TAB,Audio
+CONTROLS_TAB,Controls
+STATUS_TAB,Status
+SETTINGS_TAB,General
+ENHANCEMENTS_TAB,Enhancements
+RANDOMIZER_TAB,Randomizer
+DEV_TOOLS_TAB,Dev Tools
+QUALITY_OF_LIFE,Quality of Life
+VISUALS,Visuals
+DIFFICULTY,Difficulty
+CHEATS,Cheats
+TAB_NAMES,General,Enhancements,Randomizer,Dev Tools
+SUBTAB_MAIN,Graphics,PC / 3DO,Audio,Controls,Advanced,Status
+SUBTAB_ENHANCE,Quality of Life,Visuals,Difficulty,Cheats
+SUBTAB_RANDOM,Seed Settings,Enhancements
+SUBTAB_DEV,General,Statistics,Console,Save Editor
+SOUND_DRIVERS,None,MixSDL,OpenAL
+SOUND_QUALITIES,Low,Medium,High
+ALIEN_AMBIENCE,Disabled,No Spoilers,Spoilers
+MUSIC_RESUME_OPTIONS,Disabled,5 Minutes,Indefinite
+GOD_MODES_OPTIONS,None,Infinite Energy,Invulnerable,Full God Mode
+TIME_MODES,Normal,Slow (x6),Fast (x5)
+CONTROL_DISPLAY_OPTIONS,Keyboard,Xbox,PlayStation
+PLAYER_CONTROLS,Control Set 1,Control Set 2,Control Set 3,Control Set 4,Control Set 5,Control Set 6
+PC_3DO_OPTIONS,DOS,3DO
+STAR_BACKGROUNDS,DOS,3DO,UQM,HD-mod
+DOS_3DO_UQM,DOS,3DO,UQM
+MENU_STYLES,Text,Pictographic
+FONT_STYLES,Gradients,Flat
+CUTSCENE_STYLES,Slides,Movie
+MELEE_STYLES,Stepped,Smooth
+ENGINE_STYLES,Green Engine,Red Engine
+SCROLL_STYLES,Per-Page,Smooth
+SLAVE_SHIELDS,Static,Pulsating
+STATS_DISPLAY_OPTIONS,Text,Pictograms,Text (6014),Pictograms (6014)
+RESOLUTIONS,Default,640x480,960x720,1280x960,1600x1200,1920x1440,Custom
+ASPECT_RATIOS,Any,Force 4:3
+DISPLAY_MODES,Windowed,Exclusive Fullscreen,Borderless Fullscreen
+SCALERS,None,Bilinear,Adapt. Bilinear,Adv. Bilinear,Triscan (Scale2x),HQ (2x)
+DIFFICULTIES,Original,Easy,Hard,Choose At Start
+NOMAD_MODES,Disabled,Easy,Normal
+SEED_MODES,Prime,Planet,MRQ,Starseed
+ALLIED_STATES,Dead Guy,Good Guy,Bad Guy
+SHIP_MODULES,None,Crew Pod,Storage Bay,Fuel Tank,High-Eff Fuel Sys,Dynamo Unit,Shiva Furnace,Ion-Bolt Gun,Fusion Blaster,Hellbore Cannon,Tracking System,Point Defense Laser,Bomb Module 0,Bomb Module 1,Bomb Module 2,Bomb Module 3,Bomb Module 4,Bomb Module 5
+DATE_FORMATS,MMM DD.YYYY,MM.DD.YYYY,DD MMM.YYYY,DD.MM.YYYY
+FUEL_RANGES,None,At Destination,To Sol,Both
+PLANET_TEXTURES,3DO,UQM
+SOUND_SEPARATOR,Sound Options
+MUSIC_VOLUME,Music Volume:
+SFX_VOLUME,SFX Volume:
+SPEECH_VOLUME,Speech Volume:
+POSITIONAL_AUDIO,Positional Audio
+SOUND_DRIVER,Sound Driver:
+SOUND_QUALITY,Sound Quality:
+THREEDO_REMIXES,3DO Remixes
+PRECURSOR_REMIXES,Precursor's Remixes
+VOLASAURUS_REMIXES,Volasaurus' Remixes
+INTERPLANETARY_AMBIENCE,Interplanetary Alien Ambience:
+MENU_MUSIC,Menu Music
+MUSIC_RESUME,Music Resume:
+KOHR_STAHP,Kohr-Stahp
+KOHR_AH_DECLEANSING,Kohr-Ah DeCleansing
+GOD_MODES,God Modes:
+TIME_DILATION,Time Dilation:
+BUBBLE_WARP,Bubble Warp
+HEAD_START,Head Start
+UNLOCK_ALL_SHIPS,Unlock All Ships
+INFINITE_RU,Infinite R.U.
+INFINITE_FUEL,Infinite Fuel
+INFINITE_CREDITS,Infinite Credits
+NO_HYPERSPACE_ENCOUNTERS,No Hyperspace Encounters
+NO_MELEE_OBSTACLES,No Melee Obstacles
+LANDER_CAPACITY,Lander Capacity:
+CONTROL_DISPLAY,Control Display:
+PLAYER_1,Player 1:
+PLAYER_2,Player 2:
+EDIT_CONTROLS,Edit Controls
+CLEAR_ALL,Clear All
+SET_DEFAULTS,Set Defaults
+PLATFORM_UI,Platform UI:
+MENU_STYLE,Menu Style:
+DOS_SIDE_MENU,DOS Side Menu
+FONT_STYLE,Font Style:
+CUTSCENES,Cutscenes:
+MELEE_ZOOM,Melee Zoom:
+FLAGSHIP_ENGINE_COLOR,Flagship Engine Color:
+SCREEN_TRANSITIONS,Screen Transitions:
+SCROLL_STYLE,Scroll Style:
+SPEECH,Speech
+SUBTITLES,Subtitles
+OSCILLOSCOPE_STYLE,Oscilloscope Style:
+PLANET_STYLE,Planet Style:
+STAR_BACKGROUND,Star Background:
+STATS_DISPLAY,Stats Display:
+SLAVE_SHIELDS,Slave Shields:
+SCANNING_STYLE,Scanning Style:
+SPHERE_STYLE,Sphere Style:
+SPHERE_SCAN_OVERLAY,Sphere Scan Overlay:
+LANDER_VIEW_STYLE,Lander View Style:
+HD_MODE,HD Mode
+RESOLUTION,Resolution:
+CUSTOM_RESOLUTION,Custom Resolution:
+ASPECT_RATIO,Aspect Ratio:
+DISPLAY_MODE,Display Mode:
+GAMMA,Gamma:
+RESET,Reset
+SCALER,Scaler:
+SCANLINES,Scanlines
+SHOW_FPS,Show FPS
+PARTIAL_PICKUP,Partial Pickup
+SCATTER_ELEMENTS,Scatter Elements
+IN_GAME_HELP_MENUS,In-Game Help Menus
+SMART_AUTO_PILOT,Smart Auto-Pilot
+ADVANCED_AUTO_PILOT,Advanced Auto-Pilot
+SHOW_VISITED_STARS,Show Visited Stars
+SUPER_MELEE_SHIP_DESCRIPTIONS,Super Melee Ship Descriptions
+SHIP_STORAGE_QUEUE,Ship Storage Queue
+DIFFICULTY_SETTING,Difficulty:
+EXTENDED_LORE,Extended Lore
+NOMAD_MODE,Nomad Mode:
+SLAUGHTER_MODE,Slaughter Mode
+FLEET_POINT_SYSTEM,Fleet Point System
+STARMAP_SEEDING,Starmap Seeding:
+SHIP_SEEDING,Ship Seeding
+CUSTOM_SEED,Custom Seed:
+CURRENT_RU,Current R.U.:
+CURRENT_CREDITS,Current Credits:
+QUAKE,Quake
+BIO,BIO
+LIGHTNING,Lightning
+LAVA,Lava
+WEAPON,Weapon
+SPEED,Speed
+CARGO,Cargo
+COMMON,Common
+CORROSIVE,Corrosive
+BASE_METAL,Base Metal
+NOBLE,Noble
+RARE_EARTH,Rare Earth
+PRECIOUS,Precious
+RADIOACTIVE,Radioactive
+EXOTIC,Exotic
+FREE_SPACE,Free Space
+BIO_DATA,Bio-Data
+CAPTAINS_NAME,Captain's Name:
+SHIP_NAME,Ship Name:
+CURRENT_FUEL,Current Fuel:
+CURRENT_CREW,Current Crew:
+DATE_FORMAT,Date Format:
+CUSTOM_BORDER,Custom Border
+SHOW_WHOLE_FUEL_VALUE,Show Whole Fuel Value
+FUEL_RANGE_INDICATORS,Fuel Range Indicators
+SOI_COLORS,SOI Colors
+HD_ANIMATIONS,HD Animations
+CAPTAIN_NAMES_IN_SHIPYARD,Captain Names in Shipyard
+GAME_OVER_CUTSCENES,Game Over Cutscenes
+ALTERNATE_ORZ_FONT,Alternate Orz Font
+NON_STOP_OSCILLOSCOPE,Non-Stop Oscilloscope
+NEBULAE,Nebulae & Nebulae Brightness:
+ORBITING_PLANETS,Orbiting Planets
+TEXTURED_PLANETS,Textured Planets
+UNSCALED_VIEW,Unscaled View (HD Only)
+NPC_SHIP_ORIENTATION,NPC Ship Orientation
+HAZARD_COLORS,Hazard Colors
+PLANET_MAP_TEXTURES,Planet Map Textures:
+SHOW_LANDER_UPGRADES,Show Lander Upgrades
+STATUS_NOT_AVAILABLE,Status not available in the Main Menu...
+ELEMENTS,Common,Corrosive,Base Metal,Noble,Rare Earth,Precious,Radioactive,Exotic
+MODULE_NAMES,Lander,Fusion Thruster,Turning Jets,Crew Pod,Storage Bay,Fuel Tank,High-Eff Fuel Sys,Dynamo Unit,Shiva Furnace,Ion-Bolt Gun,Fusion Blaster,Hellbore Cannon,Tracking System,Point Defense Laser
