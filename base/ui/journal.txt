@@ -188,6 +188,37 @@ Make contact with the Syreen at their homeworld in the <% comm.getStarName("Bete
 Made contact with the Syreen
 
 
+#(MENTION_DEEP_CHILDREN)
+Tell the Syreen about the Mycon Deep Children
+
+#(PROVIDE_PROOF)
+Show Syreen the proof that the Mycon shattered their homeworld
+
+#(SHOW_EGGCASE)
+Show the Syreen the egg case you found on a shattered world
+
+#(FIND_SHIP_VAULT)
+Find the Syreen ship vault. According to Talana it is on a world orbiting a sun that is <% comm.getColor("either red or orange", "ship vault") %> and about 200 HyperSpace distance units away
+
+#(KNOW_SHIP_VAULT)
+Bring the Syreen Shuttle to the ship vault in <% comm.getStarName("Epsilon Camelopardalis", "ship vault") %>
+
+#(FOUND_VAULT)
+Inform Talana that you've found the vault and retrieved their ships
+
+#(AMBUSH_MYCON)
+Tell the Mycon, at their homeworld, about the world orbiting <% comm.getStarName("Organon", "mycon trap") %>
+
+#(AMBUSH_AWAY)
+Await the results of the Syreen Ambush
+
+#(TALK_ABOUT_AMBUSH)
+Talk to Talana about the results of the ambush
+
+#(SYREEN_ALLIED)
+You have allied with the Syreen
+
+
 #(HAYES_THRADDASH)
 Investigate Hayes' information about an alien race in the <% comm.getConstellation("Draconis", "thraddash") %> constellation
 
