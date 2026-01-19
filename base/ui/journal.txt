@@ -408,6 +408,16 @@ Investigate the Orz's `Taalo Playground' at the coordinates <% comm.getPoint("37
 Investigate the Taalo homeworld in <% comm.getStarName("Delta Vulpeculae", "taalo protector") %> for evidence of a `psychic immunity shield' device
 
 
+#(BANANA_PHONE)
+Find out what you can do with a Hyperwave Broadcaster
+
+#(PRANK_ILWRATH)
+Prank the Ilwrath, Umgah-style, by calling them up on Channel 44 with a Hyperwave Broadcaster
+
+#(BYE_ILWRATH)
+You've sent the Ilwrath to war against the Thraddash
+
+
 #(CHECK_CRASH_SITE)
 Investigate a possible Ur-Quan Dreadnought crash site as told to you by the Melnorme located in <% comm.getStarName("Alpha Pavonis", "urquan wreck") %>
 
