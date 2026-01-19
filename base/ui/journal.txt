@@ -145,6 +145,31 @@ Go to the Pkunk homeworld loacated in the <% comm.getStarName("Gamma Krueger", "
 Met the Pkunk at their homeworld
 
 
+#(CONTACT_ZEX)
+Make contact with Admiral ZEX at <% comm.getStarName("Alpha Cerenkov", "maidens") %>
+
+#(CONTACT_ZEX_MAIDENS)
+Contact ZEX about the Shofixti Maidens at <% comm.getStarName("Alpha Cerenkov", "maidens") %>
+
+#(ZEX_QUEST)
+Find ZEX's beast with the clues: It basks in <% comm.getColor("yellow", "vux beast") %> light within the constellation Linch-Nas-Ploh.' Translated, `Linch-Nas-Ploh' <% comm.swapIfSeeded("means approximately", "means") %> `<% comm.getConstellation("the long, thin creature who has swallowed the huge beast", "vux beast") %>'
+
+#(HAVE_BEAST_NO_ZEX)
+Find out what to do with the beast you captured
+
+#(ZEX_BEAST)
+Bring ZEX's beasty back to ZEX at <% comm.getStarName("Alpha Cerenkov", "maidens") %>
+
+#(GET_THE_MAIDENS)
+Retrieve the Shofixti Maidens from the surface of ZEX's world
+
+#(GOT_THE_MAIDENS)
+You've acquired the Shofxiti Maidens... Now what?
+
+#(REVIVE_SHOFIXTI)
+Bring the Shofixti Maidens to <% comm.getStarName("Delta Gorno", "shofixti") %> and convince Tanaka or Katana to repopulate their species
+
+
 #(CONTACT_SHOFIXTI)
 Re-establish contact with the Shofixti at <% comm.getStarName("Delta Gorno", "shofixti") %>
 
