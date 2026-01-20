@@ -211,6 +211,13 @@ Sent the Shofixti off to repopulate
 The Shofixti have been repopulated!
 
 
+#(SHOWOFF_SHOFIXTI)
+The Yehat yearn for their Shofixti brethren. Show them that the Shofixti are reborn.
+
+#(LETS_START_A_RIOT)
+The Revolution has begun! You've instigated a Civil War within the Yehat factions
+
+
 #(CONTACT_SPATHI)
 Make contact with the Spathi at their homeworld, Spathiwa, at the coordinates <% comm.getPoint("241.6, 368.7", "spathi") %>
 
