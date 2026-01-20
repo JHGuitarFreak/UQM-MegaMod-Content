@@ -145,6 +145,34 @@ Go to the Pkunk homeworld loacated in the <% comm.getStarName("Gamma Krueger", "
 Met the Pkunk at their homeworld
 
 
+#(WHY_PKUNK_MOVE)
+Find out why the Pkunk are moving en masse
+
+#(STOPPED_MIGRATION_01)
+You've stopped the Pkunk from migrating to their Yehat brethren
+
+#(PKUNK_MOVING_AGAIN_01)
+Stop the Pkunk from migrating to their Yehat brethren... Again
+
+#(STOPPED_MIGRATION_02)
+You've stopped the Pkunk from migrating to their Yehat brethren once more
+
+#(PKUNK_MOVING_AGAIN_02)
+Stop the Pkunk from migrating to their Yehat brethren yet again
+
+#(UNABLE_TO_STOP)
+You've been unsuccessful in stopping the Pkunk from migrating to their Yehat brethren
+
+#(FIND_OUT_FROM_YEHAT)
+Talk to the Yehat to find out what happened to the Pkunk migration
+
+#(PKUNK_WERE_ABSORBED)
+You've found out from the Yehat that the Pkunk have been absorbed and are no more...
+
+#(THEY_LIVE)
+The Pkunk are alive and well! According to the Yehat rebels a Pkunk by the name of Braky Girdy the First is the new Queen!
+
+
 #(CONTACT_ZEX)
 Make contact with Admiral ZEX at <% comm.getStarName("Alpha Cerenkov", "maidens") %>
 
