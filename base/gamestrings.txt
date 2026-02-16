@@ -2249,6 +2249,14 @@ Legacy UQM Save
 UQM HD-Mod Save
 
 
+#(QuickSave)
+[QuickSave]
+
+
+#(QuickSave Set)
+QuickSave Set!
+
+
 #(Sound) -- OPTION_STRING_BASE
 Sound
 
