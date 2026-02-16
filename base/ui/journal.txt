@@ -167,7 +167,7 @@ You've been unsuccessful in stopping the Pkunk from migrating to their Yehat bre
 Talk to the Yehat to find out what happened to the Pkunk migration
 
 #(PKUNK_WERE_ABSORBED)
-You've found out from the Yehat that the Pkunk have been absorbed and are no more...
+You've found out from the Yehat that the Pkunk have been absorbed and are apparently no more...
 
 #(THEY_LIVE)
 The Pkunk are alive and well! According to the Yehat rebels a Pkunk by the name of Braky Girdy the First is the new Queen!
@@ -310,7 +310,7 @@ Made contact with the Umgah
 Re-establish contact with the Yehat
 
 #(MELNORME_YEHAT)
-Make contect with the Yehat in the <% comm.getStarName("Gamma Serpentis", "yehat") %> star system
+Make contact with the Yehat in the <% comm.getStarName("Gamma Serpentis", "yehat") %> star system
 
 #(MET_THE_YEHAT)
 Met the Yehat
