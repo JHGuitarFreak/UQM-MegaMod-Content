@@ -102,6 +102,9 @@ Re-establish contact with the Chenjesu
 #(CONTACT_MMRNMHRM)
 Re-establish contact with the Mmrnmhrm
 
+#(CONTACT_CHMMR)
+Make contact with the Chenjesu and Mmrnmhrm at the Chenjesu's homeworld in <% comm.getStarName("Procyon", "chmmr") %>.
+
 #(CONTACT_MELNORME)
 Make contact with the Melnorme at <% comm.getStarName("Alpha Centauri", "melnorme 1") %>
 
