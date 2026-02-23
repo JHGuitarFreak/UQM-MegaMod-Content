@@ -2253,8 +2253,11 @@ UQM HD-Mod Save
 [QuickSave]
 
 
-#(QuickSave Set)
-QuickSave Set!
+#(NoQuickSave)
+No QuickSave available to load!
+
+Create a QuickSave first
+before attempting to QuickLoad.
 
 
 #(Sound) -- OPTION_STRING_BASE
