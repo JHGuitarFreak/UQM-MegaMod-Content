@@ -345,6 +345,16 @@ Convince the Slylandro their probes are hostile
 The Slylandro have been convinced their probes are hostile and you have the self-destruct code
 
 
+#(INV_RAINBOW_THRADD)
+Investigate the unusual world in close solar orbit around <% comm.getStarName("Epsilon Draconis", "rainbow 5") %>
+
+#(INV_LYNCIS_THRADD)
+Investigate the dangerously hostile life form on <% comm.getStarName("Delta Lyncis", "vux beast") %> I
+
+#(INV_STELE_THRADD)
+Investigate these `text fragments' you heard about from the Thraddash in <% comm.getStarName("Alpha Apodis", "melnorme 7") %>.
+
+
 #(FIND_PORTAL_SPATHI)
 Search for a star that appears on the 17th of each month and remains for 3 days <% comm.swapIfSeeded("between the ", "by the ") %><% comm.getConstellation("Circini and Chandrasekhar", "arilou") %><% comm.swapIfSeeded(" star clusters", " star system") %>.
 
