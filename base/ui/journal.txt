@@ -230,8 +230,24 @@ Eradicate the `Evil Ones' from the surface of Spathiwa
 #(INFORM_SPATHI_EVIL_ONES)
 Inform the Spathi at their homeworld that you have eradicated the `Evil Ones'
 
+#(CHECK_IN_SPATHI)
+Check back in with the Spathi `Safe Ones' on their efforts to move back to their home planet
+
 #(ALLIED_WITH_SPATHI)
 You've allied with the Spathi
+
+
+#(INVESTIGATE_SPATHI_SOI)
+Investigate why the Spathi's Sphere of Influence disappeared off the StarMap
+
+#(INVESTIGATE_SPATHI_HAYES)
+Investigate why the Spathi have disappeared from the StarBase
+
+#(SPATHI_HAVE_SHIELDED)
+Having studied and reverse engineered Earth's Slave Shield, the Spathi have decided to slave shield themselves
+
+#(SPATHI_WIPED_OUT)
+Unfortunately the Spathi have been wiped out
 
 
 #(CONTACT_SUPOX)
