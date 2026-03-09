@@ -89,6 +89,7 @@ graphics.aquahelix = GFXRES:addons/mm-hd/lander/energy/aquahelix.ani
 graphics.asteroid.large = GFXRES:addons/mm-hd/battle/asteroid-big.ani
 graphics.asteroid.medium = GFXRES:addons/mm-hd/battle/asteroid-med.ani
 graphics.asteroid.small = GFXRES:addons/mm-hd/battle/asteroid-sml.ani
+graphics.beacon = GFXRES:addons/mm-hd/nav/beacon.ani
 graphics.blast.large = GFXRES:addons/mm-hd/battle/blast-big.ani
 graphics.blast.medium = GFXRES:addons/mm-hd/battle/blast-med.ani
 graphics.blast.small = GFXRES:addons/mm-hd/battle/blast-sml.ani
