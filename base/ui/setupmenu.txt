@@ -146,6 +146,7 @@ Ship Seeding
 Ship Storage Queue
 Shipyard Captain Names
 DOS Side Menu
+HyperSpace Color
 
 #(CAT_0_OPTS)
 Original
@@ -1416,7 +1417,7 @@ Fits in a 4:3 aspect ratio.
 Prime
 Planets
 MRQ
-Starseed
+StarSeed
 
 #(CAT_82_OPT_0_DESC)
 Original game, as written by the glorious founders. (Default)
@@ -1914,19 +1915,22 @@ Disabled
 Enabled
 
 #(CAT_126_OPT_0_DESC)
+Ships can be stored at StarBase and retrieved later, and gift ships
+are sent directly to StarBase when they can't join the flagship.
 
 #(CAT_126_OPT_1_DESC)
-Ships can be stored at starbase and retrieved later, and gift ships
-are sent directly to starbase when they can't join the flagship.
+Ships can be stored at StarBase and retrieved later, and gift ships
+are sent directly to StarBase when they can't join the flagship.
 
 #(CAT_127_OPTS)
 Disabled
 Enabled
 
 #(CAT_127_OPT_0_DESC)
+When enabled Captain names are displayed above ships in the Shipyard.
 
 #(CAT_127_OPT_1_DESC)
-Captain names are displayed above ships in the shipyard.
+When enabled Captain names are displayed above ships in the Shipyard.
 
 #(CAT_128_OPTS)
 Disabled
@@ -1939,6 +1943,20 @@ during shipyard purchases only on DOS platform (default).
 #(CAT_128_OPT_1_DESC)
 SIS display window is replaced by DOS-style side menu window
 during shipyard purchases on all platforms.
+
+#(CAT_129_OPTS)
+DOS
+3DO
+
+#(CAT_129_OPT_0_DESC)
+Change the shade of red in HyperSpace to the specified version.
+The DOS color is a lighter shade of red.
+The 3DO color is a deeper shade of red.
+
+#(CAT_129_OPT_1_DESC)
+Change the shade of red in HyperSpace to the specified version.
+The DOS color is a lighter shade of red.
+The 3DO color is a deeper shade of red.
 
 #(SLIDERS)
 Music Volume
