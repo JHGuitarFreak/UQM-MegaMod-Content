@@ -2190,6 +2190,17 @@ Legacy UQM Save
 UQM HD-Mod Save
 
 
+#(QuickSave)
+[QuickSave]
+
+
+#(NoQuickSave)
+No QuickSave available to load!
+
+Create a QuickSave first
+before attempting to QuickLoad.
+
+
 #(Sound) -- OPTION_STRING_BASE
 Sound
 
