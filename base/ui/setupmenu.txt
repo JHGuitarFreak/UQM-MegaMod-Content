@@ -9,12 +9,13 @@ PC/3DO Options
 Cheat Options
 Control Options
 Advanced Options
-Edit Controls
+Edit Flight Controls
 Music Options
 Visual Options
 Quality of Life Options
 Device Options
 Upgrade Options
+Edit Menu Controls
 
 #(CHOICES)
 Graphics
@@ -35,8 +36,8 @@ Positional Audio
 Sound Driver
 Sound Quality
 Slave Shields
-Bottom Player
-Top Player
+1st Player
+2nd Player
 Control Set
 Precursor's Remixes
 Speech
@@ -1991,7 +1992,7 @@ Sound
 Cheats
 Controls
 Advanced
-Edit Controls
+Edit Flight Controls
 Back to Controls
 Music
 Visuals
@@ -1999,6 +2000,10 @@ Quality of Life
 Devices
 Upgrades
 Return to Cheats
+Edit Menu Controls
+Save Menu Bindings
+Cancel
+Load Defaults
 
 #(BUTTON_0_DESC)
 
@@ -2061,6 +2066,18 @@ Add and/or Remove upgrades from a New or Loaded game.
 
 
 Return to the Cheat options menu.
+
+#(BUTTON_16_DESC)
+Edit the key bindings for menu navigation and actions.
+
+#(BUTTON_17_DESC)
+Save the current menu key bindings to override.cfg.
+
+#(BUTTON_18_DESC)
+Discard changes and revert to the last saved menu bindings.
+
+#(BUTTON_19_DESC)
+Load the default menu key bindings.
 
 #(LABELS)
 Incomplete
@@ -2141,3 +2158,35 @@ Weapon
 Special
 Escape
 Thrust
+
+#(MENUCONTROL_ENTRIES)
+Pause
+Exit
+Abort
+Debug 1
+Fullscreen
+Up
+Down
+Left
+Right
+Select
+Cancel
+Special
+Page-Up
+Page-Down
+Home
+End
+Zoom-In
+Zoom-Out
+Delete
+Backspace
+Cancel Edit
+Star Search
+Tab / Next
+Set StarMap
+Screenshot
+Quick Save
+Quick Load
+Debug 2
+Debug 3
+Debug 4
