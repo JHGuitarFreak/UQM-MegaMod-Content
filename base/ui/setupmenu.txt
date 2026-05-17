@@ -35,8 +35,8 @@ Positional Audio
 Sound Driver
 Sound Quality
 Slave Shields
-Bottom Player
-Top Player
+Player 1
+Player 2
 Control Set
 Precursor's Remixes
 Speech
@@ -47,7 +47,7 @@ Time Dilation
 Bubble Warp
 Unlock Ships
 Head Start
-Unlock Upgrades
+Auto-Detect Icons
 Infinite R.U.
 Skip Intro
 Fuel Range Indicators
@@ -76,7 +76,7 @@ Nomad Mode
 Game Over Cutscenes
 NPC Ship Orientation
 Alternate Orz Font
-Control Display
+Button Icons
 Smart Auto-Pilot
 Sphere Scan Overlay
 Planet Style
@@ -426,74 +426,28 @@ This mimics the 3DO verion.
 #(CAT_18_OPTS)
 Placeholder
 Placeholder
-Placeholder
-Placeholder
-Placeholder
-Placeholder
 
 #(CAT_18_OPT_0_DESC)
-Controls the bottom player in Super
+Controls the 1st Player in Super
 Melee, and the entire Full Game.
 
 #(CAT_18_OPT_1_DESC)
-Controls the bottom player in Super
-Melee, and the entire Full Game.
-
-#(CAT_18_OPT_2_DESC)
-Controls the bottom player in Super
-Melee, and the entire Full Game.
-
-#(CAT_18_OPT_3_DESC)
-Controls the bottom player in Super
-Melee, and the entire Full Game.
-
-#(CAT_18_OPT_4_DESC)
-Controls the bottom player in Super
-Melee, and the entire Full Game.
-
-#(CAT_18_OPT_5_DESC)
-Controls the bottom player in Super
+Controls the 1st Player in Super
 Melee, and the entire Full Game.
 
 #(CAT_19_OPTS)
-Placeholder
-Placeholder
-Placeholder
-Placeholder
-Placeholder
-Placeholder
+Manual
+Auto-Detect
 
 #(CAT_19_OPT_0_DESC)
-Controls the top player
-in Super Melee.
+Set button icons manually
 
 #(CAT_19_OPT_1_DESC)
-Controls the top player
-in Super Melee.
-
-#(CAT_19_OPT_2_DESC)
-Controls the top player
-in Super Melee.
-
-#(CAT_19_OPT_3_DESC)
-Controls the top player
-in Super Melee.
-
-#(CAT_19_OPT_4_DESC)
-Controls the top player
-in Super Melee.
-
-#(CAT_19_OPT_5_DESC)
-Controls the top player
-in Super Melee.
+Set button icons automatically
 
 #(CAT_20_OPTS)
-Placeholder
-Placeholder
-Placeholder
-Placeholder
-Placeholder
-Placeholder
+1st Player (Bottom)
+2nd Player (Top)
 
 #(CAT_20_OPT_0_DESC)
 
@@ -501,26 +455,6 @@ Placeholder
 Select the control template to edit.
 
 #(CAT_20_OPT_1_DESC)
-
-
-Select the control template to edit.
-
-#(CAT_20_OPT_2_DESC)
-
-
-Select the control template to edit.
-
-#(CAT_20_OPT_3_DESC)
-
-
-Select the control template to edit.
-
-#(CAT_20_OPT_4_DESC)
-
-
-Select the control template to edit.
-
-#(CAT_20_OPT_5_DESC)
 
 
 Select the control template to edit.
@@ -662,12 +596,10 @@ Disabled
 Enabled
 
 #(CAT_30_OPT_0_DESC)
-Earn Melnorme tech normally.
-If you've saved with this option enabled then all Melnorme
-technology will still be available for you.
+Manually select button icons to display.
 
 #(CAT_30_OPT_1_DESC)
-Unlock all Melnorme tech including ship modules and lander upgrades.
+Automatically detect button icons to display.
 
 &!This option persists through saves.
 
@@ -1094,22 +1026,24 @@ Enables an alternative font for the
 #(CAT_59_OPTS)
 Keyboard
 Xbox
-PlayStation 4
+PlayStation
+Switch
+Auto-Detect
 
 #(CAT_59_OPT_0_DESC)
-Show keyboard controls in the menu and UI.
-
-&!Remember to change the Bottom Player control layout accordingly.
+Show Keyboard controls in the menu and UI.
 
 #(CAT_59_OPT_1_DESC)
 Show Xbox controls in the menu and UI.
 
-&!Remember to change the Bottom Player control layout accordingly.
-
 #(CAT_59_OPT_2_DESC)
-Show PlayStation 4 controls in the menu and UI.
+Show PlayStation controls in the menu and UI.
 
-&!Remember to change the Bottom Player control layout accordingly.
+#(CAT_59_OPT_3_DESC)
+Show Switch controls in the menu and UI.
+
+#(CAT_59_OPT_4_DESC)
+Auto-Detect which gamepad icons to show in the menu and UI.
 
 #(CAT_60_OPTS)
 Disabled
@@ -2108,26 +2042,19 @@ to assign to this action.
 
 
 #(TEXT_ENTRIES)
-Current Layout Name
 Custom Seed
 Custom Resolution
 
 #(TEXT_ENTRIES_INITIAL)
-Placeholder
 16807
 Placeholder
 
 #(TEXT_ENTRY_0_DESC)
-
-
-Change the name of this control scheme.
-
-#(TEXT_ENTRY_1_DESC)
 Change the seed for random planet generation.
 Only works for New Games.
 Default value is: 16807
 
-#(TEXT_ENTRY_2_DESC)
+#(TEXT_ENTRY_1_DESC)
 
 
 Set the resolution to a custom value.
