@@ -156,6 +156,7 @@ graphics.life.25 = GFXRES:addons/mm-hd/lander/bio/lifez.ani
 graphics.lifecan = GFXRES:addons/mm-hd/lander/bio/lifecan.ani
 graphics.lightning = GFXRES:addons/mm-hd/lander/hazard/lightning.ani
 graphics.maidens = GFXRES:addons/mm-hd/lander/energy/maidens.ani
+graphics.meleeatlas = GFXRES:addons/mm-hd/ui/meleemenu/controlleratlas.ani
 graphics.meleemenu = GFXRES:addons/mm-hd/ui/meleemenu/meleemenu.ani
 graphics.meleepickship = GFXRES:addons/mm-hd/ui/meleemenu/meleepickship.ani
 graphics.miscdata = GFXRES:addons/mm-hd/ui/miscdata.ani

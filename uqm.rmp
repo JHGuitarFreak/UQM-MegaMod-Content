@@ -252,6 +252,7 @@ graphics.life.25 = GFXRES:base/lander/bio/lifez.ani
 graphics.lifecan = GFXRES:base/lander/bio/lifecan.ani
 graphics.lightning = GFXRES:base/lander/hazard/lightning.ani
 graphics.maidens = GFXRES:base/lander/energy/maidens.ani
+graphics.meleeatlas = GFXRES:base/ui/controlleratlas.ani
 graphics.meleemenu = GFXRES:base/ui/meleemenu.ani
 graphics.meleepickship = GFXRES:base/ui/meleepickship.ani
 graphics.miscdata = GFXRES:base/ui/miscdata.ani

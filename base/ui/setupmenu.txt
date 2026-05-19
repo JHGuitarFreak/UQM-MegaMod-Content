@@ -1028,7 +1028,6 @@ Keyboard
 Xbox
 PlayStation
 Switch
-Auto-Detect
 
 #(CAT_59_OPT_0_DESC)
 Show Keyboard controls in the menu and UI.
@@ -1041,9 +1040,6 @@ Show PlayStation controls in the menu and UI.
 
 #(CAT_59_OPT_3_DESC)
 Show Switch controls in the menu and UI.
-
-#(CAT_59_OPT_4_DESC)
-Auto-Detect which gamepad icons to show in the menu and UI.
 
 #(CAT_60_OPTS)
 Disabled
