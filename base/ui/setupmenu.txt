@@ -1095,7 +1095,8 @@ Enables an alternative font for the
 #(CAT_59_OPTS)
 Keyboard
 Xbox
-PlayStation 4
+PlayStation
+Switch Pro
 
 #(CAT_59_OPT_0_DESC)
 Show keyboard controls in the menu and UI.
@@ -1108,7 +1109,12 @@ Show Xbox controls in the menu and UI.
 &!Remember to change the Bottom Player control layout accordingly.
 
 #(CAT_59_OPT_2_DESC)
-Show PlayStation 4 controls in the menu and UI.
+Show PlayStation DualSense controls in the menu and UI.
+
+&!Remember to change the Bottom Player control layout accordingly.
+
+#(CAT_59_OPT_3_DESC)
+Show Switch Pro controls in the menu and UI.
 
 &!Remember to change the Bottom Player control layout accordingly.
 
