@@ -2692,8 +2692,8 @@ This option will now revert back to
 its default value.
 
 
-#()
-
+#(Page of)
+Page %d of %d
 
 
 #()
