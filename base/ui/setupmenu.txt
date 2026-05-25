@@ -15,7 +15,8 @@ Visual Options
 Quality of Life Options
 Device Options
 Upgrade Options
-Edit Menu Controls
+ 
+
 
 #(CHOICES)
 Graphics
