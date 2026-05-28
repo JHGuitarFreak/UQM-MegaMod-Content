@@ -16,7 +16,7 @@ Quality of Life Options
 Device Options
 Upgrade Options
  
-
+Edit Axis Deadzones
 
 #(CHOICES)
 Graphics
@@ -1897,6 +1897,10 @@ SFX Volume
 Speech Volume
 Gamma Correction
 Nebulae Brightness
+Deadzone Left Stick P1
+Deadzone Right Stick P1
+Deadzone Left Stick P2
+Deadzone Right Stick P2
 
 #(SLIDER_0_DESC)
 Sets the music volume.
@@ -1914,6 +1918,22 @@ May not work on all hardware.
 #(SLIDER_4_DESC)
 Sets the nebulae brightness when nebulae are enabled.
 Default value is: 16
+
+#(SLIDER_5_DESC)
+Edit left stick deadzone for Player 1
+Default value is: 10%
+
+#(SLIDER_5_DESC)
+Edit right stick deadzone for Player 1
+Default value is: 10%
+
+#(SLIDER_5_DESC)
+Edit left stick deadzone for Player 2
+Default value is: 10%
+
+#(SLIDER_5_DESC)
+Edit right stick deadzone for Player 2
+Default value is: 10%
 
 #(BUTTONS)
 Quit Setup
@@ -1936,6 +1956,7 @@ Edit Menu Controls
 Save Menu Bindings
 Cancel
 Load Defaults
+Edit Axis Deadzones
 
 #(BUTTON_0_DESC)
 
@@ -2010,6 +2031,9 @@ Discard changes and revert to the last saved menu bindings.
 
 #(BUTTON_19_DESC)
 Load the default menu key bindings.
+
+#(BUTTON_20_DESC)
+Edit gamepad axis deadzones
 
 #(LABELS)
 Incomplete
