@@ -68,7 +68,7 @@ Custom Border
 Interplanetary Alien Ambience
 Volasaurus' Remixes
 Show Whole Fuel Value
-Directional Joystick
+Directional Joystick P1
 Melee Zoom
 Lander Hold Size
 Screen Transitions
@@ -149,6 +149,7 @@ Ship Storage Queue
 Shipyard Captain Names
 DOS Side Menu
 HyperSpace Color
+Directional Joystick P2
 
 #(CAT_0_OPTS)
 Original
@@ -870,17 +871,26 @@ Displays the entire FUEL value as a decimal.
 
 #(CAT_49_OPTS)
 Normal Control
-Directional
-Auto-Thrust
+Left Stick Directional
+Right Stick Directional
+Left Stick Auto-Thrust
+Right Stick Auto-Thrust
 
 #(CAT_49_OPT_0_DESC)
 Normal control
 
 #(CAT_49_OPT_1_DESC)
-Ships and lander face the direction of your analog stick
+Ships and lander face the direction of your left analog stick
 
 #(CAT_49_OPT_2_DESC)
-Ships and lander face the direction of your analog stick
+Ships and lander face the direction of your right analog stick
+
+#(CAT_49_OPT_3_DESC)
+Ships and lander face the direction of your left analog stick
+And thrusts automatically when finished turning
+
+#(CAT_49_OPT_4_DESC)
+Ships and lander face the direction of your right analog stick
 And thrusts automatically when finished turning
 
 #(CAT_50_OPTS)
@@ -1890,6 +1900,30 @@ The 3DO color is a deeper shade of red.
 Change the shade of red in HyperSpace to the specified version.
 The DOS color is a lighter shade of red.
 The 3DO color is a deeper shade of red.
+
+#(CAT_49_OPTS)
+Normal Control
+Left Stick Directional
+Right Stick Directional
+Left Stick Auto-Thrust
+Right Stick Auto-Thrust
+
+#(CAT_49_OPT_0_DESC)
+Normal control
+
+#(CAT_49_OPT_1_DESC)
+Melee ships face the direction of your left analog stick
+
+#(CAT_49_OPT_2_DESC)
+Melee ships face the direction of your right analog stick
+
+#(CAT_49_OPT_3_DESC)
+Melee ships face the direction of your left analog stick
+And thrusts automatically when finished turning
+
+#(CAT_49_OPT_4_DESC)
+Melee ships face the direction of your right analog stick
+And thrusts automatically when finished turning
 
 #(SLIDERS)
 Music Volume
