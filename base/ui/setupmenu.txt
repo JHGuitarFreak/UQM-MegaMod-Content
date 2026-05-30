@@ -16,7 +16,7 @@ Quality of Life Options
 Device Options
 Upgrade Options
  
-
+Edit Axis Deadzones
 
 #(CHOICES)
 Graphics
@@ -68,7 +68,7 @@ Custom Border
 Interplanetary Alien Ambience
 Volasaurus' Remixes
 Show Whole Fuel Value
-Directional Joystick
+Directional Joystick P1
 Melee Zoom
 Lander Hold Size
 Screen Transitions
@@ -149,6 +149,7 @@ Ship Storage Queue
 Shipyard Captain Names
 DOS Side Menu
 HyperSpace Color
+Directional Joystick P2
 
 #(CAT_0_OPTS)
 Original
@@ -870,17 +871,26 @@ Displays the entire FUEL value as a decimal.
 
 #(CAT_49_OPTS)
 Normal Control
-Directional
-Auto-Thrust
+Left Stick Directional
+Right Stick Directional
+Left Stick Auto-Thrust
+Right Stick Auto-Thrust
 
 #(CAT_49_OPT_0_DESC)
 Normal control
 
 #(CAT_49_OPT_1_DESC)
-Ships and lander face the direction of your analog stick
+Ships and lander face the direction of your left analog stick
 
 #(CAT_49_OPT_2_DESC)
-Ships and lander face the direction of your analog stick
+Ships and lander face the direction of your right analog stick
+
+#(CAT_49_OPT_3_DESC)
+Ships and lander face the direction of your left analog stick
+And thrusts automatically when finished turning
+
+#(CAT_49_OPT_4_DESC)
+Ships and lander face the direction of your right analog stick
 And thrusts automatically when finished turning
 
 #(CAT_50_OPTS)
@@ -1891,12 +1901,40 @@ Change the shade of red in HyperSpace to the specified version.
 The DOS color is a lighter shade of red.
 The 3DO color is a deeper shade of red.
 
+#(CAT_49_OPTS)
+Normal Control
+Left Stick Directional
+Right Stick Directional
+Left Stick Auto-Thrust
+Right Stick Auto-Thrust
+
+#(CAT_49_OPT_0_DESC)
+Normal control
+
+#(CAT_49_OPT_1_DESC)
+Melee ships face the direction of your left analog stick
+
+#(CAT_49_OPT_2_DESC)
+Melee ships face the direction of your right analog stick
+
+#(CAT_49_OPT_3_DESC)
+Melee ships face the direction of your left analog stick
+And thrusts automatically when finished turning
+
+#(CAT_49_OPT_4_DESC)
+Melee ships face the direction of your right analog stick
+And thrusts automatically when finished turning
+
 #(SLIDERS)
 Music Volume
 SFX Volume
 Speech Volume
 Gamma Correction
 Nebulae Brightness
+Deadzone Left Stick P1
+Deadzone Right Stick P1
+Deadzone Left Stick P2
+Deadzone Right Stick P2
 
 #(SLIDER_0_DESC)
 Sets the music volume.
@@ -1914,6 +1952,22 @@ May not work on all hardware.
 #(SLIDER_4_DESC)
 Sets the nebulae brightness when nebulae are enabled.
 Default value is: 16
+
+#(SLIDER_5_DESC)
+Edit left stick deadzone for Player 1
+Default value is: 20%
+
+#(SLIDER_5_DESC)
+Edit right stick deadzone for Player 1
+Default value is: 20%
+
+#(SLIDER_5_DESC)
+Edit left stick deadzone for Player 2
+Default value is: 20%
+
+#(SLIDER_5_DESC)
+Edit right stick deadzone for Player 2
+Default value is: 20%
 
 #(BUTTONS)
 Quit Setup
@@ -1936,6 +1990,7 @@ Edit Menu Controls
 Save Menu Bindings
 Cancel
 Load Defaults
+Edit Axis Deadzones
 
 #(BUTTON_0_DESC)
 
@@ -2010,6 +2065,9 @@ Discard changes and revert to the last saved menu bindings.
 
 #(BUTTON_19_DESC)
 Load the default menu key bindings.
+
+#(BUTTON_20_DESC)
+Edit gamepad axis deadzones
 
 #(LABELS)
 Incomplete
