@@ -1955,19 +1955,19 @@ Default value is: 16
 
 #(SLIDER_5_DESC)
 Edit left stick deadzone for Player 1
-Default value is: 10%
+Default value is: 20%
 
 #(SLIDER_5_DESC)
 Edit right stick deadzone for Player 1
-Default value is: 10%
+Default value is: 20%
 
 #(SLIDER_5_DESC)
 Edit left stick deadzone for Player 2
-Default value is: 10%
+Default value is: 20%
 
 #(SLIDER_5_DESC)
 Edit right stick deadzone for Player 2
-Default value is: 10%
+Default value is: 20%
 
 #(BUTTONS)
 Quit Setup
