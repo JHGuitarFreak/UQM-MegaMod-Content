@@ -61,7 +61,7 @@ Date Format
 Infinite Fuel
 Partial Pickup
 In-Game Help Menus
-Resolution
+Windowed Resolution
 Infinite Credits
 Hazard Colors
 Custom Border
@@ -324,12 +324,10 @@ Display everything in a window.
 #(CAT_10_OPT_1_DESC)
 Game occupies the entire screen.
 Changes display resolution to fit game resolution
-(if available)
 
 #(CAT_10_OPT_2_DESC)
 Game occupies the entire screen.
 Changes game resolution to fit display resolution
-&!Not Available in SDL1 builds
 
 #(CAT_11_OPTS)
 Slides
@@ -489,18 +487,19 @@ Use 3DO speech. The script is closer to 3DO
 version where there are differences.
 
 #(CAT_23_OPTS)
-Any
+Fill Window
+Native
 Force 4:3
 
 #(CAT_23_OPT_0_DESC)
-Allow any aspect ratio. The game may be
-stretched in windows that are not 4:3.
-&!Currently only meaningful in OpenGL mode.
+Allow any aspect ratio. The game will be stretched to fill the
+window no matter the resolution.
 
 #(CAT_23_OPT_1_DESC)
-Display the game with 4:3 aspect even when
-the window is not.
-&!Currently only meaningful in OpenGL mode.
+Display the game with its native aspect ratio
+
+#(CAT_23_OPT_2_DESC)
+Force the aspect ratio to be 4:3 regardless of the native resolution
 
 #(CAT_24_OPTS)
 Disabled
@@ -762,34 +761,43 @@ Displays mineral values while scanning/traversing planets
 and displays StarMap keys/buttons while on the StarMap.
 
 #(CAT_42_OPTS)
-Default
-640x480
-960x720
-1280x960
-1600x1200
-1920x1440
+Native
+640 x ...
+960 x ...
+1280 x ...
+1600 x ...
+1920 x ...
 Custom
 
 #(CAT_42_OPT_0_DESC)
-Default resolution for Vanilla and HD graphics.
+Native resolution for Vanilla and HD graphics.
 320x240 resolution for Vanilla
 1280x960 resolution for HD
 
 #(CAT_42_OPT_1_DESC)
-Scale graphics to 640x480 resolution.
+Scale graphics to 640px horizontal resolution.
+Only applicable to Exclusive Fullscreen
+and the `Fill Window' aspect ratio
 
 #(CAT_42_OPT_2_DESC)
-Scale graphics to 960x720 resolution.
+Scale graphics to 960px horizontal resolution.
+Only applicable to Exclusive Fullscreen
+and the `Fill Window' aspect ratio
 
 #(CAT_42_OPT_3_DESC)
-Scale graphics to 1280x960 resolution.
-Native resolution for HD.
+Scale graphics to 1280px horizontal resolution.
+Only applicable to Exclusive Fullscreen
+and the `Fill Window' aspect ratio
 
 #(CAT_42_OPT_4_DESC)
-Scale graphics to 1600x1200 resolution.
+Scale graphics to 1600px horizontal resolution.
+Only applicable to Exclusive Fullscreen
+and the `Fill Window' aspect ratio
 
 #(CAT_42_OPT_5_DESC)
-Scale graphics to 1920x1440 resolution.
+Scale graphics to 1920px horizontal resolution.
+Only applicable to Exclusive Fullscreen
+and the `Fill Window' aspect ratio
 
 #(CAT_42_OPT_6_DESC)
 Using a custom resolution.
@@ -2128,9 +2136,9 @@ Only works for New Games.
 Default value is: 16807
 
 #(TEXT_ENTRY_1_DESC)
-
-
 Set the resolution to a custom value.
+Only applicable to Exclusive Fullscreen
+and the `Fill Window' aspect ratio
 
 #(CONTROL_ENTRIES)
 Up
