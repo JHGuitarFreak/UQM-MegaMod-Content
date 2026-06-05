@@ -1,10 +1,12 @@
-# Settings Columns
-menu_settings_lbl = STRING:Menu Settings
-menu_cntrlr_nav = STRING: Menu Controller Navigation
-menu_bg_lbl = STRING:Menu Background Opacity:
-bt_reset = STRING:Reset
+#(Navigation Tabs)
 tab_names = STRING_ARRAY:General,Enhancements,Randomizer,Dev Tools
 subtab_names.0 = STRING_ARRAY:Settings,Graphics,PC / 3DO,Audio,Controls,Advanced,Status
 subtab_names.1 = STRING_ARRAY:Quality of Life,Visuals,Difficulty,Cheats
 subtab_names.2 = STRING_ARRAY:Seed Settings,Enhancements
 subtab_names.3 = STRING_ARRAY:General,Stats,Save Editor
+
+#(General/Settings)
+menu_settings_lbl = STRING:Menu Settings
+menu_cntrlr_nav = STRING: Menu Controller Navigation
+menu_bg_lbl = STRING:Menu Background Opacity:
+bt_reset = STRING:Reset
