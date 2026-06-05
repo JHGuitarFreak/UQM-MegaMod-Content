@@ -1,0 +1,5 @@
+# Settings Columns
+menu_settings_lbl = STRING:Menu Settings
+menu_cntrlr_nav = STRING: Menu Controller Navigation
+menu_bg_lbl = STRING:Menu Background Opacity:
+bt_reset = STRING:Reset
