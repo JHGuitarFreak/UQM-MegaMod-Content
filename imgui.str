@@ -1,9 +1,9 @@
 #(Navigation Tabs)
-tab_names = STRING_ARRAY:General,Enhancements,Randomizer,Dev Tools
-subtab_names.0 = STRING_ARRAY:Settings,Graphics,PC / 3DO,Audio,Controls,Advanced,Status
+tab_names = STRING_ARRAY:General,Enhancements,Miscellaneous,Debug
+subtab_names.0 = STRING_ARRAY:Settings,Graphics,PC / 3DO,Audio,Controls,Advanced
 subtab_names.1 = STRING_ARRAY:Quality of Life,Visuals,Difficulty,Cheats
-subtab_names.2 = STRING_ARRAY:Seed Settings,Enhancements
-subtab_names.3 = STRING_ARRAY:General,Stats,Save Editor
+subtab_names.2 = STRING_ARRAY:Misc 01,Misc 02
+subtab_names.3 = STRING_ARRAY:Status,Devices
 
 #(General/Settings)
 menu_settings_lbl = STRING:Menu Settings
