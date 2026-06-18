@@ -11,6 +11,6 @@ menu_cntrlr_nav = STRING:Menu Controller Navigation
 menu_bg_lbl = STRING:Menu Background Opacity:
 bt_reset = STRING:Reset
 
-implyrfont = BINARY:base/imfonts/playerfont.ttf
-imtinyfont = BINARY:base/imfonts/tinyfont.ttf
-imuqrgfont = BINARY:base/imfonts/uqfont.ttf
+playerfont.ttf = BINARY:base/imfonts/playerfont.ttf
+tinyfont.ttf = BINARY:base/imfonts/tinyfont.ttf
+urquanfont.ttf = BINARY:base/imfonts/urquanfont.ttf
