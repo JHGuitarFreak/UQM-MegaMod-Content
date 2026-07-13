@@ -1167,7 +1167,7 @@ and Solar System Suns are animated.
 PC
 3DO
 Full View
-Entire Screen
+Whole Screen
 
 #(CAT_68_OPT_0_DESC)
 Lander view will show at the bottom-right portion of the screen
@@ -1180,10 +1180,13 @@ with lander details at the bottom-right of the screen.
 Mimicking the 3DO version.
 
 #(CAT_68_OPT_2_DESC)
-Lander view will take up the viewing area available.
+Lander view will take up the full viewing area available.
+Taking up the space previously used by the minimap.
 
 #(CAT_68_OPT_3_DESC)
 Lander view will take up the entire screen.
+Crew, minerals, and bio-data will show dynamically
+below the lander.
 
 #(CAT_69_OPTS)
 3DO
