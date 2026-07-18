@@ -150,6 +150,7 @@ Shipyard Captain Names
 DOS Side Menu
 HyperSpace Color
 Directional Joystick P2
+The Crappiest Mouse Input
 
 #(CAT_0_OPTS)
 Original
@@ -1924,6 +1925,16 @@ And thrusts automatically when finished turning
 #(CAT_49_OPT_4_DESC)
 Melee ships face the direction of your right analog stick
 And thrusts automatically when finished turning
+
+#(CAT_129_OPTS)
+Disabled
+Enabled
+
+#(CAT_129_OPT_0_DESC)
+Enable/Disable mouse input
+
+#(CAT_129_OPT_1_DESC)
+Enable/Disable mouse input
 
 #(SLIDERS)
 Music Volume
