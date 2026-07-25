@@ -2184,3 +2184,8 @@ Quick Load
 Debug 2
 Debug 3
 Debug 4
+Mouse Left
+Mouse Right
+Mouse Middle
+Mouse Wheel Up
+Mouse Wheel Down
