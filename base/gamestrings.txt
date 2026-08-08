@@ -1297,6 +1297,11 @@ Calcium Compounds
 #(Nitric Acid)
 Nitric Acid
 
+#(Cargo Full)
+Cargo Full
+
+#(Data Full)
+Data Full
 
 #(MINERAL SCAN) -- SCAN_STRING_BASE
 MINERAL SCAN
@@ -2692,8 +2697,8 @@ This option will now revert back to
 its default value.
 
 
-#()
-
+#(Page of)
+Page %d of %d
 
 
 #()
