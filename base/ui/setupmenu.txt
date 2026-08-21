@@ -150,7 +150,7 @@ Shipyard Captain Names
 DOS Side Menu
 HyperSpace Color
 Directional Joystick P2
-The Crappiest Mouse Input
+Crappy Mouse Input
 
 #(CAT_0_OPTS)
 Original
