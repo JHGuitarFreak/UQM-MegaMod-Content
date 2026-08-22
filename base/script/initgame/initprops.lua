@@ -740,4 +740,36 @@ state.prop.init("REV_5_PAD", 0, 1)
 
 -- Revision 6: MegaMod v0.8.6
 state.prop.setrev(6)
-state.prop.init("PLACEHOLDER", 0, 1)
+
+-- Journal gamestates
+state.prop.init("JOURNAL_BIT", 0, 1)
+state.prop.init("ALLIANCE_TRACKER", 0, 26)
+state.prop.init("ALLIANCE_MASK", 0, 6)
+state.prop.init("HIERARCHY_MASK", 0, 7)
+state.prop.init("HEARD_PKUNK_ILWRATH", 0, 1)
+state.prop.init("HAYES_OTHER_ALIENS", 0, 1)
+state.prop.init("INVESTIGATE_THRADD", 0, 1)
+state.prop.init("INVESTIGATE_UMGAH", 0, 1)
+state.prop.init("INVESTIGATE_UMGAH_ZFP", 0, 1)
+state.prop.init("INVESTIGATE_PROBES", 0, 2)
+-- 0 no info about slylandro probes.
+-- 1 heard info about probes from the ZFP
+-- 2 heard info about probes from the Thraddash
+-- 3 unused
+state.prop.init("INVESTIGATE_PORTAL", 0, 3)
+-- Bit-0 Heard of the portal from the Spathi
+-- Bit-1 Heard of the portal from the Arilou
+-- Bit-2 Traveled into QuasiSpace
+state.prop.init("INVESTIGATE_ORZ", 0, 1)
+state.prop.init("INVESTIGATE_ZFP", 0, 1)
+state.prop.init("MET_ZFP_HOME", 0, 1)
+state.prop.init("KNOW_CHANNEL_44", 0, 3)
+state.prop.init("HEARD_OF_ZEX", 1)
+state.prop.init("PKUNK_WHY_MIGRATION", 0, 2)
+state.prop.init("PKUNK_WHICH_MIGRATION", 0, 2)
+state.prop.init("PKUNK_LIVE", 0, 1)
+state.prop.init("MET_PKUNK", 0, 1)
+state.prop.init("SHOW_YEHAT_SHOFIXTI", 0, 1)
+state.prop.init("ILWRATH_AT_PROCYON", 0, 2)
+state.prop.init("THRADDASH_INFO", 0, 2)
+state.prop.init("SPATHI_CASTER", 0, 2)
