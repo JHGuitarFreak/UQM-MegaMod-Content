@@ -3,13 +3,24 @@ tab_names = STRING_ARRAY:General,Enhancements,Journal,Debug
 subtab_names.0 = STRING_ARRAY:Settings,Graphics,PC / 3DO,Audio,Controls,Advanced
 subtab_names.1 = STRING_ARRAY:Quality of Life,Visuals,Difficulty,Cheats
 subtab_names.2 = STRING_ARRAY:Journal
-subtab_names.3 = STRING_ARRAY:Status,Devices,Game States,Events,Stars
+subtab_names.3 = STRING_ARRAY:Status,Devices,Game States,Events,Stars,Blah
+no_subtabs = STRING:No subtabs found for this tab
+subtab_nfnd = STRING:Subtab %d not found.
+not_in_mainmenu = STRING:Not available in the Main Menu...
 
 #(General/Settings)
 menu_settings_lbl = STRING:Menu Settings
+font_selector = STRING:Font Selector
 menu_cntrlr_nav = STRING:Menu Controller Navigation
-menu_bg_lbl = STRING:Menu Background Opacity:
-bt_reset = STRING:Reset
+menu_bg_lbl = STRING:Menu Background Opacity
+ui_scale_str = STRING:UI Scale
+btn_reset_str = STRING:Reset
+btn_addons_dir_str = STRING:Open Addons Folder...
+btn_config_dir_str = STRING:Open Config Folder...
+insult_factory_str = STRING_ARRAY:- Sound Test -,- Sound Test -,Baby!,Dodo!,Dummy!,Fool!,Idiot!,Jerk!,Loser!,Moron!,Stupid!,Twit!,Wimp!,Worm!,Dummy!,Nerd!,Nitwit!
+separator_about_str = STRING:About
+btn_imgui_demo_str = STRING:Show ImGui Demo Window
+
 
 playerfont.ttf = BINARY:base/imfonts/playerfont.ttf
 tinyfont.ttf = BINARY:base/imfonts/tinyfont.ttf
