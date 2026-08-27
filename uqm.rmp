@@ -1090,3 +1090,10 @@ text.urquanwreck = STRTAB:base/lander/energy/urquanwreck.txt
 text.utwigbomb = STRTAB:base/lander/energy/utwigbomb.txt
 text.vuxbeast = STRTAB:base/lander/bio/vuxbeast.txt
 text.zfpcolony = STRTAB:base/lander/energy/zfpcolony.txt
+
+# ImGui Stuff
+
+text.imgui = STRTAB:base/imguistrings.txt
+playerfont.ttf = BINARY:base/imfonts/playerfont.ttf
+tinyfont.ttf = BINARY:base/imfonts/tinyfont.ttf
+urquanfont.ttf = BINARY:base/imfonts/urquanfont.ttf

@@ -1,0 +1,74 @@
+#(Tab Names) -- NAV_TAB_STR_BASE
+General,Enhancements,Journal,Debug
+
+
+#(Subtab Names 00)
+Settings,Graphics,PC / 3DO,Audio,Controls,Advanced
+
+
+#(Subtab Names 01)
+Quality of Life,Visuals,Difficulty,Cheats
+
+
+#(Subtab Names 02)
+Journal
+
+
+#(Subtab Names 03)
+Status,Devices,Game States,Events,Stars,Blah
+
+
+#(No subtabs)
+No subtabs found for this tab
+
+
+#(Subtab not found)
+Subtab %d not found.
+
+
+#(Not available)
+Not available in the Main Menu...
+
+
+#(Menu Settings) -- GEN_SETT_STR_BASE
+Menu Settings
+
+
+#(Font Selector)
+Font Selector
+
+
+#(Menu Controller Navigation)
+Menu Controller Navigation
+
+
+#(Menu Background Opacity)
+Menu Background Opacity
+
+
+#(UI Scale)
+UI Scale
+
+
+#(RESET)
+RESET
+
+
+#(Open Addons Folder...)
+Open Addons Folder...
+
+
+#(Open Config Folder...)
+Open Config Folder...
+
+
+#(Insult Factory)
+- Sound Test -,NULL,Baby!,Dodo!,Dummy!,Fool!,Idiot!,Jerk!,Loser!,Moron!,Stupid!,Twit!,Wimp!,Worm!,Dummy!,Nerd!,Nitwit!
+
+
+#(About)
+About
+
+
+#(Show ImGui Demo Window)
+Show ImGui Demo Window
