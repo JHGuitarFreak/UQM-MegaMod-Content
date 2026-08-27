@@ -15,7 +15,7 @@ Journal
 
 
 #(Subtab Names 03)
-Status,Devices,Game States,Events,Stars,Blah
+Status,Devices,Game States,Events,Stars
 
 
 #(No subtabs)
