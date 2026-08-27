@@ -1,9 +1,9 @@
 #(Navigation Tabs)
-tab_names = STRING_ARRAY:General,Enhancements,Journal,Debug
-subtab_names.0 = STRING_ARRAY:Settings,Graphics,PC / 3DO,Audio,Controls,Advanced
-subtab_names.1 = STRING_ARRAY:Quality of Life,Visuals,Difficulty,Cheats
-subtab_names.2 = STRING_ARRAY:Journal
-subtab_names.3 = STRING_ARRAY:Status,Devices,Game States,Events,Stars,Blah
+tab_names = STRING:General,Enhancements,Journal,Debug
+subtab_names.0 = STRING:Settings,Graphics,PC / 3DO,Audio,Controls,Advanced
+subtab_names.1 = STRING:Quality of Life,Visuals,Difficulty,Cheats
+subtab_names.2 = STRING:Journal
+subtab_names.3 = STRING:Status,Devices,Game States,Events,Stars,Blah
 no_subtabs = STRING:No subtabs found for this tab
 subtab_nfnd = STRING:Subtab %d not found.
 not_in_mainmenu = STRING:Not available in the Main Menu...
@@ -17,7 +17,7 @@ ui_scale_str = STRING:UI Scale
 btn_reset_str = STRING:Reset
 btn_addons_dir_str = STRING:Open Addons Folder...
 btn_config_dir_str = STRING:Open Config Folder...
-insult_factory_str = STRING_ARRAY:- Sound Test -,- Sound Test -,Baby!,Dodo!,Dummy!,Fool!,Idiot!,Jerk!,Loser!,Moron!,Stupid!,Twit!,Wimp!,Worm!,Dummy!,Nerd!,Nitwit!
+insult_factory_str = STRING:- Sound Test -,- Sound Test -,Baby!,Dodo!,Dummy!,Fool!,Idiot!,Jerk!,Loser!,Moron!,Stupid!,Twit!,Wimp!,Worm!,Dummy!,Nerd!,Nitwit!
 separator_about_str = STRING:About
 btn_imgui_demo_str = STRING:Show ImGui Demo Window
 
