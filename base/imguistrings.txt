@@ -30,6 +30,12 @@ Subtab %d not found.
 Not available in the Main Menu...
 
 
+#(Debug Warning)
+WARNING! While the stuff in the debug menu is
+pretty neat, know that messing with things in here
+can sometimes break the game and/or its progress.
+
+
 #(Menu Settings) -- GEN_SETT_STR_BASE
 Menu Settings
 
