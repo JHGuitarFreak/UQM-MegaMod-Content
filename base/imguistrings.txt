@@ -56,8 +56,8 @@ Menu Background Opacity
 UI Scale
 
 
-#(RESET)
-RESET
+#(Reset)
+Reset
 
 
 #(Open Addons Folder...)
@@ -78,3 +78,64 @@ About
 
 #(Show ImGui Demo Window)
 Show ImGui Demo Window
+
+
+#(resolutions) -- GEN_GFX_STR_BASE
+Native,640x480,960x720,1280x960,1600x1200,1920x1440,Custom
+
+
+#(aspect ratios)
+Fill Window,Native,Force 4:3
+
+
+#(display modes)
+Windowed,Exclusive Fullscreen,Borderless Fullscreen
+
+
+#(scalers)
+None,Bilinear,Adapt. Bilinear,Adv. Bilinear,Triscan (Scale2x),HQ (2x)
+
+
+#(Graphics Options)
+Graphics Options
+
+
+#(HD Mode)
+HD Mode
+
+
+#(Reload Warning)
+WARNING! This option will drop you
+back to the main menu to reload.
+
+
+#(Resolution)
+Resolution
+
+
+#(Custom Resolution)
+Custom Resolution
+
+
+#(Aspect Ratio)
+Aspect Ratio
+
+
+#(Display Mode)
+Display Mode
+
+
+#(Gamma)
+Gamma
+
+
+#(Scaler)
+Scaler
+
+
+#(Scanlines)
+Scanlines
+
+
+#(Show FPS)
+Show FPS
