@@ -390,7 +390,7 @@ Up,Down,Left,Right,Weapon,Special,Escape,Thrust
 
 
 #(pretty menu actions)
-Pause,Exit,Abort,Debug 1,Fullscreen,Up,Down,Left,Right,Select,Cancel,Special,Page-Up,Page-Down,Home,End,Zoom-In,Zoom-Out,Delete,Backspace,Cancel Edit,Star Search,Tab / Next,Toggle StarMaps,Screenshot,QuickSave,QuickLoad,ImGui Toggle,Debug 2,Debug 3,Debug 4
+Pause,Exit,Abort,Debug 1,Fullscreen,Up,Down,Left,Right,Select,Cancel,Special,Page-Up,Page-Down,Home,End,Zoom-In,Zoom-Out,Delete,Backspace,Cancel Edit,Star Search,Tab / Next,Toggle StarMaps,Screenshot,QuickSave,QuickLoad,ImGui Toggle,Debug 2,Debug 3,Debug 4,Mouse Left,Mouse Right,Mouse Middle,Mouse Wheel Up,Mouse Wheel Down
 
 
 #(Control Options)
