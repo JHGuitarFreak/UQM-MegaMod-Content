@@ -30,12 +30,6 @@ Subtab %d not found.
 Not available in the Main Menu...
 
 
-#(Debug Warning)
-WARNING! While the stuff in the debug menu is
-pretty neat, know that messing with things in here
-can sometimes break the game and/or its progress.
-
-
 #(Menu Settings) -- GEN_SETT_STR_BASE
 Menu Settings
 
@@ -76,7 +70,7 @@ Open Config Folder...
 About
 
 
-#(Show ImGui Demo Window)
+#(Show ImGui Demo Window) -- GEN_SETT_STR_BASE + 10
 Show ImGui Demo Window
 
 
@@ -104,11 +98,6 @@ Graphics Options
 HD Mode
 
 
-#(Reload Warning)
-WARNING! This option will drop you
-back to the main menu to reload.
-
-
 #(Resolution)
 Resolution
 
@@ -125,7 +114,7 @@ Aspect Ratio
 Display Mode
 
 
-#(Gamma)
+#(Gamma) -- GEN_GFX_STR_BASE + 10
 Gamma
 
 
@@ -139,3 +128,170 @@ Scanlines
 
 #(Show FPS)
 Show FPS
+
+
+#(DOS,3DO,UQM) -- GEN_ENG_STR_BASE
+DOS,3DO,UQM
+
+
+#(Text,Pictographic)
+Text,Pictographic
+
+
+#(Gradients,Flat)
+Gradients,Flat
+
+
+#(Slides,Movie)
+Slides,Movie
+
+
+#(Green Engine,Red Engine)
+Green Engine,Red Engine
+
+
+#(Stepped,Smooth)
+Stepped,Smooth
+
+
+#(DOS,3DO)
+DOS,3DO
+
+
+#(Per-Page,Smooth)
+Per-Page,Smooth
+
+
+#(DOS,3DO,UQM,HD-mod)
+DOS,3DO,UQM,HD-mod
+
+
+#(Text,Pictograms,Text (6014),Pictograms (6014))
+Text,Pictograms,Text (6014),Pictograms (6014)
+
+
+#(Static,Pulsating) -- GEN_ENG_STR_BASE + 10
+Static,Pulsating
+
+
+#(Shaded,Plain)
+Shaded,Plain
+
+
+#(User Interface) -- GEN_ENG_STR_BASE + 12
+User Interface
+
+
+#(Platform UI)
+Platform UI
+
+
+#(Menu Style)
+Menu Style
+
+
+#(DOS Side Menu)
+DOS Side Menu
+
+
+#(Font Style)
+Font Style
+
+
+#(Cutscenes)
+Cutscenes
+
+
+#(Melee Zoom)
+Melee Zoom
+
+
+#(Flagship Engine Color)
+Flagship Engine Color
+
+
+#(Screen Transitions) -- GEN_ENG_STR_BASE + 20
+Screen Transitions
+
+
+#(Conversation Screen)
+Conversation Screen
+
+
+#(Scroll Style)
+Scroll Style
+
+
+#(Speech)
+Speech
+
+
+#(Subtitles)
+Subtitles
+
+
+#(Oscilloscope Style)
+Oscilloscope Style
+
+
+#(Star System View)
+Star System View
+
+
+#(Planet Style)
+Planet Style
+
+
+#(Star Background)
+Star Background
+
+
+#(Orbit Screen)
+Orbit Screen
+
+
+#(Stats Display) -- GEN_ENG_STR_BASE + 30
+Stats Display
+
+
+#(Slave Shields)
+Slave Shields
+
+
+#(Scanning Style)
+Scanning Style
+
+
+#(Sphere Style)
+Sphere Style
+
+
+#(Tinted Sphere Scan)
+Tinted Sphere Scan
+
+
+#(Lander View Style)
+Lander View Style
+
+
+#(Debug Warning) -- TIP_WARN_STR_BASE
+WARNING! While the stuff in the debug menu is
+pretty neat, know that messing with things in here
+can sometimes break the game and/or its progress.
+
+
+#(Reload Warning)
+WARNING! This option will drop you
+back to the main menu to reload.
+
+
+#(Options Warning)
+Some of the options in this part of the menu need a full screen update for them to take full effect. If in doubt enter/leave planet orbit, leave and re-enter the current star system, or enter and leave the Starbase
+
+
+#(Main Menu Warning)
+WARNING! This option can only be changed while in the Main Menu!
+
+
+#(Setup Menu Warning)
+This option can only be changed while in the Setup Menu.
