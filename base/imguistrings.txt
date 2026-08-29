@@ -429,8 +429,16 @@ Menu
 Deadzones
 
 
-#(Load Defaults)
+#(Load Defaults) -- GEN_CON_STR_BASE + 15
 Load Defaults
+
+
+#(Save Changes)
+Save Changes
+
+
+#(Cancel)
+Cancel
 
 
 #(Action)
@@ -438,18 +446,18 @@ Action
 
 
 #(Bind)
-Bind
+Bind %d
 
 
-#(Control)
-Control
+#(Error: Invalid template ID) -- GEN_CON_STR_BASE + 20
+Error: Invalid template ID
 
 
-#(Binding)
-Binding
+#(Action: %s | Binding %d of %d)
+Action: %s | Binding %d of %d
 
 
-#(Illegal bind detected!) -- GEN_CON_STR_BASE + 20
+#(Illegal bind detected!)
 Illegal bind detected!
 
 
@@ -469,10 +477,6 @@ Please choose a different key, button, or axis...
 Clear
 
 
-#(Cancel)
-Cancel
-
-
 #(- Player %d -)
 - Player %d -
 
@@ -481,5 +485,9 @@ Cancel
 Left Stick
 
 
-#(Right Stick) -- GEN_CON_STR_BASE + 28
+#(Right Stick)
 Right Stick
+
+
+#(Cannot Bind Error) -- GEN_CON_STR_BASE + 30
+Cannot bind to `%s' using the `%s' ( %s ) binding
