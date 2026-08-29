@@ -30,6 +30,29 @@ Subtab %d not found.
 Not available in the Main Menu...
 
 
+#(Debug Warning) -- TIP_WARN_STR_BASE
+WARNING! While the stuff in the debug menu is
+pretty neat, know that messing with things in here
+can sometimes break the game and/or its progress.
+
+
+#(Reload Warning)
+WARNING! This option will drop you
+back to the main menu to reload.
+
+
+#(Options Warning)
+Some of the options in this part of the menu need a full screen update for them to take full effect. If in doubt enter/leave planet orbit, leave and re-enter the current star system, or enter and leave the Starbase
+
+
+#(Main Menu Warning)
+WARNING! This option can only be changed while in the Main Menu!
+
+
+#(Setup Menu Warning)
+This option can only be changed while in the Setup Menu.
+
+
 #(Menu Settings) -- GEN_SETT_STR_BASE
 Menu Settings
 
@@ -274,24 +297,73 @@ Tinted Sphere Scan
 Lander View Style
 
 
-#(Debug Warning) -- TIP_WARN_STR_BASE
-WARNING! While the stuff in the debug menu is
-pretty neat, know that messing with things in here
-can sometimes break the game and/or its progress.
+#(None,MixSDL,OpenAL) -- GEN_AUD_STR_BASE
+None,MixSDL,OpenAL
 
 
-#(Reload Warning)
-WARNING! This option will drop you
-back to the main menu to reload.
+#(Low,Medium,High)
+Low,Medium,High
 
 
-#(Options Warning)
-Some of the options in this part of the menu need a full screen update for them to take full effect. If in doubt enter/leave planet orbit, leave and re-enter the current star system, or enter and leave the Starbase
+#(Disabled,No Spoilers,Spoilers)
+Disabled,No Spoilers,Spoilers
 
 
-#(Main Menu Warning)
-WARNING! This option can only be changed while in the Main Menu!
+#(Disabled,5 Minutes,Indefinite)
+Disabled,5 Minutes,Indefinite
 
 
-#(Setup Menu Warning)
-This option can only be changed while in the Setup Menu.
+#(Sound Options)
+Sound Options
+
+
+#(Music Volume)
+Music Volume
+
+
+#(SFX Volume)
+SFX Volume
+
+
+#(Speech Volume)
+Speech Volume
+
+
+#(Positional Audio)
+Positional Audio
+
+
+#(Sound Driver)
+Sound Driver
+
+
+#(Sound Quality) -- GEN_AUD_STR_BASE + 10
+Sound Quality
+
+
+#(Music Options)
+Music Options
+
+
+#(3DO Remixes)
+3DO Remixes
+
+
+#(Precursor's Remixes)
+Precursor's Remixes
+
+
+#(Volasaurus' Remixes)
+Volasaurus' Remixes
+
+
+#(Interplanetary Alien Ambience)
+Interplanetary Alien Ambience
+
+
+#(Menu Music)
+Menu Music
+
+
+#(Music Resume) -- GEN_AUD_STR_BASE + 17
+Music Resume
