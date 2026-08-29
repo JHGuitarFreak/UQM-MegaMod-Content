@@ -367,3 +367,119 @@ Menu Music
 
 #(Music Resume) -- GEN_AUD_STR_BASE + 17
 Music Resume
+
+
+#(Keyboard,Xbox,PlayStation,Switch Pro) -- GEN_CON_STR_BASE
+Keyboard,Xbox,PlayStation,Switch Pro
+
+
+#(directional joystick display)
+Normal Control,Left Stick Directional,Right Stick Directional,Left Stick Auto-Thrust,Right Stick Auto-Thrust
+
+
+#(Disabled,Manual Control,Local Auto-Pilot)
+Disabled,Manual Control,Local Auto-Pilot
+
+
+#(Player 1,Player 2)
+Player 1,Player 2
+
+
+#(pretty flight actions)
+Up,Down,Left,Right,Weapon,Special,Escape,Thrust
+
+
+#(pretty menu actions)
+Pause,Exit,Abort,Debug 1,Fullscreen,Up,Down,Left,Right,Select,Cancel,Special,Page-Up,Page-Down,Home,End,Zoom-In,Zoom-Out,Delete,Backspace,Cancel Edit,Star Search,Tab / Next,Toggle StarMaps,Screenshot,QuickSave,QuickLoad,ImGui Toggle,Debug 2,Debug 3,Debug 4
+
+
+#(Control Options)
+Control Options
+
+
+#(Auto-Detect Icons)
+Auto-Detect Icons
+
+
+#(Button Icons)
+Button Icons
+
+
+#(Directional Joystick P%d)
+Directional Joystick P%d
+
+
+#(Crappy Mouse Input) -- GEN_CON_STR_BASE + 10
+Crappy Mouse Input
+
+
+#(Edit Controls)
+Edit Controls
+
+
+#(Flight)
+Flight
+
+
+#(Menu)
+Menu
+
+
+#(Deadzones)
+Deadzones
+
+
+#(Load Defaults)
+Load Defaults
+
+
+#(Action)
+Action
+
+
+#(Bind)
+Bind
+
+
+#(Control)
+Control
+
+
+#(Binding)
+Binding
+
+
+#(Illegal bind detected!) -- GEN_CON_STR_BASE + 20
+Illegal bind detected!
+
+
+#(Waiting for input...)
+Waiting for input...
+
+
+#(Press any key, button, or move an axis)
+Press any key, button, or move an axis
+
+
+#(Please choose a different key, button, or axis...)
+Please choose a different key, button, or axis...
+
+
+#(Clear)
+Clear
+
+
+#(Cancel)
+Cancel
+
+
+#(- Player %d -)
+- Player %d -
+
+
+#(Left Stick)
+Left Stick
+
+
+#(Right Stick) -- GEN_CON_STR_BASE + 28
+Right Stick
