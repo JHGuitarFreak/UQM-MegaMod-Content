@@ -695,3 +695,82 @@ Planet Map Textures
 
 #(Show Lander Upgrades) -- ENH_VIS_STR_BASE + 20
 Show Lander Upgrades
+
+
+#(god_modes) -- ENH_CHT_STR_BASE
+None,Infinite Energy,Invulnerable,Full God Mode
+
+
+#(time_modes)
+Normal,Slow (x6),Fast (x5)
+
+
+#(Basic Cheats)
+Basic Cheats
+
+
+#(Kohr-Stahp)
+Kohr-Stahp
+
+
+#(Kohr-Ah DeCleansing)
+Kohr-Ah DeCleansing
+
+
+#(God Modes)
+God Modes
+
+
+#(Time Dilation)
+Time Dilation
+
+
+#(Bubble Warp)
+Bubble Warp
+
+
+#(Head Start)
+Head Start
+
+
+#(Unlock All Ships)
+Unlock All Ships
+
+
+#(Infinite R.U.) -- ENH_CHT_STR_BASE + 10
+Infinite R.U.
+
+
+#(Infinite Fuel)
+Infinite Fuel
+
+
+#(Infinite Credits)
+Infinite Credits
+
+
+#(No HyperSpace Encounters)
+No HyperSpace Encounters
+
+
+#(No Melee Obstacles)
+No Melee Obstacles
+
+
+#(Expanded Cheats)
+Expanded Cheats
+
+
+#(Lander Capacity)
+Lander Capacity
+
+
+#( Ships GTFO! ) -- ENH_CHT_STR_BASE + 17
+ Ships GTFO! 
+
+
+#(Not Saved or Loaded) -- JOURNAL_STR_BASE
+Not Saved or Loaded
+
+
+#() -- DBG_STS_STR_BASE
