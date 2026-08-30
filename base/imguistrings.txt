@@ -7,7 +7,7 @@ Settings,Graphics,PC / 3DO,Audio,Controls,Advanced
 
 
 #(Subtab Names 01)
-Quality of Life,Visuals,Difficulty,Cheats
+Quality of Life,Visuals,Cheats
 
 
 #(Subtab Names 02)
@@ -69,8 +69,12 @@ Switching to and from MRQ or StarSeed only works in the Main Menu (When starting
 WARNING! Changing Ship Seed only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
 
 
-#(Custom Seed Warning) -- TIP_WARN_STR_BASE + 9
+#(Custom Seed Warning)
 Changing seeds with MRQ or StarSeed enabled only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
+
+
+#(Screen Update Warning) -- TIP_WARN_STR_BASE + 10
+Some of the options in this part of the menu need a full screen update for them to take full effect. If in doubt enter/leave planet orbit, leave and re-enter the current star system, or enter and leave the Starbase
 
 
 #(Menu Settings) -- GEN_SETT_STR_BASE
@@ -567,3 +571,127 @@ Ship Seed
 
 #(Custom Seed)
 Custom Seed
+
+
+#(Basic Qol Options) -- ENH_QOL_STR_BASE
+Basic Qol Options
+
+
+#(Skip Intro)
+Skip Intro
+
+
+#(Partial Pickup)
+Partial Pickup
+
+
+#(Scatter Elements)
+Scatter Elements
+
+
+#(In-Game Help Menus)
+In-Game Help Menus
+
+
+#(Smart Auto-Pilot)
+Smart Auto-Pilot
+
+
+#(Advanced Auto-Pilot)
+Advanced Auto-Pilot
+
+
+#(Show Visited Stars)
+Show Visited Stars
+
+
+#(Super Melee Ship Descriptions)
+Super Melee Ship Descriptions
+
+
+#(Ship Storage Queue) -- ENH_QOL_STR_BASE + 9
+Ship Storage Queue
+
+
+#(date_formats) -- ENH_VIS_STR_BASE
+MMM DD.YYYY,MM.DD.YYYY,DD MMM.YYYY,DD.MM.YYYY
+
+
+#(fuel_ranges)
+None,At Destination,To Sol,Both
+
+
+#(planet_textures)
+3DO,UQM
+
+
+#(Date Format)
+Date Format
+
+
+#(Custom Border)
+Custom Border
+
+
+#(Show Whole Fuel Value)
+Show Whole Fuel Value
+
+
+#(Fuel Range Indicators)
+Fuel Range Indicators
+
+
+#(Alternate SOI Colours)
+Alternate SOI Colours
+
+
+#(HD Animations)
+HD Animations
+
+
+#(Captain Names in Shipyard)
+Captain Names in Shipyard
+
+
+#(Game Over Cutscenes) -- ENH_VIS_STR_BASE + 10
+Game Over Cutscenes
+
+
+#(Alternate Orz Font)
+Alternate Orz Font
+
+
+#(Non-Stop Oscilloscope)
+Non-Stop Oscilloscope
+
+
+#(Nebulae & Nebulae Brightness)
+Nebulae & Nebulae Brightness
+
+
+#(Orbiting Planets)
+Orbiting Planets
+
+
+#(Textured Planets)
+Textured Planets
+
+
+#(Unscaled View (HD Only))
+Unscaled View (HD Only)
+
+
+#(NPC Ship Orientation)
+NPC Ship Orientation
+
+
+#(Hazard Colours)
+Hazard Colours
+
+
+#(Planet Map Textures)
+Planet Map Textures
+
+
+#(Show Lander Upgrades) -- ENH_VIS_STR_BASE + 20
+Show Lander Upgrades
