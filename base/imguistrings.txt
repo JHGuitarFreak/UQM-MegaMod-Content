@@ -53,6 +53,26 @@ WARNING! This option can only be changed while in the Main Menu!
 This option can only be changed while in the Setup Menu.
 
 
+#(Risky Warning)
+WARNING! Modifying risky options in-game has the possibility to break the game or your game save!
+
+
+#(HyperSpace Warning)
+WARNING! When changing this option in-game make sure you do so while in HyperSpace!
+
+
+#(Seed Type Warning)
+Switching to and from MRQ or StarSeed only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
+
+
+#(Ship Seed Warning)
+WARNING! Changing Ship Seed only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
+
+
+#(Custom Seed Warning) -- TIP_WARN_STR_BASE + 9
+Changing seeds with MRQ or StarSeed enabled only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
+
+
 #(Menu Settings) -- GEN_SETT_STR_BASE
 Menu Settings
 
@@ -491,3 +511,59 @@ Right Stick
 
 #(Cannot Bind Error) -- GEN_CON_STR_BASE + 30
 Cannot bind to `%s' using the `%s' ( %s ) binding
+
+
+#(Original,Easy,Hard) -- GEN_ADV_STR_BASE
+Original,Easy,Hard
+
+
+#(Disabled,Easy,Hard)
+Disabled,Easy,Hard
+
+
+#(Prime,Planet,MRQ,StarSeed)
+Prime,Planet,MRQ,StarSeed
+
+
+#(Enable Risky Options)
+Enable Risky Options
+
+
+#(Advanced Options)
+Advanced Options
+
+
+#(Slaughter Mode)
+Slaughter Mode
+
+
+#(Fleet Point System)
+Fleet Point System
+
+
+#(Risky Options)
+Risky Options
+
+
+#(Difficulty)
+Difficulty
+
+
+#(Extended Lore)
+Extended Lore
+
+
+#(Nomad Mode) -- GEN_ADV_STR_BASE + 10
+Nomad Mode
+
+
+#(Seed Type)
+Seed Type
+
+
+#(Ship Seed)
+Ship Seed
+
+
+#(Custom Seed)
+Custom Seed
