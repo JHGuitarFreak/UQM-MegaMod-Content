@@ -1,13 +1,23 @@
 #(Tab Names) -- NAV_TAB_STR_BASE
-General,Enhancements,Journal,Debug
+General
+Enhancements
+Journal
+Debug
 
 
 #(Subtab Names 00)
-Settings,Graphics,PC / 3DO,Audio,Controls,Advanced
+Settings
+Graphics
+PC / 3DO
+Audio
+Controls
+Advanced
 
 
 #(Subtab Names 01)
-Quality of Life,Visuals,Cheats
+Quality of Life
+Visuals
+Cheats
 
 
 #(Subtab Names 02)
@@ -15,7 +25,10 @@ Journal
 
 
 #(Subtab Names 03)
-Status,Devices,Game States,Events,Stars
+Status
+Devices
+Game States
+Events,Stars
 
 
 #(No subtabs)
@@ -110,7 +123,8 @@ Open Config Folder...
 
 
 #(Insult Factory)
-- Sound Test -,NULL,Baby!,Dodo!,Dummy!,Fool!,Idiot!,Jerk!,Loser!,Moron!,Stupid!,Twit!,Wimp!,Worm!,Dummy!,Nerd!,Nitwit!
+- Sound Test -,NULL,Baby!,Dodo!,Dummy!,Fool!,Idiot!,Jerk!,Loser!,Moron!
+Stupid!,Twit!,Wimp!,Worm!,Dummy!,Nerd!,Nitwit!
 
 
 #(About)
@@ -122,19 +136,34 @@ Show ImGui Demo Window
 
 
 #(resolutions) -- GEN_GFX_STR_BASE
-Native,640x480,960x720,1280x960,1600x1200,1920x1440,Custom
+Native
+640x480
+960x720
+1280x960
+1600x1200
+1920x1440
+Custom
 
 
 #(aspect ratios)
-Fill Window,Native,Force 4:3
+Fill Window
+Native
+Force 4:3
 
 
 #(display modes)
-Windowed,Exclusive Fullscreen,Borderless Fullscreen
+Windowed
+Exclusive Fullscreen
+Borderless Fullscreen
 
 
 #(scalers)
-None,Bilinear,Adapt. Bilinear,Adv. Bilinear,Triscan (Scale2x),HQ (2x)
+None
+Bilinear
+Adapt. Bilinear
+Adv. Bilinear
+Triscan (Scale2x)
+HQ (2x)
 
 
 #(Graphics Options)
@@ -178,51 +207,68 @@ Show FPS
 
 
 #(DOS,3DO,UQM) -- GEN_ENG_STR_BASE
-DOS,3DO,UQM
+DOS
+3DO
+UQM
 
 
 #(Text,Pictographic)
-Text,Pictographic
+Text
+Pictographic
 
 
 #(Gradients,Flat)
-Gradients,Flat
+Gradients
+Flat
 
 
 #(Slides,Movie)
-Slides,Movie
+Slides
+Movie
 
 
 #(Green Engine,Red Engine)
-Green Engine,Red Engine
+Green Engine
+Red Engine
 
 
 #(Stepped,Smooth)
-Stepped,Smooth
+Stepped
+Smooth
 
 
 #(DOS,3DO)
-DOS,3DO
+DOS
+3DO
 
 
 #(Per-Page,Smooth)
-Per-Page,Smooth
+Per-Page
+Smooth
 
 
 #(DOS,3DO,UQM,HD-mod)
-DOS,3DO,UQM,HD-mod
+DOS
+3DO
+UQM
+HD-mod
 
 
 #(Text,Pictograms,Text (6014),Pictograms (6014))
-Text,Pictograms,Text (6014),Pictograms (6014)
+Text
+Pictograms
+Text (6014)
+Pictograms (6014)
 
 
 #(Static,Pulsating) -- GEN_ENG_STR_BASE + 10
-Static,Pulsating
+Static
+Pulsating
 
 
 #(Shaded,Plain)
-Shaded,Plain
+Shaded
+Plain
 
 
 #(User Interface) -- GEN_ENG_STR_BASE + 12
@@ -322,19 +368,27 @@ Lander View Style
 
 
 #(None,MixSDL,OpenAL) -- GEN_AUD_STR_BASE
-None,MixSDL,OpenAL
+None
+MixSDL
+OpenAL
 
 
 #(Low,Medium,High)
-Low,Medium,High
+Low
+Medium
+High
 
 
 #(Disabled,No Spoilers,Spoilers)
-Disabled,No Spoilers,Spoilers
+Disabled
+No Spoilers
+Spoilers
 
 
 #(Disabled,5 Minutes,Indefinite)
-Disabled,5 Minutes,Indefinite
+Disabled
+5 Minutes
+Indefinite
 
 
 #(Sound Options)
@@ -394,19 +448,29 @@ Music Resume
 
 
 #(Keyboard,Xbox,PlayStation,Switch Pro) -- GEN_CON_STR_BASE
-Keyboard,Xbox,PlayStation,Switch Pro
+Keyboard
+Xbox
+PlayStation
+Switch Pro
 
 
 #(directional joystick display)
-Normal Control,Left Stick Directional,Right Stick Directional,Left Stick Auto-Thrust,Right Stick Auto-Thrust
+Normal Control
+Left Stick Directional
+Right Stick Directional
+Left Stick Auto-Thrust
+Right Stick Auto-Thrust
 
 
 #(Disabled,Manual Control,Local Auto-Pilot)
-Disabled,Manual Control,Local Auto-Pilot
+Disabled
+Manual Control
+Local Auto-Pilot
 
 
 #(Player 1,Player 2)
-Player 1,Player 2
+Player 1
+Player 2
 
 
 #(pretty flight actions)
@@ -414,7 +478,11 @@ Up,Down,Left,Right,Weapon,Special,Escape,Thrust
 
 
 #(pretty menu actions)
-Pause,Exit,Abort,Debug 1,Fullscreen,Up,Down,Left,Right,Select,Cancel,Special,Page-Up,Page-Down,Home,End,Zoom-In,Zoom-Out,Delete,Backspace,Cancel Edit,Star Search,Tab / Next,Toggle StarMaps,Screenshot,QuickSave,QuickLoad,ImGui Toggle,Debug 2,Debug 3,Debug 4,Mouse Left,Mouse Right,Mouse Middle,Mouse Wheel Up,Mouse Wheel Down
+Pause,Exit,Abort,Debug 1,Fullscreen,Up,Down,Left,Right,Select,Cancel,Special
+Page-Up,Page-Down,Home,End,Zoom-In,Zoom-Out,Delete,Backspace,Cancel Edit
+Star Search,Tab / Next,Toggle StarMaps,Screenshot,QuickSave,QuickLoad
+ImGui Toggle,Debug 2,Debug 3,Debug 4,Mouse Left,Mouse Right,Mouse Middle
+Mouse Wheel Up,Mouse Wheel Down
 
 
 #(Control Options)
@@ -518,15 +586,22 @@ Cannot bind to `%s' using the `%s' ( %s ) binding
 
 
 #(Original,Easy,Hard) -- GEN_ADV_STR_BASE
-Original,Easy,Hard
+Original
+Easy
+Hard
 
 
 #(Disabled,Easy,Hard)
-Disabled,Easy,Hard
+Disabled
+Easy
+Hard
 
 
 #(Prime,Planet,MRQ,StarSeed)
-Prime,Planet,MRQ,StarSeed
+Prime
+Planet
+MRQ
+StarSeed
 
 
 #(Enable Risky Options)
@@ -614,15 +689,21 @@ Ship Storage Queue
 
 
 #(date_formats) -- ENH_VIS_STR_BASE
-MMM DD.YYYY,MM.DD.YYYY,DD MMM.YYYY,DD.MM.YYYY
+MMM DD.YYYY
+MM.DD.YYYY
+DD MMM.YYYY
+DD.MM.YYYY
 
 
 #(fuel_ranges)
-None,At Destination,To Sol,Both
+None
+At Destination
+To Sol,Both
 
 
 #(planet_textures)
-3DO,UQM
+3DO
+UQM
 
 
 #(Date Format)
@@ -698,11 +779,16 @@ Show Lander Upgrades
 
 
 #(god_modes) -- ENH_CHT_STR_BASE
-None,Infinite Energy,Invulnerable,Full God Mode
+None
+Infinite Energy
+Invulnerable
+Full God Mode
 
 
 #(time_modes)
-Normal,Slow (x6),Fast (x5)
+Normal
+Slow (x6)
+Fast (x5)
 
 
 #(Basic Cheats)
