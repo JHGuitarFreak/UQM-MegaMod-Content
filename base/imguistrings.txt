@@ -86,8 +86,13 @@ WARNING! Changing Ship Seed only works in the Main Menu (When starting a new gam
 Changing seeds with MRQ or StarSeed enabled only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
 
 
-#(Screen Update Warning) -- TIP_WARN_STR_BASE + 10
+#(Screen Update Warning)
 Some of the options in this part of the menu need a full screen update for them to take full effect. If in doubt enter/leave planet orbit, leave and re-enter the current star system, or enter and leave the Starbase
+
+
+#(Build Ship Tooltip) -- TIP_WARN_STR_BASE + 11
+Allows you to build their ships
+regardless of alliance status
 
 
 #(Menu Settings) -- GEN_SETT_STR_BASE
@@ -859,4 +864,96 @@ Lander Capacity
 Not Saved or Loaded
 
 
-#() -- DBG_STS_STR_BASE
+#(lander_upgrades) -- DBG_STS_STR_BASE
+Quake,BIO,Lightning
+Lava,Weapon,Speed
+Cargo
+
+
+#(elements)
+Common,Corrosive,Base Metal,Noble,Rare Earth,Precious,Radioactive,Exotic
+Free Space
+Bio-Data
+
+
+#(modules)
+Lander,Fusion Thruster,Turning Jets,Crew Pod,Storage Bay,Fuel Tank
+High-Eff Fuel Sys,Dynamo Unit,Shiva Furnace,Ion-Bolt Gun,Fusion Blaster
+Hellbore Cannon,Tracking System,Point Defense
+
+
+#(allied_states)
+Dead
+Allied
+Enemy
+
+
+#(ship_modules)
+None,Crew Pod,Storage Bay,Fuel Tank,High-Eff Fuel Sys,Dynamo Unit
+Shiva Furnace,Ion-Bolt Gun,Fusion Blaster,Hellbore Cannon,Tracking System
+Point Defense,Bomb Module 0,Bomb Module 1,Bomb Module 2,Bomb Module 3
+Bomb Module 4,Bomb Module 5
+
+
+#(Currency Status) -- DBG_STS_STR_BASE + 5
+Currency Status
+
+
+#(Current R.U.)
+Current R.U.
+
+
+#(Current Credits)
+Current Credits
+
+
+#(Lander Upgrades)
+Lander Upgrades
+
+
+#(Cargo Status)
+Cargo Status
+
+
+#(Module Status) -- DBG_STS_STR_BASE + 10
+Module Status
+
+
+#(Alien Status)
+Alien Status
+
+
+#(Flagship Status)
+Flagship Status
+
+
+#(Coordinates)
+Coordinates
+
+
+#(Unknown)
+Unknown
+
+
+#(Location)
+Location
+
+
+#(Captain's Name)
+Captain's Name
+
+
+#(Flagship Name)
+Flagship Name
+
+
+#(Landers)
+Landers
+
+
+#(Current Fuel [Max %d])
+Current Fuel [Max %d]
+
+
+#(Current Crew [Max %d]) -- DBG_STS_STR_BASE + 20
+Current Crew [Max %d]
