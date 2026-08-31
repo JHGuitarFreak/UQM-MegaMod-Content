@@ -28,7 +28,8 @@ Journal
 Status
 Devices
 Game States
-Events,Stars
+Events
+Stars
 
 
 #(No subtabs)
