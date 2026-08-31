@@ -958,3 +958,24 @@ Current Fuel [Max %d]
 
 #(Current Crew [Max %d]) -- DBG_STS_STR_BASE + 20
 Current Crew [Max %d]
+
+
+#(ultron_status) -- DBG_DVC_STR_BASE
+Not On-Board
+Broken
+Fix 1
+Fix 2
+Fixed
+Given Back
+
+
+#(Devices)
+Devices
+
+
+#(Retrieved)
+Retrieved
+
+
+#(On-Board) -- DBG_DVC_STR_BASE + 3
+On-Board
