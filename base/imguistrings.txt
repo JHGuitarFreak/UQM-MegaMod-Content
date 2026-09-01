@@ -87,13 +87,33 @@ WARNING! Changing Ship Seed only works in the Main Menu (When starting a new gam
 Changing seeds with MRQ or StarSeed enabled only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
 
 
-#(Screen Update Warning)
+#(Screen Update Warning) -- TIP_WARN_STR_BASE + 10
 Some of the options in this part of the menu need a full screen update for them to take full effect. If in doubt enter/leave planet orbit, leave and re-enter the current star system, or enter and leave the Starbase
 
 
-#(Build Ship Tooltip) -- TIP_WARN_STR_BASE + 11
+#(Build Ship Tooltip)
 Allows you to build their ships
 regardless of alliance status
+
+
+#(PKUNK_MISSION)
+Switch this to "Returning" if you've turned
+off any of the GOOD_REASONS.
+
+
+#(THRADD_MISSION)
+Editing this only changes dialog responses
+and doesn't affect the actual mission.
+
+
+#(ZOQFOT_DISTRESS)
+Editing this doesn't stop the ZFP from being
+under distress.
+
+
+#(ZOQFOT_DISTRESS) -- TIP_WARN_STR_BASE + 15
+When turning these off make sure to set
+PKUNK_MISSION to "Returning"
 
 
 #(Menu Settings) -- GEN_SETT_STR_BASE
@@ -979,3 +999,116 @@ Retrieved
 
 #(On-Board) -- DBG_DVC_STR_BASE + 3
 On-Board
+
+
+#(FOUND_PLUTO_SPATHI) -- DBG_GMS_STR_BASE
+Not Found
+Talking to
+Post-dialog
+Told the Safe Ones
+
+
+#(SPATHI_MANNER)
+Neutral
+Miffed
+Pissed
+Friendly
+
+
+#(LIED_ABOUT_CREATURES)
+Haven't Lied
+Lied Once
+Lied Twice
+
+
+#(NEW_ALLIANCE_NAME)
+The New Alliance of Free Stars
+The Concordance of Alien Nations
+The United Federation of Worlds
+The Empire of %s
+
+
+#(ORZ_MANNER)
+Neutral
+Kinda Miffed
+FRUMPLE!
+Friendly
+
+
+#(CHMMR_BOMB_STATE)
+Ignorant about Precursor Bomb
+You need the Precursor Bomb
+Chmmr Bomb is being Installed
+Chmmr Bomb Installed
+
+
+#(PKUNK_MISSION)
+Stationary
+On the move
+Returning
+On the move again
+Returning again
+On the move yet again
+
+
+#(THRADD_CULTURE)
+Unknown culture
+Culture Twenty
+The Fat Obstreperous Jerks
+The Glorious Slave Empire of %s
+
+
+#(THRADD_MISSION)
+No Mission
+Heading towards the Kohr-Ah
+Fighting the Kohr-Ah
+Returning from fight
+Back at home
+
+
+#(ZOQFOT_DISTRESS)
+ZFP aren't in distress
+ZFP Are under attack!
+ZFP have been destroyed by attack
+
+
+#(UTWIG_SUPOX_MISSION) -- DBG_GMS_STR_BASE + 10
+U&S fleet haven't left
+U&S are on their way
+U&S are fighting the Kohr-Ah
+U&S are fighting the Kohr-Ah 2
+U&S are returning home
+U&S are back home
+
+
+#(KNOW_ABOUT_SHATTERED)
+Ignorant of Shattered Worlds
+Encountered Shattered World
+Know are caused by Deep Children
+Told the Syreen about Deep Children
+
+
+#(PKUNK_MANNER)
+Not met Pkunk
+Fought Pkunk, relation salvageable
+Hostile relations with Pkunk
+Friendly relations with Pkunk
+
+
+#(ARILOU_MANNER)
+Not met Arilou
+Fought Arilou, relation salvageable
+Hostile relations with Arilou
+Friendly relations with Arilou
+
+
+#(Page)
+Page %d
+
+
+#(Set All)
+Set All
+
+
+#(Clear All) -- DBG_GMS_STR_BASE + 16
+Clear All
