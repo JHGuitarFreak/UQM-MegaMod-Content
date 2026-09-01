@@ -1173,3 +1173,70 @@ Block
 #(Pause,Resume) -- DBG_EVT_STR_BASE + 14
 Pause
 Resume
+
+
+#(star_type) -- DBG_STA_STR_BASE
+Dwarf
+Giant
+Super Giant
+
+
+#(star_colour)
+Blue
+Green
+Orange
+Red
+White
+Yellow
+
+
+#(Filters)
+Filters
+
+
+#(Filter by Presence)
+Filter by Presence
+
+
+#(Show only Type)
+Show only Type
+
+
+#(Show only Colour)
+Show only Colour
+
+
+#(Current Star System)
+Current Star System
+
+
+#(X/Y Range)
+X/Y Range
+
+
+#(Star Table)
+Star Table
+
+
+#(Idx)
+Idx
+
+
+#(Prefix) -- DBG_STA_STR_BASE + 10
+Prefix
+
+
+#(Postfix)
+Postfix
+
+
+#(Type)
+Type
+
+
+#(Colour)
+Colour
+
+
+#(Presence) -- DBG_STA_STR_BASE + 14
+Presence
