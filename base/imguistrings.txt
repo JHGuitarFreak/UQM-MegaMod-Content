@@ -111,7 +111,7 @@ Editing this doesn't stop the ZFP from being
 under distress.
 
 
-#(ZOQFOT_DISTRESS) -- TIP_WARN_STR_BASE + 15
+#(PKUNK_REASONS) -- TIP_WARN_STR_BASE + 15
 When turning these off make sure to set
 PKUNK_MISSION to "Returning"
 
@@ -1112,3 +1112,64 @@ Set All
 
 #(Clear All) -- DBG_GMS_STR_BASE + 16
 Clear All
+
+
+#(Event Manipulation) -- DBG_EVT_STR_BASE
+Event Manipulation
+
+
+#(Event Index)
+Event Index
+
+
+#(Years)
+Years
+
+
+#(Months)
+Months
+
+
+#(Days)
+Days
+
+
+#(Add Event)
+Add Event
+
+
+#(Event Status)
+Event Status
+
+
+#(Refresh Delay)
+Refresh Delay: 
+
+
+#(Second(s))
+Second(s)
+
+
+#(Current Date)
+Current Date
+
+
+#(Blocked Events) -- DBG_EVT_STR_BASE + 10
+Blocked Events
+
+
+#(EventID)
+EventID
+
+
+#(Days Left: %d)
+Days Left: %d
+
+
+#(Block)
+Block
+
+
+#(Pause,Resume) -- DBG_EVT_STR_BASE + 14
+Pause
+Resume
