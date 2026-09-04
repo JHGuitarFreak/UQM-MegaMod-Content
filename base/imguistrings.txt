@@ -64,7 +64,7 @@ WARNING! This option can only be changed while in the Main Menu!
 
 
 #(Setup Menu Warning)
-This option can only be changed while in the Setup Menu.
+This option can only be changed in the Setup Menu (For now).
 
 
 #(Risky Warning)
