@@ -1298,6 +1298,14 @@ Calcium Compounds
 Nitric Acid
 
 
+#(Cargo Full)
+Cargo Full
+
+
+#(Data Full)
+Data Full
+
+
 #(MINERAL SCAN) -- SCAN_STRING_BASE
 MINERAL SCAN
 

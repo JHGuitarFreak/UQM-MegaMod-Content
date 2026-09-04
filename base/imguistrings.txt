@@ -1,0 +1,1242 @@
+#(Tab Names) -- NAV_TAB_STR_BASE
+General
+Enhancements
+Journal
+Debug
+
+
+#(Subtab Names 00)
+Settings
+Graphics
+PC / 3DO
+Audio
+Controls
+Advanced
+
+
+#(Subtab Names 01)
+Quality of Life
+Visuals
+Cheats
+
+
+#(Subtab Names 02)
+Journal
+
+
+#(Subtab Names 03)
+Status
+Devices
+Game States
+Events
+Stars
+
+
+#(No subtabs)
+No subtabs found for this tab
+
+
+#(Subtab not found)
+Subtab %d not found.
+
+
+#(Not available)
+Not available in the Main Menu...
+
+
+#(Debug Warning) -- TIP_WARN_STR_BASE
+WARNING! While the stuff in the debug menu is
+pretty neat, know that messing with things in here
+can sometimes break the game and/or its progress.
+
+
+#(Reload Warning)
+WARNING! This option will drop you
+back to the main menu to reload.
+
+
+#(Options Warning)
+Some of the options in this part of the menu need a full screen update for them to take full effect. If in doubt enter/leave planet orbit, leave and re-enter the current star system, or enter and leave the Starbase
+
+
+#(Main Menu Warning)
+WARNING! This option can only be changed while in the Main Menu!
+
+
+#(Setup Menu Warning)
+This option can only be changed in the Setup Menu (For now).
+
+
+#(Risky Warning)
+WARNING! Modifying risky options in-game has the possibility to break the game or your game save!
+
+
+#(HyperSpace Warning)
+WARNING! When changing this option in-game make sure you do so while in HyperSpace!
+
+
+#(Seed Type Warning)
+Switching to and from MRQ or StarSeed only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
+
+
+#(Ship Seed Warning)
+WARNING! Changing Ship Seed only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
+
+
+#(Custom Seed Warning)
+Changing seeds with MRQ or StarSeed enabled only works in the Main Menu (When starting a new game) or if you change it then save/reload the game.
+
+
+#(Screen Update Warning) -- TIP_WARN_STR_BASE + 10
+Some of the options in this part of the menu need a full screen update for them to take full effect. If in doubt enter/leave planet orbit, leave and re-enter the current star system, or enter and leave the Starbase
+
+
+#(Build Ship Tooltip)
+Allows you to build their ships
+regardless of alliance status
+
+
+#(PKUNK_MISSION)
+Switch this to "Returning" if you've turned
+off any of the GOOD_REASONS.
+
+
+#(THRADD_MISSION)
+Editing this only changes dialog responses
+and doesn't affect the actual mission.
+
+
+#(ZOQFOT_DISTRESS)
+Editing this doesn't stop the ZFP from being
+under distress.
+
+
+#(PKUNK_REASONS) -- TIP_WARN_STR_BASE + 15
+When turning these off make sure to set
+PKUNK_MISSION to "Returning"
+
+
+#(Menu Settings) -- GEN_SETT_STR_BASE
+Menu Settings
+
+
+#(Font Selector)
+Font Selector
+
+
+#(Menu Controller Navigation)
+Menu Controller Navigation
+
+
+#(Menu Background Opacity)
+Menu Background Opacity
+
+
+#(UI Scale)
+UI Scale
+
+
+#(Reset)
+Reset
+
+
+#(Open Addons Folder...)
+Open Addons Folder...
+
+
+#(Open Config Folder...)
+Open Config Folder...
+
+
+#(Insult Factory)
+- Sound Test -,NULL,Baby!,Dodo!,Dummy!,Fool!,Idiot!,Jerk!,Loser!,Moron!
+Stupid!,Twit!,Wimp!,Worm!,Dummy!,Nerd!,Nitwit!
+
+
+#(About)
+About
+
+
+#(Show ImGui Demo Window) -- GEN_SETT_STR_BASE + 10
+Show ImGui Demo Window
+
+
+#(resolutions) -- GEN_GFX_STR_BASE
+Native
+640x480
+960x720
+1280x960
+1600x1200
+1920x1440
+Custom
+
+
+#(aspect ratios)
+Fill Window
+Native
+Force 4:3
+
+
+#(display modes)
+Windowed
+Exclusive Fullscreen
+Borderless Fullscreen
+
+
+#(scalers)
+None
+Bilinear
+Adapt. Bilinear
+Adv. Bilinear
+Triscan (Scale2x)
+HQ (2x)
+
+
+#(Graphics Options)
+Graphics Options
+
+
+#(HD Mode)
+HD Mode
+
+
+#(Resolution)
+Resolution
+
+
+#(Custom Resolution)
+Custom Resolution
+
+
+#(Aspect Ratio)
+Aspect Ratio
+
+
+#(Display Mode)
+Display Mode
+
+
+#(Gamma) -- GEN_GFX_STR_BASE + 10
+Gamma
+
+
+#(Scaler)
+Scaler
+
+
+#(Scanlines)
+Scanlines
+
+
+#(Show FPS)
+Show FPS
+
+
+#(DOS,3DO,UQM) -- GEN_ENG_STR_BASE
+DOS
+3DO
+UQM
+
+
+#(Text,Pictographic)
+Text
+Pictographic
+
+
+#(Gradients,Flat)
+Gradients
+Flat
+
+
+#(Slides,Movie)
+Slides
+Movie
+
+
+#(Green Engine,Red Engine)
+Green Engine
+Red Engine
+
+
+#(Stepped,Smooth)
+Stepped
+Smooth
+
+
+#(DOS,3DO)
+DOS
+3DO
+
+
+#(Per-Page,Smooth)
+Per-Page
+Smooth
+
+
+#(DOS,3DO,UQM,HD-mod)
+DOS
+3DO
+UQM
+HD-mod
+
+
+#(Text,Pictograms,Text (6014),Pictograms (6014))
+Text
+Pictograms
+Text (6014)
+Pictograms (6014)
+
+
+#(Static,Pulsating) -- GEN_ENG_STR_BASE + 10
+Static
+Pulsating
+
+
+#(Shaded,Plain)
+Shaded
+Plain
+
+
+#(User Interface) -- GEN_ENG_STR_BASE + 12
+User Interface
+
+
+#(Platform UI)
+Platform UI
+
+
+#(Menu Style)
+Menu Style
+
+
+#(DOS Side Menu)
+DOS Side Menu
+
+
+#(Font Style)
+Font Style
+
+
+#(Cutscenes)
+Cutscenes
+
+
+#(Melee Zoom)
+Melee Zoom
+
+
+#(Flagship Engine Color)
+Flagship Engine Color
+
+
+#(Screen Transitions) -- GEN_ENG_STR_BASE + 20
+Screen Transitions
+
+
+#(Conversation Screen)
+Conversation Screen
+
+
+#(Scroll Style)
+Scroll Style
+
+
+#(Speech)
+Speech
+
+
+#(Subtitles)
+Subtitles
+
+
+#(Oscilloscope Style)
+Oscilloscope Style
+
+
+#(Star System View)
+Star System View
+
+
+#(Planet Style)
+Planet Style
+
+
+#(Star Background)
+Star Background
+
+
+#(Orbit Screen)
+Orbit Screen
+
+
+#(Stats Display) -- GEN_ENG_STR_BASE + 30
+Stats Display
+
+
+#(Slave Shields)
+Slave Shields
+
+
+#(Scanning Style)
+Scanning Style
+
+
+#(Sphere Style)
+Sphere Style
+
+
+#(Tinted Sphere Scan)
+Tinted Sphere Scan
+
+
+#(Lander View Style)
+Lander View Style
+
+
+#(None,MixSDL,OpenAL) -- GEN_AUD_STR_BASE
+None
+MixSDL
+OpenAL
+
+
+#(Low,Medium,High)
+Low
+Medium
+High
+
+
+#(Disabled,No Spoilers,Spoilers)
+Disabled
+No Spoilers
+Spoilers
+
+
+#(Disabled,5 Minutes,Indefinite)
+Disabled
+5 Minutes
+Indefinite
+
+
+#(Sound Options)
+Sound Options
+
+
+#(Music Volume)
+Music Volume
+
+
+#(SFX Volume)
+SFX Volume
+
+
+#(Speech Volume)
+Speech Volume
+
+
+#(Positional Audio)
+Positional Audio
+
+
+#(Sound Driver)
+Sound Driver
+
+
+#(Sound Quality) -- GEN_AUD_STR_BASE + 10
+Sound Quality
+
+
+#(Music Options)
+Music Options
+
+
+#(3DO Remixes)
+3DO Remixes
+
+
+#(Precursor's Remixes)
+Precursor's Remixes
+
+
+#(Volasaurus' Remixes)
+Volasaurus' Remixes
+
+
+#(Interplanetary Alien Ambience)
+Interplanetary Alien Ambience
+
+
+#(Menu Music)
+Menu Music
+
+
+#(Music Resume) -- GEN_AUD_STR_BASE + 17
+Music Resume
+
+
+#(Keyboard,Xbox,PlayStation,Switch Pro) -- GEN_CON_STR_BASE
+Keyboard
+Xbox
+PlayStation
+Switch Pro
+
+
+#(directional joystick display)
+Normal Control
+Left Stick Directional
+Right Stick Directional
+Left Stick Auto-Thrust
+Right Stick Auto-Thrust
+
+
+#(Disabled,Manual Control,Local Auto-Pilot)
+Disabled
+Manual Control
+Local Auto-Pilot
+
+
+#(Player 1,Player 2)
+Player 1
+Player 2
+
+
+#(pretty flight actions)
+Up,Down,Left,Right,Weapon,Special,Escape,Thrust
+
+
+#(pretty menu actions)
+Pause,Exit,Abort,Debug 1,Fullscreen,Up,Down,Left,Right,Select,Cancel,Special
+Page-Up,Page-Down,Home,End,Zoom-In,Zoom-Out,Delete,Backspace,Cancel Edit
+Star Search,Tab / Next,Toggle StarMaps,Screenshot,QuickSave,QuickLoad
+ImGui Toggle,Debug 2,Debug 3,Debug 4,Mouse Left,Mouse Right,Mouse Middle
+Mouse Wheel Up,Mouse Wheel Down
+
+
+#(Control Options)
+Control Options
+
+
+#(Auto-Detect Icons)
+Auto-Detect Icons
+
+
+#(Button Icons)
+Button Icons
+
+
+#(Directional Joystick P%d)
+Directional Joystick P%d
+
+
+#(Crappy Mouse Input) -- GEN_CON_STR_BASE + 10
+Crappy Mouse Input
+
+
+#(Edit Controls)
+Edit Controls
+
+
+#(Flight)
+Flight
+
+
+#(Menu)
+Menu
+
+
+#(Deadzones)
+Deadzones
+
+
+#(Load Defaults) -- GEN_CON_STR_BASE + 15
+Load Defaults
+
+
+#(Save Changes)
+Save Changes
+
+
+#(Cancel)
+Cancel
+
+
+#(Action)
+Action
+
+
+#(Bind)
+Bind %d
+
+
+#(Error: Invalid template ID) -- GEN_CON_STR_BASE + 20
+Error: Invalid template ID
+
+
+#(Action: %s | Binding %d of %d)
+Action: %s | Binding %d of %d
+
+
+#(Illegal bind detected!)
+Illegal bind detected!
+
+
+#(Waiting for input...)
+Waiting for input...
+
+
+#(Press any key, button, or move an axis)
+Press any key, button, or move an axis
+
+
+#(Please choose a different key, button, or axis...)
+Please choose a different key, button, or axis...
+
+
+#(Clear)
+Clear
+
+
+#(- Player %d -)
+- Player %d -
+
+
+#(Left Stick)
+Left Stick
+
+
+#(Right Stick)
+Right Stick
+
+
+#(Cannot Bind Error) -- GEN_CON_STR_BASE + 30
+Cannot bind to `%s' using the `%s' ( %s ) binding
+
+
+#(Original,Easy,Hard) -- GEN_ADV_STR_BASE
+Original
+Easy
+Hard
+
+
+#(Disabled,Easy,Hard)
+Disabled
+Easy
+Hard
+
+
+#(Prime,Planet,MRQ,StarSeed)
+Prime
+Planet
+MRQ
+StarSeed
+
+
+#(Enable Risky Options)
+Enable Risky Options
+
+
+#(Advanced Options)
+Advanced Options
+
+
+#(Slaughter Mode)
+Slaughter Mode
+
+
+#(Fleet Point System)
+Fleet Point System
+
+
+#(Risky Options)
+Risky Options
+
+
+#(Difficulty)
+Difficulty
+
+
+#(Extended Lore)
+Extended Lore
+
+
+#(Nomad Mode) -- GEN_ADV_STR_BASE + 10
+Nomad Mode
+
+
+#(Seed Type)
+Seed Type
+
+
+#(Ship Seed)
+Ship Seed
+
+
+#(Custom Seed)
+Custom Seed
+
+
+#(Basic Qol Options) -- ENH_QOL_STR_BASE
+Basic Qol Options
+
+
+#(Skip Intro)
+Skip Intro
+
+
+#(Partial Pickup)
+Partial Pickup
+
+
+#(Scatter Elements)
+Scatter Elements
+
+
+#(In-Game Help Menus)
+In-Game Help Menus
+
+
+#(Smart Auto-Pilot)
+Smart Auto-Pilot
+
+
+#(Advanced Auto-Pilot)
+Advanced Auto-Pilot
+
+
+#(Show Visited Stars)
+Show Visited Stars
+
+
+#(Super Melee Ship Descriptions)
+Super Melee Ship Descriptions
+
+
+#(Ship Storage Queue) -- ENH_QOL_STR_BASE + 9
+Ship Storage Queue
+
+
+#(date_formats) -- ENH_VIS_STR_BASE
+MMM DD.YYYY
+MM.DD.YYYY
+DD MMM.YYYY
+DD.MM.YYYY
+
+
+#(fuel_ranges)
+None
+At Destination
+To Sol,Both
+
+
+#(planet_textures)
+3DO
+UQM
+
+
+#(Date Format)
+Date Format
+
+
+#(Custom Border)
+Custom Border
+
+
+#(Show Whole Fuel Value)
+Show Whole Fuel Value
+
+
+#(Fuel Range Indicators)
+Fuel Range Indicators
+
+
+#(Alternate SOI Colours)
+Alternate SOI Colours
+
+
+#(HD Animations)
+HD Animations
+
+
+#(Captain Names in Shipyard)
+Captain Names in Shipyard
+
+
+#(Game Over Cutscenes) -- ENH_VIS_STR_BASE + 10
+Game Over Cutscenes
+
+
+#(Alternate Orz Font)
+Alternate Orz Font
+
+
+#(Non-Stop Oscilloscope)
+Non-Stop Oscilloscope
+
+
+#(Nebulae & Nebulae Brightness)
+Nebulae & Nebulae Brightness
+
+
+#(Orbiting Planets)
+Orbiting Planets
+
+
+#(Textured Planets)
+Textured Planets
+
+
+#(Unscaled View (HD Only))
+Unscaled View (HD Only)
+
+
+#(NPC Ship Orientation)
+NPC Ship Orientation
+
+
+#(Hazard Colours)
+Hazard Colours
+
+
+#(Planet Map Textures)
+Planet Map Textures
+
+
+#(Show Lander Upgrades) -- ENH_VIS_STR_BASE + 20
+Show Lander Upgrades
+
+
+#(god_modes) -- ENH_CHT_STR_BASE
+None
+Infinite Energy
+Invulnerable
+Full God Mode
+
+
+#(time_modes)
+Normal
+Slow (x6)
+Fast (x5)
+
+
+#(Basic Cheats)
+Basic Cheats
+
+
+#(Kohr-Stahp)
+Kohr-Stahp
+
+
+#(Kohr-Ah DeCleansing)
+Kohr-Ah DeCleansing
+
+
+#(God Modes)
+God Modes
+
+
+#(Time Dilation)
+Time Dilation
+
+
+#(Bubble Warp)
+Bubble Warp
+
+
+#(Head Start)
+Head Start
+
+
+#(Unlock All Ships)
+Unlock All Ships
+
+
+#(Infinite R.U.) -- ENH_CHT_STR_BASE + 10
+Infinite R.U.
+
+
+#(Infinite Fuel)
+Infinite Fuel
+
+
+#(Infinite Credits)
+Infinite Credits
+
+
+#(No HyperSpace Encounters)
+No HyperSpace Encounters
+
+
+#(No Melee Obstacles)
+No Melee Obstacles
+
+
+#(Expanded Cheats)
+Expanded Cheats
+
+
+#(Lander Capacity)
+Lander Capacity
+
+
+#( Ships GTFO! ) -- ENH_CHT_STR_BASE + 17
+ Ships GTFO! 
+
+
+#(Not Saved or Loaded) -- JOURNAL_STR_BASE
+Not Saved or Loaded
+
+
+#(lander_upgrades) -- DBG_STS_STR_BASE
+Quake,BIO,Lightning
+Lava,Weapon,Speed
+Cargo
+
+
+#(elements)
+Common,Corrosive,Base Metal,Noble,Rare Earth,Precious,Radioactive,Exotic
+Free Space
+Bio-Data
+
+
+#(modules)
+Lander,Fusion Thruster,Turning Jets,Crew Pod,Storage Bay,Fuel Tank
+High-Eff Fuel Sys,Dynamo Unit,Shiva Furnace,Ion-Bolt Gun,Fusion Blaster
+Hellbore Cannon,Tracking System,Point Defense
+
+
+#(allied_states)
+Dead
+Allied
+Enemy
+
+
+#(ship_modules)
+None,Crew Pod,Storage Bay,Fuel Tank,High-Eff Fuel Sys,Dynamo Unit
+Shiva Furnace,Ion-Bolt Gun,Fusion Blaster,Hellbore Cannon,Tracking System
+Point Defense,Bomb Module 0,Bomb Module 1,Bomb Module 2,Bomb Module 3
+Bomb Module 4,Bomb Module 5
+
+
+#(Currency Status) -- DBG_STS_STR_BASE + 5
+Currency Status
+
+
+#(Current R.U.)
+Current R.U.
+
+
+#(Current Credits)
+Current Credits
+
+
+#(Lander Upgrades)
+Lander Upgrades
+
+
+#(Cargo Status)
+Cargo Status
+
+
+#(Module Status) -- DBG_STS_STR_BASE + 10
+Module Status
+
+
+#(Alien Status)
+Alien Status
+
+
+#(Flagship Status)
+Flagship Status
+
+
+#(Coordinates)
+Coordinates
+
+
+#(Unknown)
+Unknown
+
+
+#(Location)
+Location
+
+
+#(Captain's Name)
+Captain's Name
+
+
+#(Flagship Name)
+Flagship Name
+
+
+#(Landers)
+Landers
+
+
+#(Current Fuel [Max %d])
+Current Fuel [Max %d]
+
+
+#(Current Crew [Max %d]) -- DBG_STS_STR_BASE + 20
+Current Crew [Max %d]
+
+
+#(ultron_status) -- DBG_DVC_STR_BASE
+Not On-Board
+Broken
+Fix 1
+Fix 2
+Fixed
+Given Back
+
+
+#(Devices)
+Devices
+
+
+#(Retrieved)
+Retrieved
+
+
+#(On-Board) -- DBG_DVC_STR_BASE + 3
+On-Board
+
+
+#(FOUND_PLUTO_SPATHI) -- DBG_GMS_STR_BASE
+Not Found
+Talking to
+Post-dialog
+Told the Safe Ones
+
+
+#(SPATHI_MANNER)
+Neutral
+Miffed
+Pissed
+Friendly
+
+
+#(LIED_ABOUT_CREATURES)
+Haven't Lied
+Lied Once
+Lied Twice
+
+
+#(NEW_ALLIANCE_NAME)
+The New Alliance of Free Stars
+The Concordance of Alien Nations
+The United Federation of Worlds
+The Empire of %s
+
+
+#(ORZ_MANNER)
+Neutral
+Kinda Miffed
+FRUMPLE!
+Friendly
+
+
+#(CHMMR_BOMB_STATE)
+Ignorant about Precursor Bomb
+You need the Precursor Bomb
+Chmmr Bomb is being Installed
+Chmmr Bomb Installed
+
+
+#(PKUNK_MISSION)
+Stationary
+On the move
+Returning
+On the move again
+Returning again
+On the move yet again
+
+
+#(THRADD_CULTURE)
+Unknown culture
+Culture Twenty
+The Fat Obstreperous Jerks
+The Glorious Slave Empire of %s
+
+
+#(THRADD_MISSION)
+No Mission
+Heading towards the Kohr-Ah
+Fighting the Kohr-Ah
+Returning from fight
+Back at home
+
+
+#(ZOQFOT_DISTRESS)
+ZFP aren't in distress
+ZFP Are under attack!
+ZFP have been destroyed by attack
+
+
+#(UTWIG_SUPOX_MISSION) -- DBG_GMS_STR_BASE + 10
+U&S fleet haven't left
+U&S are on their way
+U&S are fighting the Kohr-Ah
+U&S are fighting the Kohr-Ah 2
+U&S are returning home
+U&S are back home
+
+
+#(KNOW_ABOUT_SHATTERED)
+Ignorant of Shattered Worlds
+Encountered Shattered World
+Know are caused by Deep Children
+Told the Syreen about Deep Children
+
+
+#(PKUNK_MANNER)
+Not met Pkunk
+Fought Pkunk, relation salvageable
+Hostile relations with Pkunk
+Friendly relations with Pkunk
+
+
+#(ARILOU_MANNER)
+Not met Arilou
+Fought Arilou, relation salvageable
+Hostile relations with Arilou
+Friendly relations with Arilou
+
+
+#(Page)
+Page %d
+
+
+#(Set All)
+Set All
+
+
+#(Clear All) -- DBG_GMS_STR_BASE + 16
+Clear All
+
+
+#(Event Manipulation) -- DBG_EVT_STR_BASE
+Event Manipulation
+
+
+#(Event Index)
+Event Index
+
+
+#(Years)
+Years
+
+
+#(Months)
+Months
+
+
+#(Days)
+Days
+
+
+#(Add Event)
+Add Event
+
+
+#(Event Status)
+Event Status
+
+
+#(Refresh Delay)
+Refresh Delay: 
+
+
+#(Second(s))
+Second(s)
+
+
+#(Current Date)
+Current Date
+
+
+#(Blocked Events) -- DBG_EVT_STR_BASE + 10
+Blocked Events
+
+
+#(EventID)
+EventID
+
+
+#(Days Left: %d)
+Days Left: %d
+
+
+#(Block)
+Block
+
+
+#(Pause,Resume) -- DBG_EVT_STR_BASE + 14
+Pause
+Resume
+
+
+#(star_type) -- DBG_STA_STR_BASE
+Dwarf
+Giant
+Super Giant
+
+
+#(star_colour)
+Blue
+Green
+Orange
+Red
+White
+Yellow
+
+
+#(Filters)
+Filters
+
+
+#(Filter by Presence)
+Filter by Presence
+
+
+#(Show only Type)
+Show only Type
+
+
+#(Show only Colour)
+Show only Colour
+
+
+#(Current Star System)
+Current Star System
+
+
+#(X/Y Range)
+X/Y Range
+
+
+#(Star Table)
+Star Table
+
+
+#(Idx)
+Idx
+
+
+#(Prefix) -- DBG_STA_STR_BASE + 10
+Prefix
+
+
+#(Postfix)
+Postfix
+
+
+#(Type)
+Type
+
+
+#(Colour)
+Colour
+
+
+#(Presence) -- DBG_STA_STR_BASE + 14
+Presence
