@@ -44,6 +44,18 @@ Subtab %d not found.
 Not available in the Main Menu...
 
 
+#(Exit Modal)
+Are you sure you want to exit?
+
+
+#(Yes)
+Yes
+
+
+#(No) -- NAV_TAB_STR_BASE + 10
+No
+
+
 #(Debug Warning) -- TIP_WARN_STR_BASE
 WARNING! While the stuff in the debug menu is
 pretty neat, know that messing with things in here
@@ -114,6 +126,14 @@ under distress.
 #(PKUNK_REASONS) -- TIP_WARN_STR_BASE + 15
 When turning these off make sure to set
 PKUNK_MISSION to "Returning"
+
+
+#(Reload Button)
+Go to Main Menu
+
+
+#(Quit Button) -- TIP_WARN_STR_BASE + 17
+Exit the game
 
 
 #(Menu Settings) -- GEN_SETT_STR_BASE

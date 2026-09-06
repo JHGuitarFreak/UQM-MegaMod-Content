@@ -1097,3 +1097,4 @@ text.imgui = STRTAB:base/imguistrings.txt
 playerfont.ttf = BINARY:base/imfonts/playerfont.ttf
 tinyfont.ttf = BINARY:base/imfonts/tinyfont.ttf
 urquanfont.ttf = BINARY:base/imfonts/urquanfont.ttf
+icons.ttf = BINARY:base/imfonts/icons.ttf
