@@ -151,6 +151,7 @@ DOS Side Menu
 HyperSpace Color
 Directional Joystick P2
 Crappy Mouse Input
+Battle Mouse Input
 
 #(CAT_0_OPTS)
 Original
@@ -1950,6 +1951,19 @@ press the thrust and fire keys.
 #(CAT_131_OPT_2_DESC)
 Full menu mouse input.
 Click a location to set flagship and lander auto-pilot.
+
+#(CAT_132_OPTS)
+Disabled
+Enabled
+
+#(CAT_132_OPT_0_DESC)
+Enables relative mouse controls in Super Melee...
+When Crappy Mouse Input is active.
+
+#(CAT_132_OPT_1_DESC)
+Enables relative mouse controls in Super Melee...
+When Crappy Mouse Input is active.
+
 
 #(SLIDERS)
 Music Volume

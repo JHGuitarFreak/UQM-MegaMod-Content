@@ -631,6 +631,10 @@ Right Stick
 Cannot bind to `%s' using the `%s' ( %s ) binding
 
 
+#(Battle Mouse Input) -- GEN_CON_STR_BASE + 31
+Battle Mouse Input
+
+
 #(Original,Easy,Hard) -- GEN_ADV_STR_BASE
 Original
 Easy
