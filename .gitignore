@@ -3,8 +3,6 @@ addons/[^.]*
 addons/mm-3dovoice/.*
 !addons/mm-hd/
 addons/mm-hd/.*
-!addons/volasaurus-remix-pack/
-addons/volasaurus-remix-pack/.*
 !addons/3do-mode-sd/
 addons/3do-mode-sd/.*
 !addons/3do-mode-hd/
