@@ -13,7 +13,5 @@ addons/3do-mode-hd/.*
 addons/dos-mode-sd/.*
 !addons/dos-mode-hd/
 addons/dos-mode-hd/.*
-!addons/mm-distorted-hayes/
-addons/mm-distorted-hayes/.*
 *.uqm
 .vs
