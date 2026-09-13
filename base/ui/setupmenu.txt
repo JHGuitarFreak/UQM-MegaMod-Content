@@ -152,6 +152,7 @@ HyperSpace Color
 Directional Joystick P2
 Crappy Mouse Input
 Battle Mouse Input
+ScreenShots
 
 #(CAT_0_OPTS)
 Original
@@ -1963,6 +1964,25 @@ When Crappy Mouse Input is active.
 #(CAT_132_OPT_1_DESC)
 Enables relative mouse controls in Super Melee...
 When Crappy Mouse Input is active.
+
+#(CAT_133_OPTS)
+Disabled
+Save PNG
+Copy to Clipboard
+Both
+
+#(CAT_133_OPT_0_DESC)
+No in-game screenshots
+
+#(CAT_133_OPT_1_DESC)
+Save screenshot PNG to the config directory
+
+#(CAT_133_OPT_1_DESC)
+Copy screenshot to the clipboard
+
+#(CAT_133_OPT_1_DESC)
+Save screenshot PNG to the config directory
+and copy screenshot to the clipboard
 
 
 #(SLIDERS)

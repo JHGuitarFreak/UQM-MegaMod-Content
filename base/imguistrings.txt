@@ -252,6 +252,17 @@ Scanlines
 Show FPS
 
 
+#(scrshots)
+Disabled
+Save as PNG
+Copy to Clipboard
+Both
+
+
+#(Screenshots) -- GEN_GFX_STR_BASE + 15
+Screenshots
+
+
 #(DOS,3DO,UQM) -- GEN_ENG_STR_BASE
 DOS
 3DO
