@@ -68,7 +68,7 @@ Custom Border
 Interplanetary Alien Ambience
 Volasaurus' Remixes
 Show Whole Fuel Value
-Directional Joystick P1
+Relative Joystick P1
 Melee Zoom
 Lander Hold Size
 Screen Transitions
@@ -149,7 +149,7 @@ Ship Storage Queue
 Shipyard Captain Names
 DOS Side Menu
 HyperSpace Color
-Directional Joystick P2
+Relative Joystick P2
 Crappy Mouse Input
 Battle Mouse Input
 ScreenShots
@@ -882,8 +882,8 @@ Displays the entire FUEL value as a decimal.
 
 #(CAT_49_OPTS)
 Normal Control
-Left Stick Directional
-Right Stick Directional
+Left Stick Relative
+Right Stick Relative
 Left Stick Auto-Thrust
 Right Stick Auto-Thrust
 
@@ -898,11 +898,13 @@ Ships and lander face the direction of your right analog stick
 
 #(CAT_49_OPT_3_DESC)
 Ships and lander face the direction of your left analog stick
-And thrusts automatically when finished turning
+A partial push turns you to face that direction
+A full push thrusts your ship in that direction
 
 #(CAT_49_OPT_4_DESC)
 Ships and lander face the direction of your right analog stick
-And thrusts automatically when finished turning
+A partial push turns you to face that direction
+A full push thrusts your ship in that direction
 
 #(CAT_50_OPTS)
 Stepped
@@ -1914,8 +1916,8 @@ The 3DO color is a deeper shade of red.
 
 #(CAT_130_OPTS)
 Normal Control
-Left Stick Directional
-Right Stick Directional
+Left Stick Relative
+Right Stick Relative
 Left Stick Auto-Thrust
 Right Stick Auto-Thrust
 
@@ -1923,18 +1925,20 @@ Right Stick Auto-Thrust
 Normal control
 
 #(CAT_130_OPT_1_DESC)
-Melee ships face the direction of your left analog stick
+Ships face the direction of your left analog stick
 
 #(CAT_130_OPT_2_DESC)
-Melee ships face the direction of your right analog stick
+Ships face the direction of your right analog stick
 
 #(CAT_130_OPT_3_DESC)
-Melee ships face the direction of your left analog stick
-And thrusts automatically when finished turning
+Ships and lander face the direction of your left analog stick
+A partial push turns you to face that direction
+A full push thrusts your ship in that direction
 
 #(CAT_130_OPT_4_DESC)
-Melee ships face the direction of your right analog stick
-And thrusts automatically when finished turning
+Ships and lander face the direction of your right analog stick
+A partial push turns you to face that direction
+A full push thrusts your ship in that direction
 
 #(CAT_131_OPTS)
 Disabled
