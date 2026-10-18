@@ -17,6 +17,7 @@ Device Options
 Upgrade Options
  
 Edit Axis Deadzones
+Accessibility Options
 
 #(CHOICES)
 Graphics
@@ -153,6 +154,7 @@ Relative Joystick P2
 Crappy Mouse Input
 Battle Mouse Input
 ScreenShots
+High Visibility Orbits
 
 #(CAT_0_OPTS)
 Original
@@ -1981,12 +1983,22 @@ No in-game screenshots
 #(CAT_133_OPT_1_DESC)
 Save screenshot PNG to the config directory
 
-#(CAT_133_OPT_1_DESC)
+#(CAT_133_OPT_2_DESC)
 Copy screenshot to the clipboard
 
-#(CAT_133_OPT_1_DESC)
+#(CAT_133_OPT_3_DESC)
 Save screenshot PNG to the config directory
 and copy screenshot to the clipboard
+
+#(CAT_134_OPTS)
+Disabled
+Enabled
+
+#(CAT_134_OPT_0_DESC)
+Orbit lines are made solid and brightened for higher visibility.
+
+#(CAT_134_OPT_1_DESC)
+Orbit lines are made solid and brightened for higher visibility.
 
 
 #(SLIDERS)
@@ -2055,6 +2067,7 @@ Save Menu Bindings
 Cancel
 Load Defaults
 Edit Axis Deadzones
+Accessibility
 
 #(BUTTON_0_DESC)
 
@@ -2132,6 +2145,9 @@ Load the default menu key bindings.
 
 #(BUTTON_20_DESC)
 Edit gamepad axis deadzones
+
+#(BUTTON_21_DESC)
+Configure accessibility options
 
 #(LABELS)
 Incomplete
