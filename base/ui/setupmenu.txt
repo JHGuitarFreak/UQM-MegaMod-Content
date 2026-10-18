@@ -1995,10 +1995,10 @@ Disabled
 Enabled
 
 #(CAT_134_OPT_0_DESC)
-Orbit lines are made solid and brightened for higher visibility.
+Orbit lines are brightened for higher visibility.
 
 #(CAT_134_OPT_1_DESC)
-Orbit lines are made solid and brightened for higher visibility.
+Orbit lines are brightened for higher visibility.
 
 
 #(SLIDERS)
