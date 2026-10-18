@@ -921,8 +921,12 @@ Lander Capacity
 Accessibility Options
 
 
-#(High Visibility Orbits) -- ENH_ACS_STR_BASE + 1
+#(High Visibility Orbits)
 High Visibility Orbits
+
+
+#(High Visibility Planets) -- ENH_ACS_STR_BASE + 2
+High Visibility Planets
 
 
 #(Not Saved or Loaded) -- JOURNAL_STR_BASE

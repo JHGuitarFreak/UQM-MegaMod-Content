@@ -155,6 +155,7 @@ Crappy Mouse Input
 Battle Mouse Input
 ScreenShots
 High Visibility Orbits
+High Visibility Planets
 
 #(CAT_0_OPTS)
 Original
@@ -1999,6 +2000,16 @@ Orbit lines are brightened for higher visibility.
 
 #(CAT_134_OPT_1_DESC)
 Orbit lines are brightened for higher visibility.
+
+#(CAT_135_OPTS)
+Disabled
+Enabled
+
+#(CAT_135_OPT_0_DESC)
+Planets are circled for higher visibility.
+
+#(CAT_135_OPT_1_DESC)
+Planets are circled for higher visibility.
 
 
 #(SLIDERS)
