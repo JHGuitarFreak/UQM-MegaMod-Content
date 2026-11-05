@@ -1,0 +1,49 @@
+#(Black Spathi)
+Black Spathi
+#(Black Spathi)
+BlkSpathi
+#(Black Spathi)
+BlkSpathi
+#(Squadron)
+Squadron
+#(Squadron)
+Squadron
+#(Buffo)
+Buffo
+#(Bilgame)
+Bilgame
+#(Inlel)
+Inlel
+#(Spunky)
+Spunky
+#(Kigal)
+Kigal
+#(Nurta)
+Nurta
+#(Nazu)
+Nazu
+#(Nunatu)
+Nunatu
+#(Sandas)
+Sandas
+#(Peruwa)
+Peruwa
+#(Orffo)
+Orffo
+#(Meleage)
+Meleage
+#(Pzaff)
+Pzaff
+#(Ptaffy)
+Ptaffy
+#(Whaff)
+Whaff
+#(Pkeff)
+Pkeff
+#(BLK SPATHI)
+BLK.SPATHI
+#(SQUADRON)
+SQUADRON
+#(Desc)
+Very fast. Large, brave
+crew. Fore firing weapon.
