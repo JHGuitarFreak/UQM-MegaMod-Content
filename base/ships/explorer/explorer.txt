@@ -1,0 +1,48 @@
+#(Explorer)
+Explorer
+#(Explorer)
+Explorer
+#(Explorer)
+Explorer
+#(Researchship)
+Researchship
+#(Researchship)
+Researchship
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#( )
+ 
+#(CHMMR)
+CHMMR
+#(EXPLORER)
+EXPLORER
+#(desc)
+desc

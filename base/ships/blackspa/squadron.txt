@@ -40,7 +40,7 @@ Ptaffy
 Whaff
 #(Pkeff)
 Pkeff
-#(BLK SPATHI)
+#(BLK.SPATHI)
 BLK.SPATHI
 #(SQUADRON)
 SQUADRON
