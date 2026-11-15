@@ -13,8 +13,6 @@ Edit Flight Controls
 Music Options
 Visual Options
 Quality of Life Options
-Device Options
-Upgrade Options
  
 Edit Axis Deadzones
 Accessibility Options
@@ -107,44 +105,6 @@ Sphere Colors
 Scatter Elements
 Show Lander Upgrades
 Fleet Point System
-Portal Spawner
-Talking Pet
-Utwig Bomb
-Sun Device
-Rosy Sphere
-Aqua Helix
-Clear Spindle
-Ultron (Broken)
-Ultron (Semi-Broken)
-Ultron (Semi-Fixed)
-Ultron (Fixed)
-Shofixti Maidens
-Umgah Hyperwave Broadcaster
-Burvixese Hyperwave 'Caster
-Taalo Protector
-Egg Casing 1
-Egg Casing 2
-Egg Casing 3
-Syreen Shuttle
-VUX Beast
-Slylandro Self-Destruct Code
-Ur-Quan Warp Pod
-Wimbli's Trident
-Glowing Rod
-Lunar Base
-Lander Speed
-Lander Cargo
-Lander Rapid Fire
-Lander Bio Shield
-Lander Quake Shield
-Lander Lightning Shield
-Lander Heat Shield
-Point Defense Module
-Fusion Blaster Module
-Hi-Eff Fuel Module
-Tracking Module
-Hellbore Cannon Module
-Shiva Furnace Module
 Ship Seeding
 Ship Storage Queue
 Shipyard Captain Names
@@ -540,7 +500,7 @@ The player-piloted ship and lander can not come to any harm.
 
 &!(Only functional against AI opponents and during the Story)
 
-#(CAT_25_OPT_2_DESC)
+#(CAT_25_OPT_3_DESC)
 Combination of Infinite Health and Infinite Energy giving you
 full God Mode in and out of Melee.
 &!(Only functional against AI opponents and during the Story)
@@ -1348,7 +1308,7 @@ Resumes the music in UQM from where it last left off.
 But with a 5 minute timer that resets individual tracks back to their
 beginning if not heard within the alotted time.
 
-#(CAT_80_OPT_1_DESC)
+#(CAT_80_OPT_2_DESC)
 Resumes the music in UQM from where it last left off.
 But with no timer that resets music back to beginning after 
 a period of time.
@@ -1441,575 +1401,157 @@ Max points equals 60 (Easy 90, Hard 30) plus additional points
 equal to 2x each allied race's ship value (Easy 3x, Hard 1x).
 
 #(CAT_87_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_87_OPT_0_DESC)
-
-#(CAT_87_OPT_1_DESC)
-
-#(CAT_87_OPT_2_DESC)
-
-#(CAT_88_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_88_OPT_0_DESC)
-
-#(CAT_88_OPT_1_DESC)
-
-#(CAT_88_OPT_2_DESC)
-
-#(CAT_89_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_89_OPT_0_DESC)
-
-#(CAT_89_OPT_1_DESC)
-
-#(CAT_89_OPT_2_DESC)
-
-#(CAT_90_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_90_OPT_0_DESC)
-
-#(CAT_90_OPT_1_DESC)
-
-#(CAT_90_OPT_2_DESC)
-
-#(CAT_91_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_91_OPT_0_DESC)
-
-#(CAT_91_OPT_1_DESC)
-
-#(CAT_91_OPT_2_DESC)
-
-#(CAT_92_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_92_OPT_0_DESC)
-
-#(CAT_92_OPT_1_DESC)
-
-#(CAT_92_OPT_2_DESC)
-
-#(CAT_93_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_93_OPT_0_DESC)
-
-#(CAT_93_OPT_1_DESC)
-
-#(CAT_93_OPT_2_DESC)
-
-#(CAT_94_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_94_OPT_0_DESC)
-
-#(CAT_94_OPT_1_DESC)
-
-#(CAT_94_OPT_2_DESC)
-
-#(CAT_95_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_95_OPT_0_DESC)
-
-#(CAT_95_OPT_1_DESC)
-
-#(CAT_95_OPT_2_DESC)
-
-#(CAT_96_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_96_OPT_0_DESC)
-
-#(CAT_96_OPT_1_DESC)
-
-#(CAT_96_OPT_2_DESC)
-
-#(CAT_97_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_97_OPT_0_DESC)
-
-#(CAT_97_OPT_1_DESC)
-
-#(CAT_97_OPT_2_DESC)
-
-#(CAT_98_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_98_OPT_0_DESC)
-
-#(CAT_98_OPT_1_DESC)
-
-#(CAT_98_OPT_2_DESC)
-
-#(CAT_99_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_99_OPT_0_DESC)
-
-#(CAT_99_OPT_1_DESC)
-
-#(CAT_99_OPT_2_DESC)
-
-#(CAT_100_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_100_OPT_0_DESC)
-
-#(CAT_100_OPT_1_DESC)
-
-#(CAT_100_OPT_2_DESC)
-
-#(CAT_101_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_101_OPT_0_DESC)
-
-#(CAT_101_OPT_1_DESC)
-
-#(CAT_101_OPT_2_DESC)
-
-#(CAT_102_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_102_OPT_0_DESC)
-
-#(CAT_102_OPT_1_DESC)
-
-#(CAT_102_OPT_2_DESC)
-
-#(CAT_103_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_103_OPT_0_DESC)
-
-#(CAT_103_OPT_1_DESC)
-
-#(CAT_103_OPT_2_DESC)
-
-#(CAT_104_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_104_OPT_0_DESC)
-
-#(CAT_104_OPT_1_DESC)
-
-#(CAT_104_OPT_2_DESC)
-
-#(CAT_105_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_105_OPT_0_DESC)
-
-#(CAT_105_OPT_1_DESC)
-
-#(CAT_105_OPT_2_DESC)
-
-#(CAT_106_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_106_OPT_0_DESC)
-
-#(CAT_106_OPT_1_DESC)
-
-#(CAT_106_OPT_2_DESC)
-
-#(CAT_107_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_107_OPT_0_DESC)
-
-#(CAT_107_OPT_1_DESC)
-
-#(CAT_107_OPT_2_DESC)
-
-#(CAT_108_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_108_OPT_0_DESC)
-
-#(CAT_108_OPT_1_DESC)
-
-#(CAT_108_OPT_2_DESC)
-
-#(CAT_109_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_109_OPT_0_DESC)
-
-#(CAT_109_OPT_1_DESC)
-
-#(CAT_109_OPT_2_DESC)
-
-#(CAT_110_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_110_OPT_0_DESC)
-
-#(CAT_110_OPT_1_DESC)
-
-#(CAT_110_OPT_2_DESC)
-
-#(CAT_111_OPTS)
-Do Nothing
-Remove Device
-Add Device
-
-#(CAT_111_OPT_0_DESC)
-
-#(CAT_111_OPT_1_DESC)
-
-#(CAT_111_OPT_2_DESC)
-
-#(CAT_112_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_112_OPT_0_DESC)
-
-#(CAT_112_OPT_1_DESC)
-
-#(CAT_112_OPT_2_DESC)
-
-#(CAT_113_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_113_OPT_0_DESC)
-
-#(CAT_113_OPT_1_DESC)
-
-#(CAT_113_OPT_2_DESC)
-
-#(CAT_114_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_114_OPT_0_DESC)
-
-#(CAT_114_OPT_1_DESC)
-
-#(CAT_114_OPT_2_DESC)
-
-#(CAT_115_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_115_OPT_0_DESC)
-
-#(CAT_115_OPT_1_DESC)
-
-#(CAT_115_OPT_2_DESC)
-
-#(CAT_116_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_116_OPT_0_DESC)
-
-#(CAT_116_OPT_1_DESC)
-
-#(CAT_116_OPT_2_DESC)
-
-#(CAT_117_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_117_OPT_0_DESC)
-
-#(CAT_117_OPT_1_DESC)
-
-#(CAT_117_OPT_2_DESC)
-
-#(CAT_118_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_118_OPT_0_DESC)
-
-#(CAT_118_OPT_1_DESC)
-
-#(CAT_118_OPT_2_DESC)
-
-#(CAT_119_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_119_OPT_0_DESC)
-
-#(CAT_119_OPT_1_DESC)
-
-#(CAT_119_OPT_2_DESC)
-
-#(CAT_120_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_120_OPT_0_DESC)
-
-#(CAT_120_OPT_1_DESC)
-
-#(CAT_120_OPT_2_DESC)
-
-#(CAT_121_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_121_OPT_0_DESC)
-
-#(CAT_121_OPT_1_DESC)
-
-#(CAT_121_OPT_2_DESC)
-
-#(CAT_122_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_122_OPT_0_DESC)
-
-#(CAT_122_OPT_1_DESC)
-
-#(CAT_122_OPT_2_DESC)
-
-#(CAT_123_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_123_OPT_0_DESC)
-
-#(CAT_123_OPT_1_DESC)
-
-#(CAT_123_OPT_2_DESC)
-
-#(CAT_124_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
-
-#(CAT_124_OPT_0_DESC)
-
-#(CAT_124_OPT_1_DESC)
-
-#(CAT_124_OPT_2_DESC)
-
-#(CAT_125_OPTS)
 Disabled
 Enabled
 
-#(CAT_125_OPT_0_DESC)
+#(CAT_87_OPT_0_DESC)
 Alien races fly their normal ships.
 
-#(CAT_125_OPT_1_DESC)
+#(CAT_87_OPT_1_DESC)
 Aliens are assigned ships from three classes of ships
 based on the custom seed.
 
-#(CAT_126_OPTS)
+#(CAT_88_OPTS)
 Disabled
 Enabled
 
-#(CAT_126_OPT_0_DESC)
+#(CAT_88_OPT_0_DESC)
 Ships can be stored at StarBase and retrieved later, and gift ships
 are sent directly to StarBase when they can't join the flagship.
 
-#(CAT_126_OPT_1_DESC)
+#(CAT_88_OPT_1_DESC)
 Ships can be stored at StarBase and retrieved later, and gift ships
 are sent directly to StarBase when they can't join the flagship.
 
-#(CAT_127_OPTS)
+#(CAT_89_OPTS)
 Disabled
 Enabled
 
-#(CAT_127_OPT_0_DESC)
+#(CAT_89_OPT_0_DESC)
 When enabled Captain names are displayed above ships in the Shipyard.
 
-#(CAT_127_OPT_1_DESC)
+#(CAT_89_OPT_1_DESC)
 When enabled Captain names are displayed above ships in the Shipyard.
 
-#(CAT_128_OPTS)
+#(CAT_90_OPTS)
 Disabled
 Enabled
 
-#(CAT_128_OPT_0_DESC)
+#(CAT_90_OPT_0_DESC)
 SIS display window is replaced by side menu window
 during shipyard purchases only on DOS platform (default).
 
-#(CAT_128_OPT_1_DESC)
+#(CAT_90_OPT_1_DESC)
 SIS display window is replaced by DOS-style side menu window
 during shipyard purchases on all platforms.
 
-#(CAT_129_OPTS)
+#(CAT_91_OPTS)
 DOS
 3DO
 
-#(CAT_129_OPT_0_DESC)
+#(CAT_91_OPT_0_DESC)
 Change the shade of red in HyperSpace to the specified version.
 The DOS color is a lighter shade of red.
 The 3DO color is a deeper shade of red.
 
-#(CAT_129_OPT_1_DESC)
+#(CAT_91_OPT_1_DESC)
 Change the shade of red in HyperSpace to the specified version.
 The DOS color is a lighter shade of red.
 The 3DO color is a deeper shade of red.
 
-#(CAT_130_OPTS)
+#(CAT_92_OPTS)
 Normal Control
 Left Stick Relative
 Right Stick Relative
 Left Stick Auto-Thrust
 Right Stick Auto-Thrust
 
-#(CAT_130_OPT_0_DESC)
+#(CAT_92_OPT_0_DESC)
 Normal control
 
-#(CAT_130_OPT_1_DESC)
+#(CAT_92_OPT_1_DESC)
 Ships face the direction of your left analog stick
 
-#(CAT_130_OPT_2_DESC)
+#(CAT_92_OPT_2_DESC)
 Ships face the direction of your right analog stick
 
-#(CAT_130_OPT_3_DESC)
+#(CAT_92_OPT_3_DESC)
 Ships and lander face the direction of your left analog stick
 A partial push turns you to face that direction
 A full push thrusts your ship in that direction
 
-#(CAT_130_OPT_4_DESC)
+#(CAT_92_OPT_4_DESC)
 Ships and lander face the direction of your right analog stick
 A partial push turns you to face that direction
 A full push thrusts your ship in that direction
 
-#(CAT_131_OPTS)
+#(CAT_93_OPTS)
 Disabled
 Manual Control
 Local Auto-Pilot
 
-#(CAT_131_OPT_0_DESC)
+#(CAT_93_OPT_0_DESC)
 No mouse controls whatsoever.
 
-#(CAT_131_OPT_1_DESC)
+#(CAT_93_OPT_1_DESC)
 Full menu mouse input.
 Flagship and lander point towards mouse cursor and you
 press the thrust and fire keys.
 
-#(CAT_131_OPT_2_DESC)
+#(CAT_93_OPT_2_DESC)
 Full menu mouse input.
 Click a location to set flagship and lander auto-pilot.
 
-#(CAT_132_OPTS)
+#(CAT_94_OPTS)
 Disabled
 Enabled
 
-#(CAT_132_OPT_0_DESC)
+#(CAT_94_OPT_0_DESC)
 Enables relative mouse controls in Super Melee...
 When Crappy Mouse Input is active.
 
-#(CAT_132_OPT_1_DESC)
+#(CAT_94_OPT_1_DESC)
 Enables relative mouse controls in Super Melee...
 When Crappy Mouse Input is active.
 
-#(CAT_133_OPTS)
+#(CAT_95_OPTS)
 Disabled
 Save PNG
 Copy to Clipboard
 Both
 
-#(CAT_133_OPT_0_DESC)
+#(CAT_95_OPT_0_DESC)
 No in-game screenshots
 
-#(CAT_133_OPT_1_DESC)
+#(CAT_95_OPT_1_DESC)
 Save screenshot PNG to the config directory
 
-#(CAT_133_OPT_2_DESC)
+#(CAT_95_OPT_2_DESC)
 Copy screenshot to the clipboard
 
-#(CAT_133_OPT_3_DESC)
+#(CAT_95_OPT_3_DESC)
 Save screenshot PNG to the config directory
 and copy screenshot to the clipboard
 
-#(CAT_134_OPTS)
+#(CAT_96_OPTS)
 Disabled
 Enabled
 
-#(CAT_134_OPT_0_DESC)
+#(CAT_96_OPT_0_DESC)
 Orbit lines are brightened for higher visibility.
 
-#(CAT_134_OPT_1_DESC)
+#(CAT_96_OPT_1_DESC)
 Orbit lines are brightened for higher visibility.
 
-#(CAT_135_OPTS)
+#(CAT_97_OPTS)
 Disabled
 Enabled
 
-#(CAT_135_OPT_0_DESC)
+#(CAT_97_OPT_0_DESC)
 Solar System background is dimmed and orbit lines
 have gaps around the planets for higher visibility.
 
-#(CAT_135_OPT_1_DESC)
+#(CAT_97_OPT_1_DESC)
 Solar System background is dimmed and orbit lines
 have gaps around the planets for higher visibility.
 
@@ -2046,15 +1588,15 @@ Default value is: 16
 Edit left stick deadzone for Player 1
 Default value is: 20%
 
-#(SLIDER_5_DESC)
+#(SLIDER_6_DESC)
 Edit right stick deadzone for Player 1
 Default value is: 20%
 
-#(SLIDER_5_DESC)
+#(SLIDER_7_DESC)
 Edit left stick deadzone for Player 2
 Default value is: 20%
 
-#(SLIDER_5_DESC)
+#(SLIDER_8_DESC)
 Edit right stick deadzone for Player 2
 Default value is: 20%
 
@@ -2072,9 +1614,6 @@ Back to Controls
 Music
 Visuals
 Quality of Life
-Devices
-Upgrades
-Return to Cheats
 Edit Menu Controls
 Save Menu Bindings
 Cancel
@@ -2134,32 +1673,21 @@ Configure the look and feel of the MegaMod.
 Configure the Quality of Life additions in MegaMod.
 
 #(BUTTON_13_DESC)
-Add and/or Remove devices from a New or Loaded game.
-
-#(BUTTON_14_DESC)
-Add and/or Remove upgrades from a New or Loaded game.
-
-#(BUTTON_15_DESC)
-
-
-Return to the Cheat options menu.
-
-#(BUTTON_16_DESC)
 Edit the key bindings for menu navigation and actions.
 
-#(BUTTON_17_DESC)
+#(BUTTON_14_DESC)
 Save the current menu key bindings to override.cfg.
 
-#(BUTTON_18_DESC)
+#(BUTTON_15_DESC)
 Discard changes and revert to the last saved menu bindings.
 
-#(BUTTON_19_DESC)
+#(BUTTON_16_DESC)
 Load the default menu key bindings.
 
-#(BUTTON_20_DESC)
+#(BUTTON_17_DESC)
 Edit gamepad axis deadzones
 
-#(BUTTON_21_DESC)
+#(BUTTON_18_DESC)
 Configure accessibility options
 
 #(LABELS)
