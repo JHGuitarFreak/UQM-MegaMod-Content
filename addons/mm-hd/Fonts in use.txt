@@ -1,0 +1,59 @@
+--   Use Case                     Font Name                   License                 Website                                                                   
+--  ---------------------------- --------------------------- ----------------------- -------------------------------------------------------------------------- 
+--   3DO Menu                     UQM 3DO Menu Labels Reg.    CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Arilou                       UQM Arilou Regular          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Chmmr                        UQM Chmmr Regular           CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Commander                    UQM Commander Regular       CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Computer                     DJB Get Digital             Free for personal use   https://www.dafont.com/djb-get-digital.font                               
+--   Credits                      OPTICirrus Bold (Modded)    Defunct                 https://www.ffonts.net/OPTICirrus-Bold.font                               
+--   DOS Ship Descriptions [01]   UQM Micro Thin              CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   DOS Ship Descriptions [02]   UQM Tiny Condensed          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Druuge                       UQM Micro Regular           CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   GAME PAUSED text             UQM Load Menu Labels Reg.   CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Ilwrath                      UQM Ilwrath Regular         CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Intro Card 1 [1st]           Nimbus Roman No. 9 L        GPL Version 2           https://git.ghostscript.com/?p=user/tor/urw-base-12.git;a=tree            
+--   Intro Card 1 [2nd]           Oxanium                     OFL-1.1 License         https://github.com/sevmeyer/oxanium                                       
+--   Intro Card 1 [3rd]           Orbitron Bold               OFL-1.1 License         https://github.com/theleagueof/orbitron                                   
+--   Intro Card 2                 Federation Hull             Unknown                 https://www.ffonts.net/FederationHull.font                                
+--   Kohr-Ah                      UQM Kohr-Ah Regular         CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Lander Reports               UQM Lander Regular          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Load/Save Menu UI [01]       UQM Load Menu Labels Reg.   CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Load/Save Menu UI [02]       UQM Square Regular          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Logo Card [1st]              Vandiana Platin             Free for personal use   https://www.dafont.com/vandiana-platin.font                               
+--   Logo Card [2nd]              Oxanium                     OFL-1.1 License         https://github.com/sevmeyer/oxanium                                       
+--   Main Menu                    OPTICirrus Bold (Modded)    Defunct                 https://www.ffonts.net/OPTICirrus-Bold.font                               
+--   MegaMod Logo                 Aware Bold                  Freeware (No License)   https://www.deviantart.com/lyricwest/art/Aware-831566225                  
+--   Melee Labels                 UQM Melee Labels            CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Melee Ship Picker            UQM Load Menu Labels Reg.   CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Melee Team Picker            UQM Load Menu Labels Reg.   CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Melnorme                     UQM Micro Regular           CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   MicroFont                    UQM Micro Regular           CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Module Menu                  UQM Module Regular          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Mycon                        Untitled Black              Freeware (No License)   https://www.fontspace.com/untitled-black-font-f28082                      
+--   Orz                          Kero kero                   Free for personal use   https://www.dafont.com/kero-kero.font                                     
+--   Pkunk                        UQM Pkunk Regular           CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Player Font                  UQM Player Regular          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Shipyard Labels              UQM Module Regular          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Shofixti                     UQM Shofixti Regular        CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Slides                       UQM Slides Regular          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Sly-Probe                    ComputerFont                Freeware (No License)   https://www.dafont.com/computerfont.font                                  
+--   Slylandro                    Camberic                    Freeware (No License)   https://www.ffonts.net/Camberic.font                                      
+--   Spathi                       UQM Spathi Regular          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   StarCon Font                 UQM StarCon Regular         CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Super Melee Menu             UQM Button Font             CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Super Melee Menu             UQM Micro Regular (Alt)     CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   SUPER-MELEE Title            SUPER-MELEE Regular         CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Supox                        UQM Supox Regular           CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Syreen                       Oleo Script Swash Caps      OFL-1.1 License         https://www.fontspace.com/oleo-script-swash-caps-font-f17184              
+--   Talking Pet                  Dinova Black                Freeware (No License)   http://www.typografski.de/pages/fonts_dinova.html                         
+--   Thraddash                    Oxanium Extra Bold          OFL-1.1 License         https://github.com/sevmeyer/oxanium                                       
+--   Tiny Font                    UQM Tiny Regular            CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Tiny Font Bold               UQM Tiny Bold               CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Tiny Font Cond               UQM Tiny Condensed          CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Title Screen                 Federation Hull             Unknown                 https://www.ffonts.net/FederationHull.font                                
+--   Umgah                        Obloquy Solid [BRK]         Freeware (No License)   https://www.ffonts.net/Obloquy-Solid-BRK.font                             
+--   Ur-Quan                      UQM Ur-Quan Regular         CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
+--   Utwig                        Razor Keen                  Custom license          https://www.dafont.com/razor-keen.font                                    
+--   Vux                          Black Chancery              Public Domain           https://www.dafont.com/black-chancery.font                                
+--   Yehat                        Berenika Bold               OFL-1.1 License         https://fontlibrary.org/en/font/klaudia-and-berenika                      
+--   Zoq-Fot-Pik                  UQM Zoq-Fot-Pik Regular     CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
