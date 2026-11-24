@@ -54,6 +54,6 @@
 --   Umgah                        Obloquy Solid [BRK]         Freeware (No License)   https://www.ffonts.net/Obloquy-Solid-BRK.font                             
 --   Ur-Quan                      UQM Ur-Quan Regular         CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
 --   Utwig                        Razor Keen                  Custom license          https://www.dafont.com/razor-keen.font                                    
---   Vux                          Black Chancery              Public Domain           https://www.dafont.com/black-chancery.font                                
+--   Vux                          UQM VUX Regular             CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
 --   Yehat                        Berenika Bold               OFL-1.1 License         https://fontlibrary.org/en/font/klaudia-and-berenika                      
 --   Zoq-Fot-Pik                  UQM Zoq-Fot-Pik Regular     CC BY-NC-SA 2.5         https://github.com/JHGuitarFreak/UQM-Fonts                                
